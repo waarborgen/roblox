@@ -43,6 +43,8 @@ Character controllers, ragdolls, destructie, parkour en eigen physics-engines.
 | [lun-lun-lun-lun/demolish](https://github.com/lun-lun-lun-lun/demolish) | 2 | Voxel-destructie physics (roblox-ts) |
 | [jaipack17/rope-swinging](https://github.com/jaipack17/rope-swinging) | 2 | 2D touw-swing physics met GUI's |
 | [HappGamr/New-Wall-Collision-Maker](https://github.com/HappGamr/New-Wall-Collision-Maker) | 2 | Maakt extra collision voor te dunne muren (tegen doorglippen) |
+| [YarikSuperpro/FPX](https://github.com/YarikSuperpro/FPX) | 2 | Lichtgewicht, geoptimaliseerde player-module met server authority |
+| [fxxizan/RBLX-OldFrictionReplicator](https://github.com/fxxizan/RBLX-OldFrictionReplicator) | 2 | Repliceert het oude Roblox-frictiegedrag (klassiek glij-/loopgevoel) |
 | [JonasBuffington/Voxel-Carver](https://github.com/JonasBuffington/Voxel-Carver) | 1 | Geparallelliseerde voxel-destructie, deformatie en slicing |
 | [welcomestohell/obby-physics](https://github.com/welcomestohell/obby-physics) | 1 | EnhancedCharacterPhysics als module (betere obby-beweging) |
 | [Project-Ptolemy/Project-Gravity-02](https://github.com/Project-Ptolemy/Project-Gravity-02) | 1 | Losse parts in vormen rond je laten zweven met constraints |

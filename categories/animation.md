@@ -52,6 +52,7 @@ Animatie-solvers, IK, Blender/Mixamo-pipelines, procedurele animatie en springs.
 | [Jessdevzz/ROBLOX-Dynamic-Npc-Animations](https://github.com/Jessdevzz/ROBLOX-Dynamic-Npc-Animations) | 2 | Dynamische NPC-animaties |
 | [infinitypacific/PaintRig-InfEdit](https://github.com/infinitypacific/PaintRig-InfEdit) | 2 | Blender-rigs voor Roblox |
 | [prepsure/Spranimate](https://github.com/prepsure/Spranimate) | 2 | 2D sprite-animator die Roblox' Animator nabootst |
+| [MrRoblick/Spring-luau](https://github.com/MrRoblick/Spring-luau) | 2 | Spring-physics module voor vloeiende animaties |
 | [Moonpigguy/hl2strider](https://github.com/Moonpigguy/hl2strider) | 1 | Half-Life 2 Strider met IK-procedurele animatie |
 | [Ehonix/Dynamo](https://github.com/Ehonix/Dynamo) | 1 | Procedurele animator |
 | [skatingii/PerfectSequencer](https://github.com/skatingii/PerfectSequencer) | 1 | Frame-accurate events, ook gelockt aan de timeline van een AnimationTrack |

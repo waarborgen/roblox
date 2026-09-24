@@ -30,6 +30,7 @@ Terrain-generators, echte kaarten, grotten, oceanen, foliage, dag/nacht en weer.
 | [MrChickenRocket/sdf-procedural-toolkit](https://github.com/MrChickenRocket/sdf-procedural-toolkit) | 2 | SDF-meshes genereren (Surface Nets + QEM) → MeshPart, van de Chickynoid-maker |
 | [BrakingF1/Ro-Racing-Tracks](https://github.com/BrakingF1/Ro-Racing-Tracks) | 2 | Racecircuits als open-source assets |
 | [Shadercloud/rbxts-highlight-voxel](https://github.com/Shadercloud/rbxts-highlight-voxel) | 2 | Highlight individuele terrain-voxels in roblox-ts-projecten |
+| [sqikerz/rorender-chunk](https://github.com/sqikerz/rorender-chunk) | 2 | Knipt RoRender-output in uploadbare tiles voor minimap-generatie |
 | [onlymateo/roblox-ocean-wave-generation](https://github.com/onlymateo/roblox-ocean-wave-generation) | 1 | Dynamische oceaan: golven, drijven, onderwater-effecten |
 | [TaylorDevGD/Roblox-Terrain-Storage-Repo](https://github.com/TaylorDevGD/Roblox-Terrain-Storage-Repo) | 1 | Terrain opslaan/verplaatsen zoals parts (naar ReplicatedStorage) |
 | [goldenstein64/InfiniteTerrain](https://github.com/goldenstein64/InfiniteTerrain) | 1 | Configureerbaar oneindig terrain (door 5uphi) |

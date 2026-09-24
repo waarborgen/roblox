@@ -129,6 +129,10 @@ DataStores, serialisatie, compressie, state en big numbers.
 | [adhiski/ropinia](https://github.com/adhiski/ropinia) | 2 | Pinia-achtige state management |
 | [JuanCrakYT/RtG-Format](https://github.com/JuanCrakYT/RtG-Format) | 2 | Documentatie van het bouw/save-systeem van Road to Gramby's |
 | [evaera/rbx-resources](https://github.com/evaera/rbx-resources) | 2 | Game-assets en named instances voor roblox-ts |
+| [Larsen-dev/bufferUtils](https://github.com/Larsen-dev/bufferUtils) | 2 | Gemengde Luau-tabellen (Vector3, CFrame, Instances, nested) naar buffers serialiseren |
+| [Sebastian2852/Encapsulate](https://github.com/Sebastian2852/Encapsulate) | 2 | Simpel state-management |
+| [anthony0br/documents](https://github.com/anthony0br/documents) | 2 | Mogelijke opvolger van DocumentService (getypeerde DataStore-documenten) |
+| [iamthebestts/lux](https://github.com/iamthebestts/lux) | 2 | Lichtgewicht global state management |
 | [nightcycle/compression-util](https://github.com/nightcycle/compression-util) | 1 | Roblox-types comprimeren |
 | [text21/SlotCore](https://github.com/text21/SlotCore) | 1 | Multi-slot saves met migraties, middleware, admin-console en globale leaderboards |
 | [Distracted-Games/ProfileStore2](https://github.com/Distracted-Games/ProfileStore2) | 1 | Modulaire, type-safe, async refactor van ProfileStore |
@@ -140,5 +144,6 @@ DataStores, serialisatie, compressie, state en big numbers.
 | [R-unic/diff](https://github.com/R-unic/diff) | 0 | Verschillen tussen objecten berekenen en toepassen |
 | [ElixNoir/Roblox-Codec](https://github.com/ElixNoir/Roblox-Codec) | 0 | Bytes efficiënt in buffers packen |
 | [Dinojan-D/NDArrayLuau](https://github.com/Dinojan-D/NDArrayLuau) | 0 | NumPy-achtige multi-dimensionale arrays voor Luau |
+| [nrbx-ts/rbxts-kv](https://github.com/nrbx-ts/rbxts-kv) | 0 | Key-value service met optionele persistente opslag |
 
 [← Terug naar overzicht](../README.md)

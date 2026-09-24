@@ -91,6 +91,7 @@ Reactieve UI, custom tekst, inventories, 2D-engines en mobiele controls.
 | [howmanysmall/Hooks](https://github.com/howmanysmall/Hooks) | 7 | Hooks voor React (Roblox) |
 | [Tactycl/Nodekit](https://github.com/Tactycl/Nodekit) | 7 | Cocos2d-x-geïnspireerde UI-library |
 | [BarkusHxndaaa/ScreenNode](https://github.com/BarkusHxndaaa/ScreenNode) | 7 | ScreenNode-module |
+| [teribu/Everforest](https://github.com/teribu/Everforest) | 7 | Modulaire, aanpasbare UI-library in Luau (nieuw in 2026) |
 | [TenebrisNoctua/FusionFoundation](https://github.com/TenebrisNoctua/FusionFoundation) | 6 | Roblox' Foundation UI-library geport naar Fusion |
 | [Vvshenok/SpotlightUI](https://github.com/Vvshenok/SpotlightUI) | 6 | Tutorials maken met een "spotlight" die focus legt op UI-elementen |
 | [qwreey/quad](https://github.com/qwreey/quad) | 6 | Reactieve rendering-library voor Roblox en GTK |
@@ -145,6 +146,7 @@ Reactieve UI, custom tekst, inventories, 2D-engines en mobiele controls.
 | [cresmarmat-an/roblox-spark2d](https://github.com/cresmarmat-an/roblox-spark2d) | 3 | ParticleEmitter-effecten in ScreenGui |
 | [XoifaiI/CreateInstanceTree.luau](https://github.com/XoifaiI/CreateInstanceTree.luau) | 3 | Instances netjes aanmaken |
 | [RobocrafterLP/robo-minimap](https://github.com/RobocrafterLP/robo-minimap) | 3 | Minimap |
+| [astra-void/lattice-ui](https://github.com/astra-void/lattice-ui) | 3 | Headless-first UI-toolkit voor roblox-ts en @rbxts/react |
 | [gaymeowing/quantize-luau](https://github.com/gaymeowing/quantize-luau) | 2 | MMCQ kleur-kwantisatie (dominante kleuren uit afbeeldingen) |
 | [spin-the-hexagon/rover](https://github.com/spin-the-hexagon/rover) | 2 | Next-gen UI-framework |
 | [project-aether-ui/aether](https://github.com/project-aether-ui/aether) | 2 | Headless UI: één component draait in Roblox, desktop en CI |
@@ -154,6 +156,16 @@ Reactieve UI, custom tekst, inventories, 2D-engines en mobiele controls.
 | [elias4044/slateui](https://github.com/elias4044/slateui) | 2 | Modulair, event-driven UI-framework |
 | [Almost89/floating-ui-rbx](https://github.com/Almost89/floating-ui-rbx) | 2 | Floating UI (tooltips/popovers) geport naar Roblox |
 | [0zBug/Clutter](https://github.com/0zBug/Clutter) | 2 | Roact-alternatief met Flutter-achtige syntax |
+| [zythdotdev/roblox-flux](https://github.com/zythdotdev/roblox-flux) | 2 | Simpel reactief UI-framework voor Roblox |
+| [Runtem/vortexui](https://github.com/Runtem/vortexui) | 2 | Alternatief UI-tekstrenderingsframework (Vortex) |
+| [0jewell/amilia](https://github.com/0jewell/amilia) | 2 | Moderne sci-fi UI-componenten gebouwd met Vide |
+| [TonyCifer/fancy-text](https://github.com/TonyCifer/fancy-text) | 2 | Tekstrendering met custom fonts, effecten en inline iconen |
+| [vantoanvh/Pocket](https://github.com/vantoanvh/Pocket) | 2 | Modern, mooi geanimeerd backpack-systeem |
+| [Mewious/EditableFont](https://github.com/Mewious/EditableFont) | 2 | Custom font-rendering via EditableImage |
+| [anexpia/markua](https://github.com/anexpia/markua) | 2 | Tag-gebaseerde tekst-markup (XML/HTML-achtig) voor Luau |
+| [kotdes/pantheon](https://github.com/kotdes/pantheon) | 2 | Fusion 0.3+ componentenbibliotheek met focus op accessibility en theming |
+| [fittergem/SpringService](https://github.com/fittergem/SpringService) | 2 | UI-spring-module met dezelfde parameters als TweenService |
+| [ImAvafe/sculpt](https://github.com/ImAvafe/sculpt) | 2 | Draagbare UI-toolkit voor Roblox |
 | [CavefulGames/i18nom](https://github.com/CavefulGames/i18nom) | 1 | Lokalisatie voor reactieve UI-libraries |
 | [gdr1461/GEditor](https://github.com/gdr1461/GEditor) | 1 | In-game script-editor interface |
 | [Novaly-Studios/UIParticle](https://github.com/Novaly-Studios/UIParticle) | 1 | Particles in de UI |
@@ -165,6 +177,8 @@ Reactieve UI, custom tekst, inventories, 2D-engines en mobiele controls.
 | [Alexpoopy1/HTMLuau](https://github.com/Alexpoopy1/HTMLuau) | 1 | HTML direct in Roblox Luau bouwen |
 | [port22exposed/rbxcreate](https://github.com/port22exposed/rbxcreate) | 1 | Syntactic sugar om Instances te declareren met strikte types |
 | [josha/Facet](https://github.com/josha/Facet) | 1 | Declaratieve, testbare UI-library |
+| [nrbx-ts/rbxts-react](https://github.com/nrbx-ts/rbxts-react) | 1 | Custom @rbxts/react-fork die React 19 spiegelt, met extra features |
+| [nrbx-ts/rbxts-topbar-components](https://github.com/nrbx-ts/rbxts-topbar-components) | 1 | Topbar-componenten met extra functionaliteit voor roblox-ts |
 | [Vvshenok/ContextUI](https://github.com/Vvshenok/ContextUI) | 0 | Context- en hover-panelen met docking en pinning |
 | [AnotherSubatomo/pii](https://github.com/AnotherSubatomo/pii) | 0 | Pico-size pseudo-immediate-mode UI |
 | [rvila94/SimpleToasts](https://github.com/rvila94/SimpleToasts) | 0 | Toast-notificaties zonder dependencies |
@@ -173,5 +187,6 @@ Reactieve UI, custom tekst, inventories, 2D-engines en mobiele controls.
 | [spavdigital/roblox-r6-character-creation](https://github.com/spavdigital/roblox-r6-character-creation) | 0 | R6 character-creatie |
 | [mmdj04/Luau2DWorld](https://github.com/mmdj04/Luau2DWorld) | 0 | 2D UI game-engine: procedurele wereld, chunks, inventory, fog-of-war |
 | [jaipack17/roblox-verlet](https://github.com/jaipack17/roblox-verlet) | 0 | Verlet-integratie projecten in GUI's (touw, doek) |
+| [ninjaninja140/basix-ui](https://github.com/ninjaninja140/basix-ui) | 0 | roblox-ts-implementatie van mui/base-ui (headless componenten) |
 
 [← Terug naar overzicht](../README.md)

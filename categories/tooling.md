@@ -223,6 +223,7 @@ Runtimes, sync-tools, package managers, asset-pipelines, CI en docs.
 | [ffrostfall/heluau](https://github.com/ffrostfall/heluau) | 5 | heluau (Luau-tool) |
 | [yaeju1205/luau-precinct](https://github.com/yaeju1205/luau-precinct) | 5 | Code-dependencies vinden in pure Luau |
 | [tijnepema/create-roblox](https://github.com/tijnepema/create-roblox) | 5 | Template-CLI voor projecten |
+| [MrRoblick/roblox_asset_downloader](https://github.com/MrRoblick/roblox_asset_downloader) | 5 | Rust-tool om Roblox-assets te downloaden |
 | [OnaticDev/Roblox-Luau-Reference](https://github.com/OnaticDev/Roblox-Luau-Reference) | 4 | Minder bekende Luau-features, syntax en patterns met voorbeelden |
 | [KSAGlory/KSA-Accessibility-Preflight](https://github.com/KSAGlory/KSA-Accessibility-Preflight) | 4 | Toegankelijkheid-check: contrast, tekstgrootte, reduced motion |
 | [suscersal/roblox-studio-web](https://github.com/suscersal/roblox-studio-web) | 4 | .rbxl-parser + web-viewer (Studio in de browser) |
@@ -254,6 +255,8 @@ Runtimes, sync-tools, package managers, asset-pipelines, CI en docs.
 | [revvy02/bench](https://github.com/revvy02/bench) | 4 | Uitgebreide benchmark-library |
 | [depthso/FastlyParse](https://github.com/depthso/FastlyParse) | 4 | Multi-platform Luau-parser |
 | [SolarHorizon/fully-managed-rojo](https://github.com/SolarHorizon/fully-managed-rojo) | 4 | Volledig beheerde Rojo-setup |
+| [SenorLawyer/Source2Roblox](https://github.com/SenorLawyer/Source2Roblox) | 4 | Source Engine-maps en assets naar Roblox converteren |
+| [Nedas-Jaronis/roblox-ugc-pipeline](https://github.com/Nedas-Jaronis/roblox-ugc-pipeline) | 4 | Lokale pipeline om UGC-avatars/accessoires te genereren, riggen, texturen en valideren (cube3d + Blender) |
 | [Avant-Rbx/Avant-Plugin](https://github.com/Avant-Rbx/Avant-Plugin) | 3 | Unit tests draaien in Studio |
 | [bstummer/benchmarking](https://github.com/bstummer/benchmarking) | 3 | Code-snelheid meten en vergelijken |
 | [Dekkonot/open-cloud-execute-gui](https://github.com/Dekkonot/open-cloud-execute-gui) | 3 | GUI-app om Luau via Open Cloud uit te voeren |
@@ -287,6 +290,10 @@ Runtimes, sync-tools, package managers, asset-pipelines, CI en docs.
 | [0x5eal/clap.luau](https://github.com/0x5eal/clap.luau) | 3 | Command-line parser voor Lune |
 | [fxxizan/VectorViz](https://github.com/fxxizan/VectorViz) | 3 | Vectoren visualiseren |
 | [deployor/hackatime-roblox](https://github.com/deployor/hackatime-roblox) | 3 | Codeertijd bijhouden in Studio (Hackatime) |
+| [Chrrxs/carbon](https://github.com/Chrrxs/carbon) | 3 | Instance-aware source control voor Roblox-places |
+| [LithHash/Fuse](https://github.com/LithHash/Fuse) | 3 | Sync Roblox-projecten van en naar het filesystem (Rust) |
+| [neopolitans/Roswaal](https://github.com/neopolitans/Roswaal) | 3 | Visual scripting voor Roblox-Luau en Lune-Luau |
+| [setup-rbxcdn/setup-rbxcdn.github.io](https://github.com/setup-rbxcdn/setup-rbxcdn.github.io) | 3 | DeployHistory-fetcher: houdt alle Roblox-clientversies en verborgen hashes bij |
 | [TheNexusAvenger/Pulse](https://github.com/TheNexusAvenger/Pulse) | 2 | Debug-library met geheugenstatistieken |
 | [nightcycle/spreadsheet-to-luau](https://github.com/nightcycle/spreadsheet-to-luau) | 2 | Google Sheets/CSV/XLSX naar Luau-modules (game-balancing data!) |
 | [Name-hw/MeshConvert](https://github.com/Name-hw/MeshConvert) | 2 | Meshes op allerlei manieren converteren |
@@ -330,6 +337,16 @@ Runtimes, sync-tools, package managers, asset-pipelines, CI en docs.
 | [hello-42/never-again](https://github.com/hello-42/never-again) | 2 | Filesystem-installer voor Nevermore |
 | [0zBug/Benchmark](https://github.com/0zBug/Benchmark) | 2 | Simpele functie-benchmarker |
 | [jfculhane/lidar-to-roblox](https://github.com/jfculhane/lidar-to-roblox) | 2 | iPhone LiDAR-scans omzetten naar Roblox |
+| [chocolate-bar2410/tsukuyomi](https://github.com/chocolate-bar2410/tsukuyomi) | 2 | Markdown-documentatiegenerator voor Luau (Zensical) |
+| [Dexz00/Rbxlx-to-Rojo-Remake](https://github.com/Dexz00/Rbxlx-to-Rojo-Remake) | 2 | Complete remake van rbxlx-to-rojo: bestaande places omzetten naar Rojo-projecten |
+| [0jewell/bnnuy](https://github.com/0jewell/bnnuy) | 2 | CLI-tool om assets te beheren en te uploaden |
+| [wafflehouse-index/rbxts-auto-syncback](https://github.com/wafflehouse-index/rbxts-auto-syncback) | 2 | Automatische Rojo-syncback voor roblox-ts-projecten |
+| [BizWiz3/aura](https://github.com/BizWiz3/aura) | 2 | Axios-achtige HTTP-client voor Lune |
+| [Slay-Simulations/roblox-pipe](https://github.com/Slay-Simulations/roblox-pipe) | 2 | Quality-of-life CLI voor Roblox-development |
+| [jub0t/reverse-roblox-items](https://github.com/jub0t/reverse-roblox-items) | 2 | Download catalog-assets als GLB/OBJ voor Blender en Three.js |
+| [pwnwrkz/rbx_install](https://github.com/pwnwrkz/rbx_install) | 2 | Rust-crate om Roblox Studio-installaties te vinden |
+| [CatMan6112/RtVS_Roblox-To-Visual-Studio](https://github.com/CatMan6112/RtVS_Roblox-To-Visual-Studio) | 2 | Two-way sync tussen Studio en filesystem voor version control |
+| [howmanysmall/small-rules](https://github.com/howmanysmall/small-rules) | 2 | ESLint-regels geport naar Oxlint voor roblox-ts |
 | [stravant/roblox-gripedit](https://github.com/stravant/roblox-gripedit) | 1 | Tool-grip editor |
 | [RullzVyline/VectorFlow](https://github.com/RullzVyline/VectorFlow) | 1 | Realtime sync tussen Blender en Roblox Studio (EditableMesh) |
 | [ewd3v/roblox_graft](https://github.com/ewd3v/roblox_graft) | 1 | Hot reloading voor Roblox |
@@ -347,6 +364,9 @@ Runtimes, sync-tools, package managers, asset-pipelines, CI en docs.
 | [RoGrid-HQ/rogrid](https://github.com/RoGrid-HQ/rogrid) | 1 | Framework om games vanuit je editor te bouwen |
 | [robinskaba/roge](https://github.com/robinskaba/roge) | 1 | CLI voor package-versiebeheer |
 | [SpaceSquare640/RB_Skin_Forge](https://github.com/SpaceSquare640/RB_Skin_Forge) | 1 | Afbeeldingen en OBJ-meshes omzetten naar kledingtemplates |
+| [ewd3v/lune_graft](https://github.com/ewd3v/lune_graft) | 1 | Hot reloading voor Lune-scripts |
+| [CavefulGames/rbx-api-dump-lune](https://github.com/CavefulGames/rbx-api-dump-lune) | 1 | Werk met de Roblox API-dump vanuit Lune |
+| [Ranoobaba/rblx_dev](https://github.com/Ranoobaba/rblx_dev) | 1 | Git voor Roblox, geïntegreerd met Rojo |
 | [morgann1/studio-theme](https://github.com/morgann1/studio-theme) | 0 | VS Code-thema's gebruiken in Studio |
 | [morgann1/waldo](https://github.com/morgann1/waldo) | 0 | Het "add"-commando dat Wally mist |
 | [Hawakiki/roblox-rarn](https://github.com/Hawakiki/roblox-rarn) | 0 | Package manager voor het Wally-register zonder Rojo, met types |
@@ -369,5 +389,6 @@ Runtimes, sync-tools, package managers, asset-pipelines, CI en docs.
 | [projectx667/bloxcode-plus](https://github.com/projectx667/bloxcode-plus) | 0 | Visueel programmeren: Luau schrijven met Blockly-blokken |
 | [rbx-forge/rbx-cli](https://github.com/rbx-forge/rbx-cli) | 0 | Declaratieve deploy + live-ops (servers, data, spelers) via Open Cloud |
 | [Qoxu/Beep](https://github.com/Qoxu/Beep) | 0 | Test-toolkit: performance-analyse, visuele debugging, physics-tests |
+| [nrbx-ts/rbxts-glob](https://github.com/nrbx-ts/rbxts-glob) | 0 | Vite-achtige glob-imports voor roblox-ts at runtime |
 
 [← Terug naar overzicht](../README.md)

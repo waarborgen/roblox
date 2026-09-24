@@ -68,6 +68,7 @@ Entity Component Systems en frameworks voorbij Knit.
 | [waterdreamer/e2en](https://github.com/waterdreamer/e2en) | 3 | Framework met middleware, strict types en lifecycle |
 | [sinwahn/RBXDuskFramework](https://github.com/sinwahn/RBXDuskFramework) | 3 | Lichtgewicht OOP-framework |
 | [intervinn/wirebox](https://github.com/intervinn/wirebox) | 3 | Constructor-based dependency injection |
+| [trungy-bui/flamework-nest](https://github.com/trungy-bui/flamework-nest) | 3 | NestJS-geïnspireerde controllerlaag voor Flamework en Remo |
 | [ryancundiff/chief](https://github.com/ryancundiff/chief) | 2 | Volledig getypeerd, getest module-framework |
 | [nodeal-framework/nodeal-runtime](https://github.com/nodeal-framework/nodeal-runtime) | 2 | Moderne development-paradigma's native in Studio |
 | [r-iva9/Allure](https://github.com/r-iva9/Allure) | 2 | Typesafe DI/IoC-framework voor Luau |
@@ -76,6 +77,10 @@ Entity Component Systems en frameworks voorbij Knit.
 | [ahmicy/silk](https://github.com/ahmicy/silk) | 2 | Intuïtief game-framework |
 | [pwncc/NComponents](https://github.com/pwncc/NComponents) | 2 | Unity-achtig component-systeem |
 | [gtraines/romox-ts](https://github.com/gtraines/romox-ts) | 2 | ECS-project in roblox-ts |
+| [royhanantariksaaa/flite-rbx](https://github.com/royhanantariksaaa/flite-rbx) | 2 | Express/Knit-geïnspireerd framework met Domains, Services, Views en Controllers |
+| [realthonik/Thread](https://github.com/realthonik/Thread) | 2 | Modern Knit-achtig game-framework, geharde en uitgebreidere variant |
+| [darkestdev/Struktura](https://github.com/darkestdev/Struktura) | 2 | Strict-typed framework (Knit/Cardinal-stijl) met Blink, Promise en LemonSignal |
+| [riptide-project/framework](https://github.com/riptide-project/framework) | 2 | Lichtgewicht, strict-typed, modulair framework |
 | [zblox164/Scrypt](https://github.com/zblox164/Scrypt) | 1 | Scrypt-framework |
 | [ZacharyVanier/VZNCore-Template](https://github.com/ZacharyVanier/VZNCore-Template) | 0 | Batteries-included ECS-framework template |
 

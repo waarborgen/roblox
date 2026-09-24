@@ -35,6 +35,8 @@ Voxels, dungeons, doolhoven, wave function collapse, noise en curves.
 | [ffrostfall/polybool-luau](https://github.com/ffrostfall/polybool-luau) | 2 | Polygon boolean-operaties in Luau |
 | [Kvil-git/Luau-Catmull-Rom-Spline](https://github.com/Kvil-git/Luau-Catmull-Rom-Spline) | 2 | Catmull-Rom splines voor NPC-paden en camera's |
 | [IrishFix/rbxts-volume3](https://github.com/IrishFix/rbxts-volume3) | 2 | 3D convex-hull volumes met efficiënte collision/object-detectie in roblox-ts |
+| [EgoMoose/priority-queue-luau](https://github.com/EgoMoose/priority-queue-luau) | 2 | Heap-gebaseerde priority queue (EgoMoose) |
+| [MineFranck/BezierService](https://github.com/MineFranck/BezierService) | 2 | Bézier-curves service voor paden en animaties |
 | [AidenTran900/markov-luau](https://github.com/AidenTran900/markov-luau) | 1 | MarkovJunior / Wave Function Collapse in Luau |
 | [Mythus-Z/Procedural-Dungeon-Generation-Roblox-](https://github.com/Mythus-Z/Procedural-Dungeon-Generation-Roblox-) | 1 | Voxel-dungeons: 2000 kamers / 100k voxels in < 1 seconde |
 | [Bryan0-0AG/Procedural-Dungeon-Generator_Roblox-Studio](https://github.com/Bryan0-0AG/Procedural-Dungeon-Generator_Roblox-Studio) | 1 | Vertakkende dungeons met gewogen kamer-templates en collision-checks |

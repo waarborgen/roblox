@@ -74,12 +74,17 @@ Buffer-netcode, IDL-compilers, encryptie en eigen replicatie.
 | [synpixel/mirror](https://github.com/synpixel/mirror) | 3 | Simpele replicatie voor jecs |
 | [TheNexusAvenger/Nexus-Replication](https://github.com/TheNexusAvenger/Nexus-Replication) | 3 | State-replicatie voor custom instances |
 | [XoifaiI/RLNC](https://github.com/XoifaiI/RLNC) | 3 | Random linear network coding |
+| [revvy02/replecs-roblox](https://github.com/revvy02/replecs-roblox) | 3 | Breidt replecs uit met correcte Instance-replicatie (ECS-replicatie) |
 | [demi-dog/duplecs](https://github.com/demi-dog/duplecs) | 2 | Gegeneraliseerde high-performance replicatie voor jecs (ECS) |
 | [rbxxaxa/replicant](https://github.com/rbxxaxa/replicant) | 2 | Server-authoritative gerepliceerde componenten |
 | [ehilynxin/rbxts-ghostevent](https://github.com/ehilynxin/rbxts-ghostevent) | 2 | Event-systeem voor roblox-ts |
 | [KiUserExceptionDispatcher/RakNet-Reversal](https://github.com/KiUserExceptionDispatcher/RakNet-Reversal) | 2 | Reverse-engineered implementatie van Roblox' RakNet-protocol |
 | [sheepish12/Postie](https://github.com/sheepish12/Postie) | 2 | Veilig alternatief voor RemoteFunctions met timeout |
 | [nidorx/roblox-network-contract](https://github.com/nidorx/roblox-network-contract) | 2 | Client/server-events met encode, diff, patch en ack |
+| [CluelessD3v/ReplicatedTable](https://github.com/CluelessD3v/ReplicatedTable) | 2 | Tabellen automatisch server→client repliceren |
+| [cmchuu/RemoteInspector](https://github.com/cmchuu/RemoteInspector) | 2 | Volg netwerkverkeer (remotes) terwijl het door je game gaat |
+| [Awakenchan/BiPolar](https://github.com/Awakenchan/BiPolar) | 2 | Networking-module gericht op zo klein mogelijke packets |
+| [NotKisoMomo/Schema](https://github.com/NotKisoMomo/Schema) | 2 | Type-safe networking: channels, payload-validatie, reliable/unreliable/invoke |
 | [isoopod/PakNet](https://github.com/isoopod/PakNet) | 1 | Geschematiseerde networking-library |
 | [andrian-syh/rblx-twill](https://github.com/andrian-syh/rblx-twill) | 1 | Modulair framework: boot order, bewaakte networking, state-replicatie |
 | [bainchild/rpc2-rs](https://github.com/bainchild/rpc2-rs) | 1 | Bidirectionele RPC tussen Roblox en Rust |

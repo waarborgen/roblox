@@ -2110,3 +2110,114 @@ combat	Deepsn/rbxts-tracer	5	roblox-ts raycast-wrapper met extra methodes voor p
 vehicles	ZachCurtis/rbxts-airfoil	3	Airfoil-simulatie (lift/drag voor vliegtuigvleugels) in roblox-ts, gebaseerd op Sleitnick
 procgen	IrishFix/rbxts-volume3	2	3D convex-hull volumes met efficiënte collision/object-detectie in roblox-ts
 landscape	Shadercloud/rbxts-highlight-voxel	2	Highlight individuele terrain-voxels in roblox-ts-projecten
+ui	teribu/Everforest	7	Modulaire, aanpasbare UI-library in Luau (nieuw in 2026)
+ui	zythdotdev/roblox-flux	2	Simpel reactief UI-framework voor Roblox
+systems	filoxen/rbx-reface	2	Herstelt klassieke decal-gezichten na de Dynamic Head-migratie
+tooling	chocolate-bar2410/tsukuyomi	2	Markdown-documentatiegenerator voor Luau (Zensical)
+plugins	ivadsiuls/CodeKit	2	Coding-toolkit plugin gebouwd met Vide
+tooling	Dexz00/Rbxlx-to-Rojo-Remake	2	Complete remake van rbxlx-to-rojo: bestaande places omzetten naar Rojo-projecten
+plugins	officialmelon/commandle	2	VS Code-achtig command palette voor Roblox Studio
+networking	CluelessD3v/ReplicatedTable	2	Tabellen automatisch server→client repliceren
+movement	YarikSuperpro/FPX	2	Lichtgewicht, geoptimaliseerde player-module met server authority
+aitools	Justice219/roblox-studio-mcp	2	MCP-server: AI-assistenten lezen, maken, wijzigen en verwijderen instances in Studio
+data	Larsen-dev/bufferUtils	2	Gemengde Luau-tabellen (Vector3, CFrame, Instances, nested) naar buffers serialiseren
+ui	Runtem/vortexui	2	Alternatief UI-tekstrenderingsframework (Vortex)
+tooling	ewd3v/lune_graft	1	Hot reloading voor Lune-scripts
+plugins	J4KEWasNotHere/Vigets-RBX	1	Zet bestaande UI-objecten om naar Vide-code of UI-Labs stories
+learn	littensy/react-vs-vide	1	Benchmark: grote lijst geïmplementeerd in React én Vide ter vergelijking
+tooling	CavefulGames/rbx-api-dump-lune	1	Werk met de Roblox API-dump vanuit Lune
+systems	RazAPI/Smart-Resource-Control	2	Slimme resource-control die performance bewaakt en crashes helpt voorkomen
+systems	rusty-luau/std	2	Rust-idiomen (Option, Result, iterators) geporteerd naar Luau
+vehicles	Fr4nkCD/SKYtech-vehiKits	2	SKYtech vehicle kits (developer-, non-cloud- en cloudversies)
+apis	b-j-roberts/starknet-luau	2	Luau Starknet-SDK voor blockchain-integraties in Roblox
+ui	0jewell/amilia	2	Moderne sci-fi UI-componenten gebouwd met Vide
+plugins	qzhcore/UI-Importer-Pro-	2	Automatisch responsieve UI: recursieve Offset→Scale-conversie en AspectRatio-injectie
+ui	TonyCifer/fancy-text	2	Tekstrendering met custom fonts, effecten en inline iconen
+aitools	Flamingpuffins/Roblox-BuildKit	2	MCP-server + plugin: stuurbare camera-captures, plattegrond-cutaways en parametrisch bouwen
+movement	fxxizan/RBLX-OldFrictionReplicator	2	Repliceert het oude Roblox-frictiegedrag (klassiek glij-/loopgevoel)
+ecs	royhanantariksaaa/flite-rbx	2	Express/Knit-geïnspireerd framework met Domains, Services, Views en Controllers
+wild	MrRoblick/lime-vm	2	Lime: een Luau virtual machine geschreven in Luau
+ecs	realthonik/Thread	2	Modern Knit-achtig game-framework, geharde en uitgebreidere variant
+vfx	ch1kz/BloodFX	2	Geoptimaliseerd part-based bloedsysteem (spatten, druppels, plassen)
+animation	MrRoblick/Spring-luau	2	Spring-physics module voor vloeiende animaties
+ui	vantoanvh/Pocket	2	Modern, mooi geanimeerd backpack-systeem
+ui	Mewious/EditableFont	2	Custom font-rendering via EditableImage
+learn	ThatRandomMaker/Roblox-Minigolf	2	Open-source minigolfgame voor Roblox
+ui	anexpia/markua	2	Tag-gebaseerde tekst-markup (XML/HTML-achtig) voor Luau
+networking	cmchuu/RemoteInspector	2	Volg netwerkverkeer (remotes) terwijl het door je game gaat
+tooling	0jewell/bnnuy	2	CLI-tool om assets te beheren en te uploaden
+ui	kotdes/pantheon	2	Fusion 0.3+ componentenbibliotheek met focus op accessibility en theming
+combat	athar-adv/SimplerZone	2	Opvolger van SimpleZone/LessSimpleZone: ruimtelijke zones opslaan en queryen
+tooling	wafflehouse-index/rbxts-auto-syncback	2	Automatische Rojo-syncback voor roblox-ts-projecten
+vehicles	Ransomwave/BetterChassis	2	Modulaire A-Chassis met ingebouwde extra features
+ai	13th-btw/OGAS	2	Goal/Action-systeem (GOAP-stijl) voor AI-gedrag
+data	Sebastian2852/Encapsulate	2	Simpel state-management
+plugins	raylameows/Arc	2	Eenvoudige terminal binnen Roblox Studio
+ecs	darkestdev/Struktura	2	Strict-typed framework (Knit/Cardinal-stijl) met Blink, Promise en LemonSignal
+tooling	BizWiz3/aura	2	Axios-achtige HTTP-client voor Lune
+camera	higuysimaugust/procam	2	Fork van freecam met 50+ nieuwe features en fixes
+plugins	TeamHydrogen/Visuality	2	Plugin om snel zichtbaarheid van models, parts en UI te togglen
+systems	elliemakesmanygames/state-machine	2	Lichtgewicht, procedurele experimentele state machine
+tooling	MrRoblick/roblox_asset_downloader	5	Rust-tool om Roblox-assets te downloaden
+tooling	Chrrxs/carbon	3	Instance-aware source control voor Roblox-places
+tooling	LithHash/Fuse	3	Sync Roblox-projecten van en naar het filesystem (Rust)
+tooling	Slay-Simulations/roblox-pipe	2	Quality-of-life CLI voor Roblox-development
+apis	0hirume/roblox-open-cloud	2	Open Cloud API-client in Rust
+tooling	jub0t/reverse-roblox-items	2	Download catalog-assets als GLB/OBJ voor Blender en Three.js
+apis	OutOfBears/rbx-configs	2	CLI voor Roblox Configs (experience-configuratie als code)
+tooling	pwnwrkz/rbx_install	2	Rust-crate om Roblox Studio-installaties te vinden
+landscape	sqikerz/rorender-chunk	2	Knipt RoRender-output in uploadbare tiles voor minimap-generatie
+wild	chteau/rbx-native	2	Onofficiële native Studio-achtige editor in Rust (GPUI + wgpu) die .rbxl opent, rendert en bewerkt
+aitools	quanticsoul4772/mcp-roblox	1	Snelle Rust MCP-server voor Roblox Studio met Claude Code-integratie
+tooling	Ranoobaba/rblx_dev	1	Git voor Roblox, geïntegreerd met Rojo
+apis	3xpluto/roblox-license-backend	1	Rust/Axum licentie-backend voor Roblox-producten (orders, licenties, verificatie)
+aitools	paralov/app-bloxbot-ai	90	Desktop-app om Roblox-games te bouwen met AI
+aitools	drgost1/robloxstudio-mcp	6	MCP-server voor Roblox Studio met 51 tools
+tooling	SenorLawyer/Source2Roblox	4	Source Engine-maps en assets naar Roblox converteren
+aitools	madebyshaurya/stud	4	AI-agent voor Roblox Studio
+aitools	drgost1/Tufan-Blox-Bridge	4	Eén plugin die Argon two-way sync en MCP AI-tools combineert
+networking	revvy02/replecs-roblox	3	Breidt replecs uit met correcte Instance-replicatie (ECS-replicatie)
+ui	astra-void/lattice-ui	3	Headless-first UI-toolkit voor roblox-ts en @rbxts/react
+ecs	trungy-bui/flamework-nest	3	NestJS-geïnspireerde controllerlaag voor Flamework en Remo
+tooling	neopolitans/Roswaal	3	Visual scripting voor Roblox-Luau en Lune-Luau
+aitools	Brianmogger06/robloxforge	2	Autonome AI-agent voor Roblox Studio met 50+ getypeerde MCP-tools
+tooling	CatMan6112/RtVS_Roblox-To-Visual-Studio	2	Two-way sync tussen Studio en filesystem voor version control
+learn	TheIllusionOfLife/tokyo_playground	2	Open-source party-minigame-platform in Tokio (Shibuya), roblox-ts
+aitools	Allusia1/RoBridge	2	Lokale MCP-server + Studio-plugin + dashboard voor AI-agents
+learn	camren-m/launchpad	2	Template voor continuous-deployed multi-place roblox-ts-experiences
+aitools	luumenlabs/code	2	Geef je coding agent (Claude Code/Codex) toegang tot Roblox Studio
+ui	fittergem/SpringService	2	UI-spring-module met dezelfde parameters als TweenService
+systems	mendezingridvanessa85-blip/EconomyService	2	Server-authoritative economie: session locking, generators, offline income, shop en prestige
+data	anthony0br/documents	2	Mogelijke opvolger van DocumentService (getypeerde DataStore-documenten)
+systems	DivineNot/Debris	2	Efficiënte debris-scheduler als vervanging voor Debris:AddItem
+learn	MiaGobble/Rojo-Project-Example	2	Rojo-template met automatisch publishen en automatische docs
+networking	Awakenchan/BiPolar	2	Networking-module gericht op zo klein mogelijke packets
+ai	g0ofycat/PathfindingModule	2	Verzameling pathfinding-algoritmes en modules
+systems	Akari-yn/CoreFinder	2	Schat hoeveel parallelle CPU-cores beschikbaar zijn voor Actors (Parallel Luau)
+ui	ImAvafe/sculpt	2	Draagbare UI-toolkit voor Roblox
+ecs	riptide-project/framework	2	Lichtgewicht, strict-typed, modulair framework
+data	iamthebestts/lux	2	Lichtgewicht global state management
+combat	RiseBit/BitGunPrediction	2	Client-side prediction voor guns (latency-vrij schieten)
+apis	Caylies/Discord.luau	2	Discord API-wrapper voor Luau met Lute
+networking	NotKisoMomo/Schema	2	Type-safe networking: channels, payload-validatie, reliable/unreliable/invoke
+procgen	EgoMoose/priority-queue-luau	2	Heap-gebaseerde priority queue (EgoMoose)
+plugins	zenodaguy/RConsole	2	Console-library voor Roblox Studio
+procgen	MineFranck/BezierService	2	Bézier-curves service voor paden en animaties
+aitools	gamedev-skills/awesome-gamedev-agent-skills	1135	73 game-dev skills voor AI-agents (Claude Code, Cursor, Codex) incl. Roblox
+aitools	n4tivex/mcp-roblox-docs	17	MCP-server die Roblox-documentatie aan AI-assistenten geeft
+aitools	AmmrYsir/roblox-studio-mcp-for-antigravity	9	Roblox Studio MCP-integratie voor Google Antigravity
+tooling	Nedas-Jaronis/roblox-ugc-pipeline	4	Lokale pipeline om UGC-avatars/accessoires te genereren, riggen, texturen en valideren (cube3d + Blender)
+vfx	RoVoidr/Roblox-Hall-of-Mirrors	4	Blender-setup en script voor een Hall of Mirrors-renderingeffect in Roblox
+tooling	setup-rbxcdn/setup-rbxcdn.github.io	3	DeployHistory-fetcher: houdt alle Roblox-clientversies en verborgen hashes bij
+aitools	liortesta/roblox-voice-creator-2026	17	Bouw Roblox-games door te spreken (Hebreeuws), voice-gestuurde builder voor kinderen
+tooling	howmanysmall/small-rules	2	ESLint-regels geport naar Oxlint voor roblox-ts
+ui	nrbx-ts/rbxts-react	1	Custom @rbxts/react-fork die React 19 spiegelt, met extra features
+ui	nrbx-ts/rbxts-topbar-components	1	Topbar-componenten met extra functionaliteit voor roblox-ts
+wild	highlou/luauvm	0	Virtual machine met assembler en compiler voor een B-achtige taal, in roblox-ts
+tooling	nrbx-ts/rbxts-glob	0	Vite-achtige glob-imports voor roblox-ts at runtime
+apis	nrbx-ts/rbxts-sentry	0	Sentry-errortracking voor roblox-ts (port van sentry-roblox)
+data	nrbx-ts/rbxts-kv	0	Key-value service met optionele persistente opslag
+wild	nrbx-ts/rbxts-luau-vm	0	Loadstring-achtige Luau-VM om code uit strings in-game uit te voeren
+ui	ninjaninja140/basix-ui	0	roblox-ts-implementatie van mui/base-ui (headless componenten)
+plugins	raineyraine/plugin-components	0	React-componenten voor het bouwen van Studio-plugins
+systems	shysolocup/rbxts-rquery	0	jQuery-achtige helpers voor instances, properties en attributes in roblox-ts

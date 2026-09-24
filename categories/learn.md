@@ -140,6 +140,10 @@ Artikelen, complete open-source games, templates en curated lijsten.
 | [tropicalbananas/robloxplacearchive](https://github.com/tropicalbananas/robloxplacearchive) | 2 | Archief van oude officiële places (o.a. originele Crossroads) |
 | [bobbybob2131/cookbook](https://github.com/bobbybob2131/cookbook) | 2 | Luau-codesnippets voor Roblox |
 | [hamywinter/Project-SCP-Plugins](https://github.com/hamywinter/Project-SCP-Plugins) | 2 | Plugins voor Project SCP |
+| [ThatRandomMaker/Roblox-Minigolf](https://github.com/ThatRandomMaker/Roblox-Minigolf) | 2 | Open-source minigolfgame voor Roblox |
+| [TheIllusionOfLife/tokyo_playground](https://github.com/TheIllusionOfLife/tokyo_playground) | 2 | Open-source party-minigame-platform in Tokio (Shibuya), roblox-ts |
+| [camren-m/launchpad](https://github.com/camren-m/launchpad) | 2 | Template voor continuous-deployed multi-place roblox-ts-experiences |
+| [MiaGobble/Rojo-Project-Example](https://github.com/MiaGobble/Rojo-Project-Example) | 2 | Rojo-template met automatisch publishen en automatische docs |
 | [aseemsahoocodes/roblox-simulator-engine](https://github.com/aseemsahoocodes/roblox-simulator-engine) | 1 | Simulator-engine: pets, eieren, ascensions, trading |
 | [3xpluto/roblox-clean-architecture-template](https://github.com/3xpluto/roblox-clean-architecture-template) | 1 | Clean-architecture template: DI, veilige netlaag, rate limiting, migraties |
 | [MarioChao/HeartPie](https://github.com/MarioChao/HeartPie) | 1 | Klassiek pie-hiking gear herbouwd |
@@ -158,6 +162,7 @@ Artikelen, complete open-source games, templates en curated lijsten.
 | [faranontheway/HollowWard](https://github.com/faranontheway/HollowWard) | 1 | Open-source horror game |
 | [MarkExKiana/ProjectStarFallCodebase](https://github.com/MarkExKiana/ProjectStarFallCodebase) | 1 | Volledige codebase van een Roblox-game |
 | [gievano/map-voice](https://github.com/gievano/map-voice) | 1 | Social hangout met voicechat, wardrobe, emotes en dag/nacht |
+| [littensy/react-vs-vide](https://github.com/littensy/react-vs-vide) | 1 | Benchmark: grote lijst geïmplementeerd in React én Vide ter vergelijking |
 | [tralfa42real/roblox-rpg-core-systems](https://github.com/tralfa42real/roblox-rpg-core-systems) | 0 | RPG-backend: profielen, equipment, economie, loot, guilds, enemy AI |
 | [lukas-mikalainis/roblox-precision-framework](https://github.com/lukas-mikalainis/roblox-precision-framework) | 0 | Server-authoritative movement + combat framework |
 | [Sworddao/ascendant-mortal](https://github.com/Sworddao/ascendant-mortal) | 0 | Xianxia cultivation MMORPG |

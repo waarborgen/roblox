@@ -28,6 +28,8 @@ Neurale netwerken, behavior trees, pathfinding, boids en LLM-NPC's.
 | [glindberg2000/roblox_ai](https://github.com/glindberg2000/roblox_ai) | 2 | AI-gestuurd NPC-systeem (LLM) |
 | [ProtonDev-sys/StridePath](https://github.com/ProtonDev-sys/StridePath) | 2 | Strict pathfinding met cached navgrid en jump-aware waypoints |
 | [Infrear/roblox-ac-based-npc-follower](https://github.com/Infrear/roblox-ac-based-npc-follower) | 2 | Client-side NPC-follower met physics en animatie-blending |
+| [13th-btw/OGAS](https://github.com/13th-btw/OGAS) | 2 | Goal/Action-systeem (GOAP-stijl) voor AI-gedrag |
+| [g0ofycat/PathfindingModule](https://github.com/g0ofycat/PathfindingModule) | 2 | Verzameling pathfinding-algoritmes en modules |
 | [regibus361/AIBusPassengers](https://github.com/regibus361/AIBusPassengers) | 1 | NPC-passagiers voor bus-games |
 | [luandrew66-ctrl/SmartNPC](https://github.com/luandrew66-ctrl/SmartNPC) | 1 | AI-NPC's met gesprekken, geheugen en behavior trees |
 | [nsawill1405/Pathfinding-Plus](https://github.com/nsawill1405/Pathfinding-Plus) | 1 | Crowd-aware pathfinding met replanning en agent-coördinatie |

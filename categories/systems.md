@@ -196,6 +196,13 @@ Quests, dialogen, input, trading, admin, signals en meer.
 | [vocksel/tag](https://github.com/vocksel/tag) | 2 | Typesafe CollectionService-tags |
 | [Mullets-Gavin/Manager](https://github.com/Mullets-Gavin/Manager) | 2 | Connections, events en task scheduler beheren |
 | [NilScripter/RoClass](https://github.com/NilScripter/RoClass) | 2 | OOP-classes |
+| [filoxen/rbx-reface](https://github.com/filoxen/rbx-reface) | 2 | Herstelt klassieke decal-gezichten na de Dynamic Head-migratie |
+| [RazAPI/Smart-Resource-Control](https://github.com/RazAPI/Smart-Resource-Control) | 2 | Slimme resource-control die performance bewaakt en crashes helpt voorkomen |
+| [rusty-luau/std](https://github.com/rusty-luau/std) | 2 | Rust-idiomen (Option, Result, iterators) geporteerd naar Luau |
+| [elliemakesmanygames/state-machine](https://github.com/elliemakesmanygames/state-machine) | 2 | Lichtgewicht, procedurele experimentele state machine |
+| [mendezingridvanessa85-blip/EconomyService](https://github.com/mendezingridvanessa85-blip/EconomyService) | 2 | Server-authoritative economie: session locking, generators, offline income, shop en prestige |
+| [DivineNot/Debris](https://github.com/DivineNot/Debris) | 2 | Efficiënte debris-scheduler als vervanging voor Debris:AddItem |
+| [Akari-yn/CoreFinder](https://github.com/Akari-yn/CoreFinder) | 2 | Schat hoeveel parallelle CPU-cores beschikbaar zijn voor Actors (Parallel Luau) |
 | [DavidXu1721/Roblox_GridBasedInventorySystem](https://github.com/DavidXu1721/Roblox_GridBasedInventorySystem) | 1 | Grid-based inventory (tutorial-reeks) |
 | [sam4922/Roblox-ServerClientTradeFramework](https://github.com/sam4922/Roblox-ServerClientTradeFramework) | 1 | Server-framework voor een trade-systeem |
 | [MrBlueMW/GameStarter](https://github.com/MrBlueMW/GameStarter) | 1 | Plugin: één-klik dialogen, matchmaking, shops, leaderboards, loot boxes |
@@ -239,5 +246,6 @@ Quests, dialogen, input, trading, admin, signals en meer.
 | [ryanleem/Roblox-Building-and-Placement-System](https://github.com/ryanleem/Roblox-Building-and-Placement-System) | 0 | Bouwsysteem: roteren, plaatsen en aan elkaar snappen |
 | [Frieda-VI/building-system](https://github.com/Frieda-VI/building-system) | 0 | Open-source placement-systeem |
 | [emdomanus/tempo](https://github.com/emdomanus/tempo) | 0 | Low-overhead phase-aware scheduler met task-ID's en pooling |
+| [shysolocup/rbxts-rquery](https://github.com/shysolocup/rbxts-rquery) | 0 | jQuery-achtige helpers voor instances, properties en attributes in roblox-ts |
 
 [← Terug naar overzicht](../README.md)

@@ -16,6 +16,7 @@ Camera-shake, custom camera's, cutscene-tools en timelines.
 | [valutekat/CutsceneStudio-v1.7](https://github.com/valutekat/CutsceneStudio-v1.7) | 2 | Cutscenes maken in Studio |
 | [mlwre-off/RoPlay](https://github.com/mlwre-off/RoPlay) | 2 | Replay-recorder en editor (zoals Minecraft Replay Mod) met camera-keyframes |
 | [TylrPopcorn/Floating-Camera-Part](https://github.com/TylrPopcorn/Floating-Camera-Part) | 2 | Camera-manipulatie met zwevende camera-part |
+| [higuysimaugust/procam](https://github.com/higuysimaugust/procam) | 2 | Fork van freecam met 50+ nieuwe features en fixes |
 | [Reapimus/grims-cutscene-engine](https://github.com/Reapimus/grims-cutscene-engine) | 1 | Cutscene-systeem + plugin |
 | [nilleniumrust/SpringShaker](https://github.com/nilleniumrust/SpringShaker) | 1 | Camera-shaker met springs + Perlin noise |
 | [Seftube/RobloxCameraSystem](https://github.com/Seftube/RobloxCameraSystem) | 1 | Realistisch camerasysteem (volledig lokaal) |

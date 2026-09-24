@@ -37,6 +37,8 @@ Melee-hitboxes, projectielen, guns, lag-compensatie en zones.
 | [Lolekic/HomingCast](https://github.com/Lolekic/HomingCast) | 2 | Gesimuleerde homing-projectielen zonder Roblox-physics |
 | [WBlair1/roblox-bg-system](https://github.com/WBlair1/roblox-bg-system) | 2 | Battlegrounds-systeem met skills en effects (op WCS) |
 | [Gskartwii/roblox-sf-analysis](https://github.com/Gskartwii/roblox-sf-analysis) | 2 | Analytische engine voor sword fighting (declaratief) |
+| [athar-adv/SimplerZone](https://github.com/athar-adv/SimplerZone) | 2 | Opvolger van SimpleZone/LessSimpleZone: ruimtelijke zones opslaan en queryen |
+| [RiseBit/BitGunPrediction](https://github.com/RiseBit/BitGunPrediction) | 2 | Client-side prediction voor guns (latency-vrij schieten) |
 | [dodisteigmeier807-coder/RollbackNet](https://github.com/dodisteigmeier807-coder/RollbackNet) | 1 | Experimenteel: rollback lag-compensatie + recoil-validatie met buffers |
 | [REALEncryptal/Hindsight](https://github.com/REALEncryptal/Hindsight) | 1 | Gegeneraliseerde hit-detectie met lag-compensated rollback voor guns |
 | [monobrov1234/CombatSystems](https://github.com/monobrov1234/CombatSystems) | 1 | Voertuig- en wapen-library |

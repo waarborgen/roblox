@@ -8,37 +8,37 @@ exploits/cheats/executors/spoofers, obfuscators, account-tools en SEO-spamrepos.
 
 Tip: ⭐ zegt weinig bij nieuwe projecten, veel pareltjes hebben (nog) bijna geen sterren.
 
-Totaal: **2111 repos** in **23 categorieën**. ⭐ = GitHub-sterren op het moment van verzamelen (sept. 2026).
+Totaal: **2222 repos** in **23 categorieën**. ⭐ = GitHub-sterren op het moment van verzamelen (sept. 2026).
 
 ## Categorieën
 
-- [VFX, graphics & rendering](#vfx-graphics--rendering) — **76** repos ([losse pagina](categories/vfx.md))
-- [Landschap, terrain, water & weer](#landschap-terrain-water--weer) — **50** repos ([losse pagina](categories/landscape.md))
-- [Animatie, IK & rigging](#animatie-ik--rigging) — **63** repos ([losse pagina](categories/animation.md))
-- [Movement, physics & characters](#movement-physics--characters) — **61** repos ([losse pagina](categories/movement.md))
-- [Voertuigen, boten & treinen](#voertuigen-boten--treinen) — **21** repos ([losse pagina](categories/vehicles.md))
-- [Combat, hitboxes & wapens](#combat-hitboxes--wapens) — **54** repos ([losse pagina](categories/combat.md))
-- [AI, NPC's & machine learning](#ai-npcs--machine-learning) — **33** repos ([losse pagina](categories/ai.md))
-- [Procedurele generatie & wiskunde](#procedurele-generatie--wiskunde) — **39** repos ([losse pagina](categories/procgen.md))
-- [Networking & replicatie](#networking--replicatie) — **83** repos ([losse pagina](categories/networking.md))
-- [ECS & game-architectuur](#ecs--game-architectuur) — **74** repos ([losse pagina](categories/ecs.md))
-- [UI & interface](#ui--interface) — **169** repos ([losse pagina](categories/ui.md))
-- [Camera & cutscenes](#camera--cutscenes) — **19** repos ([losse pagina](categories/camera.md))
+- [VFX, graphics & rendering](#vfx-graphics--rendering) — **78** repos ([losse pagina](categories/vfx.md))
+- [Landschap, terrain, water & weer](#landschap-terrain-water--weer) — **51** repos ([losse pagina](categories/landscape.md))
+- [Animatie, IK & rigging](#animatie-ik--rigging) — **64** repos ([losse pagina](categories/animation.md))
+- [Movement, physics & characters](#movement-physics--characters) — **63** repos ([losse pagina](categories/movement.md))
+- [Voertuigen, boten & treinen](#voertuigen-boten--treinen) — **23** repos ([losse pagina](categories/vehicles.md))
+- [Combat, hitboxes & wapens](#combat-hitboxes--wapens) — **56** repos ([losse pagina](categories/combat.md))
+- [AI, NPC's & machine learning](#ai-npcs--machine-learning) — **35** repos ([losse pagina](categories/ai.md))
+- [Procedurele generatie & wiskunde](#procedurele-generatie--wiskunde) — **41** repos ([losse pagina](categories/procgen.md))
+- [Networking & replicatie](#networking--replicatie) — **88** repos ([losse pagina](categories/networking.md))
+- [ECS & game-architectuur](#ecs--game-architectuur) — **79** repos ([losse pagina](categories/ecs.md))
+- [UI & interface](#ui--interface) — **184** repos ([losse pagina](categories/ui.md))
+- [Camera & cutscenes](#camera--cutscenes) — **20** repos ([losse pagina](categories/camera.md))
 - [Audio](#audio) — **17** repos ([losse pagina](categories/audio.md))
 - [VR & motion tracking](#vr--motion-tracking) — **15** repos ([losse pagina](categories/vr.md))
-- [Data, opslag & serialisatie](#data-opslag--serialisatie) — **136** repos ([losse pagina](categories/data.md))
-- [Game-systemen & utilities](#game-systemen--utilities) — **235** repos ([losse pagina](categories/systems.md))
+- [Data, opslag & serialisatie](#data-opslag--serialisatie) — **141** repos ([losse pagina](categories/data.md))
+- [Game-systemen & utilities](#game-systemen--utilities) — **243** repos ([losse pagina](categories/systems.md))
 - [Security & anticheat](#security--anticheat) — **35** repos ([losse pagina](categories/security.md))
-- [Next-level / experimenteel](#next-level--experimenteel) — **139** repos ([losse pagina](categories/wild.md))
-- [API's & externe integraties](#apis--externe-integraties) — **125** repos ([losse pagina](categories/apis.md))
-- [AI-tools voor Roblox-development](#ai-tools-voor-roblox-development) — **50** repos ([losse pagina](categories/aitools.md))
-- [Tooling & workflow](#tooling--workflow) — **365** repos ([losse pagina](categories/tooling.md))
-- [Studio-plugins](#studio-plugins) — **78** repos ([losse pagina](categories/plugins.md))
-- [Leren, open-source games & collecties](#leren-open-source-games--collecties) — **174** repos ([losse pagina](categories/learn.md))
+- [Next-level / experimenteel](#next-level--experimenteel) — **143** repos ([losse pagina](categories/wild.md))
+- [API's & externe integraties](#apis--externe-integraties) — **131** repos ([losse pagina](categories/apis.md))
+- [AI-tools voor Roblox-development](#ai-tools-voor-roblox-development) — **64** repos ([losse pagina](categories/aitools.md))
+- [Tooling & workflow](#tooling--workflow) — **386** repos ([losse pagina](categories/tooling.md))
+- [Studio-plugins](#studio-plugins) — **86** repos ([losse pagina](categories/plugins.md))
+- [Leren, open-source games & collecties](#leren-open-source-games--collecties) — **179** repos ([losse pagina](categories/learn.md))
 
 ## VFX, graphics & rendering
 
-Particles, shaders, lighting, portalen, raytracing en canvas-rendering. (76 repos)
+Particles, shaders, lighting, portalen, raytracing en canvas-rendering. (78 repos)
 
 | Repo | ⭐ | Wat het doet |
 |---|---:|---|
@@ -77,6 +77,7 @@ Particles, shaders, lighting, portalen, raytracing en canvas-rendering. (76 repo
 | [thom463s/2D-Particle-Emitter](https://github.com/thom463s/2D-Particle-Emitter) | 4 | 2D particle-emitter oplossing |
 | [cg955gtr/PartCache](https://github.com/cg955gtr/PartCache) | 4 | Linked-list part cache (snel parts hergebruiken voor projectielen/VFX) |
 | [BiraruStudios/VHSClient](https://github.com/BiraruStudios/VHSClient) | 4 | VHS-effecten |
+| [RoVoidr/Roblox-Hall-of-Mirrors](https://github.com/RoVoidr/Roblox-Hall-of-Mirrors) | 4 | Blender-setup en script voor een Hall of Mirrors-renderingeffect in Roblox |
 | [QwinkleTee/Qwinkles-Particles-2](https://github.com/QwinkleTee/Qwinkles-Particles-2) | 3 | Qwinkle's Part-icles 2 plugin (part-gebaseerde particles) |
 | [arindam-codes/roblox-cinematic-experience](https://github.com/arindam-codes/roblox-cinematic-experience) | 3 | Cinematische camera, lighting en player-control voor storytelling |
 | [StephenSHorton/immersive-portals](https://github.com/StephenSHorton/immersive-portals) | 3 | Immersive portal-rendering (door portalen kijken én lopen) voor roblox-ts |
@@ -89,6 +90,7 @@ Particles, shaders, lighting, portalen, raytracing en canvas-rendering. (76 repo
 | [kitsuu-ne/tokeru](https://github.com/kitsuu-ne/tokeru) | 2 | Fade in/out-effecten voor instances |
 | [Blupo/SimulationLoader](https://github.com/Blupo/SimulationLoader) | 2 | Holo-simulatie loader |
 | [Blupo/DayAtmos](https://github.com/Blupo/DayAtmos) | 2 | Lighting-script op basis van een DevForum-post |
+| [ch1kz/BloodFX](https://github.com/ch1kz/BloodFX) | 2 | Geoptimaliseerd part-based bloedsysteem (spatten, druppels, plassen) |
 | [Y-Workplace/DissolveEffect](https://github.com/Y-Workplace/DissolveEffect) | 1 | Pixel-dissolve/materialize effect met gloeiende randen via EditableImage |
 | [PAKILA0/RBX-SpaceDust](https://github.com/PAKILA0/RBX-SpaceDust) | 1 | Screenspace VFX: ruimtestof rond de camera |
 | [Tsukeruu/rock-spawn-roblox](https://github.com/Tsukeruu/rock-spawn-roblox) | 1 | Krater/rotsen-ring effect (populaire anime-VFX trend) |
@@ -121,7 +123,7 @@ Particles, shaders, lighting, portalen, raytracing en canvas-rendering. (76 repo
 
 ## Landschap, terrain, water & weer
 
-Terrain-generators, echte kaarten, grotten, oceanen, foliage, dag/nacht en weer. (50 repos)
+Terrain-generators, echte kaarten, grotten, oceanen, foliage, dag/nacht en weer. (51 repos)
 
 | Repo | ⭐ | Wat het doet |
 |---|---:|---|
@@ -151,6 +153,7 @@ Terrain-generators, echte kaarten, grotten, oceanen, foliage, dag/nacht en weer.
 | [MrChickenRocket/sdf-procedural-toolkit](https://github.com/MrChickenRocket/sdf-procedural-toolkit) | 2 | SDF-meshes genereren (Surface Nets + QEM) → MeshPart, van de Chickynoid-maker |
 | [BrakingF1/Ro-Racing-Tracks](https://github.com/BrakingF1/Ro-Racing-Tracks) | 2 | Racecircuits als open-source assets |
 | [Shadercloud/rbxts-highlight-voxel](https://github.com/Shadercloud/rbxts-highlight-voxel) | 2 | Highlight individuele terrain-voxels in roblox-ts-projecten |
+| [sqikerz/rorender-chunk](https://github.com/sqikerz/rorender-chunk) | 2 | Knipt RoRender-output in uploadbare tiles voor minimap-generatie |
 | [onlymateo/roblox-ocean-wave-generation](https://github.com/onlymateo/roblox-ocean-wave-generation) | 1 | Dynamische oceaan: golven, drijven, onderwater-effecten |
 | [TaylorDevGD/Roblox-Terrain-Storage-Repo](https://github.com/TaylorDevGD/Roblox-Terrain-Storage-Repo) | 1 | Terrain opslaan/verplaatsen zoals parts (naar ReplicatedStorage) |
 | [goldenstein64/InfiniteTerrain](https://github.com/goldenstein64/InfiniteTerrain) | 1 | Configureerbaar oneindig terrain (door 5uphi) |
@@ -178,7 +181,7 @@ Terrain-generators, echte kaarten, grotten, oceanen, foliage, dag/nacht en weer.
 
 ## Animatie, IK & rigging
 
-Animatie-solvers, IK, Blender/Mixamo-pipelines, procedurele animatie en springs. (63 repos)
+Animatie-solvers, IK, Blender/Mixamo-pipelines, procedurele animatie en springs. (64 repos)
 
 | Repo | ⭐ | Wat het doet |
 |---|---:|---|
@@ -230,6 +233,7 @@ Animatie-solvers, IK, Blender/Mixamo-pipelines, procedurele animatie en springs.
 | [Jessdevzz/ROBLOX-Dynamic-Npc-Animations](https://github.com/Jessdevzz/ROBLOX-Dynamic-Npc-Animations) | 2 | Dynamische NPC-animaties |
 | [infinitypacific/PaintRig-InfEdit](https://github.com/infinitypacific/PaintRig-InfEdit) | 2 | Blender-rigs voor Roblox |
 | [prepsure/Spranimate](https://github.com/prepsure/Spranimate) | 2 | 2D sprite-animator die Roblox' Animator nabootst |
+| [MrRoblick/Spring-luau](https://github.com/MrRoblick/Spring-luau) | 2 | Spring-physics module voor vloeiende animaties |
 | [Moonpigguy/hl2strider](https://github.com/Moonpigguy/hl2strider) | 1 | Half-Life 2 Strider met IK-procedurele animatie |
 | [Ehonix/Dynamo](https://github.com/Ehonix/Dynamo) | 1 | Procedurele animator |
 | [skatingii/PerfectSequencer](https://github.com/skatingii/PerfectSequencer) | 1 | Frame-accurate events, ook gelockt aan de timeline van een AnimationTrack |
@@ -248,7 +252,7 @@ Animatie-solvers, IK, Blender/Mixamo-pipelines, procedurele animatie en springs.
 
 ## Movement, physics & characters
 
-Character controllers, ragdolls, destructie, parkour en eigen physics-engines. (61 repos)
+Character controllers, ragdolls, destructie, parkour en eigen physics-engines. (63 repos)
 
 | Repo | ⭐ | Wat het doet |
 |---|---:|---|
@@ -291,6 +295,8 @@ Character controllers, ragdolls, destructie, parkour en eigen physics-engines. (
 | [lun-lun-lun-lun/demolish](https://github.com/lun-lun-lun-lun/demolish) | 2 | Voxel-destructie physics (roblox-ts) |
 | [jaipack17/rope-swinging](https://github.com/jaipack17/rope-swinging) | 2 | 2D touw-swing physics met GUI's |
 | [HappGamr/New-Wall-Collision-Maker](https://github.com/HappGamr/New-Wall-Collision-Maker) | 2 | Maakt extra collision voor te dunne muren (tegen doorglippen) |
+| [YarikSuperpro/FPX](https://github.com/YarikSuperpro/FPX) | 2 | Lichtgewicht, geoptimaliseerde player-module met server authority |
+| [fxxizan/RBLX-OldFrictionReplicator](https://github.com/fxxizan/RBLX-OldFrictionReplicator) | 2 | Repliceert het oude Roblox-frictiegedrag (klassiek glij-/loopgevoel) |
 | [JonasBuffington/Voxel-Carver](https://github.com/JonasBuffington/Voxel-Carver) | 1 | Geparallelliseerde voxel-destructie, deformatie en slicing |
 | [welcomestohell/obby-physics](https://github.com/welcomestohell/obby-physics) | 1 | EnhancedCharacterPhysics als module (betere obby-beweging) |
 | [Project-Ptolemy/Project-Gravity-02](https://github.com/Project-Ptolemy/Project-Gravity-02) | 1 | Losse parts in vormen rond je laten zweven met constraints |
@@ -316,7 +322,7 @@ Character controllers, ragdolls, destructie, parkour en eigen physics-engines. (
 
 ## Voertuigen, boten & treinen
 
-Chassis, suspensie, hover, raketten, drijfvermogen en treinen. (21 repos)
+Chassis, suspensie, hover, raketten, drijfvermogen en treinen. (23 repos)
 
 | Repo | ⭐ | Wat het doet |
 |---|---:|---|
@@ -336,6 +342,8 @@ Chassis, suspensie, hover, raketten, drijfvermogen en treinen. (21 repos)
 | [Astrophsica/Racing-Kit-Roblox](https://github.com/Astrophsica/Racing-Kit-Roblox) | 2 | Open-source go-kart racing kit |
 | [ProfessorOfK3ology/RobloxFlightSim](https://github.com/ProfessorOfK3ology/RobloxFlightSim) | 2 | Open-source flight simulator |
 | [Rung2ne/A-Chassis-Realistic-Manual](https://github.com/Rung2ne/A-Chassis-Realistic-Manual) | 2 | Realistischere handgeschakelde versnellingsbak voor A-Chassis |
+| [Fr4nkCD/SKYtech-vehiKits](https://github.com/Fr4nkCD/SKYtech-vehiKits) | 2 | SKYtech vehicle kits (developer-, non-cloud- en cloudversies) |
+| [Ransomwave/BetterChassis](https://github.com/Ransomwave/BetterChassis) | 2 | Modulaire A-Chassis met ingebouwde extra features |
 | [muzscripter/buoyancy](https://github.com/muzscripter/buoyancy) | 1 | Drijfvermogen (buoyancy) nabootsen |
 | [1nOnlyMinhaz/TrainStackX](https://github.com/1nOnlyMinhaz/TrainStackX) | 1 | Framework voor treinen bouwen en beheren |
 | [Kaminoan-Engineers/repulsyn](https://github.com/Kaminoan-Engineers/repulsyn) | 0 | Modulair repulsorlift/hover-systeem voor land-, zee- en luchtvoertuigen |
@@ -344,7 +352,7 @@ Chassis, suspensie, hover, raketten, drijfvermogen en treinen. (21 repos)
 
 ## Combat, hitboxes & wapens
 
-Melee-hitboxes, projectielen, guns, lag-compensatie en zones. (54 repos)
+Melee-hitboxes, projectielen, guns, lag-compensatie en zones. (56 repos)
 
 | Repo | ⭐ | Wat het doet |
 |---|---:|---|
@@ -381,6 +389,8 @@ Melee-hitboxes, projectielen, guns, lag-compensatie en zones. (54 repos)
 | [Lolekic/HomingCast](https://github.com/Lolekic/HomingCast) | 2 | Gesimuleerde homing-projectielen zonder Roblox-physics |
 | [WBlair1/roblox-bg-system](https://github.com/WBlair1/roblox-bg-system) | 2 | Battlegrounds-systeem met skills en effects (op WCS) |
 | [Gskartwii/roblox-sf-analysis](https://github.com/Gskartwii/roblox-sf-analysis) | 2 | Analytische engine voor sword fighting (declaratief) |
+| [athar-adv/SimplerZone](https://github.com/athar-adv/SimplerZone) | 2 | Opvolger van SimpleZone/LessSimpleZone: ruimtelijke zones opslaan en queryen |
+| [RiseBit/BitGunPrediction](https://github.com/RiseBit/BitGunPrediction) | 2 | Client-side prediction voor guns (latency-vrij schieten) |
 | [dodisteigmeier807-coder/RollbackNet](https://github.com/dodisteigmeier807-coder/RollbackNet) | 1 | Experimenteel: rollback lag-compensatie + recoil-validatie met buffers |
 | [REALEncryptal/Hindsight](https://github.com/REALEncryptal/Hindsight) | 1 | Gegeneraliseerde hit-detectie met lag-compensated rollback voor guns |
 | [monobrov1234/CombatSystems](https://github.com/monobrov1234/CombatSystems) | 1 | Voertuig- en wapen-library |
@@ -405,7 +415,7 @@ Melee-hitboxes, projectielen, guns, lag-compensatie en zones. (54 repos)
 
 ## AI, NPC's & machine learning
 
-Neurale netwerken, behavior trees, pathfinding, boids en LLM-NPC's. (33 repos)
+Neurale netwerken, behavior trees, pathfinding, boids en LLM-NPC's. (35 repos)
 
 | Repo | ⭐ | Wat het doet |
 |---|---:|---|
@@ -433,6 +443,8 @@ Neurale netwerken, behavior trees, pathfinding, boids en LLM-NPC's. (33 repos)
 | [glindberg2000/roblox_ai](https://github.com/glindberg2000/roblox_ai) | 2 | AI-gestuurd NPC-systeem (LLM) |
 | [ProtonDev-sys/StridePath](https://github.com/ProtonDev-sys/StridePath) | 2 | Strict pathfinding met cached navgrid en jump-aware waypoints |
 | [Infrear/roblox-ac-based-npc-follower](https://github.com/Infrear/roblox-ac-based-npc-follower) | 2 | Client-side NPC-follower met physics en animatie-blending |
+| [13th-btw/OGAS](https://github.com/13th-btw/OGAS) | 2 | Goal/Action-systeem (GOAP-stijl) voor AI-gedrag |
+| [g0ofycat/PathfindingModule](https://github.com/g0ofycat/PathfindingModule) | 2 | Verzameling pathfinding-algoritmes en modules |
 | [regibus361/AIBusPassengers](https://github.com/regibus361/AIBusPassengers) | 1 | NPC-passagiers voor bus-games |
 | [luandrew66-ctrl/SmartNPC](https://github.com/luandrew66-ctrl/SmartNPC) | 1 | AI-NPC's met gesprekken, geheugen en behavior trees |
 | [nsawill1405/Pathfinding-Plus](https://github.com/nsawill1405/Pathfinding-Plus) | 1 | Crowd-aware pathfinding met replanning en agent-coördinatie |
@@ -445,7 +457,7 @@ Neurale netwerken, behavior trees, pathfinding, boids en LLM-NPC's. (33 repos)
 
 ## Procedurele generatie & wiskunde
 
-Voxels, dungeons, doolhoven, wave function collapse, noise en curves. (39 repos)
+Voxels, dungeons, doolhoven, wave function collapse, noise en curves. (41 repos)
 
 | Repo | ⭐ | Wat het doet |
 |---|---:|---|
@@ -480,6 +492,8 @@ Voxels, dungeons, doolhoven, wave function collapse, noise en curves. (39 repos)
 | [ffrostfall/polybool-luau](https://github.com/ffrostfall/polybool-luau) | 2 | Polygon boolean-operaties in Luau |
 | [Kvil-git/Luau-Catmull-Rom-Spline](https://github.com/Kvil-git/Luau-Catmull-Rom-Spline) | 2 | Catmull-Rom splines voor NPC-paden en camera's |
 | [IrishFix/rbxts-volume3](https://github.com/IrishFix/rbxts-volume3) | 2 | 3D convex-hull volumes met efficiënte collision/object-detectie in roblox-ts |
+| [EgoMoose/priority-queue-luau](https://github.com/EgoMoose/priority-queue-luau) | 2 | Heap-gebaseerde priority queue (EgoMoose) |
+| [MineFranck/BezierService](https://github.com/MineFranck/BezierService) | 2 | Bézier-curves service voor paden en animaties |
 | [AidenTran900/markov-luau](https://github.com/AidenTran900/markov-luau) | 1 | MarkovJunior / Wave Function Collapse in Luau |
 | [Mythus-Z/Procedural-Dungeon-Generation-Roblox-](https://github.com/Mythus-Z/Procedural-Dungeon-Generation-Roblox-) | 1 | Voxel-dungeons: 2000 kamers / 100k voxels in < 1 seconde |
 | [Bryan0-0AG/Procedural-Dungeon-Generator_Roblox-Studio](https://github.com/Bryan0-0AG/Procedural-Dungeon-Generator_Roblox-Studio) | 1 | Vertakkende dungeons met gewogen kamer-templates en collision-checks |
@@ -491,7 +505,7 @@ Voxels, dungeons, doolhoven, wave function collapse, noise en curves. (39 repos)
 
 ## Networking & replicatie
 
-Buffer-netcode, IDL-compilers, encryptie en eigen replicatie. (83 repos)
+Buffer-netcode, IDL-compilers, encryptie en eigen replicatie. (88 repos)
 
 | Repo | ⭐ | Wat het doet |
 |---|---:|---|
@@ -565,12 +579,17 @@ Buffer-netcode, IDL-compilers, encryptie en eigen replicatie. (83 repos)
 | [synpixel/mirror](https://github.com/synpixel/mirror) | 3 | Simpele replicatie voor jecs |
 | [TheNexusAvenger/Nexus-Replication](https://github.com/TheNexusAvenger/Nexus-Replication) | 3 | State-replicatie voor custom instances |
 | [XoifaiI/RLNC](https://github.com/XoifaiI/RLNC) | 3 | Random linear network coding |
+| [revvy02/replecs-roblox](https://github.com/revvy02/replecs-roblox) | 3 | Breidt replecs uit met correcte Instance-replicatie (ECS-replicatie) |
 | [demi-dog/duplecs](https://github.com/demi-dog/duplecs) | 2 | Gegeneraliseerde high-performance replicatie voor jecs (ECS) |
 | [rbxxaxa/replicant](https://github.com/rbxxaxa/replicant) | 2 | Server-authoritative gerepliceerde componenten |
 | [ehilynxin/rbxts-ghostevent](https://github.com/ehilynxin/rbxts-ghostevent) | 2 | Event-systeem voor roblox-ts |
 | [KiUserExceptionDispatcher/RakNet-Reversal](https://github.com/KiUserExceptionDispatcher/RakNet-Reversal) | 2 | Reverse-engineered implementatie van Roblox' RakNet-protocol |
 | [sheepish12/Postie](https://github.com/sheepish12/Postie) | 2 | Veilig alternatief voor RemoteFunctions met timeout |
 | [nidorx/roblox-network-contract](https://github.com/nidorx/roblox-network-contract) | 2 | Client/server-events met encode, diff, patch en ack |
+| [CluelessD3v/ReplicatedTable](https://github.com/CluelessD3v/ReplicatedTable) | 2 | Tabellen automatisch server→client repliceren |
+| [cmchuu/RemoteInspector](https://github.com/cmchuu/RemoteInspector) | 2 | Volg netwerkverkeer (remotes) terwijl het door je game gaat |
+| [Awakenchan/BiPolar](https://github.com/Awakenchan/BiPolar) | 2 | Networking-module gericht op zo klein mogelijke packets |
+| [NotKisoMomo/Schema](https://github.com/NotKisoMomo/Schema) | 2 | Type-safe networking: channels, payload-validatie, reliable/unreliable/invoke |
 | [isoopod/PakNet](https://github.com/isoopod/PakNet) | 1 | Geschematiseerde networking-library |
 | [andrian-syh/rblx-twill](https://github.com/andrian-syh/rblx-twill) | 1 | Modulair framework: boot order, bewaakte networking, state-replicatie |
 | [bainchild/rpc2-rs](https://github.com/bainchild/rpc2-rs) | 1 | Bidirectionele RPC tussen Roblox en Rust |
@@ -581,7 +600,7 @@ Buffer-netcode, IDL-compilers, encryptie en eigen replicatie. (83 repos)
 
 ## ECS & game-architectuur
 
-Entity Component Systems en frameworks voorbij Knit. (74 repos)
+Entity Component Systems en frameworks voorbij Knit. (79 repos)
 
 | Repo | ⭐ | Wat het doet |
 |---|---:|---|
@@ -649,6 +668,7 @@ Entity Component Systems en frameworks voorbij Knit. (74 repos)
 | [waterdreamer/e2en](https://github.com/waterdreamer/e2en) | 3 | Framework met middleware, strict types en lifecycle |
 | [sinwahn/RBXDuskFramework](https://github.com/sinwahn/RBXDuskFramework) | 3 | Lichtgewicht OOP-framework |
 | [intervinn/wirebox](https://github.com/intervinn/wirebox) | 3 | Constructor-based dependency injection |
+| [trungy-bui/flamework-nest](https://github.com/trungy-bui/flamework-nest) | 3 | NestJS-geïnspireerde controllerlaag voor Flamework en Remo |
 | [ryancundiff/chief](https://github.com/ryancundiff/chief) | 2 | Volledig getypeerd, getest module-framework |
 | [nodeal-framework/nodeal-runtime](https://github.com/nodeal-framework/nodeal-runtime) | 2 | Moderne development-paradigma's native in Studio |
 | [r-iva9/Allure](https://github.com/r-iva9/Allure) | 2 | Typesafe DI/IoC-framework voor Luau |
@@ -657,12 +677,16 @@ Entity Component Systems en frameworks voorbij Knit. (74 repos)
 | [ahmicy/silk](https://github.com/ahmicy/silk) | 2 | Intuïtief game-framework |
 | [pwncc/NComponents](https://github.com/pwncc/NComponents) | 2 | Unity-achtig component-systeem |
 | [gtraines/romox-ts](https://github.com/gtraines/romox-ts) | 2 | ECS-project in roblox-ts |
+| [royhanantariksaaa/flite-rbx](https://github.com/royhanantariksaaa/flite-rbx) | 2 | Express/Knit-geïnspireerd framework met Domains, Services, Views en Controllers |
+| [realthonik/Thread](https://github.com/realthonik/Thread) | 2 | Modern Knit-achtig game-framework, geharde en uitgebreidere variant |
+| [darkestdev/Struktura](https://github.com/darkestdev/Struktura) | 2 | Strict-typed framework (Knit/Cardinal-stijl) met Blink, Promise en LemonSignal |
+| [riptide-project/framework](https://github.com/riptide-project/framework) | 2 | Lichtgewicht, strict-typed, modulair framework |
 | [zblox164/Scrypt](https://github.com/zblox164/Scrypt) | 1 | Scrypt-framework |
 | [ZacharyVanier/VZNCore-Template](https://github.com/ZacharyVanier/VZNCore-Template) | 0 | Batteries-included ECS-framework template |
 
 ## UI & interface
 
-Reactieve UI, custom tekst, inventories, 2D-engines en mobiele controls. (169 repos)
+Reactieve UI, custom tekst, inventories, 2D-engines en mobiele controls. (184 repos)
 
 | Repo | ⭐ | Wat het doet |
 |---|---:|---|
@@ -753,6 +777,7 @@ Reactieve UI, custom tekst, inventories, 2D-engines en mobiele controls. (169 re
 | [howmanysmall/Hooks](https://github.com/howmanysmall/Hooks) | 7 | Hooks voor React (Roblox) |
 | [Tactycl/Nodekit](https://github.com/Tactycl/Nodekit) | 7 | Cocos2d-x-geïnspireerde UI-library |
 | [BarkusHxndaaa/ScreenNode](https://github.com/BarkusHxndaaa/ScreenNode) | 7 | ScreenNode-module |
+| [teribu/Everforest](https://github.com/teribu/Everforest) | 7 | Modulaire, aanpasbare UI-library in Luau (nieuw in 2026) |
 | [TenebrisNoctua/FusionFoundation](https://github.com/TenebrisNoctua/FusionFoundation) | 6 | Roblox' Foundation UI-library geport naar Fusion |
 | [Vvshenok/SpotlightUI](https://github.com/Vvshenok/SpotlightUI) | 6 | Tutorials maken met een "spotlight" die focus legt op UI-elementen |
 | [qwreey/quad](https://github.com/qwreey/quad) | 6 | Reactieve rendering-library voor Roblox en GTK |
@@ -807,6 +832,7 @@ Reactieve UI, custom tekst, inventories, 2D-engines en mobiele controls. (169 re
 | [cresmarmat-an/roblox-spark2d](https://github.com/cresmarmat-an/roblox-spark2d) | 3 | ParticleEmitter-effecten in ScreenGui |
 | [XoifaiI/CreateInstanceTree.luau](https://github.com/XoifaiI/CreateInstanceTree.luau) | 3 | Instances netjes aanmaken |
 | [RobocrafterLP/robo-minimap](https://github.com/RobocrafterLP/robo-minimap) | 3 | Minimap |
+| [astra-void/lattice-ui](https://github.com/astra-void/lattice-ui) | 3 | Headless-first UI-toolkit voor roblox-ts en @rbxts/react |
 | [gaymeowing/quantize-luau](https://github.com/gaymeowing/quantize-luau) | 2 | MMCQ kleur-kwantisatie (dominante kleuren uit afbeeldingen) |
 | [spin-the-hexagon/rover](https://github.com/spin-the-hexagon/rover) | 2 | Next-gen UI-framework |
 | [project-aether-ui/aether](https://github.com/project-aether-ui/aether) | 2 | Headless UI: één component draait in Roblox, desktop en CI |
@@ -816,6 +842,16 @@ Reactieve UI, custom tekst, inventories, 2D-engines en mobiele controls. (169 re
 | [elias4044/slateui](https://github.com/elias4044/slateui) | 2 | Modulair, event-driven UI-framework |
 | [Almost89/floating-ui-rbx](https://github.com/Almost89/floating-ui-rbx) | 2 | Floating UI (tooltips/popovers) geport naar Roblox |
 | [0zBug/Clutter](https://github.com/0zBug/Clutter) | 2 | Roact-alternatief met Flutter-achtige syntax |
+| [zythdotdev/roblox-flux](https://github.com/zythdotdev/roblox-flux) | 2 | Simpel reactief UI-framework voor Roblox |
+| [Runtem/vortexui](https://github.com/Runtem/vortexui) | 2 | Alternatief UI-tekstrenderingsframework (Vortex) |
+| [0jewell/amilia](https://github.com/0jewell/amilia) | 2 | Moderne sci-fi UI-componenten gebouwd met Vide |
+| [TonyCifer/fancy-text](https://github.com/TonyCifer/fancy-text) | 2 | Tekstrendering met custom fonts, effecten en inline iconen |
+| [vantoanvh/Pocket](https://github.com/vantoanvh/Pocket) | 2 | Modern, mooi geanimeerd backpack-systeem |
+| [Mewious/EditableFont](https://github.com/Mewious/EditableFont) | 2 | Custom font-rendering via EditableImage |
+| [anexpia/markua](https://github.com/anexpia/markua) | 2 | Tag-gebaseerde tekst-markup (XML/HTML-achtig) voor Luau |
+| [kotdes/pantheon](https://github.com/kotdes/pantheon) | 2 | Fusion 0.3+ componentenbibliotheek met focus op accessibility en theming |
+| [fittergem/SpringService](https://github.com/fittergem/SpringService) | 2 | UI-spring-module met dezelfde parameters als TweenService |
+| [ImAvafe/sculpt](https://github.com/ImAvafe/sculpt) | 2 | Draagbare UI-toolkit voor Roblox |
 | [CavefulGames/i18nom](https://github.com/CavefulGames/i18nom) | 1 | Lokalisatie voor reactieve UI-libraries |
 | [gdr1461/GEditor](https://github.com/gdr1461/GEditor) | 1 | In-game script-editor interface |
 | [Novaly-Studios/UIParticle](https://github.com/Novaly-Studios/UIParticle) | 1 | Particles in de UI |
@@ -827,6 +863,8 @@ Reactieve UI, custom tekst, inventories, 2D-engines en mobiele controls. (169 re
 | [Alexpoopy1/HTMLuau](https://github.com/Alexpoopy1/HTMLuau) | 1 | HTML direct in Roblox Luau bouwen |
 | [port22exposed/rbxcreate](https://github.com/port22exposed/rbxcreate) | 1 | Syntactic sugar om Instances te declareren met strikte types |
 | [josha/Facet](https://github.com/josha/Facet) | 1 | Declaratieve, testbare UI-library |
+| [nrbx-ts/rbxts-react](https://github.com/nrbx-ts/rbxts-react) | 1 | Custom @rbxts/react-fork die React 19 spiegelt, met extra features |
+| [nrbx-ts/rbxts-topbar-components](https://github.com/nrbx-ts/rbxts-topbar-components) | 1 | Topbar-componenten met extra functionaliteit voor roblox-ts |
 | [Vvshenok/ContextUI](https://github.com/Vvshenok/ContextUI) | 0 | Context- en hover-panelen met docking en pinning |
 | [AnotherSubatomo/pii](https://github.com/AnotherSubatomo/pii) | 0 | Pico-size pseudo-immediate-mode UI |
 | [rvila94/SimpleToasts](https://github.com/rvila94/SimpleToasts) | 0 | Toast-notificaties zonder dependencies |
@@ -835,10 +873,11 @@ Reactieve UI, custom tekst, inventories, 2D-engines en mobiele controls. (169 re
 | [spavdigital/roblox-r6-character-creation](https://github.com/spavdigital/roblox-r6-character-creation) | 0 | R6 character-creatie |
 | [mmdj04/Luau2DWorld](https://github.com/mmdj04/Luau2DWorld) | 0 | 2D UI game-engine: procedurele wereld, chunks, inventory, fog-of-war |
 | [jaipack17/roblox-verlet](https://github.com/jaipack17/roblox-verlet) | 0 | Verlet-integratie projecten in GUI's (touw, doek) |
+| [ninjaninja140/basix-ui](https://github.com/ninjaninja140/basix-ui) | 0 | roblox-ts-implementatie van mui/base-ui (headless componenten) |
 
 ## Camera & cutscenes
 
-Camera-shake, custom camera's, cutscene-tools en timelines. (19 repos)
+Camera-shake, custom camera's, cutscene-tools en timelines. (20 repos)
 
 | Repo | ⭐ | Wat het doet |
 |---|---:|---|
@@ -854,6 +893,7 @@ Camera-shake, custom camera's, cutscene-tools en timelines. (19 repos)
 | [valutekat/CutsceneStudio-v1.7](https://github.com/valutekat/CutsceneStudio-v1.7) | 2 | Cutscenes maken in Studio |
 | [mlwre-off/RoPlay](https://github.com/mlwre-off/RoPlay) | 2 | Replay-recorder en editor (zoals Minecraft Replay Mod) met camera-keyframes |
 | [TylrPopcorn/Floating-Camera-Part](https://github.com/TylrPopcorn/Floating-Camera-Part) | 2 | Camera-manipulatie met zwevende camera-part |
+| [higuysimaugust/procam](https://github.com/higuysimaugust/procam) | 2 | Fork van freecam met 50+ nieuwe features en fixes |
 | [Reapimus/grims-cutscene-engine](https://github.com/Reapimus/grims-cutscene-engine) | 1 | Cutscene-systeem + plugin |
 | [nilleniumrust/SpringShaker](https://github.com/nilleniumrust/SpringShaker) | 1 | Camera-shaker met springs + Perlin noise |
 | [Seftube/RobloxCameraSystem](https://github.com/Seftube/RobloxCameraSystem) | 1 | Realistisch camerasysteem (volledig lokaal) |
@@ -910,7 +950,7 @@ Full-body VR, SteamVR-trackers en webcam-tracking. (15 repos)
 
 ## Data, opslag & serialisatie
 
-DataStores, serialisatie, compressie, state en big numbers. (136 repos)
+DataStores, serialisatie, compressie, state en big numbers. (141 repos)
 
 | Repo | ⭐ | Wat het doet |
 |---|---:|---|
@@ -1039,6 +1079,10 @@ DataStores, serialisatie, compressie, state en big numbers. (136 repos)
 | [adhiski/ropinia](https://github.com/adhiski/ropinia) | 2 | Pinia-achtige state management |
 | [JuanCrakYT/RtG-Format](https://github.com/JuanCrakYT/RtG-Format) | 2 | Documentatie van het bouw/save-systeem van Road to Gramby's |
 | [evaera/rbx-resources](https://github.com/evaera/rbx-resources) | 2 | Game-assets en named instances voor roblox-ts |
+| [Larsen-dev/bufferUtils](https://github.com/Larsen-dev/bufferUtils) | 2 | Gemengde Luau-tabellen (Vector3, CFrame, Instances, nested) naar buffers serialiseren |
+| [Sebastian2852/Encapsulate](https://github.com/Sebastian2852/Encapsulate) | 2 | Simpel state-management |
+| [anthony0br/documents](https://github.com/anthony0br/documents) | 2 | Mogelijke opvolger van DocumentService (getypeerde DataStore-documenten) |
+| [iamthebestts/lux](https://github.com/iamthebestts/lux) | 2 | Lichtgewicht global state management |
 | [nightcycle/compression-util](https://github.com/nightcycle/compression-util) | 1 | Roblox-types comprimeren |
 | [text21/SlotCore](https://github.com/text21/SlotCore) | 1 | Multi-slot saves met migraties, middleware, admin-console en globale leaderboards |
 | [Distracted-Games/ProfileStore2](https://github.com/Distracted-Games/ProfileStore2) | 1 | Modulaire, type-safe, async refactor van ProfileStore |
@@ -1050,10 +1094,11 @@ DataStores, serialisatie, compressie, state en big numbers. (136 repos)
 | [R-unic/diff](https://github.com/R-unic/diff) | 0 | Verschillen tussen objecten berekenen en toepassen |
 | [ElixNoir/Roblox-Codec](https://github.com/ElixNoir/Roblox-Codec) | 0 | Bytes efficiënt in buffers packen |
 | [Dinojan-D/NDArrayLuau](https://github.com/Dinojan-D/NDArrayLuau) | 0 | NumPy-achtige multi-dimensionale arrays voor Luau |
+| [nrbx-ts/rbxts-kv](https://github.com/nrbx-ts/rbxts-kv) | 0 | Key-value service met optionele persistente opslag |
 
 ## Game-systemen & utilities
 
-Quests, dialogen, input, trading, admin, signals en meer. (235 repos)
+Quests, dialogen, input, trading, admin, signals en meer. (243 repos)
 
 | Repo | ⭐ | Wat het doet |
 |---|---:|---|
@@ -1249,6 +1294,13 @@ Quests, dialogen, input, trading, admin, signals en meer. (235 repos)
 | [vocksel/tag](https://github.com/vocksel/tag) | 2 | Typesafe CollectionService-tags |
 | [Mullets-Gavin/Manager](https://github.com/Mullets-Gavin/Manager) | 2 | Connections, events en task scheduler beheren |
 | [NilScripter/RoClass](https://github.com/NilScripter/RoClass) | 2 | OOP-classes |
+| [filoxen/rbx-reface](https://github.com/filoxen/rbx-reface) | 2 | Herstelt klassieke decal-gezichten na de Dynamic Head-migratie |
+| [RazAPI/Smart-Resource-Control](https://github.com/RazAPI/Smart-Resource-Control) | 2 | Slimme resource-control die performance bewaakt en crashes helpt voorkomen |
+| [rusty-luau/std](https://github.com/rusty-luau/std) | 2 | Rust-idiomen (Option, Result, iterators) geporteerd naar Luau |
+| [elliemakesmanygames/state-machine](https://github.com/elliemakesmanygames/state-machine) | 2 | Lichtgewicht, procedurele experimentele state machine |
+| [mendezingridvanessa85-blip/EconomyService](https://github.com/mendezingridvanessa85-blip/EconomyService) | 2 | Server-authoritative economie: session locking, generators, offline income, shop en prestige |
+| [DivineNot/Debris](https://github.com/DivineNot/Debris) | 2 | Efficiënte debris-scheduler als vervanging voor Debris:AddItem |
+| [Akari-yn/CoreFinder](https://github.com/Akari-yn/CoreFinder) | 2 | Schat hoeveel parallelle CPU-cores beschikbaar zijn voor Actors (Parallel Luau) |
 | [DavidXu1721/Roblox_GridBasedInventorySystem](https://github.com/DavidXu1721/Roblox_GridBasedInventorySystem) | 1 | Grid-based inventory (tutorial-reeks) |
 | [sam4922/Roblox-ServerClientTradeFramework](https://github.com/sam4922/Roblox-ServerClientTradeFramework) | 1 | Server-framework voor een trade-systeem |
 | [MrBlueMW/GameStarter](https://github.com/MrBlueMW/GameStarter) | 1 | Plugin: één-klik dialogen, matchmaking, shops, leaderboards, loot boxes |
@@ -1292,6 +1344,7 @@ Quests, dialogen, input, trading, admin, signals en meer. (235 repos)
 | [ryanleem/Roblox-Building-and-Placement-System](https://github.com/ryanleem/Roblox-Building-and-Placement-System) | 0 | Bouwsysteem: roteren, plaatsen en aan elkaar snappen |
 | [Frieda-VI/building-system](https://github.com/Frieda-VI/building-system) | 0 | Open-source placement-systeem |
 | [emdomanus/tempo](https://github.com/emdomanus/tempo) | 0 | Low-overhead phase-aware scheduler met task-ID's en pooling |
+| [shysolocup/rbxts-rquery](https://github.com/shysolocup/rbxts-rquery) | 0 | jQuery-achtige helpers voor instances, properties en attributes in roblox-ts |
 
 ## Security & anticheat
 
@@ -1337,7 +1390,7 @@ Hashing, encryptie, logins, permissies, rate limiting en anticheat. (35 repos)
 
 ## Next-level / experimenteel
 
-Luau-in-Luau, emulators, DOOM, N64, video, Python-in-Luau en game-ports. (139 repos)
+Luau-in-Luau, emulators, DOOM, N64, video, Python-in-Luau en game-ports. (143 repos)
 
 | Repo | ⭐ | Wat het doet |
 |---|---:|---|
@@ -1466,6 +1519,8 @@ Luau-in-Luau, emulators, DOOM, N64, video, Python-in-Luau en game-ports. (139 re
 | [sbeltranc/Kerosene](https://github.com/sbeltranc/Kerosene) | 2 | Roblox Service-API's emuleren in Ruby on Rails |
 | [roblox-csharp/types](https://github.com/roblox-csharp/types) | 2 | Type-definities en generator voor Roblox C# |
 | [cubacadabra/web](https://github.com/cubacadabra/web) | 2 | Browser-client van Cubacadabra (Luau-gamepackages) |
+| [MrRoblick/lime-vm](https://github.com/MrRoblick/lime-vm) | 2 | Lime: een Luau virtual machine geschreven in Luau |
+| [chteau/rbx-native](https://github.com/chteau/rbx-native) | 2 | Onofficiële native Studio-achtige editor in Rust (GPUI + wgpu) die .rbxl opent, rendert en bewerkt |
 | [pon331/luau-vm](https://github.com/pon331/luau-vm) | 1 | Moderne Luau VM in Luau |
 | [PhantomShift/rbx-pen-showcase](https://github.com/PhantomShift/rbx-pen-showcase) | 1 | Tablet-pen druk in Roblox via een geëmuleerde controller |
 | [crownaintanoob/VideoToRobloxPlayer](https://github.com/crownaintanoob/VideoToRobloxPlayer) | 1 | Video naar frames/pixels omzetten en in Roblox tonen |
@@ -1480,10 +1535,12 @@ Luau-in-Luau, emulators, DOOM, N64, video, Python-in-Luau en game-ports. (139 re
 | [coolguy65161/QuBlox](https://github.com/coolguy65161/QuBlox) | 0 | Quantumcomputer-simulator in Luau |
 | [Builder-Pals/native-legacy](https://github.com/Builder-Pals/native-legacy) | 0 | Restauratieproject voor Roblox 2006-2014 |
 | [KartzRbx/CLPP](https://github.com/KartzRbx/CLPP) | 0 | CL++: C++-achtige taal die naar Luau compileert |
+| [highlou/luauvm](https://github.com/highlou/luauvm) | 0 | Virtual machine met assembler en compiler voor een B-achtige taal, in roblox-ts |
+| [nrbx-ts/rbxts-luau-vm](https://github.com/nrbx-ts/rbxts-luau-vm) | 0 | Loadstring-achtige Luau-VM om code uit strings in-game uit te voeren |
 
 ## API's & externe integraties
 
-Open Cloud, web-API's, Discord, databases en analytics. (125 repos)
+Open Cloud, web-API's, Discord, databases en analytics. (131 repos)
 
 | Repo | ⭐ | Wat het doet |
 |---|---:|---|
@@ -1604,32 +1661,43 @@ Open Cloud, web-API's, Discord, databases en analytics. (125 repos)
 | [C0mplexity0/Unit-to-Roblox-Studs-Converter](https://github.com/C0mplexity0/Unit-to-Roblox-Studs-Converter) | 2 | Echte eenheden omrekenen naar studs |
 | [Novaly-Studios/roblox-webhook-worker](https://github.com/Novaly-Studios/roblox-webhook-worker) | 2 | Verwerkt Roblox-webhooks (o.a. GDPR-verzoeken) |
 | [Roblox-Trackers/Roblox-Asset-Types-Tracker](https://github.com/Roblox-Trackers/Roblox-Asset-Types-Tracker) | 2 | Houdt wijzigingen in asset types bij |
+| [b-j-roberts/starknet-luau](https://github.com/b-j-roberts/starknet-luau) | 2 | Luau Starknet-SDK voor blockchain-integraties in Roblox |
+| [0hirume/roblox-open-cloud](https://github.com/0hirume/roblox-open-cloud) | 2 | Open Cloud API-client in Rust |
+| [OutOfBears/rbx-configs](https://github.com/OutOfBears/rbx-configs) | 2 | CLI voor Roblox Configs (experience-configuratie als code) |
+| [Caylies/Discord.luau](https://github.com/Caylies/Discord.luau) | 2 | Discord API-wrapper voor Luau met Lute |
 | [exurd/roblox_wb_proxy](https://github.com/exurd/roblox_wb_proxy) | 1 | De Wayback Machine als Roblox API-proxy |
 | [G0tzya/RoNexo](https://github.com/G0tzya/RoNexo) | 1 | Friend-tracking en playtime-analytics (Chrome-extensie + Rust-server) |
 | [dinevolence/roblox-stats-tracker](https://github.com/dinevolence/roblox-stats-tracker) | 1 | Logt visits, favorites en spelers van games/groepen naar CSV |
 | [ernisto/ro-cloud](https://github.com/ernisto/ro-cloud) | 1 | Open Cloud-utilities in Luau |
+| [3xpluto/roblox-license-backend](https://github.com/3xpluto/roblox-license-backend) | 1 | Rust/Axum licentie-backend voor Roblox-producten (orders, licenties, verificatie) |
 | [Naymmmm/openai.luau](https://github.com/Naymmmm/openai.luau) | 0 | OpenAI API-wrapper voor Lune en Roblox |
 | [Kylaaa/TwitchBlox](https://github.com/Kylaaa/TwitchBlox) | 0 | Twitch-stream events in Roblox |
 | [vweatherstation/vweatherstation-roblox](https://github.com/vweatherstation/vweatherstation-roblox) | 0 | Echt weer van de wereld live in je game syncen |
 | [top-stats/analytics-roblox-integration](https://github.com/top-stats/analytics-roblox-integration) | 0 | TopStats analytics-integratie met track-API |
+| [nrbx-ts/rbxts-sentry](https://github.com/nrbx-ts/rbxts-sentry) | 0 | Sentry-errortracking voor roblox-ts (port van sentry-roblox) |
 
 ## AI-tools voor Roblox-development
 
-MCP-servers, AI-agents en skills die in Studio kunnen bouwen. (50 repos)
+MCP-servers, AI-agents en skills die in Studio kunnen bouwen. (64 repos)
 
 | Repo | ⭐ | Wat het doet |
 |---|---:|---|
+| [gamedev-skills/awesome-gamedev-agent-skills](https://github.com/gamedev-skills/awesome-gamedev-agent-skills) | 1135 | 73 game-dev skills voor AI-agents (Claude Code, Cursor, Codex) incl. Roblox |
 | [boshyxd/robloxstudio-mcp](https://github.com/boshyxd/robloxstudio-mcp) | 486 | MCP-server: agentic AI-workflows in Roblox Studio |
 | [Chrrxs/robloxstudio-mcp](https://github.com/Chrrxs/robloxstudio-mcp) | 253 | MCP-server: AI-agents laten debuggen, playtesten en screenshots maken in Studio |
+| [paralov/app-bloxbot-ai](https://github.com/paralov/app-bloxbot-ai) | 90 | Desktop-app om Roblox-games te bouwen met AI |
 | [hope1026/weppy-roblox-mcp](https://github.com/hope1026/weppy-roblox-mcp) | 61 | MCP-server + plugin: AI-assistenten scripts, terrain, lighting laten maken |
 | [TabooHarmony/roblox-brain](https://github.com/TabooHarmony/roblox-brain) | 56 | Skill-library met Roblox Studio-kennis voor AI-coding agents |
 | [Smokestack-Games/rbxsync](https://github.com/Smokestack-Games/rbxsync) | 31 | Sync Roblox-games tussen Studio en VS Code met ingebouwde MCP-integratie |
 | [MSayib/roblox-dev-skill](https://github.com/MSayib/roblox-dev-skill) | 25 | Kennisbank die AI-assistenten Roblox-experts maakt |
 | [ohzw/roblox-dev-skills](https://github.com/ohzw/roblox-dev-skills) | 18 | AI-skills om 3D-objecten en maps te bouwen via MCP |
+| [n4tivex/mcp-roblox-docs](https://github.com/n4tivex/mcp-roblox-docs) | 17 | MCP-server die Roblox-documentatie aan AI-assistenten geeft |
+| [liortesta/roblox-voice-creator-2026](https://github.com/liortesta/roblox-voice-creator-2026) | 17 | Bouw Roblox-games door te spreken (Hebreeuws), voice-gestuurde builder voor kinderen |
 | [nonlooped/roblox-suite](https://github.com/nonlooped/roblox-suite) | 16 | Skill-set voor AI-agents met accurate Roblox-richtlijnen |
 | [luumenlabs/luau-skills](https://github.com/luumenlabs/luau-skills) | 12 | Agent-skills voor Luau en Roblox-development |
 | [AshExplained/roblox-skills](https://github.com/AshExplained/roblox-skills) | 10 | 34 Claude Code skills voor Roblox-gamedev |
 | [CodePhobiia/claude-roblox-game-studio](https://github.com/CodePhobiia/claude-roblox-game-studio) | 9 | Claude Code als Roblox-studio: 36 agents, 50 skills, Luau-wiki |
+| [AmmrYsir/roblox-studio-mcp-for-antigravity](https://github.com/AmmrYsir/roblox-studio-mcp-for-antigravity) | 9 | Roblox Studio MCP-integratie voor Google Antigravity |
 | [Pugbread/ro-sync](https://github.com/Pugbread/ro-sync) | 8 | Local-first Studio control plane voor mensen en coding agents |
 | [rustyspottedcatt/RoLLM](https://github.com/rustyspottedcatt/RoLLM) | 8 | LLM-integratie voor Roblox |
 | [paralov/roblox-studio-opencode-mcp](https://github.com/paralov/roblox-studio-opencode-mcp) | 8 | MCP voor Studio met OpenCode |
@@ -1638,10 +1706,13 @@ MCP-servers, AI-agents en skills die in Studio kunnen bouwen. (50 repos)
 | [JustineDevs/roblox-ai-os](https://github.com/JustineDevs/roblox-ai-os) | 7 | Roblox AI OS: skills voor Codex, Claude, Cursor |
 | [PathOnAIOrg/game-arena-roblox-starter](https://github.com/PathOnAIOrg/game-arena-roblox-starter) | 7 | Starter-code voor Game Arena (AI speelt Roblox-games) |
 | [EL4CTEO/rbx-studio-mcp](https://github.com/EL4CTEO/rbx-studio-mcp) | 6 | Gratis MCP-server voor Studio (35 tools, coding agents in een console-paneel) |
+| [drgost1/robloxstudio-mcp](https://github.com/drgost1/robloxstudio-mcp) | 6 | MCP-server voor Roblox Studio met 51 tools |
 | [iamthebestts/RoDocs-MCP](https://github.com/iamthebestts/RoDocs-MCP) | 5 | MCP die je AI de juiste Roblox-docs geeft |
 | [dig1t/skills](https://github.com/dig1t/skills) | 5 | AI-agent skills voor Roblox-development |
 | [Roxlit/installer](https://github.com/Roxlit/installer) | 5 | Launcher die AI-tools aan Studio koppelt (Rojo, MCP, context packs) |
 | [Point58/Claude-code-roblox-mcp](https://github.com/Point58/Claude-code-roblox-mcp) | 4 | Claude Code MCP voor Roblox |
+| [madebyshaurya/stud](https://github.com/madebyshaurya/stud) | 4 | AI-agent voor Roblox Studio |
+| [drgost1/Tufan-Blox-Bridge](https://github.com/drgost1/Tufan-Blox-Bridge) | 4 | Eén plugin die Argon two-way sync en MCP AI-tools combineert |
 | [Onur45500/blockforge](https://github.com/Onur45500/blockforge) | 3 | Desktop-app om Roblox-games te bouwen met AI-agents |
 | [EL4CTEO/roblox-devforum-mcp](https://github.com/EL4CTEO/roblox-devforum-mcp) | 3 | Geeft je AI-agent toegang tot de DevForum en docs |
 | [Underscoretime/OpenBlox](https://github.com/Underscoretime/OpenBlox) | 3 | AI-systemen koppelen aan Roblox Studio |
@@ -1657,6 +1728,11 @@ MCP-servers, AI-agents en skills die in Studio kunnen bouwen. (50 repos)
 | [HungryKelvin123/dstack](https://github.com/HungryKelvin123/dstack) | 2 | AI-skills voor Roblox-development |
 | [furkangulbeyaz/nakruflogic](https://github.com/furkangulbeyaz/nakruflogic) | 2 | AI-systeem: code-debugger, dynamische NPC's |
 | [DeftSolutions-dev/mcp-serotonin](https://github.com/DeftSolutions-dev/mcp-serotonin) | 2 | MCP-server die LLM-agents aan een Lua-runtime koppelt |
+| [Justice219/roblox-studio-mcp](https://github.com/Justice219/roblox-studio-mcp) | 2 | MCP-server: AI-assistenten lezen, maken, wijzigen en verwijderen instances in Studio |
+| [Flamingpuffins/Roblox-BuildKit](https://github.com/Flamingpuffins/Roblox-BuildKit) | 2 | MCP-server + plugin: stuurbare camera-captures, plattegrond-cutaways en parametrisch bouwen |
+| [Brianmogger06/robloxforge](https://github.com/Brianmogger06/robloxforge) | 2 | Autonome AI-agent voor Roblox Studio met 50+ getypeerde MCP-tools |
+| [Allusia1/RoBridge](https://github.com/Allusia1/RoBridge) | 2 | Lokale MCP-server + Studio-plugin + dashboard voor AI-agents |
+| [luumenlabs/code](https://github.com/luumenlabs/code) | 2 | Geef je coding agent (Claude Code/Codex) toegang tot Roblox Studio |
 | [frrazer/roblox-analytics-mcp](https://github.com/frrazer/roblox-analytics-mcp) | 1 | MCP-server voor experience-analytics (DAU, revenue, retentie) |
 | [egwmiadg/luau-gemini](https://github.com/egwmiadg/luau-gemini) | 1 | Google Gemini in Roblox |
 | [rbxrootx/roxo-mcp](https://github.com/rbxrootx/roxo-mcp) | 1 | MCP-native Rojo: filesystem-sync die AI-agents kunnen besturen |
@@ -1667,12 +1743,13 @@ MCP-servers, AI-agents en skills die in Studio kunnen bouwen. (50 repos)
 | [szlay/roblox-base](https://github.com/szlay/roblox-base) | 1 | Claude Code starter: Rojo, Luau-checks, Studio-MCP en 32 skills |
 | [3m4rio/GDev](https://github.com/3m4rio/GDev) | 1 | Claude-klare workspace met skills, templates en MCP-gids |
 | [HuntaPrizle/vibeblox](https://github.com/HuntaPrizle/vibeblox) | 1 | Starter-template om met een AI-agent Roblox-games te bouwen |
+| [quanticsoul4772/mcp-roblox](https://github.com/quanticsoul4772/mcp-roblox) | 1 | Snelle Rust MCP-server voor Roblox Studio met Claude Code-integratie |
 | [10kkyvl/studioforge](https://github.com/10kkyvl/studioforge) | 0 | Project-workflow voor Claude Code + Studio: context, orchestratie, validatie |
 | [cortex-rbx/roblox-ai-kit](https://github.com/cortex-rbx/roblox-ai-kit) | 0 | Plugin: Engels naar Luau + SDK voor pratende NPC's en moderatie |
 
 ## Tooling & workflow
 
-Runtimes, sync-tools, package managers, asset-pipelines, CI en docs. (365 repos)
+Runtimes, sync-tools, package managers, asset-pipelines, CI en docs. (386 repos)
 
 | Repo | ⭐ | Wat het doet |
 |---|---:|---|
@@ -1895,6 +1972,7 @@ Runtimes, sync-tools, package managers, asset-pipelines, CI en docs. (365 repos)
 | [ffrostfall/heluau](https://github.com/ffrostfall/heluau) | 5 | heluau (Luau-tool) |
 | [yaeju1205/luau-precinct](https://github.com/yaeju1205/luau-precinct) | 5 | Code-dependencies vinden in pure Luau |
 | [tijnepema/create-roblox](https://github.com/tijnepema/create-roblox) | 5 | Template-CLI voor projecten |
+| [MrRoblick/roblox_asset_downloader](https://github.com/MrRoblick/roblox_asset_downloader) | 5 | Rust-tool om Roblox-assets te downloaden |
 | [OnaticDev/Roblox-Luau-Reference](https://github.com/OnaticDev/Roblox-Luau-Reference) | 4 | Minder bekende Luau-features, syntax en patterns met voorbeelden |
 | [KSAGlory/KSA-Accessibility-Preflight](https://github.com/KSAGlory/KSA-Accessibility-Preflight) | 4 | Toegankelijkheid-check: contrast, tekstgrootte, reduced motion |
 | [suscersal/roblox-studio-web](https://github.com/suscersal/roblox-studio-web) | 4 | .rbxl-parser + web-viewer (Studio in de browser) |
@@ -1926,6 +2004,8 @@ Runtimes, sync-tools, package managers, asset-pipelines, CI en docs. (365 repos)
 | [revvy02/bench](https://github.com/revvy02/bench) | 4 | Uitgebreide benchmark-library |
 | [depthso/FastlyParse](https://github.com/depthso/FastlyParse) | 4 | Multi-platform Luau-parser |
 | [SolarHorizon/fully-managed-rojo](https://github.com/SolarHorizon/fully-managed-rojo) | 4 | Volledig beheerde Rojo-setup |
+| [SenorLawyer/Source2Roblox](https://github.com/SenorLawyer/Source2Roblox) | 4 | Source Engine-maps en assets naar Roblox converteren |
+| [Nedas-Jaronis/roblox-ugc-pipeline](https://github.com/Nedas-Jaronis/roblox-ugc-pipeline) | 4 | Lokale pipeline om UGC-avatars/accessoires te genereren, riggen, texturen en valideren (cube3d + Blender) |
 | [Avant-Rbx/Avant-Plugin](https://github.com/Avant-Rbx/Avant-Plugin) | 3 | Unit tests draaien in Studio |
 | [bstummer/benchmarking](https://github.com/bstummer/benchmarking) | 3 | Code-snelheid meten en vergelijken |
 | [Dekkonot/open-cloud-execute-gui](https://github.com/Dekkonot/open-cloud-execute-gui) | 3 | GUI-app om Luau via Open Cloud uit te voeren |
@@ -1959,6 +2039,10 @@ Runtimes, sync-tools, package managers, asset-pipelines, CI en docs. (365 repos)
 | [0x5eal/clap.luau](https://github.com/0x5eal/clap.luau) | 3 | Command-line parser voor Lune |
 | [fxxizan/VectorViz](https://github.com/fxxizan/VectorViz) | 3 | Vectoren visualiseren |
 | [deployor/hackatime-roblox](https://github.com/deployor/hackatime-roblox) | 3 | Codeertijd bijhouden in Studio (Hackatime) |
+| [Chrrxs/carbon](https://github.com/Chrrxs/carbon) | 3 | Instance-aware source control voor Roblox-places |
+| [LithHash/Fuse](https://github.com/LithHash/Fuse) | 3 | Sync Roblox-projecten van en naar het filesystem (Rust) |
+| [neopolitans/Roswaal](https://github.com/neopolitans/Roswaal) | 3 | Visual scripting voor Roblox-Luau en Lune-Luau |
+| [setup-rbxcdn/setup-rbxcdn.github.io](https://github.com/setup-rbxcdn/setup-rbxcdn.github.io) | 3 | DeployHistory-fetcher: houdt alle Roblox-clientversies en verborgen hashes bij |
 | [TheNexusAvenger/Pulse](https://github.com/TheNexusAvenger/Pulse) | 2 | Debug-library met geheugenstatistieken |
 | [nightcycle/spreadsheet-to-luau](https://github.com/nightcycle/spreadsheet-to-luau) | 2 | Google Sheets/CSV/XLSX naar Luau-modules (game-balancing data!) |
 | [Name-hw/MeshConvert](https://github.com/Name-hw/MeshConvert) | 2 | Meshes op allerlei manieren converteren |
@@ -2002,6 +2086,16 @@ Runtimes, sync-tools, package managers, asset-pipelines, CI en docs. (365 repos)
 | [hello-42/never-again](https://github.com/hello-42/never-again) | 2 | Filesystem-installer voor Nevermore |
 | [0zBug/Benchmark](https://github.com/0zBug/Benchmark) | 2 | Simpele functie-benchmarker |
 | [jfculhane/lidar-to-roblox](https://github.com/jfculhane/lidar-to-roblox) | 2 | iPhone LiDAR-scans omzetten naar Roblox |
+| [chocolate-bar2410/tsukuyomi](https://github.com/chocolate-bar2410/tsukuyomi) | 2 | Markdown-documentatiegenerator voor Luau (Zensical) |
+| [Dexz00/Rbxlx-to-Rojo-Remake](https://github.com/Dexz00/Rbxlx-to-Rojo-Remake) | 2 | Complete remake van rbxlx-to-rojo: bestaande places omzetten naar Rojo-projecten |
+| [0jewell/bnnuy](https://github.com/0jewell/bnnuy) | 2 | CLI-tool om assets te beheren en te uploaden |
+| [wafflehouse-index/rbxts-auto-syncback](https://github.com/wafflehouse-index/rbxts-auto-syncback) | 2 | Automatische Rojo-syncback voor roblox-ts-projecten |
+| [BizWiz3/aura](https://github.com/BizWiz3/aura) | 2 | Axios-achtige HTTP-client voor Lune |
+| [Slay-Simulations/roblox-pipe](https://github.com/Slay-Simulations/roblox-pipe) | 2 | Quality-of-life CLI voor Roblox-development |
+| [jub0t/reverse-roblox-items](https://github.com/jub0t/reverse-roblox-items) | 2 | Download catalog-assets als GLB/OBJ voor Blender en Three.js |
+| [pwnwrkz/rbx_install](https://github.com/pwnwrkz/rbx_install) | 2 | Rust-crate om Roblox Studio-installaties te vinden |
+| [CatMan6112/RtVS_Roblox-To-Visual-Studio](https://github.com/CatMan6112/RtVS_Roblox-To-Visual-Studio) | 2 | Two-way sync tussen Studio en filesystem voor version control |
+| [howmanysmall/small-rules](https://github.com/howmanysmall/small-rules) | 2 | ESLint-regels geport naar Oxlint voor roblox-ts |
 | [stravant/roblox-gripedit](https://github.com/stravant/roblox-gripedit) | 1 | Tool-grip editor |
 | [RullzVyline/VectorFlow](https://github.com/RullzVyline/VectorFlow) | 1 | Realtime sync tussen Blender en Roblox Studio (EditableMesh) |
 | [ewd3v/roblox_graft](https://github.com/ewd3v/roblox_graft) | 1 | Hot reloading voor Roblox |
@@ -2019,6 +2113,9 @@ Runtimes, sync-tools, package managers, asset-pipelines, CI en docs. (365 repos)
 | [RoGrid-HQ/rogrid](https://github.com/RoGrid-HQ/rogrid) | 1 | Framework om games vanuit je editor te bouwen |
 | [robinskaba/roge](https://github.com/robinskaba/roge) | 1 | CLI voor package-versiebeheer |
 | [SpaceSquare640/RB_Skin_Forge](https://github.com/SpaceSquare640/RB_Skin_Forge) | 1 | Afbeeldingen en OBJ-meshes omzetten naar kledingtemplates |
+| [ewd3v/lune_graft](https://github.com/ewd3v/lune_graft) | 1 | Hot reloading voor Lune-scripts |
+| [CavefulGames/rbx-api-dump-lune](https://github.com/CavefulGames/rbx-api-dump-lune) | 1 | Werk met de Roblox API-dump vanuit Lune |
+| [Ranoobaba/rblx_dev](https://github.com/Ranoobaba/rblx_dev) | 1 | Git voor Roblox, geïntegreerd met Rojo |
 | [morgann1/studio-theme](https://github.com/morgann1/studio-theme) | 0 | VS Code-thema's gebruiken in Studio |
 | [morgann1/waldo](https://github.com/morgann1/waldo) | 0 | Het "add"-commando dat Wally mist |
 | [Hawakiki/roblox-rarn](https://github.com/Hawakiki/roblox-rarn) | 0 | Package manager voor het Wally-register zonder Rojo, met types |
@@ -2041,10 +2138,11 @@ Runtimes, sync-tools, package managers, asset-pipelines, CI en docs. (365 repos)
 | [projectx667/bloxcode-plus](https://github.com/projectx667/bloxcode-plus) | 0 | Visueel programmeren: Luau schrijven met Blockly-blokken |
 | [rbx-forge/rbx-cli](https://github.com/rbx-forge/rbx-cli) | 0 | Declaratieve deploy + live-ops (servers, data, spelers) via Open Cloud |
 | [Qoxu/Beep](https://github.com/Qoxu/Beep) | 0 | Test-toolkit: performance-analyse, visuele debugging, physics-tests |
+| [nrbx-ts/rbxts-glob](https://github.com/nrbx-ts/rbxts-glob) | 0 | Vite-achtige glob-imports voor roblox-ts at runtime |
 
 ## Studio-plugins
 
-Handige plugins voor bouwen, terrain, UI en workflow. (78 repos)
+Handige plugins voor bouwen, terrain, UI en workflow. (86 repos)
 
 | Repo | ⭐ | Wat het doet |
 |---|---:|---|
@@ -2121,15 +2219,23 @@ Handige plugins voor bouwen, terrain, UI en workflow. (78 repos)
 | [mkargus/Roblox-Plugins](https://github.com/mkargus/Roblox-Plugins) | 2 | Collectie diverse Studio-plugins |
 | [prepsure/scale-snap](https://github.com/prepsure/scale-snap) | 2 | Parts schalen met toetsen |
 | [Bytebit-Org/PathGenerationPlugin](https://github.com/Bytebit-Org/PathGenerationPlugin) | 2 | Plugin om paden te genereren |
+| [ivadsiuls/CodeKit](https://github.com/ivadsiuls/CodeKit) | 2 | Coding-toolkit plugin gebouwd met Vide |
+| [officialmelon/commandle](https://github.com/officialmelon/commandle) | 2 | VS Code-achtig command palette voor Roblox Studio |
+| [qzhcore/UI-Importer-Pro-](https://github.com/qzhcore/UI-Importer-Pro-) | 2 | Automatisch responsieve UI: recursieve Offset→Scale-conversie en AspectRatio-injectie |
+| [raylameows/Arc](https://github.com/raylameows/Arc) | 2 | Eenvoudige terminal binnen Roblox Studio |
+| [TeamHydrogen/Visuality](https://github.com/TeamHydrogen/Visuality) | 2 | Plugin om snel zichtbaarheid van models, parts en UI te togglen |
+| [zenodaguy/RConsole](https://github.com/zenodaguy/RConsole) | 2 | Console-library voor Roblox Studio |
 | [morgann1/stylua-for-roblox](https://github.com/morgann1/stylua-for-roblox) | 1 | StyLua als Studio-plugin |
 | [makwira/makwira](https://github.com/makwira/makwira) | 1 | Package manager zonder plugin |
+| [J4KEWasNotHere/Vigets-RBX](https://github.com/J4KEWasNotHere/Vigets-RBX) | 1 | Zet bestaande UI-objecten om naar Vide-code of UI-Labs stories |
 | [stravant/roblox-ropetool](https://github.com/stravant/roblox-ropetool) | 0 | RopeTool plugin |
 | [stravant/roblox-adhoc](https://github.com/stravant/roblox-adhoc) | 0 | Veel micro-tools in één plugin |
 | [Apisalam/BloxQA](https://github.com/Apisalam/BloxQA) | 0 | Plugin voor geautomatiseerde QA en gameplay-tests |
+| [raineyraine/plugin-components](https://github.com/raineyraine/plugin-components) | 0 | React-componenten voor het bouwen van Studio-plugins |
 
 ## Leren, open-source games & collecties
 
-Artikelen, complete open-source games, templates en curated lijsten. (174 repos)
+Artikelen, complete open-source games, templates en curated lijsten. (179 repos)
 
 | Repo | ⭐ | Wat het doet |
 |---|---:|---|
@@ -2269,6 +2375,10 @@ Artikelen, complete open-source games, templates en curated lijsten. (174 repos)
 | [tropicalbananas/robloxplacearchive](https://github.com/tropicalbananas/robloxplacearchive) | 2 | Archief van oude officiële places (o.a. originele Crossroads) |
 | [bobbybob2131/cookbook](https://github.com/bobbybob2131/cookbook) | 2 | Luau-codesnippets voor Roblox |
 | [hamywinter/Project-SCP-Plugins](https://github.com/hamywinter/Project-SCP-Plugins) | 2 | Plugins voor Project SCP |
+| [ThatRandomMaker/Roblox-Minigolf](https://github.com/ThatRandomMaker/Roblox-Minigolf) | 2 | Open-source minigolfgame voor Roblox |
+| [TheIllusionOfLife/tokyo_playground](https://github.com/TheIllusionOfLife/tokyo_playground) | 2 | Open-source party-minigame-platform in Tokio (Shibuya), roblox-ts |
+| [camren-m/launchpad](https://github.com/camren-m/launchpad) | 2 | Template voor continuous-deployed multi-place roblox-ts-experiences |
+| [MiaGobble/Rojo-Project-Example](https://github.com/MiaGobble/Rojo-Project-Example) | 2 | Rojo-template met automatisch publishen en automatische docs |
 | [aseemsahoocodes/roblox-simulator-engine](https://github.com/aseemsahoocodes/roblox-simulator-engine) | 1 | Simulator-engine: pets, eieren, ascensions, trading |
 | [3xpluto/roblox-clean-architecture-template](https://github.com/3xpluto/roblox-clean-architecture-template) | 1 | Clean-architecture template: DI, veilige netlaag, rate limiting, migraties |
 | [MarioChao/HeartPie](https://github.com/MarioChao/HeartPie) | 1 | Klassiek pie-hiking gear herbouwd |
@@ -2287,6 +2397,7 @@ Artikelen, complete open-source games, templates en curated lijsten. (174 repos)
 | [faranontheway/HollowWard](https://github.com/faranontheway/HollowWard) | 1 | Open-source horror game |
 | [MarkExKiana/ProjectStarFallCodebase](https://github.com/MarkExKiana/ProjectStarFallCodebase) | 1 | Volledige codebase van een Roblox-game |
 | [gievano/map-voice](https://github.com/gievano/map-voice) | 1 | Social hangout met voicechat, wardrobe, emotes en dag/nacht |
+| [littensy/react-vs-vide](https://github.com/littensy/react-vs-vide) | 1 | Benchmark: grote lijst geïmplementeerd in React én Vide ter vergelijking |
 | [tralfa42real/roblox-rpg-core-systems](https://github.com/tralfa42real/roblox-rpg-core-systems) | 0 | RPG-backend: profielen, equipment, economie, loot, guilds, enemy AI |
 | [lukas-mikalainis/roblox-precision-framework](https://github.com/lukas-mikalainis/roblox-precision-framework) | 0 | Server-authoritative movement + combat framework |
 | [Sworddao/ascendant-mortal](https://github.com/Sworddao/ascendant-mortal) | 0 | Xianxia cultivation MMORPG |

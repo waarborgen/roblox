@@ -121,13 +121,19 @@ Open Cloud, web-API's, Discord, databases en analytics.
 | [C0mplexity0/Unit-to-Roblox-Studs-Converter](https://github.com/C0mplexity0/Unit-to-Roblox-Studs-Converter) | 2 | Echte eenheden omrekenen naar studs |
 | [Novaly-Studios/roblox-webhook-worker](https://github.com/Novaly-Studios/roblox-webhook-worker) | 2 | Verwerkt Roblox-webhooks (o.a. GDPR-verzoeken) |
 | [Roblox-Trackers/Roblox-Asset-Types-Tracker](https://github.com/Roblox-Trackers/Roblox-Asset-Types-Tracker) | 2 | Houdt wijzigingen in asset types bij |
+| [b-j-roberts/starknet-luau](https://github.com/b-j-roberts/starknet-luau) | 2 | Luau Starknet-SDK voor blockchain-integraties in Roblox |
+| [0hirume/roblox-open-cloud](https://github.com/0hirume/roblox-open-cloud) | 2 | Open Cloud API-client in Rust |
+| [OutOfBears/rbx-configs](https://github.com/OutOfBears/rbx-configs) | 2 | CLI voor Roblox Configs (experience-configuratie als code) |
+| [Caylies/Discord.luau](https://github.com/Caylies/Discord.luau) | 2 | Discord API-wrapper voor Luau met Lute |
 | [exurd/roblox_wb_proxy](https://github.com/exurd/roblox_wb_proxy) | 1 | De Wayback Machine als Roblox API-proxy |
 | [G0tzya/RoNexo](https://github.com/G0tzya/RoNexo) | 1 | Friend-tracking en playtime-analytics (Chrome-extensie + Rust-server) |
 | [dinevolence/roblox-stats-tracker](https://github.com/dinevolence/roblox-stats-tracker) | 1 | Logt visits, favorites en spelers van games/groepen naar CSV |
 | [ernisto/ro-cloud](https://github.com/ernisto/ro-cloud) | 1 | Open Cloud-utilities in Luau |
+| [3xpluto/roblox-license-backend](https://github.com/3xpluto/roblox-license-backend) | 1 | Rust/Axum licentie-backend voor Roblox-producten (orders, licenties, verificatie) |
 | [Naymmmm/openai.luau](https://github.com/Naymmmm/openai.luau) | 0 | OpenAI API-wrapper voor Lune en Roblox |
 | [Kylaaa/TwitchBlox](https://github.com/Kylaaa/TwitchBlox) | 0 | Twitch-stream events in Roblox |
 | [vweatherstation/vweatherstation-roblox](https://github.com/vweatherstation/vweatherstation-roblox) | 0 | Echt weer van de wereld live in je game syncen |
 | [top-stats/analytics-roblox-integration](https://github.com/top-stats/analytics-roblox-integration) | 0 | TopStats analytics-integratie met track-API |
+| [nrbx-ts/rbxts-sentry](https://github.com/nrbx-ts/rbxts-sentry) | 0 | Sentry-errortracking voor roblox-ts (port van sentry-roblox) |
 
 [← Terug naar overzicht](../README.md)

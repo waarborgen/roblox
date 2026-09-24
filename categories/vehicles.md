@@ -20,6 +20,8 @@ Chassis, suspensie, hover, raketten, drijfvermogen en treinen.
 | [Astrophsica/Racing-Kit-Roblox](https://github.com/Astrophsica/Racing-Kit-Roblox) | 2 | Open-source go-kart racing kit |
 | [ProfessorOfK3ology/RobloxFlightSim](https://github.com/ProfessorOfK3ology/RobloxFlightSim) | 2 | Open-source flight simulator |
 | [Rung2ne/A-Chassis-Realistic-Manual](https://github.com/Rung2ne/A-Chassis-Realistic-Manual) | 2 | Realistischere handgeschakelde versnellingsbak voor A-Chassis |
+| [Fr4nkCD/SKYtech-vehiKits](https://github.com/Fr4nkCD/SKYtech-vehiKits) | 2 | SKYtech vehicle kits (developer-, non-cloud- en cloudversies) |
+| [Ransomwave/BetterChassis](https://github.com/Ransomwave/BetterChassis) | 2 | Modulaire A-Chassis met ingebouwde extra features |
 | [muzscripter/buoyancy](https://github.com/muzscripter/buoyancy) | 1 | Drijfvermogen (buoyancy) nabootsen |
 | [1nOnlyMinhaz/TrainStackX](https://github.com/1nOnlyMinhaz/TrainStackX) | 1 | Framework voor treinen bouwen en beheren |
 | [Kaminoan-Engineers/repulsyn](https://github.com/Kaminoan-Engineers/repulsyn) | 0 | Modulair repulsorlift/hover-systeem voor land-, zee- en luchtvoertuigen |

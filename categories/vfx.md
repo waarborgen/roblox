@@ -39,6 +39,7 @@ Particles, shaders, lighting, portalen, raytracing en canvas-rendering.
 | [thom463s/2D-Particle-Emitter](https://github.com/thom463s/2D-Particle-Emitter) | 4 | 2D particle-emitter oplossing |
 | [cg955gtr/PartCache](https://github.com/cg955gtr/PartCache) | 4 | Linked-list part cache (snel parts hergebruiken voor projectielen/VFX) |
 | [BiraruStudios/VHSClient](https://github.com/BiraruStudios/VHSClient) | 4 | VHS-effecten |
+| [RoVoidr/Roblox-Hall-of-Mirrors](https://github.com/RoVoidr/Roblox-Hall-of-Mirrors) | 4 | Blender-setup en script voor een Hall of Mirrors-renderingeffect in Roblox |
 | [QwinkleTee/Qwinkles-Particles-2](https://github.com/QwinkleTee/Qwinkles-Particles-2) | 3 | Qwinkle's Part-icles 2 plugin (part-gebaseerde particles) |
 | [arindam-codes/roblox-cinematic-experience](https://github.com/arindam-codes/roblox-cinematic-experience) | 3 | Cinematische camera, lighting en player-control voor storytelling |
 | [StephenSHorton/immersive-portals](https://github.com/StephenSHorton/immersive-portals) | 3 | Immersive portal-rendering (door portalen kijken én lopen) voor roblox-ts |
@@ -51,6 +52,7 @@ Particles, shaders, lighting, portalen, raytracing en canvas-rendering.
 | [kitsuu-ne/tokeru](https://github.com/kitsuu-ne/tokeru) | 2 | Fade in/out-effecten voor instances |
 | [Blupo/SimulationLoader](https://github.com/Blupo/SimulationLoader) | 2 | Holo-simulatie loader |
 | [Blupo/DayAtmos](https://github.com/Blupo/DayAtmos) | 2 | Lighting-script op basis van een DevForum-post |
+| [ch1kz/BloodFX](https://github.com/ch1kz/BloodFX) | 2 | Geoptimaliseerd part-based bloedsysteem (spatten, druppels, plassen) |
 | [Y-Workplace/DissolveEffect](https://github.com/Y-Workplace/DissolveEffect) | 1 | Pixel-dissolve/materialize effect met gloeiende randen via EditableImage |
 | [PAKILA0/RBX-SpaceDust](https://github.com/PAKILA0/RBX-SpaceDust) | 1 | Screenspace VFX: ruimtestof rond de camera |
 | [Tsukeruu/rock-spawn-roblox](https://github.com/Tsukeruu/rock-spawn-roblox) | 1 | Krater/rotsen-ring effect (populaire anime-VFX trend) |

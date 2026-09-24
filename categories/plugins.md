@@ -77,10 +77,18 @@ Handige plugins voor bouwen, terrain, UI en workflow.
 | [mkargus/Roblox-Plugins](https://github.com/mkargus/Roblox-Plugins) | 2 | Collectie diverse Studio-plugins |
 | [prepsure/scale-snap](https://github.com/prepsure/scale-snap) | 2 | Parts schalen met toetsen |
 | [Bytebit-Org/PathGenerationPlugin](https://github.com/Bytebit-Org/PathGenerationPlugin) | 2 | Plugin om paden te genereren |
+| [ivadsiuls/CodeKit](https://github.com/ivadsiuls/CodeKit) | 2 | Coding-toolkit plugin gebouwd met Vide |
+| [officialmelon/commandle](https://github.com/officialmelon/commandle) | 2 | VS Code-achtig command palette voor Roblox Studio |
+| [qzhcore/UI-Importer-Pro-](https://github.com/qzhcore/UI-Importer-Pro-) | 2 | Automatisch responsieve UI: recursieve Offset→Scale-conversie en AspectRatio-injectie |
+| [raylameows/Arc](https://github.com/raylameows/Arc) | 2 | Eenvoudige terminal binnen Roblox Studio |
+| [TeamHydrogen/Visuality](https://github.com/TeamHydrogen/Visuality) | 2 | Plugin om snel zichtbaarheid van models, parts en UI te togglen |
+| [zenodaguy/RConsole](https://github.com/zenodaguy/RConsole) | 2 | Console-library voor Roblox Studio |
 | [morgann1/stylua-for-roblox](https://github.com/morgann1/stylua-for-roblox) | 1 | StyLua als Studio-plugin |
 | [makwira/makwira](https://github.com/makwira/makwira) | 1 | Package manager zonder plugin |
+| [J4KEWasNotHere/Vigets-RBX](https://github.com/J4KEWasNotHere/Vigets-RBX) | 1 | Zet bestaande UI-objecten om naar Vide-code of UI-Labs stories |
 | [stravant/roblox-ropetool](https://github.com/stravant/roblox-ropetool) | 0 | RopeTool plugin |
 | [stravant/roblox-adhoc](https://github.com/stravant/roblox-adhoc) | 0 | Veel micro-tools in één plugin |
 | [Apisalam/BloxQA](https://github.com/Apisalam/BloxQA) | 0 | Plugin voor geautomatiseerde QA en gameplay-tests |
+| [raineyraine/plugin-components](https://github.com/raineyraine/plugin-components) | 0 | React-componenten voor het bouwen van Studio-plugins |
 
 [← Terug naar overzicht](../README.md)
