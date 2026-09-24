@@ -20,7 +20,7 @@ OUT = ROOT / "data" / "extra.tsv"
 
 # Moet over Roblox/Luau gaan
 RELEVANT = re.compile(
-    r"roblox|rblx|\brbx|rbxts|\bluau\b|\brojo\b|\broact\b|roblox-ts|\bwally\b|\blune\b|robloxstudio|"
+    r"roblox|rblx|\brbx|rbxts|\bluau\b|\broact\b|roblox-ts|\bwally\b|\blune\b|robloxstudio|"
     r"\bknit\b|\bfusion\b|\bvide\b|\bjecs\b|datastore|\bobby\b",
     re.I,
 )
@@ -38,7 +38,7 @@ BLOCK = re.compile(
     r"loadstring|httpget|offsets?\b|\bdll\b|\bcheat ?engine|kernel|vulnerab|crash(er)?\b|\bnuke|lag ?switch|"
     r"fe ?bypass|\bfe ?script|filtering ?enabled ?bypass|\bskid|\bgui script|\bmod ?menu|godmode|infinite ?(yield|jump|money)|"
     r"fix for windows|direct download|install steps|download link|\bcrack|keygen|\bpatcher\b|\bwin(dows)? 1[01]\b|"
-    r"pastebin|creates? (roblox )?accounts|ally ?(bot|request)|\bmass\b|\bscrap(e|er|ing)\b|password|discord\.gg|pirat|afk(er)?\b|all games|universal ?scripts?|the script for|scripts? for (the )?(experience|game)|roblox-?like client|play (old|classic) (games|roblox)|old roblox|\bbackup of|\bscripts? ?(20\d\d|edition|pack)|\(20\d\d edition\)|roblox ?scripts?\b|unlock ?all|spammer|\bspam\b|unblocker|server ?(joiner|hop|finder)|re-?join|brainrot|\bfling|\bdelta\b|multi ?-?acc|multiple ?(sessions|instances|clients|accounts)|несколько|zapret|обход|\bgamepass(es)? ?free|\bfree ?(gamepass|items|ugc)|\bautomation ?tool|\bauto ?(buy|sell|rejoin|join|play)|\bbot for\b|voice ?chat ?guide|clothing ?(guide|store|farm)|\bpremium\b ?free|giveaway|\bscam|\bbeam(ing|er)\b",
+    r"pastebin|self ?-?bot|\bfly ?(script|hack|gui)|noclip|teleport ?script|\bkill ?(all|aura)|dynamic-link|game client|\bloggers? (in|for) |fake ?(vr|lag|ping|player|admin)|creates? (roblox )?accounts|ally ?(bot|request)|\bmass\b|\bscrap(e|er|ing)\b|password|discord\.gg|pirat|afk(er)?\b|all games|universal ?scripts?|the script for|scripts? for (the )?(experience|game)|roblox-?like client|play (old|classic) (games|roblox)|old roblox|\bbackup of|\bscripts? ?(20\d\d|edition|pack)|\(20\d\d edition\)|roblox ?scripts?\b|unlock ?all|spammer|\bspam\b|unblocker|server ?(joiner|hop|finder)|re-?join|brainrot|\bfling|\bdelta\b|multi ?-?acc|multiple ?(sessions|instances|clients|accounts)|несколько|zapret|обход|\bgamepass(es)? ?free|\bfree ?(gamepass|items|ugc)|\bautomation ?tool|\bauto ?(buy|sell|rejoin|join|play)|\bbot for\b|voice ?chat ?guide|clothing ?(guide|store|farm)|\bpremium\b ?free|giveaway|\bscam|\bbeam(ing|er)\b",
     re.I,
 )
 # Game-specifieke cheatscripts ("Blox Fruits script", "Da Hood auto farm", ...)
@@ -57,6 +57,7 @@ NOT_ROBLOX = re.compile(r"noctalia|polytoria|love2d|\blöve\b|pico-?8|neovim|nvi
 CATEGORY_RULES = [
     ("aitools", r"\bmcp\b|model context protocol|\bai\b|\bllm|\bgpt|claude|chatgpt|openai|gemini|copilot|\bagents?\b|chatbot|ollama|cursor rules|agent skills?"),
     ("vr", r"\bvr\b|virtual reality|oculus|steamvr|openxr|quest ?[23]|motion ?track|full ?body ?track|webcam track"),
+    ("tooling", r"toolchain|package ?manager|language ?server|\blsp\b|\bcli\b|command ?line|compiler|transpil|formatter|\blint(er)?\b|\bwally\b|\bpesde\b|\baftman\b|\bforeman\b|\brokit\b|\bselene\b|stylua|vs ?code ?extension"),
     ("security", r"anti ?-?cheat|anticheat|security|encrypt|decrypt|\bhash|sha-?256|\bsha1|\bmd5|\baes\b|\brsa\b|crypto|sanitiz|rate ?limit|\bauth|permission|\bban ?(system|service)|moderation|admin ?(system|panel|commands?)|\badonis\b|kohl"),
     ("vehicles", r"vehicle|\bcars?\b|chassis|\bboats?\b|\btrains?\b|railway|\bplanes?\b|aircraft|airplane|flight|helicopter|\btanks?\b|suspension|racing|drift|motorcycle|\bbikes?\b|\bship"),
     ("camera", r"camera|cutscene|cinematic|freecam|\bshake"),
@@ -67,14 +68,14 @@ CATEGORY_RULES = [
     ("combat", r"combat|hitbox|weapon|\bguns?\b|\bswords?\b|\bfps\b|shooter|projectile|bullet|\bmelee|damage|fastcast|\bballistic|\bfighting|\bpvp\b|\bmagic|abilit(y|ies)|\bskills?\b"),
     ("movement", r"movement|character ?controller|parkour|ragdoll|physics|wall ?-?run|\bclimb|sprint|\bdash\b|gravity|\bswim|ledge|\bslide|\bgrapple|grappling|\bjump|walk|locomotion|\bcharacter\b"),
     ("ai", r"pathfind|\bnpcs?\b|behaviou?r ?tree|neural|machine ?learning|\bml\b|navmesh|boids|\bgoap\b|\bfsm\b|state ?machine|\ba\*|\bastar\b|flocking|\bbots? ai|reinforcement"),
-    ("procgen", r"procedural|\bnoise|perlin|simplex|voxel|\bmaze|dungeon|generator|generation|wave ?function|\bwfc\b|\bmath|bezier|geometry|algorithm|\bbvh|octree|quadtree|delaunay|triangulat|spline|matrix|vector|quaternion|\bcsg\b|fractal"),
-    ("networking", r"network|\bremotes?\b|replicat|netcode|packet|\brpc\b|bytenet|\bnet\b|client ?-?server|lag ?compens|interpolat|rollback|\bsync(hronization)?\b|messaging ?service|cross ?-?server"),
+    ("procgen", r"procedural|\bnoise|perlin|simplex|voxel|\bmaze|dungeon|(map|world|level|terrain|dungeon|maze|name|noise|city|room|planet|island) ?gen(erator|eration)?\b|wave ?function|\bwfc\b|\bmath|bezier|geometry|algorithm|\bbvh|octree|quadtree|delaunay|triangulat|spline|matrix|vector|quaternion|\bcsg\b|fractal"),
+    ("networking", r"network|\bremotes?\b|replicat|netcode|packet|\brpc\b|bytenet|\bnet\b|client ?-?server|lag ?compens|interpolat|rollback|messaging ?service|cross ?-?server"),
     ("data", r"datastore|data ?store|\bsav(e|ing) ?(system|data)|serializ|\bprofile|compress|\bbuffers?\b|state ?management|\bstate\b|storage|big ?num|\bbignum|infinite ?number|\bjson\b|\bcache|leaderboard|\bstats?\b"),
     ("ecs", r"\becs\b|entity ?component|framework|\bknit\b|architecture|dependency ?injection|\blifecycle|service ?locator|\bmodule ?loader|flamework"),
     ("plugins", r"\bplugins?\b"),
     ("ui", r"\bui\b|\bgui\b|interface|\breact\b|\broact\b|\bfusion\b|\bvide\b|components?\b|\bhud\b|\bmenus?\b|inventory|backpack|\btext\b|\bfonts?\b|notification|topbar|\bicons?\b|\bbuttons?\b|dialog|\bchat\b|layout|\btheme"),
-    ("apis", r"\bapi\b|\bapis\b|open ?cloud|opencloud|discord|\bbots?\b|webhook|\bhttp|wrapper|\brest\b|trello|\bproxy|\bgroup ?(rank|management)|ranking|\bweb\b|website|browser ?extension|chrome ?extension|\bextension\b|\bsdk\b|\bnpm\b|\bpypi\b|analytics|telegram|twitter|\bexpress\b|\bnode(js)?\b|python ?(wrapper|library)"),
-    ("tooling", r"\brojo\b|\bcli\b|\btools?\b|tooling|\blint|formatter|compiler|transpil|\bpackage|\bwally\b|\bpesde\b|\blsp\b|language ?server|vs ?code|vscode|typescript|roblox-ts|rbxts|\btests?\b|testing|\bci\b|\bbuild|parser|\btypes?\b|\brbxlx?\b|\brbxmx?\b|\bmeshes?\b|\bassets?\b|upload|\bdocs?\b|documentation|\bsyntax|highlight|\bdevtools?|debugg|profil|benchmark|\bgit\b|version ?control|\bfile ?format"),
+    ("apis", r"open ?cloud|opencloud|discord|\bbots?\b|webhook|\bhttps?\b|rest ?api|web ?api|\bapi (wrapper|client)|api ?wrapper|wrapper for|trello|\bproxy\b|\bgroup ?(rank|management)|ranking|\bweb\b|website|browser ?extension|chrome ?extension|\bextension\b|\bsdk\b|\bnpm\b|\bpypi\b|analytics|telegram|twitter|\bexpress\b|\bnode(js)?\b|noblox|endpoints?|\.com\b|roblox ?api"),
+    ("tooling", r"\brojo\b|\bsync|\bcli\b|\btools?\b|tooling|\blint|formatter|compiler|transpil|\bpackage|\bwally\b|\bpesde\b|\blsp\b|language ?server|vs ?code|vscode|typescript|roblox-ts|rbxts|\btests?\b|testing|\bci\b|\bbuild|parser|\btypes?\b|\brbxlx?\b|\brbxmx?\b|\bmeshes?\b|\bassets?\b|upload|\bdocs?\b|documentation|\bsyntax|highlight|\bdevtools?|debugg|profil|benchmark|\bgit\b|version ?control|\bfile ?format"),
     ("wild", r"emulat|interpreter|\bvm\b|virtual ?machine|\bdoom\b|\bport(ed)? of|chip-?8|game ?boy|\bnes\b|\bcpu\b|minecraft|\blinux\b|operating ?system|\bos\b|\bcomputer\b|\bbrainf|lua ?in ?lua|luau ?in ?luau|\bjvm\b|\bwasm|webassembly|\bx86|\bassembly|\bsql\b"),
     ("learn", r"\bgames?\b|tutorial|example|template|learn|course|portfolio|showcase|\bobby\b|tycoon|simulator|awesome|\blist\b|collection|\bguide|\bdemo\b|starter|boilerplate|uncopylocked|open ?-?source ?game|\bclone\b|recreation|remake|\bprojects?\b|\bclass\b|school|university|homework|assignment|\bjam\b"),
 ]
@@ -114,7 +115,10 @@ def main(pool_path):
         text = f"{name.replace('-', ' ').replace('_', ' ')} {desc} {topics}"
         if len(desc) < 12 or (len(desc.split()) < 4 and int(it.get("stars") or 0) < 5):
             skip("geen/te korte omschrijving"); continue
-        if not (RELEVANT.search(text) or it.get("lang") == "Luau"):
+        rojo_ok = re.search(r"\brojo\b", topics, re.I) or (
+            re.search(r"\brojo\b", f"{name} {desc}", re.I)
+            and (it.get("lang") in ("Luau", "Lua", "Rust", "TypeScript") or re.search(r"roblox|studio", text, re.I)))
+        if not (RELEVANT.search(text) or rojo_ok or it.get("lang") == "Luau"):
             skip("niet roblox"); continue
         if NOT_ROBLOX.search(text) and not re.search(r"roblox", text, re.I):
             skip("niet roblox"); continue

@@ -72,14 +72,13 @@ Character controllers, ragdolls, destructie, parkour en eigen physics-engines.
 | [Terrani-3/movement-system](https://github.com/Terrani-3/movement-system) | 0 | Movement-feel: camera-tilt, dynamische FOV en directionele animatie-blending |
 | [chroma-hade/Roblox-2D-Movement](https://github.com/chroma-hade/Roblox-2D-Movement) | 0 | 2D-movement en camerasysteem |
 
-## Uitgebreide index (82)
+## Uitgebreide index (116)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
 | Repo | ⭐ | Wat het doet |
 |---|---:|---|
 | [daftcube/RobloxNBodySim](https://github.com/daftcube/RobloxNBodySim) | 8 | A simple script for simulating an n-body gravity simulation. |
-| [cxmeel/find-up](https://github.com/cxmeel/find-up) | 6 | Find an Instance by walking up ancestors. Based on @sindresorhus/find-up. |
 | [moopergg/Roblox-Gift-Card-Generator-Validator](https://github.com/moopergg/Roblox-Gift-Card-Generator-Validator) | 6 | generates 16 character roblox gift cards, then you can run validator.py to check if those codes are valid. |
 | [ShouxTech/hydro-jump](https://github.com/ShouxTech/hydro-jump) | 6 | A Roblox game created with roblox-ts and @rbxts/knit |
 | [Giant427/MovementHandler](https://github.com/Giant427/MovementHandler) | 5 | Read Devforum post: https://devforum.roblox.com/t/movementhandler-crouch-sprint-slide-prone/1539379 |
@@ -105,7 +104,6 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [BulkBrains/Heatmap-Plugin](https://github.com/BulkBrains/Heatmap-Plugin) | 1 | Create heatmaps for tracking player movement in you Roblox games |
 | [Daw1dk/RobloxBall](https://github.com/Daw1dk/RobloxBall) | 1 | Change your character into a ball |
 | [eVoletScorpion/Scorp-s-Dash-Mechanic](https://github.com/eVoletScorpion/Scorp-s-Dash-Mechanic) | 1 | An advanced dash mechanic for the Roblox platform |
-| [Exunys/Swim-Fly](https://github.com/Exunys/Swim-Fly) | 1 | ROBLOX Fly Script (uses a different method) |
 | [FlaminiQian/roblox_style](https://github.com/FlaminiQian/roblox_style) | 1 | Roblox-inspired visual style knowledge base and Three.js kit assets. |
 | [Fmaverick/k2-climbing-guide](https://github.com/Fmaverick/k2-climbing-guide) | 1 | Independent K2 Climbing Simulation guide for Roblox players. |
 | [griffin-lora/rbx-character-controller](https://github.com/griffin-lora/rbx-character-controller) | 1 | A character controller for roblox-ts. |
@@ -158,7 +156,43 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Yooli8537/Frenzy_Movement_System](https://github.com/Yooli8537/Frenzy_Movement_System) | 1 | This is the Movement System used for my Roblox game Frenzy. Some of the Assets are still glitchy, but overall it works bug-free. Similar to Rivals' Movement ... |
 | [YU5UFC0D3Z/ROBLOX-MAKE-BLOCKS-MOVE-YOU](https://github.com/YU5UFC0D3Z/ROBLOX-MAKE-BLOCKS-MOVE-YOU) | 1 | each one one the blocks will ether move you left, right, forward, backwards and up to make you jump follow my account and subscribe to me youtube channel to ... |
 | [Zomlolo/Game-News](https://github.com/Zomlolo/Game-News) | 1 | Only give news about osu!, Geometry dash, Roblox |
+| [1alessandro/roblox-wall-climbing-system](https://github.com/1alessandro/roblox-wall-climbing-system) | 0 | A script for Wall Climbing for Roblox Studio. |
 | [2faTarl/Jump-Rope-Roblox-Project-Script](https://github.com/2faTarl/Jump-Rope-Roblox-Project-Script) | 0 | Hired to develop a Roblox Jump Rope Project Script, focusing on creating interactive gameplay mechanics, optimizing physics-based rope movement, and ensuring... |
+| [andrewchen2fifbee/ContextSteering](https://github.com/andrewchen2fifbee/ContextSteering) | 0 | ContextSteering is a Roblox context steering library. It allows NPCs to make situationally aware local movement decisions. |
+| [D-123456789/RagDollModule](https://github.com/D-123456789/RagDollModule) | 0 | Roblox Module script for a RagDollService |
+| [dereglant/BetterBones](https://github.com/dereglant/BetterBones) | 0 | Roblox bones physics module |
+| [dev-syn/rbxts-promptifier](https://github.com/dev-syn/rbxts-promptifier) | 0 | This is a package designed to ease the use of prompt-like UI structures prompting users based on a choice or just a notification that could be acknowledged. |
+| [Emgyz/rpg-framework-principles](https://github.com/Emgyz/rpg-framework-principles) | 0 | Once upon a time I tried to make an RPG in Roblox... That didn't happen. I did learn a lot tho. Lessons about project structure, relevant libraries, design p... |
+| [f4llingl4ck/ragdoll-module](https://github.com/f4llingl4ck/ragdoll-module) | 0 | this is a ragdoll module working perfectly with any roblox system |
+| [FreelessUnlimited/RSS](https://github.com/FreelessUnlimited/RSS) | 0 | An Advanced Roblox Sprint System. |
+| [Hardbloq/roblox-dash-system](https://github.com/Hardbloq/roblox-dash-system) | 0 | Roblox dash system demo |
+| [hashquest/MovementSystem](https://github.com/hashquest/MovementSystem) | 0 | Movement System for Roblox - Apex Style |
+| [IrishFix/rbxts-calamity-phys](https://github.com/IrishFix/rbxts-calamity-phys) | 0 | An RBXTS TypeScript library for directing anchored parts to follow pseudo-physical trajectories, with support for collision detection and spatial queries; al... |
+| [JRmcnugget/Vertex](https://github.com/JRmcnugget/Vertex) | 0 | Decoupled, component driven character framework for Roblox |
+| [kipuki/roblox-character-customization](https://github.com/kipuki/roblox-character-customization) | 0 | Roblox library allowing players to customize and save their character. |
+| [kitdevcs/MovementModule](https://github.com/kitdevcs/MovementModule) | 0 | This is an Roblox Module. |
+| [LucasRayo11/Roblox-Ragdoll-System](https://github.com/LucasRayo11/Roblox-Ragdoll-System) | 0 | This is a Roblox R6 Ragdoll System made by lucasrayo111 (LoWolly) |
+| [Marvridan/WalkSpeed-Change-for-maps](https://github.com/Marvridan/WalkSpeed-Change-for-maps) | 0 | For roblox studio (idk) |
+| [MythicalSouls/Aura](https://github.com/MythicalSouls/Aura) | 0 | Aura is a roblox module, helper for equipping and storage character auras. |
+| [naris291977-arch/PE0202P_UI](https://github.com/naris291977-arch/PE0202P_UI) | 0 | โค้ด UI สำหรับ Roblox PE0202P v4.2 ELITE Framework ใช้สร้างหน้าต่าง, ปุ่ม, Toggle, Slider, Dropdown และ Notification บนเกม |
+| [NotKisoMomo/Splint](https://github.com/NotKisoMomo/Splint) | 0 | Splint is a comprehensive ragdoll physics library for Roblox. |
+| [Pipafoguete/ClimbCore](https://github.com/Pipafoguete/ClimbCore) | 0 | Advanced Roblox Movement Framework |
+| [Qanuir/orion-ui](https://github.com/Qanuir/orion-ui) | 0 | Clean and customizable Roblox UI Library (Orion) – buttons, toggles, sliders, dropdowns, and more. |
+| [Qquaded/LaunchPhysics](https://github.com/Qquaded/LaunchPhysics) | 0 | LaunchPhysics is a Roblox module where it can weld each part in a model to a center and unanchor them. |
+| [quantumsrt/ragdoll](https://github.com/quantumsrt/ragdoll) | 0 | ragdoll system for roblox |
+| [R0bl0x10501050/roblox-object-replay-system](https://github.com/R0bl0x10501050/roblox-object-replay-system) | 0 | This is a module I made for roblox that allows you to record the positions/movements of an object, and replay them at a later time. |
+| [RonanTraveler20/roblox-movement](https://github.com/RonanTraveler20/roblox-movement) | 0 | Roblox movement system with improved jump mechanics |
+| [seaofvoices/crosswalk-plugin](https://github.com/seaofvoices/crosswalk-plugin) | 0 | A Roblox Studio plugin for crosswalk |
+| [semka2067/roblox-studio](https://github.com/semka2067/roblox-studio) | 0 | I’ll explain how to create models for walking NPCs, as well as how to make maps and map objects. |
+| [semka2067/roblox-studio-tutorial](https://github.com/semka2067/roblox-studio-tutorial) | 0 | roblox studio tutorial I’ll explain how to create models for walking NPCs, as well as how to make maps and map objects. |
+| [solursolur2/Roblox-Game](https://github.com/solursolur2/Roblox-Game) | 0 | Physics-based drag and drop system for Roblox with network synchronization |
+| [studio2445/roblox-model-movement-system](https://github.com/studio2445/roblox-model-movement-system) | 0 | Sistema para mover modelos no Roblox Studio para qualquer posição desejada |
+| [Superstar23123/Roblox-Character-Inventory-Management-System](https://github.com/Superstar23123/Roblox-Character-Inventory-Management-System) | 0 | Backend inventory and character system for Roblox. Designed for games with unlockable survivors, equip validation, and secure server-side data handling. |
+| [tbega/MathX](https://github.com/tbega/MathX) | 0 | MathX is a comprehensive utility library for Roblox development, extending the standard library with essential game math functions for Scalars, Vectors, Phys... |
+| [ValueHat-Script/roblox-speed-boost-system](https://github.com/ValueHat-Script/roblox-speed-boost-system) | 0 | A Roblox game script system for speed boosters, sprint mechanics, and enhanced movement |
+| [Vel136/Resonix](https://github.com/Vel136/Resonix) | 0 | Physics-based acoustic simulation engine for Roblox — Beer-Lambert occlusion, frequency-dependent material absorption, and network replication in one library. |
 | [WareZ57/The-1000000-Jump-Rope-SCRIPT](https://github.com/WareZ57/The-1000000-Jump-Rope-SCRIPT) | 0 | Free script for The 1000000 Jump Rope on ROBLOX |
+| [yahyio/roblox-grapple-system](https://github.com/yahyio/roblox-grapple-system) | 0 | Roblox grapple hook & movement system - HiddenDevs application |
+| [YoL-o/Telekinesis-system](https://github.com/YoL-o/Telekinesis-system) | 0 | Physics-based telekinesis interaction system for Roblox. |
 
 [← Terug naar overzicht](../README.md)

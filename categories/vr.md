@@ -22,14 +22,13 @@ Full-body VR, SteamVR-trackers en webcam-tracking.
 | [mathken029/vr-roblox-kit](https://github.com/mathken029/vr-roblox-kit) | 0 | Open-source VR game-development kit |
 | [Metatable-Games/MetaVR](https://github.com/Metatable-Games/MetaVR) | 0 | VR-framework in Luau |
 
-## Uitgebreide index (10)
+## Uitgebreide index (13)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
 | Repo | ⭐ | Wat het doet |
 |---|---:|---|
 | [conariumsoft/lovecraft](https://github.com/conariumsoft/lovecraft) | 2 | Virtual Reality Engine for ROBLOX. |
-| [ZLOGOPLAYZ/Roblox-Fake-vr-script-](https://github.com/ZLOGOPLAYZ/Roblox-Fake-vr-script-) | 2 | Fake roblox vr script |
 | [DarksGitHub/VRScript](https://github.com/DarksGitHub/VRScript) | 1 | Roblox VR Script Archive |
 | [Horurasu/tramvet-development-roblox-aprendizaje-anatomia](https://github.com/Horurasu/tramvet-development-roblox-aprendizaje-anatomia) | 1 | This space is dedicated to exploring the potential of virtual reality, augmented reality, and more within the Roblox platform. Focused on game/vr/ar/xr devel... |
 | [Kizum1/VReader](https://github.com/Kizum1/VReader) | 1 | VR Book Reader on Roblox and Oculus Quest, merging free ROBLOX assets with Project Gutenberg's vast library. Dive into immersive worlds and discover the joy ... |
@@ -38,5 +37,9 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Mickelsonny/wolf-sheep-predation-abm-vr](https://github.com/Mickelsonny/wolf-sheep-predation-abm-vr) | 1 | Roblox adaptation of NetLogo's Wolf Sheep Predation model |
 | [Mickelsonny/zombie-infection-treatment-abm-vr](https://github.com/Mickelsonny/zombie-infection-treatment-abm-vr) | 1 | Roblox adaptation of Repast's and Macal's Zombie Apocalypse model |
 | [missciera/Roblox-VR-Toggler](https://github.com/missciera/Roblox-VR-Toggler) | 1 | Toggles the VR option for Roblox without having to open the game. |
+| [200Tigersbloxed/tigerVR](https://github.com/200Tigersbloxed/tigerVR) | 0 | A VR Library for Roblox |
+| [Metatable-Games/RBLXVRGui](https://github.com/Metatable-Games/RBLXVRGui) | 0 | Roblox Virtual Reality Graphical User Interface Management Module |
+| [Nicontm/VRBridge](https://github.com/Nicontm/VRBridge) | 0 | A Roblox VR API |
+| [QuoniamVR/LuauXR](https://github.com/QuoniamVR/LuauXR) | 0 | Open-Source VR Module for Roblox |
 
 [← Terug naar overzicht](../README.md)

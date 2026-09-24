@@ -154,14 +154,16 @@ Luau-in-Luau, emulators, DOOM, N64, video, Python-in-Luau en game-ports.
 | [MarsSquirrel/bad-apple](https://github.com/MarsSquirrel/bad-apple) | 0 | Bad Apple afgespeeld met de Terrain-engine van Roblox |
 | [TateoDev/Editable-Image-raycaster](https://github.com/TateoDev/Editable-Image-raycaster) | 0 | 3DSage-achtige raycaster-engine op EditableImage met wandtexturen |
 
-## Uitgebreide index (80)
+## Uitgebreide index (98)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
 | Repo | ⭐ | Wat het doet |
 |---|---:|---|
 | [vinegarhq/sober](https://github.com/vinegarhq/sober) | 1099 | Runtime for Roblox on Linux |
+| [roblox-linux-wrapper/roblox-linux-wrapper](https://github.com/roblox-linux-wrapper/roblox-linux-wrapper) | 90 | This is a repository which contains the latest source of the Roblox Linux Wrapper. We are open to taking any (non-malicious) pull requests! |
 | [equinoxhq/equinox](https://github.com/equinoxhq/equinox) | 77 | A runtime for Roblox on Linux using containers. |
+| [msmalik681/Maliks-Linux-Roblox-Wrapper](https://github.com/msmalik681/Maliks-Linux-Roblox-Wrapper) | 28 | Get Roblox Up and Running and easy and simple as possible. |
 | [radiantgurl/RobloxToGodotProject](https://github.com/radiantgurl/RobloxToGodotProject) | 28 | Creates an emulation layer to run Roblox games inside Godot similar to WINE without connecting to official servers. |
 | [narezy/MacOBlox](https://github.com/narezy/MacOBlox) | 25 | Run the macOS Roblox client on Linux through Darling |
 | [Humanagon/VirtualBloxStudio](https://github.com/Humanagon/VirtualBloxStudio) | 16 | ROBLOX Studio 2016 Emulator that runs inside Roblox! |
@@ -186,6 +188,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [dadafa23/JorelTX-ON](https://github.com/dadafa23/JorelTX-ON) | 2 | JorelTX ON V5 — Visual enhancement preset for Roblox/Sober on Linux. |
 | [DirtPiper/rSRC](https://github.com/DirtPiper/rSRC) | 2 | Source/Goldsrc engine emulation with a 12.17.2008 Roblox client as a base |
 | [emortalmc/MineDoors](https://github.com/emortalmc/MineDoors) | 2 | [Paused - Far from done] A remake of Doors from Roblox, but in Minecraft |
+| [Fireboltofdeath/rbx-sqlite3full-server](https://github.com/Fireboltofdeath/rbx-sqlite3full-server) | 2 | Full access SQL api from roblox. |
 | [FryerTuck152/Kageyoshi-Noir](https://github.com/FryerTuck152/Kageyoshi-Noir) | 2 | Universal OS script for roblox |
 | [Heiroic/rbxminecraft](https://github.com/Heiroic/rbxminecraft) | 2 | roblox client optimizer with mc textures |
 | [KuyaJimbo/CodeWiz_Mini_Projects](https://github.com/KuyaJimbo/CodeWiz_Mini_Projects) | 2 | When the Python/Unity/Roblox/Minecraft Codio fails, a Computer Science Graduate from USF will prevail! |
@@ -240,5 +243,20 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [toughCSB/Playtime-pact](https://github.com/toughCSB/Playtime-pact) | 1 | 부모와 자녀가 정한 게임 시간 약속을 지키도록 돕는 Windows 앱. Roblox·Minecraft Java/Bedrock·Lunar Client의 Minecraft 세션을 감지해 남은 시간과 경고를 표시하고, 시간 만료 시 종료하며 부모 PIN으로 규칙과 추가 시간을 관리합니다. |
 | [UGBONTOP/crunchblox-2009](https://github.com/UGBONTOP/crunchblox-2009) | 1 | A complete receation of ROBLOX in 2009 made using Unity and WASM! |
 | [Valks-Forks/sunaba](https://github.com/Valks-Forks/sunaba) | 1 | A open source 3D sandbox game similer to LittleBigPlanet, Minecraft, Gmod, and Roblox |
+| [2md55nmxkw-arch/LuauEmu](https://github.com/2md55nmxkw-arch/LuauEmu) | 0 | A Luau script emulator that runs outside Roblox using the Lune. |
+| [blueskychan-dev/Roblox-Studio-Operating-System](https://github.com/blueskychan-dev/Roblox-Studio-Operating-System) | 0 | ROBLOX OPERATING SYSTEM SOURCE CODE |
+| [elfrangin/kryon-bridge](https://github.com/elfrangin/kryon-bridge) | 0 | Roblox <-> Minecraft Bridge API |
+| [Felix010985/luau86](https://github.com/Felix010985/luau86) | 0 | Virtual CPU working in Roblox |
+| [GAMBLING-MAN/BasicCodeInterpreter](https://github.com/GAMBLING-MAN/BasicCodeInterpreter) | 0 | The code of the Basic Code Interpreter module script on Roblox. |
+| [IFMNB/Hexagon](https://github.com/IFMNB/Hexagon) | 0 | Open source simple library to emulate Roblox/java construction. |
+| [kingdudely/LuauInJS](https://github.com/kingdudely/LuauInJS) | 0 | A Luau VM in JavaScript |
+| [MrMarcelss/ROBLOX-STUDIO](https://github.com/MrMarcelss/ROBLOX-STUDIO) | 0 | Aqui os dejo el archivo para descargar ROBLOX STUDIO. Una app de ROBLOX para crear tus propios videojuegos de ROBLOX |
+| [OfficialValkyrie/Luau-Recreation](https://github.com/OfficialValkyrie/Luau-Recreation) | 0 | Recreating Luau in Luau |
+| [QNTM-Labs/QStudio](https://github.com/QNTM-Labs/QStudio) | 0 | roblox studio for linux |
+| [rnathaniel45/LuVM](https://github.com/rnathaniel45/LuVM) | 0 | In-Luau virtualized Luau Bytecode Virtual Machine |
+| [sbi-n/lluuaauu](https://github.com/sbi-n/lluuaauu) | 0 | Luau VM in luau |
+| [synpixel/brainfuck.luau](https://github.com/synpixel/brainfuck.luau) | 0 | An implementation of Brainfuck in Luau |
+| [viografiko/Roblox-Sandbox](https://github.com/viografiko/Roblox-Sandbox) | 0 | Tries to emulate a roblox studio sandbox. |
+| [vkh700/linblox](https://github.com/vkh700/linblox) | 0 | Launch roblox on linux systems! |
 
 [← Terug naar overzicht](../README.md)

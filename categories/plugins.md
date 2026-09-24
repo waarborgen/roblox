@@ -99,7 +99,7 @@ Handige plugins voor bouwen, terrain, UI en workflow.
 | [Dekkonot/camera-light-plugin](https://github.com/Dekkonot/camera-light-plugin) | 0 | Plugin die een lamp aan de Studio-camera hangt |
 | [Mystifine/ModelLens](https://github.com/Mystifine/ModelLens) | 0 | Render en exporteer PNG-thumbnails van modellen in Studio (transparant, batch) |
 
-## Uitgebreide index (117)
+## Uitgebreide index (368)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -113,14 +113,12 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [JodeRBX/awesome-roblox](https://github.com/JodeRBX/awesome-roblox) | 13 | A curated list of awesome libraries, plugins, and resources for Roblox game development. |
 | [artworm0/roblox-plugin-color-picker](https://github.com/artworm0/roblox-plugin-color-picker) | 12 | Identical to classic roblox color picker gui you can use for your own plugins |
 | [jackTabsCode/drillbit](https://github.com/jackTabsCode/drillbit) | 11 | A plugin installation tool for Roblox |
-| [R0bl0x10501050/StudioCLI](https://github.com/R0bl0x10501050/StudioCLI) | 10 | A terminal for Roblox Studio complete with a package manager and Bash commands! |
 | [ActualMasterOogway/Roblox-Plugins](https://github.com/ActualMasterOogway/Roblox-Plugins) | 9 | A list of paid plugins with their .rbxm files |
 | [Anaminus/roblox-cmdutl](https://github.com/Anaminus/roblox-cmdutl) | 8 | [ARCHIVED] Upcoming version of the CmdUtl plugin. |
 | [ThePotato97/RoSearcher](https://github.com/ThePotato97/RoSearcher) | 8 | ROBLOX game server searcher plugin! |
 | [OrbitalOwen/roblox-testservice-watcher](https://github.com/OrbitalOwen/roblox-testservice-watcher) | 7 | Roblox Studio plugin to automatically run unit tests when scripts change. |
 | [JohnnyMorganz/roblox-text-editor](https://github.com/JohnnyMorganz/roblox-text-editor) | 6 | A plugin to make editing text in Roblox Studio easier |
 | [Anaminus/roblox-plugin-template](https://github.com/Anaminus/roblox-plugin-template) | 5 | [ARCHIVED] This repo serves as a template for creating *large* Roblox plugins. That is, plugins so big that they need to be managed with multiple files. |
-| [astrealRBLX/rBundle](https://github.com/astrealRBLX/rBundle) | 5 | A Roblox Studio plugin package manager |
 | [jotslo/scriptmate](https://github.com/jotslo/scriptmate) | 5 | A top scripting exercise plugin for Roblox Studio, used in conjunction with video tutorials. |
 | [paralax034/RobloxModules](https://github.com/paralax034/RobloxModules) | 5 | My scripts for help you |
 | [roblox-ts/eslint-plugin-roblox-ts](https://github.com/roblox-ts/eslint-plugin-roblox-ts) | 5 | ESLint plugin for roblox-ts. |
@@ -128,7 +126,6 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Anaminus/roblox-tool-grip-editor](https://github.com/Anaminus/roblox-tool-grip-editor) | 4 | [ARCHIVED] A Roblox plugin that simplifies the modification of a Tool's Grip properties. |
 | [checkraisefold/ROBLOXLink-Plugin](https://github.com/checkraisefold/ROBLOXLink-Plugin) | 4 | A Mumble plugin that receives positional and rotational data from a websocket. Designed for a ROBLOX Lua script executed with a scripting utility. |
 | [remyym/Photo2Parts](https://github.com/remyym/Photo2Parts) | 4 | Roblox plugin to convert PNG images into parts. |
-| [4x8Matrix/Wally-Plugin](https://github.com/4x8Matrix/Wally-Plugin) | 3 | A Roblox Plugin for manipulating the Wally package manager. |
 | [ExperiencersInternational/RobloxFastDonationButtonCreation](https://github.com/ExperiencersInternational/RobloxFastDonationButtonCreation) | 3 | A free Roblox plugin to allow easy creation of donation buttons in your game. Also works for shirts, pants and models. |
 | [Horrid-12/Playnite-Roblox-Integration](https://github.com/Horrid-12/Playnite-Roblox-Integration) | 3 | A Library Integration for Playnite that imports your favorited Roblox experiences as playable games. |
 | [MoneySnyder/combine](https://github.com/MoneySnyder/combine) | 3 | roblox asset preview plugin for vscode |
@@ -137,7 +134,6 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [vocksel/code-cop](https://github.com/vocksel/code-cop) | 3 | Unit testing plugin for Roblox Studio |
 | [vocksel/studio-bridge-plugin](https://github.com/vocksel/studio-bridge-plugin) | 3 | Roblox Plugin for Studio Bridge. See https://github.com/vocksel/studio-bridge for full documentation. |
 | [Anaminus/rbxplugin](https://github.com/Anaminus/rbxplugin) | 2 | [ARCHIVED] A command-line tool for building and deploying ROBLOX plugins. |
-| [Anaminus/roblox-cli](https://github.com/Anaminus/roblox-cli) | 2 | [ARCHIVED] A ROBLOX plugin that creates a command-line interface for the studio |
 | [BradDeveloper/Brads-Built-Tools](https://github.com/BradDeveloper/Brads-Built-Tools) | 2 | A Roblox plugin bundle (multiple plugins combined into one) |
 | [Coyenn/zep](https://github.com/Coyenn/zep) | 2 | Easy creation of plugins for Roblox Studio using TypeScript. |
 | [EmotiveCloudiest/Motor6D-Toolbox](https://github.com/EmotiveCloudiest/Motor6D-Toolbox) | 2 | Motor6D Toolbox is a free and open-source motor6D and welding plugin for Roblox Studio. |
@@ -191,9 +187,9 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Mithnte/roblox-snap-plugin](https://github.com/Mithnte/roblox-snap-plugin) | 1 | Roblox Studio-native building snap/transform plugin (skeleton) |
 | [Monnapse/Chroma](https://github.com/Monnapse/Chroma) | 1 | An open sourced Roblox Studio plugin where you can get all studio theme colors |
 | [MonzterDev/Gui-Helper-Roblox-Plugin](https://github.com/MonzterDev/Gui-Helper-Roblox-Plugin) | 1 | Adds features to Roblox Studio which helps ease the creation of Gui creation! |
-| [morgann1/developer-storybook](https://github.com/morgann1/developer-storybook) | 1 | ✨ A storybook plugin designed to work for Roblox's Foundation components. |
-| [morgann1/wally-packages](https://github.com/morgann1/wally-packages) | 1 | 🧰 Collection of Roblox Luau modules for both plugin and game development. |
 | [Nimblz/container-swap](https://github.com/Nimblz/container-swap) | 1 | roblox plugin to convert models to folders and vise-versa. |
+| [pandabearemoji/LODService](https://github.com/pandabearemoji/LODService) | 1 | A Roblox Plugin for custom LOD generation and handling. |
+| [PhantomShift/moonreader](https://github.com/PhantomShift/moonreader) | 1 | Yet another documentation generator for Studio. |
 | [pinehappi/quicklight](https://github.com/pinehappi/quicklight) | 1 | roblox light placing plugin |
 | [platinumstar523-ops/roblox-component-vault](https://github.com/platinumstar523-ops/roblox-component-vault) | 1 | A reusable UI component and design-system plugin for Roblox Studio, built for creating, organizing, and sharing interfaces across experiences. |
 | [ProCode-Software/ProIconsRoblox](https://github.com/ProCode-Software/ProIconsRoblox) | 1 | The official Roblox Studio plugin for the ProIcons icon library |
@@ -222,5 +218,260 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Twin1Twin2/roblox_track_builder_plugin](https://github.com/Twin1Twin2/roblox_track_builder_plugin) | 1 | Roblox plugin for making custom roller coaster tracks |
 | [Uhsleep/Vibrant](https://github.com/Uhsleep/Vibrant) | 1 | Roblox UI toolkit for plugins |
 | [walway/RoPrime](https://github.com/walway/RoPrime) | 1 | New Era of Roblox website. |
+| [17sync/rojo-template](https://github.com/17sync/rojo-template) | 0 | A template for any Roblox Studio Projects starting development using the Rojo plugin. |
+| [1xayd/gitrb](https://github.com/1xayd/gitrb) | 0 | A Git bridge for Roblox Studio projects with local sync, model conversion, and a Studio plugin. |
+| [4x8Matrix/Studio-Experience](https://github.com/4x8Matrix/Studio-Experience) | 0 | Source code for the Roblox Studio "Studio Experience" plugin. |
+| [7kayoh/discourage-me](https://github.com/7kayoh/discourage-me) | 0 | A funny plugin for Roblox Studio, discourages you instead of encouraging. |
+| [99LevelsUp/DockWidgetPluginGuiTools](https://github.com/99LevelsUp/DockWidgetPluginGuiTools) | 0 | Various helpers for Roblox Studio Widget GUI used as front-end in plugins. |
+| [Acedia11/Figma2Roblox](https://github.com/Acedia11/Figma2Roblox) | 0 | plugin for converting figma UI to roblox |
+| [AdysonReales/SwiftBloxUI-figma-to-roblox](https://github.com/AdysonReales/SwiftBloxUI-figma-to-roblox) | 0 | Figma to Roblox UI pipeline that converts Figma designs into responsive native Roblox GuiObjects using TypeScript, Luau, Rojo, and a Studio plugin. |
+| [af2048/script_io_server](https://github.com/af2048/script_io_server) | 0 | http server for Roblox plugin |
+| [af2048/welds_and_motors](https://github.com/af2048/welds_and_motors) | 0 | plugin for Roblox studio, creates weld and motor6d instances |
+| [afgrbx/glucose](https://github.com/afgrbx/glucose) | 0 | Open-source remake of Git but as a Roblox plugin. |
+| [AlGhozaliRamadhan/fer](https://github.com/AlGhozaliRamadhan/fer) | 0 | i hate how roblox studio cant connect to vscode and other plugin are not just quiet right for me |
+| [Alts-Alt/Variable-Editor](https://github.com/Alts-Alt/Variable-Editor) | 0 | Roblox Plugin that uses the new widgets to create a quick changes to tagged variables within scripts. |
+| [amindez74/Script-Analyzer-roblox-studio](https://github.com/amindez74/Script-Analyzer-roblox-studio) | 0 | A plugin that analyzes scripts. |
+| [Antboi123/Roblox_Blockly_Plugin_Antboi_V1](https://github.com/Antboi123/Roblox_Blockly_Plugin_Antboi_V1) | 0 | Roblox lua plugin (technically not) that generates code for roblox lua. |
+| [appleeroblox-lab/Applee-s-Space-Developer-Plugin](https://github.com/appleeroblox-lab/Applee-s-Space-Developer-Plugin) | 0 | This is a plugin data base for Applee's Space Developer Plugin in Roblox Studio |
+| [ApplePancake63/Apply-Constraint-Plugin](https://github.com/ApplePancake63/Apply-Constraint-Plugin) | 0 | A plugin for simple applying UI Constraints in Roblox Studio |
+| [AProgrammRe/Edit-Viewports-ROBLOX](https://github.com/AProgrammRe/Edit-Viewports-ROBLOX) | 0 | Viewports are a pain to handle, ain't it? So, why not use my plugin! |
+| [arasbutauskas/gitblox-plugin](https://github.com/arasbutauskas/gitblox-plugin) | 0 | GitHub, but for roblox developers |
+| [arcsDC/roblox-asset-path-normalizer](https://github.com/arcsDC/roblox-asset-path-normalizer) | 0 | A Roblox Studio plugin that normalizes and validates asset paths for consistent data-driven development. |
+| [arcsDC/roblox-ui-asset-organizer](https://github.com/arcsDC/roblox-ui-asset-organizer) | 0 | A Roblox Studio plugin that automatically tags and organizes UI elements by type and hierarchy depth. |
+| [arduoussteel/fit-ui](https://github.com/arduoussteel/fit-ui) | 0 | Roblox Studio plugin: one click makes any GUI fit every screen size. |
+| [Asleum/dir-to-roblox](https://github.com/Asleum/dir-to-roblox) | 0 | Synchronization plugins for Roblox that allows you to send the contents of a local directory to Roblox Studio. |
+| [athar-adv/SimpleComplete](https://github.com/athar-adv/SimpleComplete) | 0 | A simple, easy to use & fork general scripting plugin for Roblox Studio. |
+| [Avi8088/door-generator-plugin](https://github.com/Avi8088/door-generator-plugin) | 0 | spawns a door in roblox. |
+| [AvinadavCoh/framebridge-releases](https://github.com/AvinadavCoh/framebridge-releases) | 0 | Public downloads for the Framebridge Roblox Studio plugin companion service |
+| [Beastslash/roblox-dialogue-maker-docs](https://github.com/Beastslash/roblox-dialogue-maker-docs) | 0 | Documentation for the Dialogue Maker plugin on Roblox. |
+| [betahub-io/roblox-plugin](https://github.com/betahub-io/roblox-plugin) | 0 | In-game feedback widget for Roblox — submit bug reports and feature suggestions to BetaHub with automatic log capture |
+| [Bewach/rbx-studio-plugins](https://github.com/Bewach/rbx-studio-plugins) | 0 | Bewa's epic roblox studio plugins |
+| [biotoxin495/PluginUIToasts](https://github.com/biotoxin495/PluginUIToasts) | 0 | A small, self-contained toast notification utility intended for Roblox Studio plugins. |
+| [BloxcodeHQ/Codetime](https://github.com/BloxcodeHQ/Codetime) | 0 | Stay focused on your next big project with the Codetime Prmodoro timer Roblox® Studio plugin, crafted by Bloxcode. |
+| [bonnith/Open-Gui-Plugin-Roblox-studio-](https://github.com/bonnith/Open-Gui-Plugin-Roblox-studio-) | 0 | File of open gui plugin(roblox studio) this will save the version of system and module that this plugin use with, sorry for sucks english |
+| [BradDeveloper/SpaceK-Utility-Plus](https://github.com/BradDeveloper/SpaceK-Utility-Plus) | 0 | Roblox SpaceK Utility Streamline Tools Plugin |
+| [BrayanCrV/plugin](https://github.com/BrayanCrV/plugin) | 0 | Prueba de plugin en roblox studio |
+| [Bububooo3/parametric-history-plugin](https://github.com/Bububooo3/parametric-history-plugin) | 0 | fusion 360 timeline system but for Roblox Studio (WIP) |
+| [c-gale/zap-flake](https://github.com/c-gale/zap-flake) | 0 | For the roblox plugin |
+| [CaiIsProgrammer/Script-Header-Plugin-Server](https://github.com/CaiIsProgrammer/Script-Header-Plugin-Server) | 0 | The server used in the plugin create.roblox.com/dashboard/creations/store/96261791302928 |
+| [call23re/Inserter](https://github.com/call23re/Inserter) | 0 | Plugin for inserting assets in to Roblox Studio by item id. |
+| [calvinzosa/StudioPluginEnhancer](https://github.com/calvinzosa/StudioPluginEnhancer) | 0 | A Tauri app for Roblox Studio plugins |
+| [casualdegenerate/Roblox-Utility](https://github.com/casualdegenerate/Roblox-Utility) | 0 | This is a roblox studio plugin built to be utility such as detecting backdoors in your game, and be able to remove them. |
+| [CeaselessQuokka/alignment-plus-plus](https://github.com/CeaselessQuokka/alignment-plus-plus) | 0 | A Roblox plugin that enables the aligning (and resizing) of parts and models in various ways. |
+| [chaoticgoodcomputing/nx-roblox-ts](https://github.com/chaoticgoodcomputing/nx-roblox-ts) | 0 | NX Plugin for roblox-ts projects. |
+| [ChaoticLeah/QuicksCommandRepo](https://github.com/ChaoticLeah/QuicksCommandRepo) | 0 | A repo of commands to extend my roblox plugin called Quicks |
+| [checkraisefold/ROBLOXLink-Client](https://github.com/checkraisefold/ROBLOXLink-Client) | 0 | A Lua script designed to communicate with a websocket server hosted by a companion Mumble plugin. |
+| [ChipioIndustries/hidden-members](https://github.com/ChipioIndustries/hidden-members) | 0 | Plugin to show hidden Roblox API members. |
+| [ChipioIndustries/smartselect](https://github.com/ChipioIndustries/smartselect) | 0 | Roblox plugin for selecting objects based on given criteria |
+| [ChocoBasta/Xocoatl-Issues](https://github.com/ChocoBasta/Xocoatl-Issues) | 0 | This is a sub-repo for the Xocoatl plugin on roblox to publish issues in and request new features! |
+| [CodeBLACKBEARD/Blacklight](https://github.com/CodeBLACKBEARD/Blacklight) | 0 | Blacklight plugin for Roblox Studio |
+| [colmanleroux/roblox-asset-loader](https://github.com/colmanleroux/roblox-asset-loader) | 0 | a plugin that allows you to load Shirts, Pants, and Hats. |
+| [colmanleroux/ROBLOX-OOP-Plugin-Tool](https://github.com/colmanleroux/ROBLOX-OOP-Plugin-Tool) | 0 | Object Oriented Class/Singleton creator. Codebase of plugin is also entirely OOP. |
+| [colmanleroux/ui-editor](https://github.com/colmanleroux/ui-editor) | 0 | ui editor plugin for roblox |
+| [cooldude67126/RobloxRailBuilder](https://github.com/cooldude67126/RobloxRailBuilder) | 0 | Open-source Roblox Studio plugin for building and automatically snapping rail sections for cart ride games. |
+| [COOLGUY16T/EzTimer](https://github.com/COOLGUY16T/EzTimer) | 0 | The EzTimer Creator is a roblox plugin used to create timers and stopwatches. |
+| [coolproxy/outfit-loader](https://github.com/coolproxy/outfit-loader) | 0 | A ROBLOX plugin dedicated to loading a given user's outfits. |
+| [Corecii/roblox-layers-plugin](https://github.com/Corecii/roblox-layers-plugin) | 0 | Roblox plugin to hide parts temporarily in Studio |
+| [cruelHVH/rose](https://github.com/cruelHVH/rose) | 0 | Small plugin for roblox |
+| [CyanCaynRoblox/Better-Instances](https://github.com/CyanCaynRoblox/Better-Instances) | 0 | Luau open source Roblox plugin that makes managing instances a ton easier. |
+| [Dankinations/ORP-RBLXLINK](https://github.com/Dankinations/ORP-RBLXLINK) | 0 | Helper plugin for roblox studio that connects to ORP through a webserver |
+| [David-T08/Node-Editor](https://github.com/David-T08/Node-Editor) | 0 | A general purpose node editor plugin for roblox |
+| [dc-danielchen/Roblox-Window-Maker-Plugin](https://github.com/dc-danielchen/Roblox-Window-Maker-Plugin) | 0 | A Roblox plugin that helps you create transparent windows with glass! |
+| [DelzDevRoblox/ShowUnanchored](https://github.com/DelzDevRoblox/ShowUnanchored) | 0 | A Roblox plugin to show unanchored parts in the workspace. |
+| [DelzDevRoblox/ThumbMaker](https://github.com/DelzDevRoblox/ThumbMaker) | 0 | Roblox plugin to easily create beautiful thumbnails for your published models and UGC accessories. |
+| [Denched/2DEditor](https://github.com/Denched/2DEditor) | 0 | A Roblox 2D Editor Plugin |
+| [dev-syn/rbxts-syn-defaults-plugin](https://github.com/dev-syn/rbxts-syn-defaults-plugin) | 0 | A plugin that uses syn_defaults and allows for easy studio UI creation |
+| [Devalvion/SMART-Studio-Builder](https://github.com/Devalvion/SMART-Studio-Builder) | 0 | The universal Roblox plugin to solve all your problems as a developer and streamline your progress. |
+| [Deviture/Roblox_Plugin_Purchases](https://github.com/Deviture/Roblox_Plugin_Purchases) | 0 | Table for Plugin Purchases |
+| [devvazquez/HitBall](https://github.com/devvazquez/HitBall) | 0 | A Minecraft 1.16.5 minigame paper plugin based off the popular Roblox "BladeBall" game. |
+| [dhaynes-rbx/dhaynes-bundle-importer](https://github.com/dhaynes-rbx/dhaynes-bundle-importer) | 0 | Roblox Studio plugin that imports avatar bundles as fully rigged Models |
+| [dmforeacre/ObjectRandomizer](https://github.com/dmforeacre/ObjectRandomizer) | 0 | Object Randomizer plugin for Roblox. Fills a surface region with randomized copies of a desired object. |
+| [DocsGenius/Roblox-Devs](https://github.com/DocsGenius/Roblox-Devs) | 0 | A compilation of all the plugins, core components, etc I have made on the Roblox platform. |
+| [DohmBoyOG/GuiBuilder](https://github.com/DohmBoyOG/GuiBuilder) | 0 | A gui development plugin for Roblox Studio |
+| [Donut792/Donut-s-Electricity](https://github.com/Donut792/Donut-s-Electricity) | 0 | The First Open Source Roblox Electricity System In Plugin Form |
+| [Dread-Pirate-Games/CollisionVisualizer](https://github.com/Dread-Pirate-Games/CollisionVisualizer) | 0 | Roblox plugin to visual CanCollide, CanQuery and CanTouch |
+| [Dread-Pirate-Games/TextureRandomizer](https://github.com/Dread-Pirate-Games/TextureRandomizer) | 0 | A Roblox plugin to randomize the placement of textures on repetitive parts. |
+| [dreamy2/robloxDraggers](https://github.com/dreamy2/robloxDraggers) | 0 | roblox studio plugin draggers |
+| [Ean-Warrick/gitro](https://github.com/Ean-Warrick/gitro) | 0 | GitRo is a Roblox Studio plugin that allows easy pushing and pulling of scripts directly from Roblox Studio. |
+| [eldonwilliams/uistrokescaler-plugin](https://github.com/eldonwilliams/uistrokescaler-plugin) | 0 | Roblox plugin that inserts a script for scaling UIStroke objects. |
+| [EliTheGingerCat/schematic_to_Roblox](https://github.com/EliTheGingerCat/schematic_to_Roblox) | 0 | A Roblox plugin to convert Minecraft schematics to Roblox models. |
+| [ExperiencersInternational/roblox-plugin-importer](https://github.com/ExperiencersInternational/roblox-plugin-importer) | 0 | A plugin for quickly downloading and inserting plugin source code in Roblox Studio. |
+| [ExperiencersInternational/RoTweakPlugin](https://github.com/ExperiencersInternational/RoTweakPlugin) | 0 | An open-source plugin that has a library of settings to tweak a Roblox game. [EARLY BETA] |
+| [ExtraScale/flux](https://github.com/ExtraScale/flux) | 0 | UI Editing plugin for Roblox with better styling. |
+| [ExtremePro11299/Roblox-DeDeprecator-plugin](https://github.com/ExtremePro11299/Roblox-DeDeprecator-plugin) | 0 | A Roblox plugin that converts deprecated instances to non-deprecated ones. |
+| [ezblox/Cart-Ride-Creator-Ver](https://github.com/ezblox/Cart-Ride-Creator-Ver) | 0 | For Version and other information checking [ Roblox Plugin ] |
+| [fernandabarbosadavid-art/ia-plugin-roblox](https://github.com/fernandabarbosadavid-art/ia-plugin-roblox) | 0 | new ia plugin roblox studio who make everything |
+| [Figma2Roblox/rbx-ui](https://github.com/Figma2Roblox/rbx-ui) | 0 | Typescript implementation of a small slice of the Roblox API that covers UI instances along with the Roblox DataTypes and Enums relevant to them. Instances a... |
+| [Firebros1/MonkeyDefender](https://github.com/Firebros1/MonkeyDefender) | 0 | Monkey defender source code. Does not contain UI or settings folder. Get plugin here: https://www.roblox.com/library/10346314531/Monkey-Defender-BETA |
+| [flamenco687/roblox-welder](https://github.com/flamenco687/roblox-welder) | 0 | An open-source roblox welding plugin with support for WeldConstraints and Motor6D. |
+| [fox3000foxy/antiBadWords](https://github.com/fox3000foxy/antiBadWords) | 0 | Vencor plugin to have Roblox Chat ported in Discord |
+| [frqstbite/roblox-conway-plugin](https://github.com/frqstbite/roblox-conway-plugin) | 0 | Conway's Game of Life in a Roblox Studio plugin |
+| [gaymeowing/2020-roblox-studio-draggers](https://github.com/gaymeowing/2020-roblox-studio-draggers) | 0 | Plugin that contains the studio draggers before the QOL update in 2022 |
+| [gaymeowing/Nodette](https://github.com/gaymeowing/Nodette) | 0 | Roblox plugin for making 3D webs of nodes |
+| [gbesse/roblox-jev-studio](https://github.com/gbesse/roblox-jev-studio) | 0 | Review selected Roblox Studio Instances with typed Jev criteria and exact citations. |
+| [gcaptn/cyan-ui](https://github.com/gcaptn/cyan-ui) | 0 | A Fusion UI Library written for my Studio plugins |
+| [gilikv/robin-companion](https://github.com/gilikv/robin-companion) | 0 | Background helper for Robin plugin updates in Roblox Studio |
+| [griotgaror/roblox_plugins](https://github.com/griotgaror/roblox_plugins) | 0 | self made plugins for roblox studio |
+| [Guest058/DevUtil](https://github.com/Guest058/DevUtil) | 0 | this is for the DevUtil Plugin in roblox studio, it contains the button layout stuff and what it does |
+| [gyfdb/pinsandparents](https://github.com/gyfdb/pinsandparents) | 0 | Roblox plugin for ease of access to reparenting selections. |
+| [hakusoda/roblox-plugins](https://github.com/hakusoda/roblox-plugins) | 0 | Collection of all our Plugins for Roblox Studio. |
+| [headjoe3/rbx-autosave](https://github.com/headjoe3/rbx-autosave) | 0 | Plugin-based place autosaver for Roblox Studio |
+| [HintSystem/IngameStudio-roblox](https://github.com/HintSystem/IngameStudio-roblox) | 0 | Recreating part of Roblox Studio within the Roblox client, with plugin functionality |
+| [HONRO1/BuNasser-Plugins](https://github.com/HONRO1/BuNasser-Plugins) | 0 | This is a site for any plugin in Roblox Studio that will help you |
+| [howmanysmall/create-shared-toolbar](https://github.com/howmanysmall/create-shared-toolbar) | 0 | Creates a shared toolbar for Roblox Studio plugins. |
+| [Hyaxon/roblox-studio-bulk-rename-plugin](https://github.com/Hyaxon/roblox-studio-bulk-rename-plugin) | 0 | Roblox Studio Plugin for Renaming Selected Instances in Bulk |
+| [igloo-1/trace](https://github.com/igloo-1/trace) | 0 | A lightweight Roblox Studio plugin for object path handling |
+| [imdaclassic/MultiBlox](https://github.com/imdaclassic/MultiBlox) | 0 | Launch multiple roblox instances at once without plugins or any other mods. Purely just with a external program. |
+| [ind1g0wastaken/BuilderIconSet](https://github.com/ind1g0wastaken/BuilderIconSet) | 0 | Plugin for easily obtaining Roblox's icons. Updated every few months thanks to MaximumADHD's Client Tracker repository! |
+| [instantstudio/Color-Palette](https://github.com/instantstudio/Color-Palette) | 0 | A roblox Plugin for Gui colors. |
+| [ItzNateWorks11/VibeBuilderFullSystem](https://github.com/ItzNateWorks11/VibeBuilderFullSystem) | 0 | VibeBuilder Pro – Your Ultimate Roblox Creation Companion Unleash your creativity with VibeBuilder Pro, the all-in-one Roblox Studio plugin designed to make ... |
+| [jacecodessometimes/Rachet](https://github.com/jacecodessometimes/Rachet) | 0 | A roblox tool used for game development. Similar to scratch and can either be used outside of studio as a workspace or inside as a plugin. 8/17/26 |
+| [JasPrograms/community-themes](https://github.com/JasPrograms/community-themes) | 0 | Community Themes plugin for Roblox |
+| [Jayma1322/jayma-av](https://github.com/Jayma1322/jayma-av) | 0 | A roblox antivirus plugin. |
+| [jerr3n/benchmarkr](https://github.com/jerr3n/benchmarkr) | 0 | A benchmarking plugin for Roblox Studio. |
+| [Jerse1/vscode-roblox](https://github.com/Jerse1/vscode-roblox) | 0 | plugin n server that allows you to edit your scripts in vscode |
+| [JogEcosystem/JogPlugin](https://github.com/JogEcosystem/JogPlugin) | 0 | The official Roblox Studio plugin for developing, managing, and extending Jog projects. |
+| [JoWttk/Nice-Baseplate](https://github.com/JoWttk/Nice-Baseplate) | 0 | baseplate changer plugin for roblox studio |
+| [kareemkiko123/ModelCategorize](https://github.com/kareemkiko123/ModelCategorize) | 0 | A Roblox Studio plugin that parses selected models, renames parts by categories, and creates a new script with mapped parts. |
+| [KashTheKing/library](https://github.com/KashTheKing/library) | 0 | Reusable Roblox building blocks, plugins, packages, and guides. Grab what you need. |
+| [keeganshropshire14-web/roblox-coding-plugin](https://github.com/keeganshropshire14-web/roblox-coding-plugin) | 0 | Advanced Roblox Studio coding assistant plugin that helps create, debug, test, and improve Roblox projects with automatic double-checking and validation. |
+| [keewinek/rbxvibecoder_landing](https://github.com/keewinek/rbxvibecoder_landing) | 0 | Landing page for Vibe Coder roblox studio plugin. |
+| [kermeow/Oneko](https://github.com/kermeow/Oneko) | 0 | Oneko plugin for Roblox Studio |
+| [KIWIGAMERINE/Lumber_Tycoon](https://github.com/KIWIGAMERINE/Lumber_Tycoon) | 0 | Plugin to recreate Lumber Tycoon from Roblox |
+| [Knewest/Roblox-WebP-To-PNG](https://github.com/Knewest/Roblox-WebP-To-PNG) | 0 | Roblox has started to use WebP instead of PNG, but they have chosen to use a very lossy WebP, and not a lossless one, which is a shame. PNG is still being st... |
+| [kol11kol/GitLink](https://github.com/kol11kol/GitLink) | 0 | GitLink is a Roblox Studio plugin which allows developers to use Github for their projects developed with Roblox Studio. |
+| [kozzy-km/figma-to-roblox-luau](https://github.com/kozzy-km/figma-to-roblox-luau) | 0 | Figma plugin that exports UI designs to Roblox LuaU code — supports Instance.new, Roact, and Fusion with smart positioning, list layout detection, and respon... |
+| [krampuszc/Lucide-Icon-Picker](https://github.com/krampuszc/Lucide-Icon-Picker) | 0 | A Roblox Studio plugin for browsing and inserting Lucide icons |
+| [Kvil-git/Roblox-gui-to-quark-code-plugin](https://github.com/Kvil-git/Roblox-gui-to-quark-code-plugin) | 0 | This is a roblox plugin that converts selected gui instances to quark code. |
+| [Larsen-dev/Activity-Analyzer](https://github.com/Larsen-dev/Activity-Analyzer) | 0 | Private repository for Activity Analyzer Roblox Studio plugin. |
+| [LexxMeDev/roblox-parser](https://github.com/LexxMeDev/roblox-parser) | 0 | Full plugin to export Roblox Studio scripts and project structures to disk. |
+| [lilvmass0-bit/Extremely-Useful-Plugins](https://github.com/lilvmass0-bit/Extremely-Useful-Plugins) | 0 | Roblox all in one plugin. |
+| [lilvmass0-bit/ToolEditorRoblox](https://github.com/lilvmass0-bit/ToolEditorRoblox) | 0 | put inside local plugin |
+| [LionDoge/RobloxQuickHide](https://github.com/LionDoge/RobloxQuickHide) | 0 | QuickHide plugin for Roblox Studio that makes it easier to hide objects. |
+| [lukadev-0/pluggy](https://github.com/lukadev-0/pluggy) | 0 | Libraries for Roblox Plugins. |
+| [luna-xyz/vs-code-roblox-execution](https://github.com/luna-xyz/vs-code-roblox-execution) | 0 | With this plugin you can execute your code from vs to roblox using WebSocket library |
+| [macmillan333/another-roblox-style-sheet](https://github.com/macmillan333/another-roblox-style-sheet) | 0 | My shot at a Roblox Studio plugin that parses and applies style sheets in a custom format. |
+| [MagicBoBoYiYi/FocusFlow-Docs](https://github.com/MagicBoBoYiYi/FocusFlow-Docs) | 0 | Official documentation, quick start guides, demo files, and release notes for FocusFlow, a Roblox Studio plugin for Gamepad UI navigation. |
+| [Malisius/EconTycoon](https://github.com/Malisius/EconTycoon) | 0 | A Bukkit plugin to add a Tycoon-type minigame to minecraft, similar to the old tycoon games from Roblox. |
+| [MarioChao/pie-hiking-plugin](https://github.com/MarioChao/pie-hiking-plugin) | 0 | Become a certified pie hiker or baker. |
+| [markel140415/All-about-roblox](https://github.com/markel140415/All-about-roblox) | 0 | There will be scripts, plugins, and everything related to Roblox |
+| [MarkSmrnw/MarksCamMediaRepo](https://github.com/MarkSmrnw/MarksCamMediaRepo) | 0 | Repo for showcase media for the roblox plugin "Mark's Cam" |
+| [martintidemand/2022-PngToRec-and-mapmaker2](https://github.com/martintidemand/2022-PngToRec-and-mapmaker2) | 0 | 2 tools. Png2Rec transforms a png file into a list of rectangles of each color. Mapmaker2 plugin for Roblox Studio then uses the rectangles to create a 3D ma... |
+| [matiss112233/RobloxPlugins](https://github.com/matiss112233/RobloxPlugins) | 0 | A repository of plugins made by me for Roblox |
+| [mattilpea/Quick-Panel-Roblox-Studio-Plugin-](https://github.com/mattilpea/Quick-Panel-Roblox-Studio-Plugin-) | 0 | Please check links in my bio for the place file, if available* or shoot me dm on my socials |
+| [maxhithere/SafeShield](https://github.com/maxhithere/SafeShield) | 0 | old src of my roblox plugin for scanning viruses |
+| [meowbee-github/advancedbadgelist](https://github.com/meowbee-github/advancedbadgelist) | 0 | Stores all the information needed to use the Advanced Badge List plugin in ROBLOX --- This includes how to set-up the plugin, the cursors for big badge games... |
+| [metamethods/fusion-plugin-template](https://github.com/metamethods/fusion-plugin-template) | 0 | A Roblox plugin template made with Fusion |
+| [metamethods/therapy](https://github.com/metamethods/therapy) | 0 | Therapy plugin for Roblox |
+| [Metatable-Games/RBLXCityLoaderElectron](https://github.com/Metatable-Games/RBLXCityLoaderElectron) | 0 | Electron desktop application for the Roblox City Loader plugin by Meta Games. |
+| [MiaGobble/Studio-Status](https://github.com/MiaGobble/Studio-Status) | 0 | Create your own status on Roblox Studio for everybody to see |
+| [michaeljwalla/Luau](https://github.com/michaeljwalla/Luau) | 0 | collection of modules, plugins, and demonstrations built upon Lua/Luau engine |
+| [mikeyRBLX/RBLX-Systems](https://github.com/mikeyRBLX/RBLX-Systems) | 0 | Here, you can find all of my recent Roblox Systems. From test game systems, to full plugin scripts, you can find all of my works here. |
+| [miltoncandelero/Parentinator](https://github.com/miltoncandelero/Parentinator) | 0 | My Roblox plugin to move batches of assets to a new parent |
+| [MinecoIII/Mine-s-Protection-Plugin](https://github.com/MinecoIII/Mine-s-Protection-Plugin) | 0 | Mine's Protection is a ROBLOX STUDIO Plugin created with the intend to protect Users from Infected Free Models. |
+| [MineLC/Roblox-crossplay](https://github.com/MineLC/Roblox-crossplay) | 0 | Roblox crossplay plugin for minelc |
+| [MinePlayersPE/ROBLOX-Virus-Detector-Database](https://github.com/MinePlayersPE/ROBLOX-Virus-Detector-Database) | 0 | The code + database for MinePlayersPE's ROBLOX Virus Detector Plugin. |
+| [Mintxshi/S3M](https://github.com/Mintxshi/S3M) | 0 | Supabase plugin for roblox! |
+| [MixeroTN/PrimaryPart-Master](https://github.com/MixeroTN/PrimaryPart-Master) | 0 | Roblox Studio plugin that helps with PrimaryParts! |
+| [MoonLunerreal/Bloxery](https://github.com/MoonLunerreal/Bloxery) | 0 | it's just bakery from unity made into a Roblox plugin |
+| [MrGenie151/ViroProtect](https://github.com/MrGenie151/ViroProtect) | 0 | The first actually GOOD antivirus plugin for Roblox! |
+| [mygonia/RobloxPlugins](https://github.com/mygonia/RobloxPlugins) | 0 | A bunch of plugins I've made |
+| [narsendeavor/plugin](https://github.com/narsendeavor/plugin) | 0 | Roblox Studio Lite utility suite for development, building, scripting, and productivity. |
+| [Neohertz/luau-type-gen](https://github.com/Neohertz/luau-type-gen) | 0 | A simple plugin that generates types for roblox instances. Written with comet v2.0. |
+| [NikolaGluh/RBXTracker](https://github.com/NikolaGluh/RBXTracker) | 0 | Roblox plugin to join players in games easily |
+| [Nimblz/group-as-folder](https://github.com/Nimblz/group-as-folder) | 0 | roblox plugin that allows you to group instances under a folder instance, rather than a model. |
+| [Nimblz/select-parent](https://github.com/Nimblz/select-parent) | 0 | Roblox plugin that allows you to select all parents of selected objects |
+| [nontkph/PlateLuxe](https://github.com/nontkph/PlateLuxe) | 0 | Roblox Plugin to Upgrade Baseplate but i don't need to see my plugin has someone leak it it free so then why you leak it |
+| [NopeTurtle9001/NoMercy](https://github.com/NopeTurtle9001/NoMercy) | 0 | NoMercy is a plugin that is used to Discipline users on any Roblox experience. It stores the id of the user, the ban reason, and the experience the user was ... |
+| [open-source-plugins/path-selection-plugin](https://github.com/open-source-plugins/path-selection-plugin) | 0 | PathSelection is a plugin that allows you to copy and paste the Path of the instances you have selected in explorer! This plugin helps you to copy and paste ... |
+| [open-source-plugins/plugins-lib-core](https://github.com/open-source-plugins/plugins-lib-core) | 0 | Official core library used in all open-source-plugins. |
+| [ORileyTan/ROCLOCK](https://github.com/ORileyTan/ROCLOCK) | 0 | A Roblox plugin that tells the time with sentence mixing |
+| [PakornlamMM/figma-to-roblox-plugin](https://github.com/PakornlamMM/figma-to-roblox-plugin) | 0 | WIP local roblox plugins (open-source) |
+| [PhantomShift/Rbx-PSU](https://github.com/PhantomShift/Rbx-PSU) | 0 | Roblox Player Script Updater (Rbx PSU), a simple plugin for grabbing the latest versions of Roblox client modules |
+| [phorgegiving/OVERHEATED](https://github.com/phorgegiving/OVERHEATED) | 0 | ive decided it would be nice to test out the Rojo plugin and have proper backups for my roblox game, so here we are |
+| [photobooth-rbx/photobooth-plugin-site](https://github.com/photobooth-rbx/photobooth-plugin-site) | 0 | A website for the photobooth Roblox plugin |
+| [phsealex/rbxtk-plugins](https://github.com/phsealex/rbxtk-plugins) | 0 | Plugin templates for varying game content for "Roblox no Taiko" (taiko recreation on Roblox) |
+| [piecioshka/roblox-hierarchy-tidy](https://github.com/piecioshka/roblox-hierarchy-tidy) | 0 | 🔨 Roblox Studio plugin that tidies the Explorer: find duplicates, group by class, number names, remove empty containers |
+| [Playgroundman/ZXT-s-PluginLoader-ROBLOX](https://github.com/Playgroundman/ZXT-s-PluginLoader-ROBLOX) | 0 | Plugin loader for roblox |
+| [PretzelNoob/Plugins](https://github.com/PretzelNoob/Plugins) | 0 | These are plugins to help you develop, currently only Roblox ones. |
+| [Pumkinfish/RobloxTeamChatRemade](https://github.com/Pumkinfish/RobloxTeamChatRemade) | 0 | Local Plugin for roblox team chat |
+| [qwreey/qwreey.roblox.plugins](https://github.com/qwreey/qwreey.roblox.plugins) | 0 | my roblox plugins source codes |
+| [Raixu27/Diamond](https://github.com/Raixu27/Diamond) | 0 | Diamond is a Roblox plugin which includes an Antivirus, notepad and more to come. |
+| [rangaistus/roblox-smart-server-join](https://github.com/rangaistus/roblox-smart-server-join) | 0 | A browser plugin made for the game Roblox. It automatically joins a random server with no friends and lower ping. So if you don’t want to join your friends b... |
+| [rawresh/bloxify-server](https://github.com/rawresh/bloxify-server) | 0 | Server for the roblox plugin bloxify |
+| [raylameows/PluginCollar](https://github.com/raylameows/PluginCollar) | 0 | A utility tool for linking plugins from PluginDebugService to Workspace, allowing for easier script-sync in Roblox Studio |
+| [Redon-Tech/Unnamed-Road-Creator](https://github.com/Redon-Tech/Unnamed-Road-Creator) | 0 | A work in progress unnamed road creator plugin for Roblox. |
+| [ren-lib/UI-Editor-2](https://github.com/ren-lib/UI-Editor-2) | 0 | UI Editor 2 is a plugin for Roblox Studio that allows you to quickly edit the UI. |
+| [rinyafii/wirespanner](https://github.com/rinyafii/wirespanner) | 0 | Wirespanner - A plugin for Roblox Studio that lets you build ropes and wires easier |
+| [Rocxxy/Tri-Counter](https://github.com/Rocxxy/Tri-Counter) | 0 | Roblox Studio triangle counter plugin + desktop app |
+| [romeda-labs/orchid](https://github.com/romeda-labs/orchid) | 0 | API-based storybook plugin for Luau/roblox-ts |
+| [Rudy-Dev/AutoShade](https://github.com/Rudy-Dev/AutoShade) | 0 | Roblox plugin to simplify shading parts. |
+| [RuneDevs/Motion-Pathing](https://github.com/RuneDevs/Motion-Pathing) | 0 | Motion Path Plugin for Roblox |
+| [Rxesy/Icon-Forge-Roblox-Plugin-FREE-](https://github.com/Rxesy/Icon-Forge-Roblox-Plugin-FREE-) | 0 | Make Good Item Icon Fast!!! |
+| [ryden03284/EasyLuau-Setup](https://github.com/ryden03284/EasyLuau-Setup) | 0 | Setup for the Roblox Plugin EasyLuau. |
+| [SairyWare/Acode-Plugin](https://github.com/SairyWare/Acode-Plugin) | 0 | Acode Plugin Auto Complete For Luau Roblox |
+| [san1yus/tracelens](https://github.com/san1yus/tracelens) | 0 | A local-only Roblox Studio plugin for resolving output tracebacks and paths back to source scripts. |
+| [scotter1995/OpenWalls](https://github.com/scotter1995/OpenWalls) | 0 | a roblox plugin for fitting meshes to bricks |
+| [ShortAspect/RulesOfThird](https://github.com/ShortAspect/RulesOfThird) | 0 | Bring Rules of third inside Roblox Studio's viewport |
+| [ShortVincentMan/mcroguelite](https://github.com/ShortVincentMan/mcroguelite) | 0 | translating a beloved roblox game into a minecraft plugin |
+| [SilverLaw999/PluginMat](https://github.com/SilverLaw999/PluginMat) | 0 | A Roblox Studio plugin that acts as a coding reference deskmat for Lua and Roblox API. |
+| [SimplyRekt/Script-Editor-Themes](https://github.com/SimplyRekt/Script-Editor-Themes) | 0 | Roblox plugin that changes the theme of your script editor. |
+| [Sluethen/QuickRun-RBX](https://github.com/Sluethen/QuickRun-RBX) | 0 | A roblox plugin which contains a bunch of quick run plugins |
+| [snomac/Moonwave-In-Roblox](https://github.com/snomac/Moonwave-In-Roblox) | 0 | A moonwave reader plugin in Roblox. |
+| [Soap145/Eternal-Suite](https://github.com/Soap145/Eternal-Suite) | 0 | A roblox plugin set to make developer work flow fast |
+| [Soap145/EternalSuite](https://github.com/Soap145/EternalSuite) | 0 | A suite for roblox plugins mainly used to detect versions |
+| [Soucan/Roblox-Plugins](https://github.com/Soucan/Roblox-Plugins) | 0 | This Has all my roblox Plugins i Have made! |
+| [Stamyyyy/cartographer](https://github.com/Stamyyyy/cartographer) | 0 | Roblox Studio mission-zone plugin for team-safe spawns, objectives, and runtime policies. |
+| [Starfruit-Studios/rbx-dom](https://github.com/Starfruit-Studios/rbx-dom) | 0 | Starfruit Studios custom rbx-dom for our Roblox plugins. |
+| [Stiexeno/roblox-csharp-assets](https://github.com/Stiexeno/roblox-csharp-assets) | 0 | Addressables-style asset registry plugin for roblox-csharp. Tag-based lookup via CollectionService. |
+| [Stiexeno/roblox-csharp-linq](https://github.com/Stiexeno/roblox-csharp-linq) | 0 | LINQ-to-Objects for roblox-csharp — Select / Where / Sum / ToList and friends, packaged as a plugin. |
+| [Stiexeno/roblox-csharp-maid](https://github.com/Stiexeno/roblox-csharp-maid) | 0 | Maid cleanup helper as a roblox-csharp plugin — track tasks (instances, connections, functions, nested Maids) and clean them up in one call. |
+| [Stoppedwumm-Studios/Roblox-AntiVirus-Plugin](https://github.com/Stoppedwumm-Studios/Roblox-AntiVirus-Plugin) | 0 | An Roblox plugin created by Stoppedwumm and zyro_playzz |
+| [stormmaster9090/Nickel-2](https://github.com/stormmaster9090/Nickel-2) | 0 | Nickel 2 is a open source Roblox 32bit style plugin UI creation tool. |
+| [Stormwindsky/PluginBlox](https://github.com/Stormwindsky/PluginBlox) | 0 | PluginBlox a Plugin for Roblox that need Stylus to working and need for working, BetteRoblox, Roblox +, RoPro |
+| [stravant/roblox-modelreflect-2](https://github.com/stravant/roblox-modelreflect-2) | 0 | Updated version of ModelReflect using my new shared plugin UX rather than the traditional UX I had for it |
+| [Superdude52/robloxplugins](https://github.com/Superdude52/robloxplugins) | 0 | My Roblox plugins I've made. Most are great productivity enhancers. |
+| [surfinthedev/Sonoran-Plugins](https://github.com/surfinthedev/Sonoran-Plugins) | 0 | Sonoran plugins/integrations for ROBLOX |
+| [svennervok2000/argon-roblox](https://github.com/svennervok2000/argon-roblox) | 0 | Argon plugin for Roblox Studio |
+| [tathere/Roblox](https://github.com/tathere/Roblox) | 0 | Roblox is a sandbox game which allows players to create their very own games using its proprietary engine, Roblox Studio. ... Players can use the programming... |
+| [TechnicolorPhoenix/RobloxPluginTest](https://github.com/TechnicolorPhoenix/RobloxPluginTest) | 0 | Just a test for roblox plugin |
+| [techs-sus/protosync](https://github.com/techs-sus/protosync) | 0 | A Roblox Studio plugin to assist with large scripts in Void Script Builder. |
+| [thatsbloo/FleeTheFacility](https://github.com/thatsbloo/FleeTheFacility) | 0 | Like flee the facility from roblox but minecraft plugin? |
+| [The-Br0z/roblox-http-helper](https://github.com/The-Br0z/roblox-http-helper) | 0 | helps with my roblox plugins and their http requests. |
+| [TheBananaManReal/Roblox_c-_VSCode_Icon_Plugin](https://github.com/TheBananaManReal/Roblox_c-_VSCode_Icon_Plugin) | 0 | Adds icons to vscode for roblox cs project |
+| [TheFunDev/RobloxCurrencyService](https://github.com/TheFunDev/RobloxCurrencyService) | 0 | A plugin for Roblox Studio for creating currencies. |
+| [TheKitXD/SHAZAM-](https://github.com/TheKitXD/SHAZAM-) | 0 | little plugin in roblox kinda like dahoods shazam thing that i made |
+| [themanwhoyaps/BloxyPlus-Plugins](https://github.com/themanwhoyaps/BloxyPlus-Plugins) | 0 | A plugin interface meant to enhance Roblox in a number of ways. |
+| [TheNexusAvenger/Nexus-Plugin-Components](https://github.com/TheNexusAvenger/Nexus-Plugin-Components) | 0 | Helper components for developing plugins in Roblox Studio. |
+| [therealbytecore/Pixl-Releases](https://github.com/therealbytecore/Pixl-Releases) | 0 | Release downloads for Pixl. Grab the Windows or macOS build under Releases; the plugin itself is on the Roblox Creator Store. This repo hosts installers only... |
+| [thom463s/Drawing-Board](https://github.com/thom463s/Drawing-Board) | 0 | ROBLOX Studio Plugin. Lets you draw anything directly on a widget. |
+| [Thomas-Chabot/RbxToGit-Plugin](https://github.com/Thomas-Chabot/RbxToGit-Plugin) | 0 | The Roblox Studio plugin required for using RbxToGit. Can be used with Ctrl + G from any Roblox Studio game. |
+| [Thunderthigh7/rosignal-roblox](https://github.com/Thunderthigh7/rosignal-roblox) | 0 | Public Roblox-side source for RoSignal, including the Studio plugin and code inserted into your game. |
+| [TrulyChxse/legacy-picular-plugin](https://github.com/TrulyChxse/legacy-picular-plugin) | 0 | Picular plugin for Roblox Studio, Experimental |
+| [Twin-Atlas/sonar-brushtool](https://github.com/Twin-Atlas/sonar-brushtool) | 0 | Sonar Studios fork of XAXA's Brushtool plugin |
+| [Twin1Twin2/roblox-coaster_plugin](https://github.com/Twin1Twin2/roblox-coaster_plugin) | 0 | Plugin for making your own coasters on ROBLOX. |
+| [Twin1Twin2/track-position-plugin](https://github.com/Twin1Twin2/track-position-plugin) | 0 | A Roblox plugin to help get positions on a track. Designed primarily for Roblox coasters. |
+| [twistedsignal/vsassetmanager](https://github.com/twistedsignal/vsassetmanager) | 0 | Roblox's asset manager is straight ass. Remade it as a VSCode plugin. |
+| [Tyskalox/Codepiler](https://github.com/Tyskalox/Codepiler) | 0 | Code for a roblox block coding plugin and it's internal library. |
+| [uhteddy/roShadow](https://github.com/uhteddy/roShadow) | 0 | A plugin that lets you customize and generate shadows for Roblox UIs. |
+| [univcorp2-ctrl/roblox-liveops-autopilot-plugin](https://github.com/univcorp2-ctrl/roblox-liveops-autopilot-plugin) | 0 | Sellable Roblox Studio plugin that installs safe Experience Config feature flags, kill switches, announcements, and LiveOps runtime scaffolding. |
+| [univcorp2-ctrl/roblox-qa-autopilot-plugin](https://github.com/univcorp2-ctrl/roblox-qa-autopilot-plugin) | 0 | Sellable Roblox Studio plugin for localization, mobile UI, touch-target, clipping, and release-readiness QA. |
+| [univcorp2-ctrl/roblox-revenueos-plugin](https://github.com/univcorp2-ctrl/roblox-revenueos-plugin) | 0 | Sellable Roblox Studio plugin that installs monetization foundations, validates configuration, and instruments revenue analytics. |
+| [UsefulToolZ/Roblox-RuChat-Plugin](https://github.com/UsefulToolZ/Roblox-RuChat-Plugin) | 0 | A simple GUI tool to change your Russian roblox account to another country location |
+| [vanmooncompany/roblox-plugin](https://github.com/vanmooncompany/roblox-plugin) | 0 | made be @x6byy in roblox game |
+| [VG-Xezo/Easygrids-Plugin](https://github.com/VG-Xezo/Easygrids-Plugin) | 0 | An easy to use roblox plugin to create grids of parts, models, or unions |
+| [Vitouliss/Insert-Asset-plugin](https://github.com/Vitouliss/Insert-Asset-plugin) | 0 | A plugin I wrote for ROBLOX studio that would insert any model by id. Currently only inserts ROBLOX items or items you own in your inventory due to an update. |
+| [vx2c/Zenith](https://github.com/vx2c/Zenith) | 0 | plugin for roblox studios IA free in projects |
+| [welcomestohell/epoch](https://github.com/welcomestohell/epoch) | 0 | Roblox Studio plugin for the next decade of tower building |
+| [WelshLadAshton/RobloxSnippets](https://github.com/WelshLadAshton/RobloxSnippets) | 0 | Snippets Of Code To Use In My Plugin Called Snippets! |
+| [Whincify/Irregular-Plugin-Source](https://github.com/Whincify/Irregular-Plugin-Source) | 0 | Source code for my Roblox plugin, Irregular Plugin. |
+| [WhitehillGroup/ToolConfigurator](https://github.com/WhitehillGroup/ToolConfigurator) | 0 | A Roblox Studio plugin designed to simplify making tools compatible with Whitehill/JSM products. |
+| [Wiktorttt/AssetVaultLite](https://github.com/Wiktorttt/AssetVaultLite) | 0 | Asset Vault - plugin for Roblox Studio introducing unity-like asset browser |
+| [Windows81/The-Fruitful-Labours-of-the-Visual-Roblox-Plugin-of-Respected-Leader-VisualPlugin-the-Prolific](https://github.com/Windows81/The-Fruitful-Labours-of-the-Visual-Roblox-Plugin-of-Respected-Leader-VisualPlugin-the-Prolific) | 0 | Plugin on Rōblox designed to streamline building in ways not previously done. |
+| [xupyrgtg/Xeno-AutoUpdate-Roblox-mode](https://github.com/xupyrgtg/Xeno-AutoUpdate-Roblox-mode) | 0 | MUST DOWNLOAD PYTHON AND THE "pip install pillow requests psutil" PLUGIN |
+| [xyndroxeditz/SyncMaster](https://github.com/xyndroxeditz/SyncMaster) | 0 | An advanced roblox plugin changing the way developers work. |
+| [YarikSuperpro/Bind](https://github.com/YarikSuperpro/Bind) | 0 | Welding Plugin For Roblox |
+| [yumemiruu/photopea-roblox-plugin](https://github.com/yumemiruu/photopea-roblox-plugin) | 0 | Open source photopea plugin that exports your UI TO STUDIO |
+| [zv8001/Toggle-Map-Light-Roblox-Plugin](https://github.com/zv8001/Toggle-Map-Light-Roblox-Plugin) | 0 | a simple plug-in to light up the whole map in roblox studio |
 
 [← Terug naar overzicht](../README.md)

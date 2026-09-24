@@ -30,7 +30,7 @@ Chassis, suspensie, hover, raketten, drijfvermogen en treinen.
 | [cassicoder/boat-game](https://github.com/cassicoder/boat-game) | 0 | Boot-game: Matter ECS + Gerstner-oceaan + drijfvermogen + vissen |
 | [HassanJN66/roblox-vehicle-framework](https://github.com/HassanJN66/roblox-vehicle-framework) | 0 | Raycast-wielen + soft physics body, FWD/RWD/AWD |
 
-## Uitgebreide index (50)
+## Uitgebreide index (67)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -55,11 +55,9 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [DevDodger/Dchassis](https://github.com/DevDodger/Dchassis) | 1 | Dchassis for roblox cars. |
 | [devhykka/pfdata](https://github.com/devhykka/pfdata) | 1 | Multiple sources of data for the Project Flight flight simulator on Roblox. |
 | [devvalkyrie/Roblox-Car-Spotting-Website](https://github.com/devvalkyrie/Roblox-Car-Spotting-Website) | 1 | This is a website made by me where I post a cool cars that I saw in Roblox Greenville and Southwest Florida |
-| [disownh8r/h8r-script](https://github.com/disownh8r/h8r-script) | 1 | Roblox multi-tool script, specifically made for Mic-Up. Includes features such as shift-speed, fly, noclip and voice-chat unsuspension.. |
 | [downj05/ROBLOX-Flytool](https://github.com/downj05/ROBLOX-Flytool) | 1 | External flight tool for ROBLOX, using Pymem for process read/write. |
 | [Drexen-Zikauni/RobloxGalaxyPlayerInventoriesDatabase](https://github.com/Drexen-Zikauni/RobloxGalaxyPlayerInventoriesDatabase) | 1 | A database that contains about 8000 to 9000 player's observed ship inventory. |
 | [ehenry344/A-Chassis-Debug-Tool-](https://github.com/ehenry344/A-Chassis-Debug-Tool-) | 1 | Roblox Studio Plugin designed to help programmers determine error laden scripts within their achassis vehicle plugins folder, and allows them to highlight an... |
-| [Ericberpa/fly-gui](https://github.com/Ericberpa/fly-gui) | 1 | Fly GUI v4 by EricBerpa: Roblox client flight controller with keyboard and touch controls. |
 | [FlightLineCharts/flightlinecharts.github.io](https://github.com/FlightLineCharts/flightlinecharts.github.io) | 1 | Online Charts & Guides for playing FLIGHTLINE, Roblox Flight Simulator |
 | [fwlxpro/brm5](https://github.com/fwlxpro/brm5) | 1 | A simple tool for BRM5 helicopter pilots to record their flights and replay them later. Fly your route once, save it, and come back anytime to replay the sam... |
 | [Gianworld/NBA2kRoblox](https://github.com/Gianworld/NBA2kRoblox) | 1 | Here you can play 5v5 and friendly match in mypark where you can train, you can explore in mypark buy accessories and all that and show urself who you really... |
@@ -80,11 +78,30 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [vatssavvya/ROBLOX-Obby-Showdown](https://github.com/vatssavvya/ROBLOX-Obby-Showdown) | 1 | A competitive, fast-paced multiplayer obstacle-course racing game built in Roblox. Features skill-based movement mechanics, real-time queues, voting, strateg... |
 | [woody-willis/british-railway-auto-drive](https://github.com/woody-willis/british-railway-auto-drive) | 1 | A Python script that automatically drives the class 170 in British Railway on Roblox. |
 | [WormDude/AeroCraftle](https://github.com/WormDude/AeroCraftle) | 1 | A game for aircraft in the ROBLOX game Aeronautica |
+| [Alienduck/tracing_luau](https://github.com/Alienduck/tracing_luau) | 0 | Free library for roblox developers. Based on tracing for Rust, you can create logs easily and debug much faster you're system/game |
+| [Chard2512/AntigravityVehicleSystem](https://github.com/Chard2512/AntigravityVehicleSystem) | 0 | Roblox antigravity vehicle system |
+| [dabl7/framework](https://github.com/dabl7/framework) | 0 | Tool for calculating and building framework in build a boat for treasure on roblox |
+| [dwbabe/dead-rails-framework](https://github.com/dwbabe/dead-rails-framework) | 0 | Clean train system for Roblox Rail-constrained movement, wheel rotation, fuel consumption, dashboard UI |
+| [iamrykerpierce-art/Luabu](https://github.com/iamrykerpierce-art/Luabu) | 0 | The fast, flexible Luau runtime built for Roblox developers who want to ship small and medium games without the scaffolding overhead of heavier frameworks. |
+| [JonathanJosephShokry/SelfDrivingCarInRoblox](https://github.com/JonathanJosephShokry/SelfDrivingCarInRoblox) | 0 | Module script for a self driving car |
+| [kab00038/Fix-It-Up-Fitment-Tracker](https://github.com/kab00038/Fix-It-Up-Fitment-Tracker) | 0 | web app built using pandas and streamlit libraries to easily lookup wheel sizes for cars in the Roblox game Fix It Up |
+| [LucidPoly/Gamma](https://github.com/LucidPoly/Gamma) | 0 | Gamma is a super simple raytracing library for roblox made with lua. |
 | [mikenappi/Project-Racer](https://github.com/mikenappi/Project-Racer) | 0 | Roblox Racing Game :) |
+| [mqz0211/RBLXRacer](https://github.com/mqz0211/RBLXRacer) | 0 | RBLXRacer is an open-source Roblox racing game framework designed for speed, customization, and multiplayer fun. Built entirely in Roblox Studio using Lua, t... |
 | [olafier/Roblox-Emergency-Situations-on-Plane](https://github.com/olafier/Roblox-Emergency-Situations-on-Plane) | 0 | Educational Roblox simulation teaching in-flight emergency procedures through hands-on practice, with built-in pre-test/post-test scoring · SP344 Software En... |
 | [pacn3t/robloxracingsim](https://github.com/pacn3t/robloxracingsim) | 0 | Portfolio: Roblox Racing Sim (Mario Kart Inspired) |
+| [pinkfloydfan/openwings](https://github.com/pinkfloydfan/openwings) | 0 | roblox's best aircraft system |
 | [polkkolk/WHEELS](https://github.com/polkkolk/WHEELS) | 0 | Wheelchair Racing Game - Roblox |
+| [ProfessorSr/PS1-Vehicle-Systems](https://github.com/ProfessorSr/PS1-Vehicle-Systems) | 0 | All in one vehicle system for Roblox |
+| [Qquaded/Consio](https://github.com/Qquaded/Consio) | 0 | Consio is a cutting-edge module designed for Roblox developers, providing a powerful toolkit for creating and managing interactive blocks within your games. ... |
 | [ricarditorich/roblox-racing](https://github.com/ricarditorich/roblox-racing) | 0 | Proyecto de generación automática de juegos Roblox con DeepSeek y n8n |
+| [tatudobenkenee/roblox-flight-system](https://github.com/tatudobenkenee/roblox-flight-system) | 0 | Sistema de voo para Roblox - Script Lua do zero |
+| [Temrer/TrackGenModule](https://github.com/Temrer/TrackGenModule) | 0 | A randomly generating racing track module for Roblox |
+| [Th3Pr0fessor/P5toRoblox](https://github.com/Th3Pr0fessor/P5toRoblox) | 0 | Conversion of the P5 Library commonly used on the coding train into roblox |
+| [thaalish/ball-physics](https://github.com/thaalish/ball-physics) | 0 | Aerodynamic ball physics library for Roblox - Magnus effect, knuckleball drift, angular damping, and anti-gravity. |
+| [Uldyrr/Roblox-suspension-simulation](https://github.com/Uldyrr/Roblox-suspension-simulation) | 0 | A dynamic module designed and written for Corsa Roblox which solves sub-step physics in-between frames. |
+| [vehiclelegends/vehicle-legends](https://github.com/vehiclelegends/vehicle-legends) | 0 | An open-source Luau physics and automation framework for Roblox Vehicle Legends. Features custom chassis telemetry tuning, automated checkpoint racing, and l... |
 | [Winnie7050/roblox-car-pulling-game](https://github.com/Winnie7050/roblox-car-pulling-game) | 0 | A Roblox game where players pull cars with physics-based rope mechanics |
+| [Y90G7IYO0987/CarSystem](https://github.com/Y90G7IYO0987/CarSystem) | 0 | 🚗 Roblox Car System A complete modular vehicle system for Roblox with realistic physics and driving mechanics |
 
 [← Terug naar overzicht](../README.md)

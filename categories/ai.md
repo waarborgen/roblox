@@ -42,7 +42,7 @@ Neurale netwerken, behavior trees, pathfinding, boids en LLM-NPC's.
 | [sebastianboscan/roblox-ai-npc](https://github.com/sebastianboscan/roblox-ai-npc) | 0 | NPC's die natuurlijke taal via TextGenerator omzetten in acties |
 | [Murned/roblox-boid-flocking](https://github.com/Murned/roblox-boid-flocking) | 0 | Drone-zwerm met Reynolds' boids + spatial grid |
 
-## Uitgebreide index (30)
+## Uitgebreide index (58)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -78,5 +78,33 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [SubParSuperCar/rbx-cuboid](https://github.com/SubParSuperCar/rbx-cuboid) | 1 | A Roblox Luau class for representing 3D cuboids. |
 | [TheOfficialFurkanNar/ProjectBob](https://github.com/TheOfficialFurkanNar/ProjectBob) | 1 | Finite State Machine on Roblox |
 | [trashpanda027/StateMachine](https://github.com/trashpanda027/StateMachine) | 1 | This is a simple state machine for Roblox. |
+| [blxckhunter908/roblox-npc-pathfinding](https://github.com/blxckhunter908/roblox-npc-pathfinding) | 0 | Roblox NPC pathfinding system. |
+| [CapedBojji/miniature-octo-invention](https://github.com/CapedBojji/miniature-octo-invention) | 0 | A custom Roblox pathfinding library |
+| [cbh1733908441/riffle-duel-library](https://github.com/cbh1733908441/riffle-duel-library) | 0 | Steam 与 Roblox 独立对抗选题库：玩法模板、NPC 对手适配度与来源追溯 |
+| [cheese696969/Simploid_WeldBased](https://github.com/cheese696969/Simploid_WeldBased) | 0 | Roblox Module that allows for a cheap replacement of Humanoids for NPCs. (Discontinued as it is laggier than the MoveTo based one) |
+| [CleverproPlaysRoblox/Roblox-Npc-Apocalypse](https://github.com/CleverproPlaysRoblox/Roblox-Npc-Apocalypse) | 0 | Roblox Studio, Roblox, I'm new to Roblox Studio, Help is probably needed lol |
+| [CrossBeast/Puppet](https://github.com/CrossBeast/Puppet) | 0 | A composition-based NPC framework for Roblox. |
+| [DanCodesRBX/agentpath](https://github.com/DanCodesRBX/agentpath) | 0 | A pathfinding module for Roblox |
+| [Darsh-Sosa/AIPathfindingRoblox](https://github.com/Darsh-Sosa/AIPathfindingRoblox) | 0 | pathfinding script using a patrol point system inside roblox |
+| [dev-alexdevilish/Stealth-Phantom-Roblox](https://github.com/dev-alexdevilish/Stealth-Phantom-Roblox) | 0 | a highly optimized Stealth System with NPC path finding and detection system |
+| [Dsnon/Roblox-Dynamic-NPC-Emotion-System](https://github.com/Dsnon/Roblox-Dynamic-NPC-Emotion-System) | 0 | NPCs react emotionally based on players' actions. |
+| [g0ofycat/rl_framework](https://github.com/g0ofycat/rl_framework) | 0 | Reinforcement Learning Framework for small models in Roblox |
+| [gcaptn/NNL](https://github.com/gcaptn/NNL) | 0 | A practice Lua Neural Network Library |
+| [Hinikaa/luau-statemachine](https://github.com/Hinikaa/luau-statemachine) | 0 | Small finite state machine with guards and transitions, Luau |
+| [hotdog9955/Roblox_Learn](https://github.com/hotdog9955/Roblox_Learn) | 0 | roblox machine learning library |
+| [iscode0/NanoRBX](https://github.com/iscode0/NanoRBX) | 0 | Nano (or NanoRBX) is a machine learning/deep learning/reinforcement learning library for Roblox studio |
+| [JayJay648/roblox-restaurant-system](https://github.com/JayJay648/roblox-restaurant-system) | 0 | A Roblox restaurant system with ID management for NPCs, items, and locations |
+| [kozuidev/PathForge](https://github.com/kozuidev/PathForge) | 0 | A custom grid-based pathfinding module made for Roblox, powered by A* search. Supports walls, clearance checks, and dynamic obstacles. |
+| [LadyCelastia/Pathfinder](https://github.com/LadyCelastia/Pathfinder) | 0 | roblox luau pathfind library (all scripts are modules) |
+| [Made4Mischief/Click-To-Move-NPC-RobloxStudio-](https://github.com/Made4Mischief/Click-To-Move-NPC-RobloxStudio-) | 0 | The NPC moves to the position where the player clicks |
+| [npocodes/Cortex](https://github.com/npocodes/Cortex) | 0 | NPC Framework for Roblox |
+| [OfficalIDontCode/roblox-healthbar-poc](https://github.com/OfficalIDontCode/roblox-healthbar-poc) | 0 | Roblox boss/NPC health bar + item drop feed (roblox-ts, Flamework, React) |
+| [ProgrammerBrxken/PathModule](https://github.com/ProgrammerBrxken/PathModule) | 0 | This a Roblox Program. About A PathFindingModule |
+| [R-unic/hierarchal-state-machine](https://github.com/R-unic/hierarchal-state-machine) | 0 | Hierarchal state machine class for roblox-ts |
+| [ramdonguyxddd3/Roblox-Studio-Lua-](https://github.com/ramdonguyxddd3/Roblox-Studio-Lua-) | 0 | basic base of pathfinding npc |
+| [rexmagnusdavid/roblox-ts-pathfinding](https://github.com/rexmagnusdavid/roblox-ts-pathfinding) | 0 | An A* pathfinding module for Roblox geometry. Written in TypeScript and utilizes roblox-ts. |
+| [Stiexeno/roblox-csharp-state-management](https://github.com/Stiexeno/roblox-csharp-state-management) | 0 | C# state machine plugin for roblox-csharp. Pure C# states with optional lifecycle markers (IEnter/IExecutable/...) driven by RunService and resolved through DI. |
+| [TPSRX/RobloxVotingNPC](https://github.com/TPSRX/RobloxVotingNPC) | 0 | Roblox Voting NPC System with ProximityPrompt |
+| [williamswilsonhilson-debug/NPCService](https://github.com/williamswilsonhilson-debug/NPCService) | 0 | A roblox npc system |
 
 [← Terug naar overzicht](../README.md)

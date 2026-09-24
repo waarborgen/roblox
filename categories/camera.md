@@ -34,7 +34,7 @@ Camera-shake, custom camera's, cutscene-tools en timelines.
 | [zKozie/CameraSystem](https://github.com/zKozie/CameraSystem) | 0 | Config-gedreven twee-laags camera: state-camera's plus one-shot action-overlays die terugblenden |
 | [JRmcnugget/Viewpoint](https://github.com/JRmcnugget/Viewpoint) | 0 | Vloeiende, sterk aanpasbare third-person camera |
 
-## Uitgebreide index (26)
+## Uitgebreide index (49)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -46,7 +46,6 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Gabys2005/CameraSystem](https://github.com/Gabys2005/CameraSystem) | 3 | A camera system for Roblox, mainly for the Euro/Earthvision community |
 | [JustAT0rtoise/Roblox-Weapon-Kit-Fix](https://github.com/JustAT0rtoise/Roblox-Weapon-Kit-Fix) | 3 | I’ve seen lots of people having problems with Roblox’s Weapons Kit, mostly with its very annoying issue of locking your camera in 3rd person mode and over yo... |
 | [BertServer/2d-CameraScript-RobloxStudio](https://github.com/BertServer/2d-CameraScript-RobloxStudio) | 2 | LocalScript in StarterPlayer - StarterPlayerScripts |
-| [Coffilhg/Useful-Modules](https://github.com/Coffilhg/Useful-Modules) | 2 | All or most of the Modules here should also be available on Wally and/or https://create.roblox.com/store/category/gameplay?creatorName=coffilhg |
 | [DerjenigeUberMensch/RobloxLikeCamera-Unity](https://github.com/DerjenigeUberMensch/RobloxLikeCamera-Unity) | 2 | My vauge attempt at simulating roblox's camera movement in unity |
 | [Dynamic155/RobloxCameraParallax](https://github.com/Dynamic155/RobloxCameraParallax) | 2 | Simply parallax effect for the Roblox camera for making 3D UI. |
 | [MonzterDev/First-Person-Camera-Roblox](https://github.com/MonzterDev/First-Person-Camera-Roblox) | 2 | First Person Camera Module for Roblox! |
@@ -66,5 +65,29 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [SolarScuffle-Bot/LockedCamera](https://github.com/SolarScuffle-Bot/LockedCamera) | 1 | Roblox Locked Camera, useful for Over-The-Shoulder cameras |
 | [Thomas-Chabot/Overhead-Roblox-Camera](https://github.com/Thomas-Chabot/Overhead-Roblox-Camera) | 1 | Designed to work in AeroGameFramework, provides a controller for working with an Overhead Camera. |
 | [Tsukeruu/Camera-Bob](https://github.com/Tsukeruu/Camera-Bob) | 1 | a simple camera bobbing effect created in roblox studio |
+| [atomikrecords/atomik_](https://github.com/atomikrecords/atomik_) | 0 | Roblox Loading Screen Camera Plugin |
+| [BareMelon/RoResolve](https://github.com/BareMelon/RoResolve) | 0 | Documentation for the RoResolve cinematic editor plugin for Roblox Studio |
+| [caslabs/modified-camera-shaker](https://github.com/caslabs/modified-camera-shaker) | 0 | roblox-ts package for Crazyman32's Roblox port of "EZ Camera Shake" with extended bindings |
+| [DARIUSSSSSS-jpg/roblox-fspy-calibrator](https://github.com/DARIUSSSSSS-jpg/roblox-fspy-calibrator) | 0 | fSpy camera calibration ported to Roblox Studio as a plugin. Calculates camera parameters from vanishing points in images. |
+| [DoggyPH/Ve-C_DCS-1](https://github.com/DoggyPH/Ve-C_DCS-1) | 0 | A Roblox camera shake module that organizes camera shake functions into an object that contains them all. |
+| [donniehuamani-max/dereus-luau](https://github.com/donniehuamani-max/dereus-luau) | 0 | Dereus Luau — a complete cinematic UI library for Roblox Luau scripts |
+| [Gradimirr/CameraLight](https://github.com/Gradimirr/CameraLight) | 0 | A plugin for Roblox, "Customizable camera light"! |
+| [Huepow/Roblox-Intelligent-Camera-System](https://github.com/Huepow/Roblox-Intelligent-Camera-System) | 0 | Intelligent camera system with 3 diffrent modes. |
+| [instantstudio/cameracontroler](https://github.com/instantstudio/cameracontroler) | 0 | A Roblox Camera Controller System |
+| [IrishFix/rbxts-cmove-wrapper](https://github.com/IrishFix/rbxts-cmove-wrapper) | 0 | A sophisticated Roblox camera controller with smooth movement, rotation tracking, and intelligent occlusion detection. Features configurable smoothing, multi... |
+| [ItsAce07/LimeCutsceneManager](https://github.com/ItsAce07/LimeCutsceneManager) | 0 | Cutscene Module for Roblox Studio. |
+| [JustOsvi/Camera-Blur-Movement](https://github.com/JustOsvi/Camera-Blur-Movement) | 0 | This is a module for Roblox where it will create a blur effect every time the camera moves too fast. |
+| [kietnguyen271012-sketch/roblox-target-tracking-system](https://github.com/kietnguyen271012-sketch/roblox-target-tracking-system) | 0 | Complete Roblox Lua target tracking system with RGB UI, camera control, and damage detection |
+| [Kixdev/roblox-photo-studio](https://github.com/Kixdev/roblox-photo-studio) | 0 | Cinematic Photo Studio tools for Roblox |
+| [krxmvll/EasyCamera](https://github.com/krxmvll/EasyCamera) | 0 | [Roblox Plugin] The easiest way to work with cameras |
+| [Matt-Mattozz/Camera-Effects](https://github.com/Matt-Mattozz/Camera-Effects) | 0 | Enable and disable pre-made and custom camera effects |
+| [Nirmini/OpenCam](https://github.com/Nirmini/OpenCam) | 0 | OpenCam is a Roblox freecam module that integrates a standard freecam with the customization of a DSLR. |
+| [QubeCopyPaste/Roblox-Freecam](https://github.com/QubeCopyPaste/Roblox-Freecam) | 0 | Use the Roblox Studio Freecam, but on roblox. |
+| [realsoftmax/Object-to-Camera](https://github.com/realsoftmax/Object-to-Camera) | 0 | A module made for Roblox games helps developers assign items in front of the client’s camera without having to use any viewport frames or UI objects. |
+| [spityy/SimpleCameraShake](https://github.com/spityy/SimpleCameraShake) | 0 | Roblox Camera Shake Module. Simple. |
+| [text21/Quantum](https://github.com/text21/Quantum) | 0 | Quantum is a spring-driven tween engine for Roblox that unifies UI animation, camera & movement feel, and lightweight physics-style behaviours under one clea... |
+| [TheGubBit/CameraGui](https://github.com/TheGubBit/CameraGui) | 0 | This is a Module Script for Roblox that let's you create or convert pre-existing guis into guis that follow the camera around. |
+| [unixtensor/ROBLOX-Studio-Wayland](https://github.com/unixtensor/ROBLOX-Studio-Wayland) | 0 | Fixes the ROBLOX Studio camera as a plugin that is bugged on the Wayland display server. |
+| [Windows81/Roblox-AnimationAPI](https://github.com/Windows81/Roblox-AnimationAPI) | 0 | Plugin/model on Rōblox that allows easy camera-manipulation and character controls. |
 
 [← Terug naar overzicht](../README.md)

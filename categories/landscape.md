@@ -63,7 +63,7 @@ Terrain-generators, echte kaarten, grotten, oceanen, foliage, dag/nacht en weer.
 | [chicken-ahm-12/WorldWeaver](https://github.com/chicken-ahm-12/WorldWeaver) | 0 | Krachtige terrain-generatietool voor Roblox |
 | [Smurfis/RBLX-EditableMesh-Water-FirstPerson](https://github.com/Smurfis/RBLX-EditableMesh-Water-FirstPerson) | 0 | EditableMesh-water voor first-person games |
 
-## Uitgebreide index (81)
+## Uitgebreide index (122)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -82,11 +82,9 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [pretzer25/Roprox](https://github.com/pretzer25/Roprox) | 3 | Cloning now.gg's cloud roblox. Ad-free |
 | [typical-developers/rblx-open-cloud](https://github.com/typical-developers/rblx-open-cloud) | 3 | A wrapper for Roblox's Open Cloud API. |
 | [AndrewLemons/RobloxOSM](https://github.com/AndrewLemons/RobloxOSM) | 2 | Render real-world maps in Roblox. |
-| [Corecii/Roblox-Font-Map-Generator-CLI](https://github.com/Corecii/Roblox-Font-Map-Generator-CLI) | 2 | A ROBLOX custom fontmap generator and uploader. A modified version of M0RGOTH's FontMapGen program and a modified version of M0RGOTH's FontLibrary. |
 | [dgolaus/cubegraphics](https://github.com/dgolaus/cubegraphics) | 2 | Site da Cube Graphics, estúdio de thumbnails e ícones para jogos Roblox. |
 | [Khaomi/open-cloud.js](https://github.com/Khaomi/open-cloud.js) | 2 | Wrapper around Roblox's Open Cloud API |
 | [kiraadityaa/kiraadityaa](https://github.com/kiraadityaa/kiraadityaa) | 2 | Kazehaya Aditya (kiraadityaa) — Roblox game developer & Lua/Luau scripter from Indonesia · Python automation · TypeScript & Next.js · cloud Linux desktops on... |
-| [Novaly-Studios/Async](https://github.com/Novaly-Studios/Async) | 2 | A tree-based thread lifecycle library which sits on top of the Roblox task library |
 | [OrganicEarth7/Rabblerouser-Planet-Assets](https://github.com/OrganicEarth7/Rabblerouser-Planet-Assets) | 2 | This is just a roblox asset pack |
 | [rookie-codes/WindShake](https://github.com/rookie-codes/WindShake) | 2 | High performance wind effect for leaves and foliage in Roblox Studio. |
 | [ShyanaShakuga/RbxManConver](https://github.com/ShyanaShakuga/RbxManConver) | 2 | RbxManConver is the tool for converting game projects. It is used to convert the Roblox games to Blockman GO. The converting of terrain, parts, UI, skybox an... |
@@ -150,5 +148,48 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [xyxneweraxyx/zombie-game](https://github.com/xyxneweraxyx/zombie-game) | 1 | A roblox game where you must survive increasingly tougher waves of zombies. Upgrade your health and coins to survive! |
 | [zacharie410/Studio-Cloud-Sync](https://github.com/zacharie410/Studio-Cloud-Sync) | 1 | Studio Cloud Sync is a Python script designed to simplify the management of .lua files from Roblox Studio within your local environment using the Roblox Engi... |
 | [zbcrft/skill-tree-backend](https://github.com/zbcrft/skill-tree-backend) | 1 | This is the backend system for a skill tree. Made in roblox. |
+| [AdjustedTechnologies/Adjusted-Cloud](https://github.com/AdjustedTechnologies/Adjusted-Cloud) | 0 | AdjustedCloud - Professional Roblox data framework for developers who demand full control. Features: player & global caching, dirty flags, atomic updates, ba... |
+| [api-evangelist/roblox](https://github.com/api-evangelist/roblox) | 0 | Roblox — independent third-party profile of a public API surface, by API Evangelist. Roblox is a user-generated content platform where creators build, publis... |
+| [api-evangelist/roblox-engine-api](https://github.com/api-evangelist/roblox-engine-api) | 0 | Roblox Engine API — independent third-party profile of a public API surface, by API Evangelist. Roblox provides a suite of developer APIs for building experi... |
+| [banowey/roblox-progression-skilltree-system](https://github.com/banowey/roblox-progression-skilltree-system) | 0 | A config-driven skill tree and progression system built for a Roblox portfolio, featuring persistent player progression, a graph-style skill tree with prereq... |
+| [binky007/SkyWritter](https://github.com/binky007/SkyWritter) | 0 | Programming library for roblox |
+| [CapedBojji/Cosmos](https://github.com/CapedBojji/Cosmos) | 0 | The everything ECS framework for Roblox-TS |
+| [charlotteyypan/Roblox-Weather-Plugin](https://github.com/charlotteyypan/Roblox-Weather-Plugin) | 0 | Displays the weather conditions (cloudy, clear, rainy, etc.) in game given a selected city. |
+| [code-redmark/Roblox-Terrain-System](https://github.com/code-redmark/Roblox-Terrain-System) | 0 | Customizable Roblox Terrain System |
+| [CrazyZavia/roblox](https://github.com/CrazyZavia/roblox) | 0 | roblox map generation system |
+| [dbrinda/skyforge-analytics](https://github.com/dbrinda/skyforge-analytics) | 0 | Analytics and Creator Feedback for Roblox Studio plugin SkyForge |
+| [deadhoes/SnowClient](https://github.com/deadhoes/SnowClient) | 0 | a Roblox UI Library. |
+| [DragonNoir-off/DataStoreService-Roblox-Studio](https://github.com/DragonNoir-off/DataStoreService-Roblox-Studio) | 0 | DataStoreService Module. only DataStoreService save Cloud save is for later |
+| [eeeeeeeeeeeee111111/roverse](https://github.com/eeeeeeeeeeeee111111/roverse) | 0 | A secure and efficient Cloudflare Worker proxy for Roblox API endpoints. |
+| [ElixNoir/Roblox-Replicator](https://github.com/ElixNoir/Roblox-Replicator) | 0 | A set of client and server modules that enables class method calling and cross-network object referencing. Buffers are mandatory and it is recommended to use... |
+| [Fangous/RbxBehaviorTreeVisualizer](https://github.com/Fangous/RbxBehaviorTreeVisualizer) | 0 | A Roblox Studio plugin for visualizing and debugging behavior trees created with RbxBehaviorTree. |
+| [fatihah454/Ooceanlib](https://github.com/fatihah454/Ooceanlib) | 0 | My roblox ui library |
+| [femphilic/cloudy](https://github.com/femphilic/cloudy) | 0 | A typed open-source library for interacting with Roblox's Cloud APIs in Luau. |
+| [FxllenCode/RobloxOpenSource](https://github.com/FxllenCode/RobloxOpenSource) | 0 | A Repository of all my open source work, from modules, to scripts, to terrain, here is the place to find them! |
+| [gamenew09/roblox.js](https://github.com/gamenew09/roblox.js) | 0 | NPM package that makes Roblox's Open Cloud almost as easy as the native Luau implementation. |
+| [grand-hawk/terrain-region-plugin](https://github.com/grand-hawk/terrain-region-plugin) | 0 | Roblox terrain region save/load with segmentation |
+| [grotto-interactive/grotto-blender-library](https://github.com/grotto-interactive/grotto-blender-library) | 0 | Canonical Blender asset tree & Roblox FBX export pipeline for Grotto |
+| [hakimop0192-commits/roblox-rivals-skybox](https://github.com/hakimop0192-commits/roblox-rivals-skybox) | 0 | Skybox system for Roblox Rivals game |
+| [HgDeveloper13/Roblox-TerrainGeneration](https://github.com/HgDeveloper13/Roblox-TerrainGeneration) | 0 | My own system for Roblox terrain generation that doesn't involve use of the built-in voxel-based terrain system. |
+| [kasapdev/kasap-api-sdk-kit](https://github.com/kasapdev/kasap-api-sdk-kit) | 0 | 5 typed TS API/SDK clients: Steam Market, Discord webhooks, Twitch clips, Roblox Open Cloud, Godot Asset Library |
+| [KashTheKing/rbxts-genfeaturetree-boilerplate](https://github.com/KashTheKing/rbxts-genfeaturetree-boilerplate) | 0 | A feature-tree structured roblox-ts boilerplate using rbxts-genfeaturetree for automatic Rojo project.json generation. |
+| [kayakutay/Roblox-Tree-System](https://github.com/kayakutay/Roblox-Tree-System) | 0 | A custom tree harvesting and caching system for Roblox. |
+| [kosonenonpaska-beep/RobloxOnlineGameCreatorForMobile](https://github.com/kosonenonpaska-beep/RobloxOnlineGameCreatorForMobile) | 0 | Uses Roblox new Cloud API to make games. |
+| [Krultu/rbx-publish](https://github.com/Krultu/rbx-publish) | 0 | Action for publishing a place file to Roblox using the Open Cloud API |
+| [kvbc/roket](https://github.com/kvbc/roket) | 0 | Roblox networking framework built to skyroket your developer experience! |
+| [kvbc/roket-ts](https://github.com/kvbc/roket-ts) | 0 | Roblox networking framework built to skyroket your developer experience! |
+| [Littlefoxboi/Part-to-Terrain](https://github.com/Littlefoxboi/Part-to-Terrain) | 0 | Part to Terrain is a Roblox plugin written in RbxLua. It allows users to convert bricks into Smooth Terrain with a friendly UI. |
+| [MrDragonYT/terrain-generator-roblox](https://github.com/MrDragonYT/terrain-generator-roblox) | 0 | Source code for the Terrain Generator plugin! |
+| [nicholast013/Roblox-Ban-Panel](https://github.com/nicholast013/Roblox-Ban-Panel) | 0 | Basic roblox ban panel using customtkinter as GUI library and roblox Cloud API as a way to do the ban |
+| [nobleandsnow/Roblox-Clothing-Preview-System-EN](https://github.com/nobleandsnow/Roblox-Clothing-Preview-System-EN) | 0 | A useful tool for classic clothing designers, developed by Noble and inspired by Snow. |
+| [scottricity/rblx-opencloud.js](https://github.com/scottricity/rblx-opencloud.js) | 0 | A JavaScript module to interact with Roblox's OpenCloud. |
+| [TechHog8984/LuauAstLua2](https://github.com/TechHog8984/LuauAstLua2) | 0 | An unofficial rewrite of the Luau Abstract Syntax Tree in lua |
+| [tenx29/RobloxOpenCloud.NET](https://github.com/tenx29/RobloxOpenCloud.NET) | 0 | .NET wrapper for the Roblox Open Cloud API |
+| [TrashyLasers/Barons-Realistic-Weather-System](https://github.com/TrashyLasers/Barons-Realistic-Weather-System) | 0 | A realistic weather system for roblox |
+| [Ultrasonic1209/roblox-open-cloud-python](https://github.com/Ultrasonic1209/roblox-open-cloud-python) | 0 | auto-generated python library targetting the published roblox open cloud api |
+| [urmoit/WeatherUI-Library-Roblox](https://github.com/urmoit/WeatherUI-Library-Roblox) | 0 | Official WeatherUI Library For Roblox |
+| [Vainalykas/Day-Night-Cycle-System-for-Roblox](https://github.com/Vainalykas/Day-Night-Cycle-System-for-Roblox) | 0 | This script manages a day/night cycle using Lighting.TimeOfDay and provides hooks for custom actions. |
+| [vladlaskavyj2-debug/roblox-rain-system](https://github.com/vladlaskavyj2-debug/roblox-rain-system) | 0 | Профессиональная система дождя для Roblox с партиклами, облаками, динамическим освещением и звуками |
+| [vq9o/RobloxGroupSDK](https://github.com/vq9o/RobloxGroupSDK) | 0 | Roblox Group SDK In standalone PHP for the Roblox Open Cloud API. |
 
 [← Terug naar overzicht](../README.md)
