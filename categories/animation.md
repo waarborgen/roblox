@@ -42,9 +42,12 @@ Animatie-solvers, IK, Blender/Mixamo-pipelines, procedurele animatie en springs.
 | [jiwonz/anim2rbx](https://github.com/jiwonz/anim2rbx) | 4 | Animatiebestanden (FBX e.d.) omzetten naar KeyframeSequence |
 | [include-marcy/Hera](https://github.com/include-marcy/Hera) | 4 | Interface-animatie ontwerptool + API |
 | [TheNexusAvenger/Nexus-Motor6D-Creator](https://github.com/TheNexusAvenger/Nexus-Motor6D-Creator) | 4 | Plugin om Motor6Ds te maken (rigging) |
+| [pakamijo/EasySprite](https://github.com/pakamijo/EasySprite) | 4 | Sprite-animaties |
 | [nitingit7/Mixamo_To_Roblox_Studio](https://github.com/nitingit7/Mixamo_To_Roblox_Studio) | 3 | Mixamo-animaties importeren in Studio |
 | [seaofvoices/easing-styles](https://github.com/seaofvoices/easing-styles) | 3 | Alle bekende easing-functies |
 | [TaseenA09/Dynamic-Walk-Animations-and-Footing-for-Roblox](https://github.com/TaseenA09/Dynamic-Walk-Animations-and-Footing-for-Roblox) | 3 | Dynamische loopanimaties met voetplaatsing |
+| [MiaGobble/AntiAnthro](https://github.com/MiaGobble/AntiAnthro) | 3 | Forceer R6 ook bij R15-instelling |
+| [magicoal-nerb/animator](https://github.com/magicoal-nerb/animator) | 3 | Luau-animator |
 | [RAMPAGELLC/ProceduralAnimator](https://github.com/RAMPAGELLC/ProceduralAnimator) | 2 | Modellen procedureel laten opbouwen/exploderen |
 | [Jessdevzz/ROBLOX-Dynamic-Npc-Animations](https://github.com/Jessdevzz/ROBLOX-Dynamic-Npc-Animations) | 2 | Dynamische NPC-animaties |
 | [infinitypacific/PaintRig-InfEdit](https://github.com/infinitypacific/PaintRig-InfEdit) | 2 | Blender-rigs voor Roblox |

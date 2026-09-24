@@ -5,6 +5,7 @@ Handige plugins voor bouwen, terrain, UI en workflow.
 | Repo | ⭐ | Wat het doet |
 |---|---:|---|
 | [MaximumADHD/Roblox-Plugins](https://github.com/MaximumADHD/Roblox-Plugins) | 137 | Collectie Studio-plugins van MaximumADHD |
+| [F3XTeam/RBX-Building-Tools](https://github.com/F3XTeam/RBX-Building-Tools) | 62 | F3X Building Tools: krachtige in-game en Studio bouwtools (resize, rotate, surfaces, mesh) |
 | [mvyasu/PluginEssentials](https://github.com/mvyasu/PluginEssentials) | 55 | Fusion-componenten om snel plugins te bouwen |
 | [AleksandrSl/intellij-luau](https://github.com/AleksandrSl/intellij-luau) | 35 | IntelliJ-plugin voor Luau |
 | [welcomestohell/rocket](https://github.com/welcomestohell/rocket) | 26 | Command-launcher plugin voor Studio |
@@ -41,6 +42,7 @@ Handige plugins voor bouwen, terrain, UI en workflow.
 | [Dynamo-rblx/Git-Sync-Plugin](https://github.com/Dynamo-rblx/Git-Sync-Plugin) | 4 | Git-sync plugin voor Studio |
 | [Bytebit-Org/roblox-RoactStudioComponents](https://github.com/Bytebit-Org/roblox-RoactStudioComponents) | 4 | Studio-achtige Roact-components voor plugins |
 | [AlexanderLindholt/Inxpect](https://github.com/AlexanderLindholt/Inxpect) | 4 | API-map builder met plugin-support |
+| [Adi0nt/Sensation-Utilities-Plugin](https://github.com/Adi0nt/Sensation-Utilities-Plugin) | 4 | Utility-plugin |
 | [stravant/roblox-gapfill](https://github.com/stravant/roblox-gapfill) | 3 | GapFill plugin (gaten tussen parts vullen) |
 | [stravant/roblox-materialflip](https://github.com/stravant/roblox-materialflip) | 3 | MaterialFlip plugin (textures draaien) |
 | [wbyljs/smart-script-snippets](https://github.com/wbyljs/smart-script-snippets) | 3 | Dynamische snippets met autocompletion in Studio |
@@ -50,6 +52,12 @@ Handige plugins voor bouwen, terrain, UI en workflow.
 | [Quenty/roblox-sync-experiment](https://github.com/Quenty/roblox-sync-experiment) | 3 | Experimentele Studio-syncer (plugin + Node.js) |
 | [cealshell/cealshell-cli](https://github.com/cealshell/cealshell-cli) | 3 | Open-source package-manager plugin voor Studio |
 | [fennboii/Roblox-Studio-RPC-Ver.-1.0](https://github.com/fennboii/Roblox-Studio-RPC-Ver.-1.0) | 3 | Discord Rich Presence voor Studio |
+| [cozywitchcraft/google-balls-roblox](https://github.com/cozywitchcraft/google-balls-roblox) | 3 | Google Balls-plugin voor Studio |
+| [vocksel/swatch](https://github.com/vocksel/swatch) | 3 | VS Code-thema's in Roblox Studio |
+| [athar-adv/UniPlugin](https://github.com/athar-adv/UniPlugin) | 3 | Plugins koppelen via publieke API's |
+| [OssieNomae/Roana](https://github.com/OssieNomae/Roana) | 3 | Documentatie met tags en markdown in Studio |
+| [ryanlua/hopper-to-tool](https://github.com/ryanlua/hopper-to-tool) | 3 | HopperBins omzetten naar Tools |
+| [SadCivilian/Enzyme](https://github.com/SadCivilian/Enzyme) | 3 | Regels-code-teller plugin |
 | [stravant/roblox-resizealign](https://github.com/stravant/roblox-resizealign) | 2 | ResizeAlign plugin |
 | [mattqdev/Performance-Heatmap](https://github.com/mattqdev/Performance-Heatmap) | 2 | Plugin: heatmap van performance-problemen in je map |
 | [KhanPython/LoopCut](https://github.com/KhanPython/LoopCut) | 2 | Loop-cut zoals in Blender, voor Studio |

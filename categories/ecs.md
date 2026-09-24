@@ -55,11 +55,19 @@ Entity Component Systems en frameworks voorbij Knit.
 | [Supersocial/Flux](https://github.com/Supersocial/Flux) | 5 | Lichtgewicht game-framework |
 | [DonkableDoof/Quinit](https://github.com/DonkableDoof/Quinit) | 5 | Makkelijke module loader |
 | [thefnox/minimum](https://github.com/thefnox/minimum) | 5 | Minimale Matter + React setup voor roblox-ts |
+| [Mark-Marks/sapphire](https://github.com/Mark-Marks/sapphire) | 4 | Lichtgewicht, batteries-included framework |
+| [RAMPAGELLC/knight](https://github.com/RAMPAGELLC/knight) | 4 | Knight game-framework |
+| [0jewell/prism](https://github.com/0jewell/prism) | 4 | ECS-library met events |
+| [ratplier/artwork](https://github.com/ratplier/artwork) | 4 | Framework voor alles in Roblox |
 | [optimisticside/lynk](https://github.com/optimisticside/lynk) | 3 | Framework geïnspireerd op AeroGameFramework |
 | [froststarinteractive/hermes](https://github.com/froststarinteractive/hermes) | 3 | Makkelijk game-framework |
 | [Starveldt/Weaver](https://github.com/Starveldt/Weaver) | 3 | Snel, licht game-framework |
 | [afrxo/glue](https://github.com/afrxo/glue) | 3 | Nog een game-framework |
 | [TheNickmaster21/Crochet](https://github.com/TheNickmaster21/Crochet) | 3 | Framework voor roblox-ts games |
+| [EternalAbby/Dependency-Injection-Extravagant.luau](https://github.com/EternalAbby/Dependency-Injection-Extravagant.luau) | 3 | Dependency injection-modules |
+| [waterdreamer/e2en](https://github.com/waterdreamer/e2en) | 3 | Framework met middleware, strict types en lifecycle |
+| [sinwahn/RBXDuskFramework](https://github.com/sinwahn/RBXDuskFramework) | 3 | Lichtgewicht OOP-framework |
+| [intervinn/wirebox](https://github.com/intervinn/wirebox) | 3 | Constructor-based dependency injection |
 | [ryancundiff/chief](https://github.com/ryancundiff/chief) | 2 | Volledig getypeerd, getest module-framework |
 | [nodeal-framework/nodeal-runtime](https://github.com/nodeal-framework/nodeal-runtime) | 2 | Moderne development-paradigma's native in Studio |
 | [r-iva9/Allure](https://github.com/r-iva9/Allure) | 2 | Typesafe DI/IoC-framework voor Luau |

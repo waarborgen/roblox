@@ -10,6 +10,9 @@ Camera-shake, custom camera's, cutscene-tools en timelines.
 | [Hasnain123Raza/ROBLOX-OTS-Camera-System](https://github.com/Hasnain123Raza/ROBLOX-OTS-Camera-System) | 14 | Over-the-shoulder camera |
 | [bstummer/CutsceneService](https://github.com/bstummer/CutsceneService) | 11 | Vloeiende cutscenes met Bézier-curves |
 | [EgoMoose/gravity-camera](https://github.com/EgoMoose/gravity-camera) | 8 | Camera met custom up-vector (lopen op muren/planeten) |
+| [GreyOlson/RobloxCoreCameraModuleMemLeakFix](https://github.com/GreyOlson/RobloxCoreCameraModuleMemLeakFix) | 3 | Fix voor memory leak in de camera-module |
+| [lathienvu-yt/Rblx-ReplayCore](https://github.com/lathienvu-yt/Rblx-ReplayCore) | 3 | Replay-systeem voor competitieve games |
+| [RobocrafterLP/roplay](https://github.com/RobocrafterLP/roplay) | 3 | Replay-systeem |
 | [valutekat/CutsceneStudio-v1.7](https://github.com/valutekat/CutsceneStudio-v1.7) | 2 | Cutscenes maken in Studio |
 | [mlwre-off/RoPlay](https://github.com/mlwre-off/RoPlay) | 2 | Replay-recorder en editor (zoals Minecraft Replay Mod) met camera-keyframes |
 | [TylrPopcorn/Floating-Camera-Part](https://github.com/TylrPopcorn/Floating-Camera-Part) | 2 | Camera-manipulatie met zwevende camera-part |

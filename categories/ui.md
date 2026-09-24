@@ -10,6 +10,7 @@ Reactieve UI, custom tekst, inventories, 2D-engines en mobiele controls.
 | [flipbook-labs/flipbook](https://github.com/flipbook-labs/flipbook) | 125 | Storybook voor Roblox UI (componenten los bekijken) |
 | [boatbomber/Highlighter](https://github.com/boatbomber/Highlighter) | 99 | Syntax highlighting van Lua-code in RichText |
 | [sircfenner/StudioComponents](https://github.com/sircfenner/StudioComponents) | 90 | React-versies van Roblox Studio-componenten (voor plugins) |
+| [EgoMoose/Rbx-Gui-Library](https://github.com/EgoMoose/Rbx-Gui-Library) | 86 | Bibliotheek met veelgebruikte UI-componenten (sliders, radiobuttons, checkboxes) van EgoMoose |
 | [loneka/onyx-ui](https://github.com/loneka/onyx-ui) | 59 | Kant-en-klare componenten voor Fusion |
 | [jsdotlua/CorePackages](https://github.com/jsdotlua/CorePackages) | 58 | Roblox' MIT/Apache CorePackages klaar voor Wally |
 | [OutOfBears/react-flow](https://github.com/OutOfBears/react-flow) | 51 | Animatie-library voor React-Lua met springs en tweens |
@@ -121,6 +122,10 @@ Reactieve UI, custom tekst, inventories, 2D-engines en mobiele controls.
 | [rniraclefire/Stellar](https://github.com/rniraclefire/Stellar) | 4 | Uitbreidingen/components voor Fusion 0.3 |
 | [malice-nz/ronner](https://github.com/malice-nz/ronner) | 4 | Sonner-achtige toasts/notificaties voor Roblox |
 | [AmaranthineCodices/roact-motion](https://github.com/AmaranthineCodices/roact-motion) | 4 | React-Motion (spring-animaties) voor Roact |
+| [arxk/Richify](https://github.com/arxk/Richify) | 4 | RichText genereren uit opties |
+| [AlternativeLua/Plottr](https://github.com/AlternativeLua/Plottr) | 4 | Grafieken plotten |
+| [tijnepema/tailwind](https://github.com/tijnepema/tailwind) | 4 | Tailwind CSS-kleuren in Luau |
+| [bloxlibs/BetterScale](https://github.com/bloxlibs/BetterScale) | 4 | Responsieve UI-schaling |
 | [Ukuroks-games/2d-adventure](https://github.com/Ukuroks-games/2d-adventure) | 3 | "Engine" voor 2D-games in Roblox |
 | [AstonishedLiker/HyperText](https://github.com/AstonishedLiker/HyperText) | 3 | RichText veilig manipuleren |
 | [evilbocchi/decillion](https://github.com/evilbocchi/decillion) | 3 | Million.js-achtige optimalisatie voor React in roblox-ts |
@@ -128,6 +133,18 @@ Reactieve UI, custom tekst, inventories, 2D-engines en mobiele controls.
 | [fewkz/froact](https://github.com/fewkz/froact) | 3 | Roact + Hooks wrapper met volledige Luau-typing |
 | [AlexanderLindholt/PlayersPlus](https://github.com/AlexanderLindholt/PlayersPlus) | 3 | Eigen players-lijst met alleen geladen clients |
 | [magicoal-nerb/react-luau](https://github.com/magicoal-nerb/react-luau) | 3 | React-library opnieuw gebouwd in Luau |
+| [miukyo/katalyst](https://github.com/miukyo/katalyst) | 3 | Klein maar krachtig UI-framework |
+| [Parihsz/tufforbit](https://github.com/Parihsz/tufforbit) | 3 | 3D-achtige orbits in 2D |
+| [Nem999/BackpackManager](https://github.com/Nem999/BackpackManager) | 3 | Backpack-vervanger |
+| [cameronpcampbell/styletable](https://github.com/cameronpcampbell/styletable) | 3 | Styling via tabellen |
+| [bkmazefe/VirtualScroller](https://github.com/bkmazefe/VirtualScroller) | 3 | Grid-layout virtual scroller |
+| [PepeElToro41/ui-labs-utils](https://github.com/PepeElToro41/ui-labs-utils) | 3 | Utilities voor UI Labs |
+| [pankiikust/input_src](https://github.com/pankiikust/input_src) | 3 | Mobiele controls verbeteren |
+| [alicesaidhi/no](https://github.com/alicesaidhi/no) | 3 | Immediate-mode UI-library |
+| [axiom-co/markdowner](https://github.com/axiom-co/markdowner) | 3 | Markdown naar RichText vertalen |
+| [cresmarmat-an/roblox-spark2d](https://github.com/cresmarmat-an/roblox-spark2d) | 3 | ParticleEmitter-effecten in ScreenGui |
+| [XoifaiI/CreateInstanceTree.luau](https://github.com/XoifaiI/CreateInstanceTree.luau) | 3 | Instances netjes aanmaken |
+| [RobocrafterLP/robo-minimap](https://github.com/RobocrafterLP/robo-minimap) | 3 | Minimap |
 | [gaymeowing/quantize-luau](https://github.com/gaymeowing/quantize-luau) | 2 | MMCQ kleur-kwantisatie (dominante kleuren uit afbeeldingen) |
 | [spin-the-hexagon/rover](https://github.com/spin-the-hexagon/rover) | 2 | Next-gen UI-framework |
 | [project-aether-ui/aether](https://github.com/project-aether-ui/aether) | 2 | Headless UI: één component draait in Roblox, desktop en CI |

@@ -23,10 +23,16 @@ Melee-hitboxes, projectielen, guns, lag-compensatie en zones.
 | [olmescode/Combat-System](https://github.com/olmescode/Combat-System) | 6 | Combat-systeem uit Monsta's BoBoiBoy-game |
 | [howmanysmall/fast-rotated-region3](https://github.com/howmanysmall/fast-rotated-region3) | 5 | Snellere GJK rotated region3 (collisie-checks) |
 | [Innovation-Inc-Roblox/Railgun](https://github.com/Innovation-Inc-Roblox/Railgun) | 5 | Railgun-wapen van Innovation Inc |
+| [Deepsn/rbxts-tracer](https://github.com/Deepsn/rbxts-tracer) | 5 | roblox-ts raycast-wrapper met extra methodes voor projectiel-tracing |
 | [vbaumel1337/central](https://github.com/vbaumel1337/central) | 4 | Server-authoritative hitbox/ray/shapecast queries met latency-compensatie |
 | [shmove/roblox-melee-movement-system](https://github.com/shmove/roblox-melee-movement-system) | 4 | Melee- en movement-scripts |
+| [weenachuangkud/VMsDispatcher](https://github.com/weenachuangkud/VMsDispatcher) | 4 | Gemodde dispatcher uit SecureCast (parallelle projectielen) |
 | [datlass/Turret-Controller](https://github.com/datlass/Turret-Controller) | 3 | Turret-controller (richten met constraints) |
 | [TheRealUwie/OpenRBLXFightEngine](https://github.com/TheRealUwie/OpenRBLXFightEngine) | 3 | Open-source fighting-game engine |
+| [wad4444/cake](https://github.com/wad4444/cake) | 3 | Cake (WCS-uitbreiding) |
+| [wad4444/wcs-actions](https://github.com/wad4444/wcs-actions) | 3 | Actions voor WCS |
+| [jiwonz/ProjSim](https://github.com/jiwonz/ProjSim) | 3 | Geavanceerde projectielsimulatie op jecs |
+| [IITPP-Roblox/Projectile-Replication](https://github.com/IITPP-Roblox/Projectile-Replication) | 3 | Projectielen op client en server |
 | [weebweeb/ParticleGun_rbx](https://github.com/weebweeb/ParticleGun_rbx) | 2 | Projectielen gevisualiseerd met ParticleEmitters (goedkoop, veel kogels) |
 | [Lolekic/HomingCast](https://github.com/Lolekic/HomingCast) | 2 | Gesimuleerde homing-projectielen zonder Roblox-physics |
 | [WBlair1/roblox-bg-system](https://github.com/WBlair1/roblox-bg-system) | 2 | Battlegrounds-systeem met skills en effects (op WCS) |

@@ -60,6 +60,7 @@ Open Cloud, web-API's, Discord, databases en analytics.
 | [Missile05/erlcPY](https://github.com/Missile05/erlcPY) | 8 | Python-wrapper voor de ER:LC-API |
 | [Ransomwave/Roblox-Stream-Donations](https://github.com/Ransomwave/Roblox-Stream-Donations) | 7 | Robux-donatie-alerts in OBS met TTS (zoals Streamlabs) |
 | [osyrisrblx/RbxDiscordProxy](https://github.com/osyrisrblx/RbxDiscordProxy) | 7 | Discord-proxyserver voor Roblox |
+| [OutOfBears/rbx-products](https://github.com/OutOfBears/rbx-products) | 7 | CLI om gamepasses en developer products te beheren via config-bestanden |
 | [boatbomber/RbxSlack](https://github.com/boatbomber/RbxSlack) | 6 | Slack-API's vanuit Roblox |
 | [GamebeastGG/RobloxSDK](https://github.com/GamebeastGG/RobloxSDK) | 6 | SDK voor het Gamebeast analytics-platform |
 | [guidojw/arora-api](https://github.com/guidojw/arora-api) | 6 | Backend voor de Roblox Web API met extra features |
@@ -97,6 +98,7 @@ Open Cloud, web-API's, Discord, databases en analytics.
 | [PiratePeep/roblox-oauth2-example](https://github.com/PiratePeep/roblox-oauth2-example) | 3 | Werkende OAuth 2.0-implementatie (Next.js) |
 | [Bratah123/Roblox-Discord-Bot](https://github.com/Bratah123/Roblox-Discord-Bot) | 3 | Discord-bot die in-game informatie doorgeeft |
 | [Silicon-Digital/RobloxLaravel](https://github.com/Silicon-Digital/RobloxLaravel) | 3 | Laravel-package voor Roblox-API's |
+| [NovusTheory/RobloxAPI-Discord-Bot](https://github.com/NovusTheory/RobloxAPI-Discord-Bot) | 3 | Discord-bot om Roblox-API op te zoeken |
 | [thegamerbay/roblox-luau-execution-action](https://github.com/thegamerbay/roblox-luau-execution-action) | 2 | GitHub Action: place uploaden en tests draaien op Roblox-servers |
 | [Corecii/ROBLOX-GameAnalytics-API](https://github.com/Corecii/ROBLOX-GameAnalytics-API) | 2 | GameAnalytics-integratie voor Roblox |
 | [memorycode/cirrus](https://github.com/memorycode/cirrus) | 2 | Luau-library voor Open Cloud (vanuit Lune) |

@@ -22,12 +22,14 @@ Terrain-generators, echte kaarten, grotten, oceanen, foliage, dag/nacht en weer.
 | [maddoxbouldin/roblox-runtime-terrain](https://github.com/maddoxbouldin/roblox-runtime-terrain) | 3 | Runtime terrain: chunk-streaming, Parallel Luau, grotten, vegetatie |
 | [MaximumADHD/Minecrafted-Smooth-Terrain](https://github.com/MaximumADHD/Minecrafted-Smooth-Terrain) | 3 | Smooth terrain reskinnen met Minecraft-voxels/textures |
 | [rynstwrt/Pixel-Terrain](https://github.com/rynstwrt/Pixel-Terrain) | 3 | Pixel-achtig custom terrain |
+| [dreweda/Drew-s-Environment-System-RBX](https://github.com/dreweda/Drew-s-Environment-System-RBX) | 3 | Omgevingssysteem (weer/licht) |
 | [stravant/roblox-polymap](https://github.com/stravant/roblox-polymap) | 2 | Mesh-editor voor part-gebaseerd terrain (van de maker van GapFill/ResizeAlign) |
 | [Anaminus/nudgecell](https://github.com/Anaminus/nudgecell) | 2 | Occupancy van individuele terrain-cellen bijstellen |
 | [Axxerus/Roblox-Procedural-Ocean](https://github.com/Axxerus/Roblox-Procedural-Ocean) | 2 | Procedurele oceaan |
 | [Redon-Tech/Weather-Systems](https://github.com/Redon-Tech/Weather-Systems) | 2 | Weer-systeem plugin (gerepareerde TwentyTwoPilots-versie) |
 | [MrChickenRocket/sdf-procedural-toolkit](https://github.com/MrChickenRocket/sdf-procedural-toolkit) | 2 | SDF-meshes genereren (Surface Nets + QEM) → MeshPart, van de Chickynoid-maker |
 | [BrakingF1/Ro-Racing-Tracks](https://github.com/BrakingF1/Ro-Racing-Tracks) | 2 | Racecircuits als open-source assets |
+| [Shadercloud/rbxts-highlight-voxel](https://github.com/Shadercloud/rbxts-highlight-voxel) | 2 | Highlight individuele terrain-voxels in roblox-ts-projecten |
 | [onlymateo/roblox-ocean-wave-generation](https://github.com/onlymateo/roblox-ocean-wave-generation) | 1 | Dynamische oceaan: golven, drijven, onderwater-effecten |
 | [TaylorDevGD/Roblox-Terrain-Storage-Repo](https://github.com/TaylorDevGD/Roblox-Terrain-Storage-Repo) | 1 | Terrain opslaan/verplaatsen zoals parts (naar ReplicatedStorage) |
 | [goldenstein64/InfiniteTerrain](https://github.com/goldenstein64/InfiniteTerrain) | 1 | Configureerbaar oneindig terrain (door 5uphi) |

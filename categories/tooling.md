@@ -19,14 +19,17 @@ Runtimes, sync-tools, package managers, asset-pipelines, CI en docs.
 | [jackTabsCode/asphalt](https://github.com/jackTabsCode/asphalt) | 160 | Assets-as-files: afbeeldingen/audio automatisch uploaden |
 | [LorettaDevs/Loretta](https://github.com/LorettaDevs/Loretta) | 152 | C# parser/analyse/transformatie voor Lua en Luau |
 | [MaximumADHD/Roblox-File-Format](https://github.com/MaximumADHD/Roblox-File-Format) | 149 | C#-library om .rbxl/.rbxm te maken en bewerken |
+| [argon-rbx/argon](https://github.com/argon-rbx/argon) | 147 | Argon: volledig sync-/projecttool voor Roblox-development, alternatief voor Rojo met extra features |
 | [Anaminus/rbxmk](https://github.com/Anaminus/rbxmk) | 134 | Tool om Roblox-bestanden te verwerken (scriptbaar) |
 | [pesde-pkg/pesde](https://github.com/pesde-pkg/pesde) | 124 | Package manager voor Luau (Roblox + Lune) |
 | [Ransomwave/azul](https://github.com/Ransomwave/azul) | 122 | Two-way sync waarbij Studio de bron van waarheid is |
 | [blake-mealey/mantle](https://github.com/blake-mealey/mantle) | 116 | Infrastructure-as-code en deployment voor Roblox |
 | [alicesaidhi/conch](https://github.com/alicesaidhi/conch) | 113 | Uitbreidbare developer-console |
 | [Kampfkarren/kampfkarren-luau-guidelines](https://github.com/Kampfkarren/kampfkarren-luau-guidelines) | 99 | Luau code-richtlijnen van een ervaren dev |
+| [Gl2imm/RBX_Toolbox](https://github.com/Gl2imm/RBX_Toolbox) | 94 | Blender-add-on die het Roblox-modelleerproces versimpelt (rigs, UGC-export, bakes) |
 | [lopi-py/luau-lsp.nvim](https://github.com/lopi-py/luau-lsp.nvim) | 93 | Luau-LSP voor Neovim |
 | [luohoa97/cordial](https://github.com/luohoa97/cordial) | 91 | Draait de Roblox-client native op Linux (geen Wine/emulator) |
+| [rojo-rbx/run-in-roblox](https://github.com/rojo-rbx/run-in-roblox) | 78 | Draai een place of script in Studio vanaf de command line en krijg de output terug (CI/tests) |
 | [Pseudoreality/Roblox-Identities](https://github.com/Pseudoreality/Roblox-Identities) | 73 | Uitleg van Roblox' script-identities en security-levels |
 | [AeEn123/RoExtract](https://github.com/AeEn123/RoExtract) | 65 | Assets veilig extraheren uit je Roblox-installatie |
 | [BrookenRecord/roblox-project-template](https://github.com/BrookenRecord/roblox-project-template) | 65 | Uitgebreide projectstart: Rojo, Darklua, Wally en meer |
@@ -52,6 +55,7 @@ Runtimes, sync-tools, package managers, asset-pipelines, CI en docs.
 | [tacheometry/Rostar](https://github.com/tacheometry/Rostar) | 37 | Volledig beheerde Rojo-helper |
 | [sssooonnnggg/luau-debugger](https://github.com/sssooonnnggg/luau-debugger) | 37 | Luau-debugger met Debug Adapter Protocol |
 | [roblox-aurora/zircon](https://github.com/roblox-aurora/zircon) | 36 | Geavanceerde debug-console met eigen scriptingtaal |
+| [krakow10/rbx_mesh](https://github.com/krakow10/rbx_mesh) | 36 | Rust-parser voor Roblox-meshbestanden (alle mesh-versies) |
 | [photobooth-rbx/photobooth-plugin](https://github.com/photobooth-rbx/photobooth-plugin) | 35 | Screenshots/afbeeldingen maken in Studio (icons, thumbnails) |
 | [Bottersnike/eryx](https://github.com/Bottersnike/eryx) | 34 | Standalone Luau-runtime met standaard libraries |
 | [Quenty/luacheck-roblox](https://github.com/Quenty/luacheck-roblox) | 34 | Luacheck-definities voor Roblox |
@@ -66,6 +70,7 @@ Runtimes, sync-tools, package managers, asset-pipelines, CI en docs.
 | [luau-lang/playground](https://github.com/luau-lang/playground) | 28 | Web-playground: Luau type-checken, compileren en bytecode inspecteren |
 | [CavefulGames/dalbit](https://github.com/CavefulGames/dalbit) | 28 | Luau-naar-Lua transpiler |
 | [tacheometry/testez-companion](https://github.com/tacheometry/testez-companion) | 27 | TestEZ-tests draaien vanuit VS Code |
+| [SentientTurtle/RBXLX2VMF](https://github.com/SentientTurtle/RBXLX2VMF) | 26 | Converteert Roblox-maps naar Source Engine (.vmf) mappen |
 | [christopher-buss/jest-roblox-cli](https://github.com/christopher-buss/jest-roblox-cli) | 25 | CLI om Jest-tests in Roblox te draaien |
 | [evaera/Roblox-FFlag-Watcher](https://github.com/evaera/Roblox-FFlag-Watcher) | 25 | Volgt en logt wijzigingen in FFlags |
 | [evaera/vscode-roblox-api-explorer](https://github.com/evaera/vscode-roblox-api-explorer) | 24 | Roblox API-explorer in VS Code |
@@ -154,6 +159,7 @@ Runtimes, sync-tools, package managers, asset-pipelines, CI en docs.
 | [EgoMoose/figma-to-roblox-ui](https://github.com/EgoMoose/figma-to-roblox-ui) | 9 | Figma-project omzetten naar Roblox-UI |
 | [evilbocchi/rbxts-asset-sync](https://github.com/evilbocchi/rbxts-asset-sync) | 9 | Lokale asset-CDN-pipeline voor roblox-ts |
 | [jackTabsCode/reflex-devtools](https://github.com/jackTabsCode/reflex-devtools) | 9 | Developer tools voor Reflex |
+| [kennethloeffler/rbx-merge](https://github.com/kennethloeffler/rbx-merge) | 9 | Semantische merge-tool en tekstconversie voor Roblox-bestanden (git-merges van places) |
 | [stravant/roblox-geometry](https://github.com/stravant/roblox-geometry) | 8 | getGeometry en closest-mesh-edge helpers |
 | [OssieNomae/Blueprint](https://github.com/OssieNomae/Blueprint) | 8 | Standaard script-template vervangen |
 | [lutest-dev/lutest](https://github.com/lutest-dev/lutest) | 8 | Moderne test-runner voor Luau |
@@ -238,6 +244,16 @@ Runtimes, sync-tools, package managers, asset-pipelines, CI en docs.
 | [seaofvoices/luau-package-standard](https://github.com/seaofvoices/luau-package-standard) | 4 | Standaard om Luau/Lua-omgevingen te verbinden |
 | [flakey5/luau-visualstudio](https://github.com/flakey5/luau-visualstudio) | 4 | Luau-support voor Visual Studio |
 | [CavefulGames/dalbit-polyfill](https://github.com/CavefulGames/dalbit-polyfill) | 4 | Polyfills om Luau-libraries naar Lua te transpileren |
+| [lukadev-0/pesde-nix](https://github.com/lukadev-0/pesde-nix) | 4 | pesde via Nix |
+| [Anti-Raid/luau-docgen](https://github.com/Anti-Raid/luau-docgen) | 4 | Documentatiegenerator voor Luau |
+| [imezx/Scheduler](https://github.com/imezx/Scheduler) | 4 | Performance-meettool gebouwd met Vide |
+| [nd-interactive/snowluau](https://github.com/nd-interactive/snowluau) | 4 | Geïntegreerde Luau-transformer |
+| [EgoMoose/prospector](https://github.com/EgoMoose/prospector) | 4 | Data-model hiërarchie doorlopen en vastleggen |
+| [Program132/BlueprintRobloxEditor](https://github.com/Program132/BlueprintRobloxEditor) | 4 | Visuele programmeertool (blueprints) voor Luau |
+| [kohltastrophe/sert](https://github.com/kohltastrophe/sert) | 4 | Simpele unit tests |
+| [revvy02/bench](https://github.com/revvy02/bench) | 4 | Uitgebreide benchmark-library |
+| [depthso/FastlyParse](https://github.com/depthso/FastlyParse) | 4 | Multi-platform Luau-parser |
+| [SolarHorizon/fully-managed-rojo](https://github.com/SolarHorizon/fully-managed-rojo) | 4 | Volledig beheerde Rojo-setup |
 | [Avant-Rbx/Avant-Plugin](https://github.com/Avant-Rbx/Avant-Plugin) | 3 | Unit tests draaien in Studio |
 | [bstummer/benchmarking](https://github.com/bstummer/benchmarking) | 3 | Code-snelheid meten en vergelijken |
 | [Dekkonot/open-cloud-execute-gui](https://github.com/Dekkonot/open-cloud-execute-gui) | 3 | GUI-app om Luau via Open Cloud uit te voeren |
@@ -262,6 +278,15 @@ Runtimes, sync-tools, package managers, asset-pipelines, CI en docs.
 | [kohltastrophe/luaudocs](https://github.com/kohltastrophe/luaudocs) | 3 | Documentatiegenerator voor Luau |
 | [Tim7775/luau-cargo-semver](https://github.com/Tim7775/luau-cargo-semver) | 3 | Cargo-semver parser in Luau |
 | [rose-pine/roblox-studio](https://github.com/rose-pine/roblox-studio) | 3 | Rosé Pine-thema voor Roblox Studio |
+| [MrChickenRocket/robloxMeshTools](https://github.com/MrChickenRocket/robloxMeshTools) | 3 | Mesh-tools |
+| [CompeyDev/lune-luau-template](https://github.com/CompeyDev/lune-luau-template) | 3 | Template voor Luau-projecten met Lune |
+| [UtterlyTerrible/roblox-luau-template](https://github.com/UtterlyTerrible/roblox-luau-template) | 3 | Uitgebreide Luau-projecttemplate |
+| [SolarHorizon/lune-scratchpad](https://github.com/SolarHorizon/lune-scratchpad) | 3 | Herbruikbare Lune-scripts |
+| [EgoMoose/rbx-asset-jailbreak](https://github.com/EgoMoose/rbx-asset-jailbreak) | 3 | Assets laden als editable images/meshes in Studio |
+| [00826/geis-rbx](https://github.com/00826/geis-rbx) | 3 | Functie-benchmarking |
+| [0x5eal/clap.luau](https://github.com/0x5eal/clap.luau) | 3 | Command-line parser voor Lune |
+| [fxxizan/VectorViz](https://github.com/fxxizan/VectorViz) | 3 | Vectoren visualiseren |
+| [deployor/hackatime-roblox](https://github.com/deployor/hackatime-roblox) | 3 | Codeertijd bijhouden in Studio (Hackatime) |
 | [TheNexusAvenger/Pulse](https://github.com/TheNexusAvenger/Pulse) | 2 | Debug-library met geheugenstatistieken |
 | [nightcycle/spreadsheet-to-luau](https://github.com/nightcycle/spreadsheet-to-luau) | 2 | Google Sheets/CSV/XLSX naar Luau-modules (game-balancing data!) |
 | [Name-hw/MeshConvert](https://github.com/Name-hw/MeshConvert) | 2 | Meshes op allerlei manieren converteren |

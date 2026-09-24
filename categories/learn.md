@@ -89,6 +89,8 @@ Artikelen, complete open-source games, templates en curated lijsten.
 | [cubacadabra/first-game](https://github.com/cubacadabra/first-game) | 4 | Draagbaar voorbeeldspel als Luau-package |
 | [counterblox-restoration-opensource/counterblox-sauce-restored](https://github.com/counterblox-restoration-opensource/counterblox-sauce-restored) | 4 | Broncode van Counter Blox: Sauce (restored) |
 | [ThemSatan/PROJECT-Open-Light](https://github.com/ThemSatan/PROJECT-Open-Light) | 4 | Complete open-source Roblox-game |
+| [Project-Alpine-Remastered/par-open-source](https://github.com/Project-Alpine-Remastered/par-open-source) | 4 | Open-source code van Project Alpine: Remastered |
+| [REALEncryptal/BattleGunsFFA](https://github.com/REALEncryptal/BattleGunsFFA) | 4 | Arcade-shooter game |
 | [dwmk/RobloxGames](https://github.com/dwmk/RobloxGames) | 3 | Backup van games, open-source |
 | [Aarav2709/TheLastVisit](https://github.com/Aarav2709/TheLastVisit) | 3 | Award-winnende narrative game, open-source |
 | [Ar4ujo009/Last-Ember](https://github.com/Ar4ujo009/Last-Ember) | 3 | Soulslike RPG-prototype (Rojo + Luau) |
@@ -107,6 +109,11 @@ Artikelen, complete open-source games, templates en curated lijsten.
 | [ImAvafe/awesome-roblox](https://github.com/ImAvafe/awesome-roblox) | 3 | Awesome-lijst met Roblox-projecten |
 | [cataclysmic-studios/dragon-legends](https://github.com/cataclysmic-studios/dragon-legends) | 3 | Broncode van Dragon Legends |
 | [cataclysmic-studios/Blackout](https://github.com/cataclysmic-studios/Blackout) | 3 | FPS-game in roblox-ts |
+| [Someon1e/text-story-roblox](https://github.com/Someon1e/text-story-roblox) | 3 | Tekstverhaal-game |
+| [welcomestohell/towerkit](https://github.com/welcomestohell/towerkit) | 3 | Kit om torens te bouwen voor Welcome To Hell |
+| [MarceloKzn/RojoSetup-ForDevelopersInRBX](https://github.com/MarceloKzn/RojoSetup-ForDevelopersInRBX) | 3 | Rojo, VS Code en Git opzetten |
+| [myralune/ftbs](https://github.com/myralune/ftbs) | 3 | Script-alternatief voor Timelines in Flood Escape 2-maps |
+| [SaviorNoGame/ReBattlegrounds](https://github.com/SaviorNoGame/ReBattlegrounds) | 3 | Battlegrounds-game |
 | [ClementeAbarzua/Dragon-RNG-Genetic-Supremacy](https://github.com/ClementeAbarzua/Dragon-RNG-Genetic-Supremacy) | 2 | Complete game: draken verzamelen, RNG-hatching, genetische eigenschappen |
 | [yoelthewhale/brickblast-roblox](https://github.com/yoelthewhale/brickblast-roblox) | 2 | Complete block-puzzle game (Rojo, StyLua, Selene) |
 | [Unreal-Works/monsters-awakening](https://github.com/Unreal-Works/monsters-awakening) | 2 | Broncode van Monsters Awakening |

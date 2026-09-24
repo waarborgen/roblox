@@ -11,6 +11,7 @@
 | [Interfiber/rbxmidi](https://github.com/Interfiber/rbxmidi) | 6 | Speel Roblox-piano's met een echt MIDI-keyboard |
 | [Jupiter-Development-Revamp/PhantomComms](https://github.com/Jupiter-Development-Revamp/PhantomComms) | 3 | Proximity-chat voor RP- en horrorgames |
 | [WaviestBalloon/SoundRolloffVisualisation](https://github.com/WaviestBalloon/SoundRolloffVisualisation) | 3 | Visualiseert Sound-rolloff zoals Light-range |
+| [r3square/rbxaudio](https://github.com/r3square/rbxaudio) | 3 | Audio-buffers in Roblox |
 | [Mullets-Gavin/DiceSound](https://github.com/Mullets-Gavin/DiceSound) | 2 | Loops, playlists en soft stops zonder memory leaks |
 | [Nazuh2/Team-VC-Module](https://github.com/Nazuh2/Team-VC-Module) | 1 | Team-voicechat module |
 | [therealbytecore/BetterSound](https://github.com/therealbytecore/BetterSound) | 0 | 3D-audio, fades, adaptieve muziek, ducking, reverb-zones, soundscapes in één API |

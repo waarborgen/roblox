@@ -28,6 +28,7 @@ Character controllers, ragdolls, destructie, parkour en eigen physics-engines.
 | [Fizzyhex/BufferModule](https://github.com/Fizzyhex/BufferModule) | 7 | Input-latency oplossen bij physics-items (gooien/vasthouden) |
 | [fewkz/character-realism](https://github.com/fewkz/character-realism) | 7 | Verbeterde fork van Character-Realism |
 | [azavier-a/Shatterbox](https://github.com/azavier-a/Shatterbox) | 7 | Shatterbox (voxel-destructie) |
+| [beters02/source-rbx](https://github.com/beters02/source-rbx) | 7 | Source Engine-movement (bhop, strafe, air-accel) in Roblox |
 | [cozywitchcraft/anti-wallhop](https://github.com/cozywitchcraft/anti-wallhop) | 6 | Patcht wallhopping uit de humanoid controller |
 | [ScriptBreakpoint-QK/Realistic-Water-Simulation](https://github.com/ScriptBreakpoint-QK/Realistic-Water-Simulation) | 5 | Realistische water-physics |
 | [ItipatS/Roblox-Server-Simulation](https://github.com/ItipatS/Roblox-Server-Simulation) | 5 | Server-side simulatie (vuurvliegjes, ballen) met lichte client-rendering |
@@ -35,6 +36,7 @@ Character controllers, ragdolls, destructie, parkour en eigen physics-engines.
 | [OverHash/mining-system](https://github.com/OverHash/mining-system) | 5 | Mijnbouw-systeem in roblox-ts |
 | [jaipack17/RayCast2](https://github.com/jaipack17/RayCast2) | 4 | Raycasting voor GUI's (2D) |
 | [TheSecondTry/RobloxTAS](https://github.com/TheSecondTry/RobloxTAS) | 4 | Tool-assisted speedrun (TAS) opnemen en afspelen |
+| [OssieNomae/FastClusterPatcher](https://github.com/OssieNomae/FastClusterPatcher) | 4 | Workaround voor FastCluster-vertraging bij humanoids |
 | [AngrySalt/Roblox-Grabbing-System](https://github.com/AngrySalt/Roblox-Grabbing-System) | 3 | Physics-based oppakken en slepen (Cook Burgers-stijl) |
 | [Ecliptorhizes/Hooksystem](https://github.com/Ecliptorhizes/Hooksystem) | 2 | Dubbele grappling hooks: swingen, in/uit rollen, boost |
 | [evilbocchi/jconveyor](https://github.com/evilbocchi/jconveyor) | 2 | Gesimuleerde lopende-band physics voor tycoons |

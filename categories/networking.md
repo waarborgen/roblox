@@ -55,12 +55,25 @@ Buffer-netcode, IDL-compilers, encryptie en eigen replicatie.
 | [iconmaster5326/RbxRPC](https://github.com/iconmaster5326/RbxRPC) | 4 | RemoteEvents automatisch beheren (RPC) |
 | [Stratiz/DataStream](https://github.com/Stratiz/DataStream) | 4 | Data-replicatie-oplossing |
 | [Bytebit-Org/roblox-ServerNetworkedValues](https://github.com/Bytebit-Org/roblox-ServerNetworkedValues) | 4 | Waarden van server naar client netwerken (roblox-ts) |
+| [ernisto/defnet](https://github.com/ernisto/defnet) | 4 | Simpele netwerkdefinitie-library |
+| [realkastien/Reliability](https://github.com/realkastien/Reliability) | 4 | Buffer-networking met veel controle |
+| [IITPP-Roblox/LocalTween](https://github.com/IITPP-Roblox/LocalTween) | 4 | Tweens vanaf de server op de client afspelen |
+| [EgoMoose/typed-remote](https://github.com/EgoMoose/typed-remote) | 4 | Getypeerde RemoteEvents en -Functions |
+| [Mark-Marks/unet](https://github.com/Mark-Marks/unet) | 4 | Snelle, optioneel gestructureerde networking |
 | [cg955gtr/SwitchNet](https://github.com/cg955gtr/SwitchNet) | 3 | Snelle networking die bandbreedte en overhead verlaagt |
 | [walksanatora/WorldQL_RBXL](https://github.com/walksanatora/WorldQL_RBXL) | 3 | Servers syncen met WorldQL (gedeelde wereld over servers) |
 | [8ch32bit/ReplicatedTweening](https://github.com/8ch32bit/ReplicatedTweening) | 3 | Tweens op de server maken die soepel op clients afspelen |
 | [HylianBasement/netbuilder](https://github.com/HylianBasement/netbuilder) | 3 | Declaratieve networking-library |
 | [circlecloud/rbxts-socket.io](https://github.com/circlecloud/rbxts-socket.io) | 3 | Volledige Socket.IO-implementatie in Roblox |
 | [Bytebit-Org/roblox-NetworkedSignals](https://github.com/Bytebit-Org/roblox-NetworkedSignals) | 3 | Type-safe RemoteEvent-wrapper |
+| [Ducking-Entertainment/PuiusNetwork](https://github.com/Ducking-Entertainment/PuiusNetwork) | 3 | Networking-unificatie module |
+| [RullzVyline/NetSync](https://github.com/RullzVyline/NetSync) | 3 | Networking met batching en string-compressie |
+| [RemnantsOfSiren/Replicator](https://github.com/RemnantsOfSiren/Replicator) | 3 | Replicatie-module |
+| [XoifaiI/ReliableMessagingService](https://github.com/XoifaiI/ReliableMessagingService) | 3 | Betrouwbare MessagingService |
+| [steven-dinh/relay](https://github.com/steven-dinh/relay) | 3 | Standalone networking |
+| [synpixel/mirror](https://github.com/synpixel/mirror) | 3 | Simpele replicatie voor jecs |
+| [TheNexusAvenger/Nexus-Replication](https://github.com/TheNexusAvenger/Nexus-Replication) | 3 | State-replicatie voor custom instances |
+| [XoifaiI/RLNC](https://github.com/XoifaiI/RLNC) | 3 | Random linear network coding |
 | [demi-dog/duplecs](https://github.com/demi-dog/duplecs) | 2 | Gegeneraliseerde high-performance replicatie voor jecs (ECS) |
 | [rbxxaxa/replicant](https://github.com/rbxxaxa/replicant) | 2 | Server-authoritative gerepliceerde componenten |
 | [ehilynxin/rbxts-ghostevent](https://github.com/ehilynxin/rbxts-ghostevent) | 2 | Event-systeem voor roblox-ts |

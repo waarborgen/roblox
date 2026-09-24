@@ -63,6 +63,7 @@ Quests, dialogen, input, trading, admin, signals en meer.
 | [bellaouzo/PlayerState](https://github.com/bellaouzo/PlayerState) | 12 | PlayerState-library |
 | [synttx/oss](https://github.com/synttx/oss) | 12 | Suite van performante libraries |
 | [scion-softworks/parallelizer](https://github.com/scion-softworks/parallelizer) | 12 | Makkelijk werk verdelen over Actors |
+| [Corecii/rbx-multithread](https://github.com/Corecii/rbx-multithread) | 12 | Bibliotheek om makkelijker met multithreaded Actors (Parallel Luau) te werken |
 | [dig1t/attrify](https://github.com/dig1t/attrify) | 11 | No-code prototyping via attributes |
 | [ffrostfall/keyForm](https://github.com/ffrostfall/keyForm) | 11 | Key-form input-utility |
 | [Ukendio/querydescendants](https://github.com/Ukendio/querydescendants) | 11 | Descendants snel opvragen |
@@ -123,6 +124,18 @@ Quests, dialogen, input, trading, admin, signals en meer.
 | [Jupiter-Development-Revamp/Roblox-Command-Handlers](https://github.com/Jupiter-Development-Revamp/Roblox-Command-Handlers) | 4 | Twee admin-command handlers, vrij te gebruiken |
 | [HuotChu/Watch](https://github.com/HuotChu/Watch) | 4 | Heldere syntax voor events |
 | [Bloxy-Network/Universe](https://github.com/Bloxy-Network/Universe) | 4 | Ecosysteem dat meerdere systemen koppelt |
+| [22aispro/DiddyLevel](https://github.com/22aispro/DiddyLevel) | 4 | Dynamische leveling-module |
+| [flameydev/dock](https://github.com/flameydev/dock) | 4 | Uitbreiding op UserInputService |
+| [luau-ecs/petra](https://github.com/luau-ecs/petra) | 4 | Rust-achtige OOP in Luau |
+| [Crabzzai/SimpleDialogue](https://github.com/Crabzzai/SimpleDialogue) | 4 | Simpel dialoogsysteem |
+| [Crazyblox/luau-util](https://github.com/Crazyblox/luau-util) | 4 | Luau-snippets |
+| [Cinder-Softworks/Sweep](https://github.com/Cinder-Softworks/Sweep) | 4 | Taakbeheer en cleanup met Knit-integratie |
+| [olmescode/TokenModule](https://github.com/olmescode/TokenModule) | 4 | Verzamelbare items die spelers zoeken |
+| [dv-extrarius/cc0-roblox-stuff](https://github.com/dv-extrarius/cc0-roblox-stuff) | 4 | Diverse modules in het publieke domein (CC0) |
+| [athar-adv/SimpleZone](https://github.com/athar-adv/SimpleZone) | 4 | Simpele, snelle zone-module |
+| [Raild3x/ModulesOnRails](https://github.com/Raild3x/ModulesOnRails) | 4 | Collectie Wally-packages |
+| [ActualFire-Games/game-utilities](https://github.com/ActualFire-Games/game-utilities) | 4 | Game-agnostische utilities |
+| [EgoMoose/future-luau](https://github.com/EgoMoose/future-luau) | 4 | Simpele Future-class |
 | [A-Ricemusic/RPG-Template](https://github.com/A-Ricemusic/RPG-Template) | 3 | RPG-template: quests, spawning, inventory, wapens, abilities |
 | [TheNexusAvenger/Nexus-Feature-Flags](https://github.com/TheNexusAvenger/Nexus-Feature-Flags) | 3 | Feature flags beheren en synchroniseren in je game |
 | [NotKisoMomo/Mitt](https://github.com/NotKisoMomo/Mitt) | 3 | Full-stack input: action registry, combo's, shortcuts, context-filtering |
@@ -149,6 +162,9 @@ Quests, dialogen, input, trading, admin, signals en meer.
 | [MiaGobble/Symbol](https://github.com/MiaGobble/Symbol) | 3 | Lege userdata als unieke symbolen |
 | [DerekXCX/perpendicular.lua](https://github.com/DerekXCX/perpendicular.lua) | 3 | Parallel Luau makkelijk gebruiken |
 | [Aerodymier/Timer-Module](https://github.com/Aerodymier/Timer-Module) | 3 | Timers met Unix-timestamp en leesbare formats |
+| [iluvengine/RoundService](https://github.com/iluvengine/RoundService) | 3 | Modulaire round service |
+| [IITPP-Roblox/Unified-3D-Input](https://github.com/IITPP-Roblox/Unified-3D-Input) | 3 | Eén systeem voor alle manieren van interactie met parts |
+| [waterdreamer/ModifierManager](https://github.com/waterdreamer/ModifierManager) | 3 | Type-safe stat modifiers (buffs/debuffs) |
 | [nightcycle/value-sequence](https://github.com/nightcycle/value-sequence) | 2 | NumberSequence/ColorSequence voor elk datatype |
 | [DialogueMaker/kit](https://github.com/DialogueMaker/kit) | 2 | Tools voor dialoog-systemen: templates, triggers, effecten |
 | [funwolf7/JumpButton](https://github.com/funwolf7/JumpButton) | 2 | Jump-knop detectie met input-buffering |

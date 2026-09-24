@@ -90,6 +90,13 @@ DataStores, serialisatie, compressie, state en big numbers.
 | [TRC-Loop/OpenCatWebJson](https://github.com/TRC-Loop/OpenCatWebJson) | 4 | Python-library voor CatWeb's JSON-formaten |
 | [Mullets-Gavin/s](https://github.com/Mullets-Gavin/s) | 4 | State management library |
 | [yaeju1205/asciitable-luau](https://github.com/yaeju1205/asciitable-luau) | 4 | Tabellen weergeven als ASCII-tabel |
+| [PepeElToro41/dataforge](https://github.com/PepeElToro41/dataforge) | 4 | Datastore met locked en lockless profielen |
+| [MrRoblick/png-luau](https://github.com/MrRoblick/png-luau) | 4 | Moderne PNG-implementatie |
+| [seaofvoices/luau-zlib](https://github.com/seaofvoices/luau-zlib) | 4 | Deflate/zlib-compressie |
+| [TechHog8984/bitreader.luau](https://github.com/TechHog8984/bitreader.luau) | 4 | Read-only buffer-wrapper |
+| [yaeju1205/hive.luau](https://github.com/yaeju1205/hive.luau) | 4 | C++ std::hive-container in Luau |
+| [NotSimo26/HugeNumbersFormatter](https://github.com/NotSimo26/HugeNumbersFormatter) | 4 | Grote getallen in wetenschappelijke notatie |
+| [prokingnoob2513/ExpantaNum.luau](https://github.com/prokingnoob2513/ExpantaNum.luau) | 4 | ExpantaNum.js (enorme getallen) geport |
 | [Khaomi/bson.luau](https://github.com/Khaomi/bson.luau) | 3 | BSON-dataformaat in Luau |
 | [zenithhhhchannhhhh/helloGMP](https://github.com/zenithhhhchannhhhh/helloGMP) | 3 | Arbitrary-precision getallen (GMP-achtig) in Luau |
 | [MiaGobble/GreedyDataService](https://github.com/MiaGobble/GreedyDataService) | 3 | Simpele datastore-oplossing voor spelersdata |
@@ -99,6 +106,15 @@ DataStores, serialisatie, compressie, state en big numbers.
 | [Neohertz/crate](https://github.com/Neohertz/crate) | 3 | Schaalbare state container voor roblox-ts |
 | [retaunoir/queues](https://github.com/retaunoir/queues) | 3 | Verschillende queue-implementaties |
 | [Tim7775/luau-caching-and-memoization](https://github.com/Tim7775/luau-caching-and-memoization) | 3 | Cache-structuren en memoization |
+| [meisox/Scalor](https://github.com/meisox/Scalor) | 3 | Large-number library met formatting |
+| [Crazyblox/rebuff](https://github.com/Crazyblox/rebuff) | 3 | Helper voor buffers |
+| [athar-adv/ReplicatedRegistry2](https://github.com/athar-adv/ReplicatedRegistry2) | 3 | Client/server data-sync |
+| [Daimywil/rSQL](https://github.com/Daimywil/rSQL) | 3 | SQL-achtige queries |
+| [towerscripter1386/RawLib](https://github.com/towerscripter1386/RawLib) | 3 | Snellere calls voor bepaalde datatypes |
+| [TylerAtStarboard/Stream](https://github.com/TylerAtStarboard/Stream) | 3 | Reactieve state met ingebouwde debugger |
+| [TheGreatSageEqualToHeaven/Unicode-rbx](https://github.com/TheGreatSageEqualToHeaven/Unicode-rbx) | 3 | Unicode-verwerking |
+| [nezuo/roblox-serde-benchmarks](https://github.com/nezuo/roblox-serde-benchmarks) | 3 | Benchmarks van serialisatie-libraries |
+| [OminousVibes/bint](https://github.com/OminousVibes/bint) | 3 | Arbitrary-precision integers |
 | [isoopod/Pack](https://github.com/isoopod/Pack) | 2 | Geschematiseerde buffer-serialisatie |
 | [star-alice/ordered-store-manager](https://github.com/star-alice/ordered-store-manager) | 2 | OrderedDataStores beheren met sync naar clients |
 | [9q7n/luau-snowflake](https://github.com/9q7n/luau-snowflake) | 2 | Snowflake-ID's in Luau |

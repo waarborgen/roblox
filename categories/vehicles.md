@@ -12,6 +12,9 @@ Chassis, suspensie, hover, raketten, drijfvermogen en treinen.
 | [s-wick/FORTUNE_Products](https://github.com/s-wick/FORTUNE_Products) | 6 | Gratis assets voor de Roblox-autocommunity |
 | [OpenChassis/OpenChassis](https://github.com/OpenChassis/OpenChassis) | 5 | Open-source gemotoriseerd voertuig-chassis |
 | [ribzix/nomernoy-trainkit](https://github.com/ribzix/nomernoy-trainkit) | 4 | Trein-kit gebaseerd op Roblox-physics |
+| [xenez/A-Chassis-Door-System](https://github.com/xenez/A-Chassis-Door-System) | 4 | Deursysteem voor A-Chassis auto's |
+| [plastiksystems-cmyk/Railman](https://github.com/plastiksystems-cmyk/Railman) | 3 | Aanpasbare treinbediening-service |
+| [ZachCurtis/rbxts-airfoil](https://github.com/ZachCurtis/rbxts-airfoil) | 3 | Airfoil-simulatie (lift/drag voor vliegtuigvleugels) in roblox-ts, gebaseerd op Sleitnick |
 | [totallyahuman445/Roblox-Entity-RA](https://github.com/totallyahuman445/Roblox-Entity-RA) | 2 | Entity's RA land-voertuig chassis (auto's, motoren) |
 | [EricApostal/car-physics-playground](https://github.com/EricApostal/car-physics-playground) | 2 | Experimentele softbody-physics voor auto's |
 | [Astrophsica/Racing-Kit-Roblox](https://github.com/Astrophsica/Racing-Kit-Roblox) | 2 | Open-source go-kart racing kit |

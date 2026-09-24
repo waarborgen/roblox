@@ -24,12 +24,15 @@ Hashing, encryptie, logins, permissies, rate limiting en anticheat.
 | [bytexenon/luau-rng-cracker](https://github.com/bytexenon/luau-rng-cracker) | 6 | Toont hoe Luau's Random voorspelbaar is (RNG-cracker) |
 | [4x8Matrix/sandbox-luau](https://github.com/4x8Matrix/sandbox-luau) | 6 | Luau-code sandboxen |
 | [Shambi-0/Luau-Sha256](https://github.com/Shambi-0/Luau-Sha256) | 4 | Geoptimaliseerde SHA-256 voor Luau |
+| [daily3014/rbx-rules](https://github.com/daily3014/rbx-rules) | 4 | Getypeerde runtime-typechecker |
 | [ssynical/triplesec](https://github.com/ssynical/triplesec) | 3 | Triple-cascade encryptie (VeraCrypt-stijl) in Luau |
 | [janisfox/marble](https://github.com/janisfox/marble) | 3 | Role-based access control met DataStore-persistentie |
 | [MrRoblick/chacha20-luau](https://github.com/MrRoblick/chacha20-luau) | 3 | ChaCha20-encryptie in Luau |
 | [Shambi-0/crypto](https://github.com/Shambi-0/crypto) | 3 | Cryptografie-library (hashing, encryptie) |
 | [ccuser44/Titan-Protection](https://github.com/ccuser44/Titan-Protection) | 3 | Plugin die kwaadaardige objecten (backdoors) verwijdert |
 | [Jupiter-Development-Revamp/Armed-Vortex](https://github.com/Jupiter-Development-Revamp/Armed-Vortex) | 3 | Open-source server-side anticheat |
+| [quixaq/meteor](https://github.com/quixaq/meteor) | 3 | Meteor anticheat |
+| [littleBitsman/sandboxer](https://github.com/littleBitsman/sandboxer) | 3 | Luau-sandboxer |
 | [0xmortuex/roblox-anticheat-the-hard-way](https://github.com/0xmortuex/roblox-anticheat-the-hard-way) | 2 | Tutorial: server-side anticheat bouwen, elke regel uitgelegd |
 | [KaDev886/RoZod](https://github.com/KaDev886/RoZod) | 2 | Schema-validatie en coercion (zoals Zod) |
 | [alexandervonarx/RoScanner](https://github.com/alexandervonarx/RoScanner) | 1 | Static analysis: vindt servercode die de client vertrouwt |

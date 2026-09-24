@@ -18,6 +18,8 @@ Neurale netwerken, behavior trees, pathfinding, boids en LLM-NPC's.
 | [crit-DEV/Forbidden-V2](https://github.com/crit-DEV/Forbidden-V2) | 6 | API voor veelvoorkomende NPC-problemen |
 | [olmescode/EnemyModule](https://github.com/olmescode/EnemyModule) | 5 | Basis-vijandmodule |
 | [AqwamCreates/DataPredict-Neural](https://github.com/AqwamCreates/DataPredict-Neural) | 4 | TensorFlow-achtige deep learning library in Lua |
+| [imezx/JPSPlus](https://github.com/imezx/JPSPlus) | 4 | Snelle 2D-grid pathfinding met Jump Point Search+ |
+| [qzhcore/NeuroService](https://github.com/qzhcore/NeuroService) | 4 | Schaalbaar AI-framework met LOD-throttling en blackboards |
 | [Axp3cter/Arbor](https://github.com/Axp3cter/Arbor) | 3 | Composable, getypeerde behavior trees voor NPC-AI |
 | [Echolewron/rbx-enemy-ai](https://github.com/Echolewron/rbx-enemy-ai) | 3 | Vijand-AI: patrouilleren, achtervolgen, verstoppen |
 | [elcapykkzxd/NavPathX](https://github.com/elcapykkzxd/NavPathX) | 3 | Geoptimaliseerde fork van SimplePath |

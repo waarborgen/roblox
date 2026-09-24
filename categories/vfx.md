@@ -38,9 +38,11 @@ Particles, shaders, lighting, portalen, raytracing en canvas-rendering.
 | [diigit/EmitYourParticles](https://github.com/diigit/EmitYourParticles) | 4 | Geoptimaliseerde 2D GUI particle-emitter |
 | [thom463s/2D-Particle-Emitter](https://github.com/thom463s/2D-Particle-Emitter) | 4 | 2D particle-emitter oplossing |
 | [cg955gtr/PartCache](https://github.com/cg955gtr/PartCache) | 4 | Linked-list part cache (snel parts hergebruiken voor projectielen/VFX) |
+| [BiraruStudios/VHSClient](https://github.com/BiraruStudios/VHSClient) | 4 | VHS-effecten |
 | [QwinkleTee/Qwinkles-Particles-2](https://github.com/QwinkleTee/Qwinkles-Particles-2) | 3 | Qwinkle's Part-icles 2 plugin (part-gebaseerde particles) |
 | [arindam-codes/roblox-cinematic-experience](https://github.com/arindam-codes/roblox-cinematic-experience) | 3 | Cinematische camera, lighting en player-control voor storytelling |
 | [StephenSHorton/immersive-portals](https://github.com/StephenSHorton/immersive-portals) | 3 | Immersive portal-rendering (door portalen kijken én lopen) voor roblox-ts |
+| [Ethanthegrand/FastCanvas](https://github.com/Ethanthegrand/FastCanvas) | 3 | Snelle pixel-canvas voor realtime graphics |
 | [MiaGobble/VolumetricLighting](https://github.com/MiaGobble/VolumetricLighting) | 2 | Eenvoudige volumetric lighting (god rays) |
 | [hexa0/lighting-profile](https://github.com/hexa0/lighting-profile) | 2 | Lighting-profielen opslaan/wisselen (plugin) |
 | [nightcycle/editable-image-util](https://github.com/nightcycle/editable-image-util) | 2 | Snel EditableImages bewerken |

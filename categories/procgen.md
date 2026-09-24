@@ -28,8 +28,13 @@ Voxels, dungeons, doolhoven, wave function collapse, noise en curves.
 | [RyanChang25/Dungeon-Generation-Service](https://github.com/RyanChang25/Dungeon-Generation-Service) | 3 | Semi-procedurele dungeon-layouts |
 | [nightcycle/node](https://github.com/nightcycle/node) | 3 | Node-netwerken + wave function collapse generatie |
 | [nightcycle/noise](https://github.com/nightcycle/noise) | 3 | Meerdere noise-stijlen (Perlin, Simplex...) met seeds |
+| [Schlonny-Tech/roblox-mathlib](https://github.com/Schlonny-Tech/roblox-mathlib) | 3 | Extra wiskundefuncties |
+| [OpenFeline/maze-simulation](https://github.com/OpenFeline/maze-simulation) | 3 | Doolhof-simulatie |
+| [Sythivo/voxel-3d-demo](https://github.com/Sythivo/voxel-3d-demo) | 3 | Simpele voxelgame in Luau |
+| [unityjaeger/HashGrid](https://github.com/unityjaeger/HashGrid) | 3 | Spatial hash grid |
 | [ffrostfall/polybool-luau](https://github.com/ffrostfall/polybool-luau) | 2 | Polygon boolean-operaties in Luau |
 | [Kvil-git/Luau-Catmull-Rom-Spline](https://github.com/Kvil-git/Luau-Catmull-Rom-Spline) | 2 | Catmull-Rom splines voor NPC-paden en camera's |
+| [IrishFix/rbxts-volume3](https://github.com/IrishFix/rbxts-volume3) | 2 | 3D convex-hull volumes met efficiënte collision/object-detectie in roblox-ts |
 | [AidenTran900/markov-luau](https://github.com/AidenTran900/markov-luau) | 1 | MarkovJunior / Wave Function Collapse in Luau |
 | [Mythus-Z/Procedural-Dungeon-Generation-Roblox-](https://github.com/Mythus-Z/Procedural-Dungeon-Generation-Roblox-) | 1 | Voxel-dungeons: 2000 kamers / 100k voxels in < 1 seconde |
 | [Bryan0-0AG/Procedural-Dungeon-Generator_Roblox-Studio](https://github.com/Bryan0-0AG/Procedural-Dungeon-Generator_Roblox-Studio) | 1 | Vertakkende dungeons met gewogen kamer-templates en collision-checks |

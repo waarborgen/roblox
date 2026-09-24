@@ -100,11 +100,20 @@ Luau-in-Luau, emulators, DOOM, N64, video, Python-in-Luau en game-ports.
 | [alphafantomu/Love-Universe](https://github.com/alphafantomu/Love-Universe) | 4 | Roblox-achtige object-environment engine voor LÖVE |
 | [Sezei/ff-kate-engine](https://github.com/Sezei/ff-kate-engine) | 4 | Modding-engine voor Funky Friday |
 | [astomih/sinen](https://github.com/astomih/sinen) | 4 | Creative coding framework voor Luau |
+| [TechEverythingTikTok/RobloxCPU](https://github.com/TechEverythingTikTok/RobloxCPU) | 4 | CPU-emulator in Roblox |
+| [thecreare/polytoria-welds](https://github.com/thecreare/polytoria-welds) | 4 | Roblox-achtige destructie in Polytoria via grafen |
 | [pon331/qr-luau](https://github.com/pon331/qr-luau) | 3 | QR-codes genereren in Luau |
 | [decompi/Pixel-Stream-Player](https://github.com/decompi/Pixel-Stream-Player) | 3 | Video afspelen in Roblox: frames als pixeldata streamen via Node.js |
 | [travisdmathis/quake-3-arena-engine-luau-roblox](https://github.com/travisdmathis/quake-3-arena-engine-luau-roblox) | 3 | Quake 3 Arena-engine geport naar Luau voor Roblox |
 | [roblox-aurora/zirconium-ast](https://github.com/roblox-aurora/zirconium-ast) | 3 | AST-parser voor de Zirconium-DSL |
 | [orblua/RobloxCore](https://github.com/orblua/RobloxCore) | 3 | Platform dat een Roblox-runtime en infrastructuur simuleert |
+| [RiceTheDev/luau_cpu](https://github.com/RiceTheDev/luau_cpu) | 3 | Werkende CPU in Roblox |
+| [roblox-compilers/rcc-v2](https://github.com/roblox-compilers/rcc-v2) | 3 | Roblox-compiler-collectie v2 |
+| [aarontheluanerd/kanvu-prism](https://github.com/aarontheluanerd/kanvu-prism) | 3 | Browser- en WebView-engine in Roblox |
+| [MrRoblick/chip8-luau](https://github.com/MrRoblick/chip8-luau) | 3 | Snelle CHIP-8 emulator |
+| [Scythe-Technology/c-parser](https://github.com/Scythe-Technology/c-parser) | 3 | C-parser in Luau |
+| [Zalthen-dev/Luanos-Engine](https://github.com/Zalthen-dev/Luanos-Engine) | 3 | Gratis game-development software (demo) |
+| [taikonaut001/open-circuit-maker](https://github.com/taikonaut001/open-circuit-maker) | 3 | Open circuit maker (logica bouwen) |
 | [Dekkonot/rbx-binary-luau](https://github.com/Dekkonot/rbx-binary-luau) | 2 | Roblox binair bestandsformaat (.rbxm) lezen in pure Luau |
 | [filoxen/workspace-detector](https://github.com/filoxen/workspace-detector) | 2 | .rbxm-bestanden analyseren om oude games te vinden |
 | [AnotherSubatomo/luau_qoi](https://github.com/AnotherSubatomo/luau_qoi) | 2 | QOI-afbeeldingsformaat encoder/decoder |
