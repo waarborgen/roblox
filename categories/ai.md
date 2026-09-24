@@ -1,6 +1,6 @@
 # AI, NPC's & machine learning
 
-Neurale netwerken, behavior trees, pathfinding en matchmaking.
+Neurale netwerken, behavior trees, pathfinding, boids en LLM-NPC's.
 
 | Repo | ⭐ | Wat het doet |
 |---|---:|---|
@@ -10,11 +10,21 @@ Neurale netwerken, behavior trees, pathfinding en matchmaking.
 | [AqwamCreates/DataPredict](https://github.com/AqwamCreates/DataPredict) | 23 | Machine learning library: 100+ modellen incl. reinforcement learning |
 | [bstummer/openskill.lua](https://github.com/bstummer/openskill.lua) | 22 | Weng-Lin rating (TrueSkill-alternatief) voor matchmaking/ranked |
 | [boatbomber/AIConversation](https://github.com/boatbomber/AIConversation) | 18 | Praten met LLM-chatbots vanuit Roblox |
+| [snipcola/Roblox-AI](https://github.com/snipcola/Roblox-AI) | 17 | Word een AI in Roblox (LLM bestuurt een character) |
 | [littensy/nanoai](https://github.com/littensy/nanoai) | 9 | Minimale library voor neurale netwerken |
+| [Project-Ptolemy/ProjectUAI](https://github.com/Project-Ptolemy/ProjectUAI) | 9 | Universele AI-agent die in Roblox draait (Claude Code-achtige loop) |
 | [Axp3cter/Arbor](https://github.com/Axp3cter/Arbor) | 3 | Composable, getypeerde behavior trees voor NPC-AI |
 | [Echolewron/rbx-enemy-ai](https://github.com/Echolewron/rbx-enemy-ai) | 3 | Vijand-AI: patrouilleren, achtervolgen, verstoppen |
+| [elcapykkzxd/NavPathX](https://github.com/elcapykkzxd/NavPathX) | 3 | Geoptimaliseerde fork van SimplePath |
 | [Daemon6109/AStarPathfinding](https://github.com/Daemon6109/AStarPathfinding) | 2 | A* zoekalgoritme in Luau (eigen grids) |
+| [glindberg2000/roblox_ai](https://github.com/glindberg2000/roblox_ai) | 2 | AI-gestuurd NPC-systeem (LLM) |
+| [regibus361/AIBusPassengers](https://github.com/regibus361/AIBusPassengers) | 1 | NPC-passagiers voor bus-games |
+| [luandrew66-ctrl/SmartNPC](https://github.com/luandrew66-ctrl/SmartNPC) | 1 | AI-NPC's met gesprekken, geheugen en behavior trees |
+| [nsawill1405/Pathfinding-Plus](https://github.com/nsawill1405/Pathfinding-Plus) | 1 | Crowd-aware pathfinding met replanning en agent-coördinatie |
+| [gdr1461/GPath](https://github.com/gdr1461/GPath) | 1 | Tool voor makkelijke pathfinding-systemen |
 | [treebarkbr/RoNet](https://github.com/treebarkbr/RoNet) | 0 | Tensors, transformer-modellen en BPE-tokenizer in pure Luau |
 | [TuneScotty/TinyMNIST](https://github.com/TuneScotty/TinyMNIST) | 0 | Cijferherkenning (MNIST) die volledig in Roblox draait |
+| [sebastianboscan/roblox-ai-npc](https://github.com/sebastianboscan/roblox-ai-npc) | 0 | NPC's die natuurlijke taal via TextGenerator omzetten in acties |
+| [Murned/roblox-boid-flocking](https://github.com/Murned/roblox-boid-flocking) | 0 | Drone-zwerm met Reynolds' boids + spatial grid |
 
 [← Terug naar overzicht](../README.md)
