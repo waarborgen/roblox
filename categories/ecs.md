@@ -86,7 +86,7 @@ Entity Component Systems en frameworks voorbij Knit.
 | [zblox164/Scrypt](https://github.com/zblox164/Scrypt) | 1 | Scrypt-framework |
 | [ZacharyVanier/VZNCore-Template](https://github.com/ZacharyVanier/VZNCore-Template) | 0 | Batteries-included ECS-framework template |
 
-## Uitgebreide index (384)
+## Uitgebreide index (389)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -279,10 +279,12 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [camren-m/rbxts-loader](https://github.com/camren-m/rbxts-loader) | 0 | A simple module loader for Roblox-TS |
 | [CapedBojji/egooe](https://github.com/CapedBojji/egooe) | 0 | A immediate mode UI framework for roblox |
 | [CapedBojji/TopDownEngine](https://github.com/CapedBojji/TopDownEngine) | 0 | My top down roblox game framework |
+| [Caylies/appii](https://github.com/Caylies/appii) | 0 | Feature-driven architecture brought to Roblox Studio, inspired by the Django Python package. |
 | [chaej4gyeong/AlcantaraRP-Core-](https://github.com/chaej4gyeong/AlcantaraRP-Core-) | 0 | Modular Roblox roleplay framework powered by chaejagyeong |
 | [christopher-buss/nucleus](https://github.com/christopher-buss/nucleus) | 0 | A high-performance roblox-ts ECS. |
 | [claudiuscapqs-hub/Flow](https://github.com/claudiuscapqs-hub/Flow) | 0 | Flow is a lightweight, developer-friendly execution framework for Roblox that helps structure, name, debug, and manage complex logic through clean and reusab... |
 | [conariumsoft/lovecraft.github.io](https://github.com/conariumsoft/lovecraft.github.io) | 0 | API Reference for the LovecraftVR ROBLOX framework. |
+| [cresmarmat-an/roblox-cleaner](https://github.com/cresmarmat-an/roblox-cleaner) | 0 | Cleaner is a resource management and lifecycle cleanup utility for Roblox. |
 | [cuberootmctoasted/rbxts-ecs-ultimate-template](https://github.com/cuberootmctoasted/rbxts-ecs-ultimate-template) | 0 | (geen omschrijving op GitHub) |
 | [cubix-one/cubix](https://github.com/cubix-one/cubix) | 0 | The ultimate Roblox framework for TypeScript |
 | [D-M-dev/Actor-based-system](https://github.com/D-M-dev/Actor-based-system) | 0 | trict-typed actor-based backend framework for Roblox with mailboxes, supervision, worker pools and async request/response. |
@@ -345,6 +347,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [kinjakitanzawi-wq/CoreForge-Roblox-Framework](https://github.com/kinjakitanzawi-wq/CoreForge-Roblox-Framework) | 0 | (geen omschrijving op GitHub) |
 | [klau96/JECS](https://github.com/klau96/JECS) | 0 | Roblox ECS library by Ukendio |
 | [Krichi422/Simple](https://github.com/Krichi422/Simple) | 0 | Simple is a lightweight framework for organizing roblox game systems. |
+| [krxzy-zion-code/loader](https://github.com/krxzy-zion-code/loader) | 0 | Lifecycle loader for Roblox services and controllers. |
 | [Kzazazazaz/kzazazazaz.github.io](https://github.com/Kzazazazaz/kzazazazaz.github.io) | 0 | "Professional Roblox Systems Engineer specializing in Luau backend architecture, scalable game frameworks, and high-performance gameplay systems. This reposi... |
 | [L4URXNZ/windux](https://github.com/L4URXNZ/windux) | 0 | Windux is a powerfull framework for Roblox. Made for Rojo. |
 | [larpedd/lua-genai-framework](https://github.com/larpedd/lua-genai-framework) | 0 | Roblox's unofficial Google API wrapper. |
@@ -384,6 +387,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Notyouorme2000/peaceful-framework](https://github.com/Notyouorme2000/peaceful-framework) | 0 | Small Roblox service/controller framework |
 | [okay-Alex/DifferentialFramework](https://github.com/okay-Alex/DifferentialFramework) | 0 | Service-Based Roblox game framework // Latest Public Stable Build: v2.13a |
 | [OliverHensworth/ro-int](https://github.com/OliverHensworth/ro-int) | 0 | Ro-int is a Roblox Framework that connects to features usually you cannot get to, but Ro-int solves that. ~~Ro-int means Roblox Interaction~~ |
+| [orlixrblx/Orlixrblx](https://github.com/orlixrblx/Orlixrblx) | 0 | Roblox developer specializing in Luau scripting Such as, systems, gameplay mechanics, and backend architecture. |
 | [ouw2204/Faye](https://github.com/ouw2204/Faye) | 0 | Roblox reactive UI framework. |
 | [Phoenix-Framework/Framework](https://github.com/Phoenix-Framework/Framework) | 0 | A modular, feature-rich framework to help the ease of development for Roblox games. |
 | [pigxity-games/lua-anot-default-extension](https://github.com/pigxity-games/lua-anot-default-extension) | 0 | lua-annotations default extension, serving as a Roblox game framework and as an example for using the API |
@@ -437,6 +441,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Sw1ssDeveloper/Future-Made-Studios-Framework](https://github.com/Sw1ssDeveloper/Future-Made-Studios-Framework) | 0 | Frozen Roblox framework template (Future Made Studios). See TEMPLATE_PROMPT.md |
 | [SyncOfficialSpec/Axil](https://github.com/SyncOfficialSpec/Axil) | 0 | Axil - a framework-y Roblox/Luau UI library |
 | [tachy0n-z/core](https://github.com/tachy0n-z/core) | 0 | A Roblox Luau project framework. |
+| [TarryRBX/Maid](https://github.com/TarryRBX/Maid) | 0 | A minimal lifecycle manager for Roblox. |
 | [thatonescripter-afk/Quantum-Core-Roblox](https://github.com/thatonescripter-afk/Quantum-Core-Roblox) | 0 | A high-performance style game framework for the Roblox game engine |
 | [the-palo/palt](https://github.com/the-palo/palt) | 0 | Palt is a dynamic UI framework for Roblox similar to React. |
 | [TheBucksDev/Basic-Framework](https://github.com/TheBucksDev/Basic-Framework) | 0 | A basic framework for roblox studio |

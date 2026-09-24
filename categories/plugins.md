@@ -99,7 +99,7 @@ Handige plugins voor bouwen, terrain, UI en workflow.
 | [Dekkonot/camera-light-plugin](https://github.com/Dekkonot/camera-light-plugin) | 0 | Plugin die een lamp aan de Studio-camera hangt |
 | [Mystifine/ModelLens](https://github.com/Mystifine/ModelLens) | 0 | Render en exporteer PNG-thumbnails van modellen in Studio (transparant, batch) |
 
-## Uitgebreide index (406)
+## Uitgebreide index (407)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -496,6 +496,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Vermale713/roblox-plugin-template](https://github.com/Vermale713/roblox-plugin-template) | 0 | (geen omschrijving op GitHub) |
 | [VG-Xezo/Easygrids-Plugin](https://github.com/VG-Xezo/Easygrids-Plugin) | 0 | An easy to use roblox plugin to create grids of parts, models, or unions |
 | [Vitouliss/Insert-Asset-plugin](https://github.com/Vitouliss/Insert-Asset-plugin) | 0 | A plugin I wrote for ROBLOX studio that would insert any model by id. Currently only inserts ROBLOX items or items you own in your inventory due to an update. |
+| [vvladislovv/RussTeam](https://github.com/vvladislovv/RussTeam) | 0 | Перенос деталей, моделей, мешей и скриптов между разными проектами Roblox Studio |
 | [vx2c/Zenith](https://github.com/vx2c/Zenith) | 0 | plugin for roblox studios IA free in projects |
 | [welcomestohell/epoch](https://github.com/welcomestohell/epoch) | 0 | Roblox Studio plugin for the next decade of tower building |
 | [WelshLadAshton/RobloxSnippets](https://github.com/WelshLadAshton/RobloxSnippets) | 0 | Snippets Of Code To Use In My Plugin Called Snippets! |

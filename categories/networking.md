@@ -95,7 +95,7 @@ Buffer-netcode, IDL-compilers, encryptie en eigen replicatie.
 | [thekingofspace/Reflect](https://github.com/thekingofspace/Reflect) | 0 | Sync-systeem |
 | [ocauapaz/BTYN](https://github.com/ocauapaz/BTYN) | 0 | Networking-compiler: schema naar gebatchte, delta-encoded Luau |
 
-## Uitgebreide index (328)
+## Uitgebreide index (334)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -239,6 +239,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Brylan-Leske/ShareSphere](https://github.com/Brylan-Leske/ShareSphere) | 0 | ShareSphere is a cross-game social network for Roblox |
 | [Bugadinho/RobloxRPC](https://github.com/Bugadinho/RobloxRPC) | 0 | A implementation of Roblox's presence API through Discord RPC |
 | [Carl00-mpeek/PlugDock-for-Roblox](https://github.com/Carl00-mpeek/PlugDock-for-Roblox) | 0 | PlugDock for Roblox is a Windows app for managing local Roblox Studio plugins. Import .lua/.rbxm files, enable or disable them, and check GitHub Releases for... |
+| [Carlitos999yt/NepTunnel](https://github.com/Carlitos999yt/NepTunnel) | 0 | NepTunnel C# (.NET 8 WPF) - High Performance Roblox Studio Local Test Session Tunneling Tool with RSM Integration |
 | [claudiuscapqs-hub/network-lag-remover](https://github.com/claudiuscapqs-hub/network-lag-remover) | 0 | Removing network lag for roblox! |
 | [CluelessD3v/FAH](https://github.com/CluelessD3v/FAH) | 0 | A small registry and selective replication helper for Roblox asset templates. |
 | [Coffilhg/ProfileStoreV3](https://github.com/Coffilhg/ProfileStoreV3) | 0 | Based on ProfileStore, it's V2 fork, LemonSignal, CoffeeParser and CoffeeObjects - a Periodic DataStore saving solution with session locking, subscription-ba... |
@@ -247,6 +248,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Craixzo/Yellonia.net](https://github.com/Craixzo/Yellonia.net) | 0 | A website for the nation of Yellonia on Roblox. Designed to make things more accessible and available to everyone. |
 | [Credenzio-Studios/StateSnap](https://github.com/Credenzio-Studios/StateSnap) | 0 | A Roblox Luau library for capturing, retrieving, and interpolating snapshots containing state data & input history. Intended to be used for multiplayer input... |
 | [creed3900/getsmallserver](https://github.com/creed3900/getsmallserver) | 0 | This a script to get a small server on Roblox just paste it into the console in inspect element Credit:https://v3rmillion.net/showthread.php?tid=734909 |
+| [cresmarmat-an/roblox-mimic](https://github.com/cresmarmat-an/roblox-mimic) | 0 | Mimic is typed, immutable server to client state replication for Roblox. |
 | [cresmarmat-an/roblox-remotes](https://github.com/cresmarmat-an/roblox-remotes) | 0 | A lightweight remote management module for Roblox. |
 | [css-html2024/Forkland](https://github.com/css-html2024/Forkland) | 0 | Side project which aims to replicate Roblox |
 | [CTTeddy/NetConV2](https://github.com/CTTeddy/NetConV2) | 0 | Version 2 of NetCon A lightweight, modular network and lifecycle management framework built for Roblox. |
@@ -286,6 +288,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [HappySunChild/netws](https://github.com/HappySunChild/netws) | 0 | roblox server-client network module #1053 |
 | [hiSlones/Robloxian-news](https://github.com/hiSlones/Robloxian-news) | 0 | The news network of roblox |
 | [Hollower233/net](https://github.com/Hollower233/net) | 0 | Static Roblox networking with explicit remote lifecycle control |
+| [honzajus/roblox-rpc](https://github.com/honzajus/roblox-rpc) | 0 | Native macOS menu bar app that shows your currently played Roblox game as a Discord Rich Presence |
 | [howsworkzco/Rogo-game](https://github.com/howsworkzco/Rogo-game) | 0 | RogoModel is a recreation of Roblox in the 2022 era, managed by .NET! |
 | [husnainseo49-jpg/https-zielobof.net-](https://github.com/husnainseo49-jpg/https-zielobof.net-) | 0 | Zielobof Roblox is your trusted source for Roblox guides, gaming tips, redeem codes, news, and updates. Explore beginner tutorials, gameplay strategies, and ... |
 | [I0ris/HttpSpy](https://github.com/I0ris/HttpSpy) | 0 | A Simple and highly efficient network debugging tool for Roblox |
@@ -301,6 +304,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Julpav/SwiftBar](https://github.com/Julpav/SwiftBar) | 0 | SwiftBar is a Roblox Studio plugin which is designed to replicate a spotlight search bar (as seen in MacOS and other operating systems), with more than just ... |
 | [jun-ro/Tide](https://github.com/jun-ro/Tide) | 0 | A lightweight, flexible, and powerful Roblox framework. Designed to make server management and networking as easy as possible. |
 | [jyzgo/RobloxRpc](https://github.com/jyzgo/RobloxRpc) | 0 | Lightweight HTTP RPC for Roblox Studio — curl/Python clients, plugin long-polls, batch commands. Inspired by scene-rpc (Unity). |
+| [Jzsnipr/roblox-auto-rpc-v2-](https://github.com/Jzsnipr/roblox-auto-rpc-v2-) | 0 | (geen omschrijving op GitHub) |
 | [karbis/roblox-rpc](https://github.com/karbis/roblox-rpc) | 0 | Enables more specific Discord RPC for Roblox |
 | [karbis/studio-rpc](https://github.com/karbis/studio-rpc) | 0 | Enables Discord RPC for Roblox Studio |
 | [karlobii/Bouncer](https://github.com/karlobii/Bouncer) | 0 | A small roblox module that rate-limits and validates remote function/event calls |
@@ -383,6 +387,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [skja67/robloxstudio-bridge](https://github.com/skja67/robloxstudio-bridge) | 0 | Peer-to-peer Roblox Studio test session tool. Hosts a local Studio server and connects players directly via UPnP, with playit.gg as a manual fallback when UP... |
 | [slofeax/-](https://github.com/slofeax/-) | 0 | roblox.com js.rbxcdn.com ecsv2.roblox.com metrics.roblox.com games.roblox.com tr.rbxcdn.com thumbnails.roblox.com roblox.com rbxcdn.com rbxinfra.net rbxtrk.c... |
 | [SomethingSeth/Networker](https://github.com/SomethingSeth/Networker) | 0 | Roblox Remote wrapper that uses service-styled function calls. |
+| [sorrelhub/CustomRPCLuau](https://github.com/sorrelhub/CustomRPCLuau) | 0 | Universal Luau script for custom Discord Rich Presence through Bloxstrap in Roblox games. |
 | [Spiderfffun/robloxRCE](https://github.com/Spiderfffun/robloxRCE) | 0 | remote commands using the roblox chat |
 | [SpiritAvtorizate/Easing-Functions-Lua](https://github.com/SpiritAvtorizate/Easing-Functions-Lua) | 0 | Converted functions from TypeScript on easings.net website to a lua format, respectively can be used in LUAU roblox projects. |
 | [squireeee/SquireX](https://github.com/squireeee/SquireX) | 0 | SquireX – Remote-Level Deletion Framework: Total control over Roblox remotes. Command execution, player targeting, and remote manipulation with precision. Li... |
@@ -414,6 +419,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [udaymakawna/roblox-pea-game](https://github.com/udaymakawna/roblox-pea-game) | 0 | Pea Game / Don't Get Caught! ???? - An open-source psychological thriller mini-game on Roblox built with Luau, Rojo, and event-driven networking. |
 | [va0ck/folder-net](https://github.com/va0ck/folder-net) | 0 | Roblox Remotes & Bindables for IDEs. |
 | [vadymcap/NetLink](https://github.com/vadymcap/NetLink) | 0 | High-performance networking library for Roblox development. |
+| [vasul111/tray-ping-monitor](https://github.com/vasul111/tray-ping-monitor) | 0 | Tiny Windows tray app showing real-time ping and packet loss to game servers (Roblox, CS2, Valorant, Discord) with a live graph. |
 | [VincxBlox/DiscordRobloxRPC](https://github.com/VincxBlox/DiscordRobloxRPC) | 0 | Communicates with Discord that makes a RPC for Roblox. |
 | [Virtualdesign0/VirtualNet](https://github.com/Virtualdesign0/VirtualNet) | 0 | (geen omschrijving op GitHub) Roblox networking tool |
 | [vvacillator/stats](https://github.com/vvacillator/stats) | 0 | An open sourced, roblox-ts project that is a replication of yandere simulators toolbar. |

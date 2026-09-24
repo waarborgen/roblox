@@ -138,7 +138,7 @@ Open Cloud, web-API's, Discord, databases en analytics.
 | [top-stats/analytics-roblox-integration](https://github.com/top-stats/analytics-roblox-integration) | 0 | TopStats analytics-integratie met track-API |
 | [nrbx-ts/rbxts-sentry](https://github.com/nrbx-ts/rbxts-sentry) | 0 | Sentry-errortracking voor roblox-ts (port van sentry-roblox) |
 
-## Uitgebreide index (2867)
+## Uitgebreide index (3015)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -838,6 +838,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [zirou32/Roblox-Webhook](https://github.com/zirou32/Roblox-Webhook) | 1 | Send messages to Discord using webhooks easily! This modulescript will allow you to do it in a very simple and fast way. |
 | [zoitdata/WiP-Roblox-KPIs-for-Discord](https://github.com/zoitdata/WiP-Roblox-KPIs-for-Discord) | 1 | (geen omschrijving op GitHub) |
 | [00lxh/roblox-webhooks](https://github.com/00lxh/roblox-webhooks) | 0 | Send custom webhooks for discord logs! |
+| [00vyaneyt-jpg/-KREW-BOT](https://github.com/00vyaneyt-jpg/-KREW-BOT) | 0 | VALØR — Roblox Rivals Community |
 | [010DevX101/BloxPro-API](https://github.com/010DevX101/BloxPro-API) | 0 | Holds API wrappers and abstractions for different languages, and in-game assets in Luau for Roblox. |
 | [01sdevb/01s-gen-servers](https://github.com/01sdevb/01s-gen-servers) | 0 | Bot de Discord para generar servidores de Roblox |
 | [0hoanglong/web-check-svv-roblox](https://github.com/0hoanglong/web-check-svv-roblox) | 0 | (geen omschrijving op GitHub) |
@@ -845,13 +846,17 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [0xmallard/debug-wiki](https://github.com/0xmallard/debug-wiki) | 0 | A simple MediaWiki environment to debug bots & API connected with Roblox |
 | [12GaugeNick/ROBLOX-php-web-image-to-color3](https://github.com/12GaugeNick/ROBLOX-php-web-image-to-color3) | 0 | (geen omschrijving op GitHub) |
 | [12Xex/Balls](https://github.com/12Xex/Balls) | 0 | ball towers :skull: https://www.roblox.com/games/9478827096/Tower-of-Ball |
+| [1310NI14L/jacques-recharge](https://github.com/1310NI14L/jacques-recharge) | 0 | Application web 100 % Frontend (statique) conçue pour la soumission et la vérification de statut de coupons/tickets de recharge prépayés (PCS, Transcash, Neo... |
 | [135stew/stews-achievements](https://github.com/135stew/stews-achievements) | 0 | Documentation for the Roblox API system "Stew's Achievements". |
 | [1aple/SP2009.GSinc](https://github.com/1aple/SP2009.GSinc) | 0 | Official website for System Project: 2009 (game on Roblox) |
+| [1hum8le/roblox-friendremoval](https://github.com/1hum8le/roblox-friendremoval) | 0 | An efficient and secure tool written in Python for automatically removing friends from your Roblox account. Unlike slow tools that simulate clicks in a brows... |
+| [2048p/arawe](https://github.com/2048p/arawe) | 0 | A lightweight Python wrapper for the Roblox API focused on user data and economy. |
 | [224123cool/Roblox](https://github.com/224123cool/Roblox) | 0 | Creating a Roblox website |
 | [26926802306236/roblox-discord-bot-example](https://github.com/26926802306236/roblox-discord-bot-example) | 0 | (geen omschrijving op GitHub) |
 | [2DdesginDeveloper/RobloxWatcher](https://github.com/2DdesginDeveloper/RobloxWatcher) | 0 | # RobloxWatcher Fixes the "Roblox is already running in the background" error. ## How to use 1. Download the files 2. Run fix_roblox.bat 3. Open Roblox ## Wh... |
 | [2Vanish1/Discord-Bot](https://github.com/2Vanish1/Discord-Bot) | 0 | Roblox Disocord Bot Hostet. |
 | [2vb3/cr.accounts.roblox.com](https://github.com/2vb3/cr.accounts.roblox.com) | 0 | CR Accounts can be found here. Look in certain files for what you want to see. |
+| [343fefdfs34343tfdfss1-stack/roblox-current-target](https://github.com/343fefdfs34343tfdfss1-stack/roblox-current-target) | 0 | Current Roblox target selected from Discord |
 | [3xpluto/ezrobloxapi](https://github.com/3xpluto/ezrobloxapi) | 0 | A easy to use python api wrapper for the roblox web api |
 | [4222113-netizen/Luau-coding](https://github.com/4222113-netizen/Luau-coding) | 0 | website for learning luau |
 | [444lifes/testimoni-roblox](https://github.com/444lifes/testimoni-roblox) | 0 | testimoni for renji store on discord |
@@ -868,10 +873,12 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [7kcy/roblox-update-bot](https://github.com/7kcy/roblox-update-bot) | 0 | (geen omschrijving op GitHub) |
 | [7mmda/AL7DOD-CITY-RP](https://github.com/7mmda/AL7DOD-CITY-RP) | 0 | Official website for AL7DOD CITY RP Roblox server |
 | [80b/RobloxStudioPresence](https://github.com/80b/RobloxStudioPresence) | 0 | This creates a discord rich presence for Roblox Studio scripts |
+| [87557744/WIS-scool](https://github.com/87557744/WIS-scool) | 0 | Official website for WIS International School Roblox |
 | [8Theo8/fate-pass-proxy](https://github.com/8Theo8/fate-pass-proxy) | 0 | (geen omschrijving op GitHub) Roblox spotlight game |
 | [9mlixokkj-coder/Chars-S-o-Paulo](https://github.com/9mlixokkj-coder/Chars-S-o-Paulo) | 0 | Bot de Chars Roblox para Discord. |
 | [9XavierX/Lucid-Ware](https://github.com/9XavierX/Lucid-Ware) | 0 | Untitled Hood script. https://web.roblox.com/games/9183932460/Untitled-Hood |
 | [a1iluv/Rodiscord-api](https://github.com/a1iluv/Rodiscord-api) | 0 | An Roblox to Discord API |
+| [A1senGO/Roblox-ID-Generator](https://github.com/A1senGO/Roblox-ID-Generator) | 0 | The Roblox ID generator is simply a random number generator that takes you directly to the website |
 | [aabeey/Web-Sentimen-Roblox](https://github.com/aabeey/Web-Sentimen-Roblox) | 0 | Website sederhana untuk analisis sentimen |
 | [Aahanjain1221/Roblox12](https://github.com/Aahanjain1221/Roblox12) | 0 | My new web site |
 | [aal3-33/discord.luau](https://github.com/aal3-33/discord.luau) | 0 | My stupid attempt on attempting to make a discord bot using luau like literally the one used in Roblox |
@@ -881,6 +888,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [aanababnaananana-bit/Emergency-Hamburg-Privat-Server-Bot](https://github.com/aanababnaananana-bit/Emergency-Hamburg-Privat-Server-Bot) | 0 | This repository is For Emergncy Hamburg, Here You can see Information About an Open Privat Server in the Roblox Game, its A Discord bot you can Use The Langu... |
 | [aaradhyadistributors05-ui/roblox-python](https://github.com/aaradhyadistributors05-ui/roblox-python) | 0 | A Python library that mimics Roblox API and game development concepts for desktop/server applications |
 | [AaronJonk/RbxAPI](https://github.com/AaronJonk/RbxAPI) | 0 | A easy-to-use Roblox api |
+| [aaronnavarroorellana09-netizen/-STARZKING-CODES](https://github.com/aaronnavarroorellana09-netizen/-STARZKING-CODES) | 0 | 🎮 ¡Bienvenido a 🧠 STARZKING CODES! 🔥 Descubre códigos de Roblox, juegos recomendados, novedades y mucho más. 🚀 🧩 Genera tus códigos fácilmente, descubre nuev... |
 | [aauncopylockedarmy-ux/roblox-verify-bot](https://github.com/aauncopylockedarmy-ux/roblox-verify-bot) | 0 | (geen omschrijving op GitHub) hi |
 | [abarmoth/ROBLOX](https://github.com/abarmoth/ROBLOX) | 0 | This is my website where you can find answers for your questions about a game ROBLOX |
 | [ABC123-cloud-long/BEST-ROBLOX-LINK-GENERATORS](https://github.com/ABC123-cloud-long/BEST-ROBLOX-LINK-GENERATORS) | 0 | This website gives u some of the best roblox link generators |
@@ -904,6 +912,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [AdministratorMr/roblox-discord-bots](https://github.com/AdministratorMr/roblox-discord-bots) | 0 | Information about commissions, changelogs and technical information. |
 | [Adrianbroe/Robloxscriptingschool](https://github.com/Adrianbroe/Robloxscriptingschool) | 0 | this is a free scripting school, learn more in our discord server! |
 | [Adrianbroe/Robloxscriptsschool](https://github.com/Adrianbroe/Robloxscriptsschool) | 0 | this is a free school on how to make simple scripts inside roblox studio, you can also join my discord, |
+| [Adymoor/I-m-a-roblox-scripter-for-hire](https://github.com/Adymoor/I-m-a-roblox-scripter-for-hire) | 0 | Hire me in discord |
 | [AeliousWheet/GrowAGarden](https://github.com/AeliousWheet/GrowAGarden) | 0 | A website that gives you the current Grow a Garden stock. Grow a Garden is a game/experience in Roblox |
 | [aemino/ROBLOX-HttpService-API](https://github.com/aemino/ROBLOX-HttpService-API) | 0 | A Node.js program that allows you to perform actions using a ROBLOX account and HttpService. |
 | [AEmojiboy29/discord_bot_v2](https://github.com/AEmojiboy29/discord_bot_v2) | 0 | Roblox Whitelist System with Discord Bot and Web API |
@@ -914,6 +923,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [AGithubUs/Roblox-X-Trello-X-easyPOS](https://github.com/AGithubUs/Roblox-X-Trello-X-easyPOS) | 0 | This is a repo for an un-official roblox game |
 | [agntdev/robloxmatchbot](https://github.com/agntdev/robloxmatchbot) | 0 | Telegram bot that auto-matches Roblox players by reported nickname, rank and role tags, notifying users instantly to form teams. |
 | [aguvai/roblox-administrative-webhook](https://github.com/aguvai/roblox-administrative-webhook) | 0 | (geen omschrijving op GitHub) |
+| [agviagvi12/BOT-ABSENSI](https://github.com/agviagvi12/BOT-ABSENSI) | 0 | panel absen mabar roblox |
 | [ahimshasatyag/roblox](https://github.com/ahimshasatyag/roblox) | 0 | Website example Top Up Games Roblox |
 | [ahsansdr11-spec/Sambung-kata-clone](https://github.com/ahsansdr11-spec/Sambung-kata-clone) | 0 | Ini adalah website untuk game sambung kata roblox |
 | [AirplanegoBrr/annoucemnt-maker-ERLC](https://github.com/AirplanegoBrr/annoucemnt-maker-ERLC) | 0 | This is an Annoucemnt maker for a roblox game called ERLC ( https://www.roblox.com/games/2534724415 ) |
@@ -937,16 +947,21 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [aleahhalili180-afk/roblox-fish-proxy](https://github.com/aleahhalili180-afk/roblox-fish-proxy) | 0 | (geen omschrijving op GitHub) |
 | [alexbnewhouse/PyRoblox](https://github.com/alexbnewhouse/PyRoblox) | 0 | Python wrapper for the Roblox API. |
 | [alexmuck4829-netizen/Website](https://github.com/alexmuck4829-netizen/Website) | 0 | My new roblox website |
+| [alexotten297-lgtm/Ausom-Scooter-World-Speed-Script-roblox](https://github.com/alexotten297-lgtm/Ausom-Scooter-World-Speed-Script-roblox) | 0 | speed script made by ExecutorFreak1000 on Roblox! for suggestions or ideas or questions send email to ExecutorFreak@protonmail.com |
 | [Alexrzreyes/roblox-game](https://github.com/Alexrzreyes/roblox-game) | 0 | Roblox look alike game for web concept |
+| [AlexSFDev/roblox-customs](https://github.com/AlexSFDev/roblox-customs) | 0 | Custom inspect element scripts on Roblox to make your roblox.com a fantasy! |
 | [alfarellian/Detain-System](https://github.com/alfarellian/Detain-System) | 0 | Roblox Detain System for itemsatis.com |
 | [alfarellian/Detain-System-by-rellian](https://github.com/alfarellian/Detain-System-by-rellian) | 0 | Roblox Detain System for itemsatis.com |
 | [alfarezareyhan889-cyber/sociabuzz-roblox-webhook](https://github.com/alfarezareyhan889-cyber/sociabuzz-roblox-webhook) | 0 | (geen omschrijving op GitHub) |
 | [alfie190708/Blox-fruits-fishing-bot](https://github.com/alfie190708/Blox-fruits-fishing-bot) | 0 | This is a bot that I (Aphgahn) have created to automate fishing in Bloxfruits on roblox. The application explains how to use it and has a file attached on th... |
 | [alfiec20nnr/roblox-api-server](https://github.com/alfiec20nnr/roblox-api-server) | 0 | (geen omschrijving op GitHub) |
+| [alfredorobindabank-hub/unblockedgamessite](https://github.com/alfredorobindabank-hub/unblockedgamessite) | 0 | this is a website for school that has tiktok and roblox embedded into it |
 | [Alfusa/Top-Speedrunners-Ranking](https://github.com/Alfusa/Top-Speedrunners-Ranking) | 0 | Ranking Of The Best Speedrunners On Roblox |
 | [AliElHourch/Discord-Trello-Roblox-Bot](https://github.com/AliElHourch/Discord-Trello-Roblox-Bot) | 0 | (geen omschrijving op GitHub) |
+| [alioffical284-cmd/Roblox-Website](https://github.com/alioffical284-cmd/Roblox-Website) | 0 | This is a roblox project |
 | [aliroblo/concurs](https://github.com/aliroblo/concurs) | 0 | A roblox concurs website for my birthday! |
 | [allenpayup-hash/please-join-my-roblox-jss-sand-box-server](https://github.com/allenpayup-hash/please-join-my-roblox-jss-sand-box-server) | 0 | html code for website |
+| [Allison127sc/Tienda-ROBLOX](https://github.com/Allison127sc/Tienda-ROBLOX) | 0 | Practica 1 de Tecnologias Web |
 | [Aloynoob/DiscordRobloxCensorshipBot](https://github.com/Aloynoob/DiscordRobloxCensorshipBot) | 0 | A bot which censors chats like Roblox does. |
 | [alphaaaa99/alpha_store0](https://github.com/alphaaaa99/alpha_store0) | 0 | Roblox items store website |
 | [alphafantomu/rbx-types](https://github.com/alphafantomu/rbx-types) | 0 | Roblox Engine API annotations generator for Sumneko's LLS EmmyLua |
@@ -966,10 +981,12 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [ancientsky/english_savior](https://github.com/ancientsky/english_savior) | 0 | 一個專為熱愛 Minecraft、Roblox 和 YouTube 的孩子設計的遊戲化英語學習平台 A gamified English learning web app for kids who love Minecraft, Roblox, and YouTube |
 | [Andeezey/LearnLuau](https://github.com/Andeezey/LearnLuau) | 0 | LearnLuau.org is an open source website dedicated to assisting beginner Roblox developers in mastering luau. |
 | [Anderson-09-web/Bloxen-Roblox-API](https://github.com/Anderson-09-web/Bloxen-Roblox-API) | 0 | (geen omschrijving op GitHub) Repository for https://replit.com/@mipyhooki/Bloxen-Roblox-API |
+| [andressolanobaez-beep/websiteAndres](https://github.com/andressolanobaez-beep/websiteAndres) | 0 | un sitio web :V, estilo roblox |
 | [ANDRIE-ux/squatter-area-website](https://github.com/ANDRIE-ux/squatter-area-website) | 0 | Official website for the Roblox game Squatter Area Roleplay. Filipino-inspired urban roleplay experience with realistic systems and community-driven gameplay. |
 | [angelsorianoyecla-svg/roblox-gamepass-proxy](https://github.com/angelsorianoyecla-svg/roblox-gamepass-proxy) | 0 | (geen omschrijving op GitHub) |
 | [AngrySalt/Roblox-GamerScore-Extension](https://github.com/AngrySalt/Roblox-GamerScore-Extension) | 0 | (geen omschrijving op GitHub) |
 | [AngusC222/UBA-activity](https://github.com/AngusC222/UBA-activity) | 0 | A script that creates a line graph of activity in the UBA Discord server |
+| [anjun206/roblox-accessory-stacker](https://github.com/anjun206/roblox-accessory-stacker) | 0 | Restores Roblox accessory stacking broken by the new Avatar Editor |
 | [annilei-inokh-santos/rbx-archive](https://github.com/annilei-inokh-santos/rbx-archive) | 0 | RBX Archive is a personal web application that showcases Traveler_Caelum's favorite Roblox games. Built from scratch in VS Code, the site serves as both a pe... |
 | [anomicweb/anomic.dev](https://github.com/anomicweb/anomic.dev) | 0 | Source Code for a Website of a Game on Roblox: Anomic by Anomic Studios |
 | [anomicweb/index.](https://github.com/anomicweb/index.) | 0 | Source Code for a Website of a Game on Roblox: Anomic for Index of all Sub(domains) |
@@ -1000,6 +1017,8 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [arman499/Web-with-my-roblox-games](https://github.com/arman499/Web-with-my-roblox-games) | 0 | мой ник в роблокс NINTENDACSVIarman |
 | [ArmanDarmawan/roblox-grow-bot](https://github.com/ArmanDarmawan/roblox-grow-bot) | 0 | (geen omschrijving op GitHub) |
 | [Armando1939/Armando1939](https://github.com/Armando1939/Armando1939) | 0 | looking for someone to help me recover my roblox account, my discord is nicodemomontello |
+| [armanrehansupport-eng/Roblox-Bedwars-Advertiser](https://github.com/armanrehansupport-eng/Roblox-Bedwars-Advertiser) | 0 | Promotes youur discord servers for free open soruce |
+| [armanrehansupport-eng/Roblox-Bedwars-Advertiser-1](https://github.com/armanrehansupport-eng/Roblox-Bedwars-Advertiser-1) | 0 | Promotes youur discord servers for free open soruce |
 | [arnavdrawings3-code/RBLXvault](https://github.com/arnavdrawings3-code/RBLXvault) | 0 | A Perfect website for Roblox Every game Codes |
 | [Aroiuqes2/ROBLOX-HTTP-DISCORD-WEBHOOK](https://github.com/Aroiuqes2/ROBLOX-HTTP-DISCORD-WEBHOOK) | 0 | Connection Roblox to Discord using WebHook |
 | [arqez/Discord-To-ROBLOX](https://github.com/arqez/Discord-To-ROBLOX) | 0 | Uses the Discord ID that is stated and fetches the ROBLOX Account linked to it |
@@ -1016,16 +1035,19 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [aryosan-netizen/-aryosan-netizen-Find-a-repository-roblox-donation-proxy-saweria-sociabuzz-f1](https://github.com/aryosan-netizen/-aryosan-netizen-Find-a-repository-roblox-donation-proxy-saweria-sociabuzz-f1) | 0 | (geen omschrijving op GitHub) |
 | [aryosan-netizen/roblox-donation-proxy-saweria-sociabuzz-bagibagi-224-remja-club](https://github.com/aryosan-netizen/roblox-donation-proxy-saweria-sociabuzz-bagibagi-224-remja-club) | 0 | (geen omschrijving op GitHub) |
 | [aryosan-netizen/roblox-donation-proxy-saweria-sociabuzz-bagibagi-aryo](https://github.com/aryosan-netizen/roblox-donation-proxy-saweria-sociabuzz-bagibagi-aryo) | 0 | (geen omschrijving op GitHub) |
+| [aryosan-netizen/roblox-donation-proxy-saweria-sociabuzz-bagibagi-fakeclub](https://github.com/aryosan-netizen/roblox-donation-proxy-saweria-sociabuzz-bagibagi-fakeclub) | 0 | (geen omschrijving op GitHub) |
 | [aryosan-netizen/roblox-donation-proxy-saweria-sociabuzz-bagibagi-gremory](https://github.com/aryosan-netizen/roblox-donation-proxy-saweria-sociabuzz-bagibagi-gremory) | 0 | (geen omschrijving op GitHub) |
 | [aryosan-netizen/roblox-donation-proxy-saweria-sociabuzz-bagibagi-haven](https://github.com/aryosan-netizen/roblox-donation-proxy-saweria-sociabuzz-bagibagi-haven) | 0 | (geen omschrijving op GitHub) |
 | [aryosan-netizen/roblox-donation-proxy-saweria-sociabuzz-bagibagi-holytiger](https://github.com/aryosan-netizen/roblox-donation-proxy-saweria-sociabuzz-bagibagi-holytiger) | 0 | (geen omschrijving op GitHub) |
 | [aryosan-netizen/roblox-donation-proxy-saweria-sociabuzz-bagibagi-opgfams](https://github.com/aryosan-netizen/roblox-donation-proxy-saweria-sociabuzz-bagibagi-opgfams) | 0 | (geen omschrijving op GitHub) |
+| [aryosan-netizen/roblox-donation-proxy-saweria-sociabuzz-bagibagi-oxygen](https://github.com/aryosan-netizen/roblox-donation-proxy-saweria-sociabuzz-bagibagi-oxygen) | 0 | (geen omschrijving op GitHub) |
 | [aryosan-netizen/roblox-donation-proxy-saweria-sociabuzz-bagibagi-pandora](https://github.com/aryosan-netizen/roblox-donation-proxy-saweria-sociabuzz-bagibagi-pandora) | 0 | (geen omschrijving op GitHub) |
 | [aryosan-netizen/roblox-donation-proxy-saweria-sociabuzz-bagibagi-pionniere](https://github.com/aryosan-netizen/roblox-donation-proxy-saweria-sociabuzz-bagibagi-pionniere) | 0 | (geen omschrijving op GitHub) |
 | [aryosan-netizen/roblox-donation-proxy-saweria-sociabuzz-bagibagi-seven-eleven](https://github.com/aryosan-netizen/roblox-donation-proxy-saweria-sociabuzz-bagibagi-seven-eleven) | 0 | (geen omschrijving op GitHub) |
 | [aryosan-netizen/roblox-donation-proxy-saweria-sociabuzz-bagibagi-vg-indobounce](https://github.com/aryosan-netizen/roblox-donation-proxy-saweria-sociabuzz-bagibagi-vg-indobounce) | 0 | Script Proxy Saweria Bagibagi Dan Sociabuzz |
 | [aryosan-netizen/roblox-donation-proxy-saweria-sociabuzz-bagibagi-vg-stage](https://github.com/aryosan-netizen/roblox-donation-proxy-saweria-sociabuzz-bagibagi-vg-stage) | 0 | (geen omschrijving op GitHub) |
 | [aryosan-netizen/roblox-donation-proxy-saweria-sociabuzz-bagibagi-zamna](https://github.com/aryosan-netizen/roblox-donation-proxy-saweria-sociabuzz-bagibagi-zamna) | 0 | (geen omschrijving op GitHub) |
+| [aryosan-netizen/roblox-donation-proxy-saweria-sociabuzz-malesparty](https://github.com/aryosan-netizen/roblox-donation-proxy-saweria-sociabuzz-malesparty) | 0 | (geen omschrijving op GitHub) |
 | [aryosan-netizen/roblox-donation-proxy-saweria-sociabuzz-merlionparkclub](https://github.com/aryosan-netizen/roblox-donation-proxy-saweria-sociabuzz-merlionparkclub) | 0 | (geen omschrijving op GitHub) |
 | [aryosan-netizen/roblox-donation-proxy-saweria-sociabuzz-nasgor](https://github.com/aryosan-netizen/roblox-donation-proxy-saweria-sociabuzz-nasgor) | 0 | (geen omschrijving op GitHub) |
 | [aryosan-netizen/roblox-donation-proxy-saweria-sociabuzz-playzone](https://github.com/aryosan-netizen/roblox-donation-proxy-saweria-sociabuzz-playzone) | 0 | (geen omschrijving op GitHub) |
@@ -1054,6 +1076,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Axelbuff/Liaohenrry-gmail.com-](https://github.com/Axelbuff/Liaohenrry-gmail.com-) | 0 | Pls give me play arseus x roblox |
 | [AxelTob/Roblox-check-items-wealth](https://github.com/AxelTob/Roblox-check-items-wealth) | 0 | Calculate total wealth for Roblox users. Works with their API and scrapes website |
 | [axtan64/xeaproxy](https://github.com/axtan64/xeaproxy) | 0 | An open-source proxy server used to access standard Roblox API endpoints, alongside additional custom endpoints. |
+| [Axvthy/Korone-](https://github.com/Axvthy/Korone-) | 0 | Official Korone+ source code for Korone/Pekora |
 | [AyanAhmed460/Big-map-Obby](https://github.com/AyanAhmed460/Big-map-Obby) | 0 | This is a roblox game website where we add updates of games and a quick tutorial |
 | [ayouree/roblox-avatar-discord-bot](https://github.com/ayouree/roblox-avatar-discord-bot) | 0 | (geen omschrijving op GitHub) |
 | [ayshjzkz/Roblox-games-update-](https://github.com/ayshjzkz/Roblox-games-update-) | 0 | This is very high demanded website so i make it but not completely |
@@ -1069,6 +1092,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [badjoukamel6-hub/discord-auto-announcer](https://github.com/badjoukamel6-hub/discord-auto-announcer) | 0 | Auto announcement system for Roblox game server (ST: Blockade Battlefront) |
 | [BadPuffer/RobloxSideWebsiteMeshDownloadTest](https://github.com/BadPuffer/RobloxSideWebsiteMeshDownloadTest) | 0 | Test if roblox allows to download assets from other websites |
 | [badxc/stapleton-county](https://github.com/badxc/stapleton-county) | 0 | A fun collection of tools for https://www.roblox.com/games/579211007/ |
+| [BahaBurrito2/BahaBurrito2.github.io](https://github.com/BahaBurrito2/BahaBurrito2.github.io) | 0 | The all in one website for different roblox leagues, you name it, we got it. |
 | [bankai4488/RobloxAutomationDcBot](https://github.com/bankai4488/RobloxAutomationDcBot) | 0 | (geen omschrijving op GitHub) bot |
 | [banlner/discord-roblox-verification-game](https://github.com/banlner/discord-roblox-verification-game) | 0 | (geen omschrijving op GitHub) |
 | [Banois/Roblox-Recommended-Blocker](https://github.com/Banois/Roblox-Recommended-Blocker) | 0 | Roblox Recommended Blocker is an open source Chrome extension that lets you block the "Recommended" section in the home page. |
@@ -1089,14 +1113,17 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [berdnikovmaksim99-art/roblox_lobby_webapp](https://github.com/berdnikovmaksim99-art/roblox_lobby_webapp) | 0 | Mini App for Roblox Lobby Telegram bot |
 | [BetrayedBBX/RBXWEBHOOK_TG](https://github.com/BetrayedBBX/RBXWEBHOOK_TG) | 0 | WebHook for Roblox, post in Telegram ur info. |
 | [Beyonce234/hawaii-cafe-site](https://github.com/Beyonce234/hawaii-cafe-site) | 0 | Web side for my roblox Game hawaii Cafe |
+| [Bftero/Bftero](https://github.com/Bftero/Bftero) | 0 | BFTERO Gaming & Roblox Developer Website |
 | [bhansol/smol-sv-finder](https://github.com/bhansol/smol-sv-finder) | 0 | to find a rogue lineage smol sv i used roblox api to make this discord bot |
 | [BhavyaKumar-3105/RobloxFinder](https://github.com/BhavyaKumar-3105/RobloxFinder) | 0 | Uses roblox api to find roblox games search and compore them with others |
+| [bicuevvl-code/vvlrb-v1.0---Roblox-Telegram-Controller](https://github.com/bicuevvl-code/vvlrb-v1.0---Roblox-Telegram-Controller) | 0 | vvlrb v1.0 - Roblox Telegram Controller |
 | [biddet/Operation-Obby-Website](https://github.com/biddet/Operation-Obby-Website) | 0 | A website for my roblox game Operation Obby |
 | [bigbenster702/Roblox-daily-accessory-adder](https://github.com/bigbenster702/Roblox-daily-accessory-adder) | 0 | Adds an item everyday that you can pick to your Roblox avatar. Works best with shirts and pants. |
 | [bigbro85/roblox-discord-webhook-proxy](https://github.com/bigbro85/roblox-discord-webhook-proxy) | 0 | just a command loger |
 | [biggiefats/RobloxEDA](https://github.com/biggiefats/RobloxEDA) | 0 | An explanatory data analysis project on a web scraped Roblox dataset. |
 | [Bilhaq12/roblox-verify-bot](https://github.com/Bilhaq12/roblox-verify-bot) | 0 | (geen omschrijving op GitHub) |
 | [BillTotal/RobloxKeyHTTPEX](https://github.com/BillTotal/RobloxKeyHTTPEX) | 0 | exmaple for the http service like getting a key and checking the key |
+| [biotoxin495/AnalyticsKit](https://github.com/biotoxin495/AnalyticsKit) | 0 | A standalone, server-only wrapper around Roblox AnalyticsService. |
 | [birdsarentrealbro/roblox-discord-bot](https://github.com/birdsarentrealbro/roblox-discord-bot) | 0 | (geen omschrijving op GitHub) |
 | [birdsarentrealbro/roblox-proxy](https://github.com/birdsarentrealbro/roblox-proxy) | 0 | small proxy probably doesnt work that well |
 | [bittersweeettt/madisonbeershop.com](https://github.com/bittersweeettt/madisonbeershop.com) | 0 | welcome to the official store of Madison Beer Roblox |
@@ -1111,6 +1138,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [blitz-py/rofollow](https://github.com/blitz-py/rofollow) | 0 | a Roblox extension where you can do f4f until 10K for a verified badge! |
 | [blizmint/FakeRoblox](https://github.com/blizmint/FakeRoblox) | 0 | a fake "roblox proxy", made to troll underage children (who we don't like). |
 | [bloccoa/Purple-Skittles-Plus-Dev-Kit](https://github.com/bloccoa/Purple-Skittles-Plus-Dev-Kit) | 0 | Rojo-compatible version of https://www.roblox.com/games/13626280686/Purple-Skittles-Dev-Kit |
+| [BlockyMouse/bloxstats](https://github.com/BlockyMouse/bloxstats) | 0 | BloxStats is a modern Roblox analytics platform built with Svelte, delivering fast, detailed insights into games, creators, and trends. |
 | [Blopy12/Print-test](https://github.com/Blopy12/Print-test) | 0 | This is a Print test for Roblox Executors to see if HTTP works |
 | [BloxitRblxScripter/Portfolio](https://github.com/BloxitRblxScripter/Portfolio) | 0 | Bloxit's roblox scripting portfolio website coded by himself in html and css |
 | [BloxitRblxScripter/RobloxForm](https://github.com/BloxitRblxScripter/RobloxForm) | 0 | Quick form web I made for fun xd |
@@ -1120,12 +1148,15 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [bloxxer/bloxxer](https://github.com/bloxxer/bloxxer) | 0 | Roblox <-> Node JS communication. |
 | [blue-aim-blueguy/BLUE-AIM-BOT](https://github.com/blue-aim-blueguy/BLUE-AIM-BOT) | 0 | BLUE AIM BOT - ROBLOX |
 | [bluelight-connect/bluelight-connect.github.io](https://github.com/bluelight-connect/bluelight-connect.github.io) | 0 | Website für Bluelight Connect – Roblox Feuerwehr Community |
+| [BluezDrako/Roblox-Discord-The-Rift-API](https://github.com/BluezDrako/Roblox-Discord-The-Rift-API) | 0 | An application meant to play ROBLOX in a new way. |
+| [blushieu-pixel/dokhai-game](https://github.com/blushieu-pixel/dokhai-game) | 0 | Website bán vật phẩm Roblox DoKhai Game |
 | [blwnkygon/blwnkygon-portfolio](https://github.com/blwnkygon/blwnkygon-portfolio) | 0 | Roblox developer portfolio website |
 | [BMB-interactive/BMB-interactive](https://github.com/BMB-interactive/BMB-interactive) | 0 | BMB Interactive Roblox oyun geliştirme ekibinin web sitesi |
 | [bmfseddik/Roblox-Code-Generator](https://github.com/bmfseddik/Roblox-Code-Generator) | 0 | This is a website made using GitHub to generate Roblox Gift Card Codes so you instead pay $5 a month only to have a chance to get a 10x higher gift card code... |
 | [bnong/Roblox-Spelling-Bee-bnong-s-Spelling-Bee-Bot](https://github.com/bnong/Roblox-Spelling-Bee-bnong-s-Spelling-Bee-Bot) | 0 | An intelligent Roblox Spelling Bee assistant that listens to the game in real-time, recognises the target word the instant the pronouncer says it, and types ... |
 | [boatbeaker/OpenRouter-Luau-SDK](https://github.com/boatbeaker/OpenRouter-Luau-SDK) | 0 | An SDK for using OpenRouter within Roblox |
 | [bob5918/easyopenv1](https://github.com/bob5918/easyopenv1) | 0 | EO is a open source cmd program made for fun! I hope you people enjoy this code and learn how to use roblox api and how to make cmds in c# |
+| [Bolide-Softworks/RDDownload](https://github.com/Bolide-Softworks/RDDownload) | 0 | Roblox Deployment Downloader Website |
 | [bonkkio/modular-turbine-sr](https://github.com/bonkkio/modular-turbine-sr) | 0 | Symbolic Regression on the Modular Turbine from the Roblox game [Industrialist](https://www.roblox.com/games/9192423027/Industrialist) |
 | [Bonvoy/RobloxRanking](https://github.com/Bonvoy/RobloxRanking) | 0 | Ranking for Bonvoy Hotels. |
 | [Bonzai-Dev/AutoServe](https://github.com/Bonzai-Dev/AutoServe) | 0 | A bot that automates the fast food worker job in the game "Welcome to Bloxburg" on Roblox. |
@@ -1191,6 +1222,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Cameroncarruthers1/RobloxBot](https://github.com/Cameroncarruthers1/RobloxBot) | 0 | Cameroncarruthers1 Owns RobloxBot From discord |
 | [CanEaglerLivInunx/R15-Easy-glitch-helper---Python.exe](https://github.com/CanEaglerLivInunx/R15-Easy-glitch-helper---Python.exe) | 0 | R15 Roblox glitch free program and tutorial (visit: https://youtu.be/yBjLwUitiRM) |
 | [captainoreo/qubby](https://github.com/captainoreo/qubby) | 0 | Just my attempt at a roblox clone website |
+| [carbloxreal/RobloxImages](https://github.com/carbloxreal/RobloxImages) | 0 | RobloxImages Chrome Extension This is a Chrome Extension that replaces all images on Roblox.com with pictures of Roblox Wallparpers/Images. Usage These Wallp... |
 | [CarbonRBLX/Blaze](https://github.com/CarbonRBLX/Blaze) | 0 | An easy to use, robust, open source firebase wrapper for roblox. |
 | [Carcar223321/mixTX](https://github.com/Carcar223321/mixTX) | 0 | It’s my second game here’s the link https://www.roblox.com/games/107702328310123/mixTX |
 | [Carlos12324/roblox-studio-discord-presence](https://github.com/Carlos12324/roblox-studio-discord-presence) | 0 | (geen omschrijving op GitHub) |
@@ -1199,6 +1231,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [CatNip56/roblox-stock-bot](https://github.com/CatNip56/roblox-stock-bot) | 0 | (geen omschrijving op GitHub) |
 | [catrinatorrenueva-ops/Roblox-bot](https://github.com/catrinatorrenueva-ops/Roblox-bot) | 0 | This is a test so if didn't work because this is just a Test if Grok can make Fully working Scripts |
 | [CatsRCoolKZAlmaty/penguin-catch](https://github.com/CatsRCoolKZAlmaty/penguin-catch) | 0 | A Lua game where you have to catch the fish, playing as the penguin. (https://www.roblox.com/games/8424197431/Build-Anything-F3X-Building-Tools, buy the Lua ... |
+| [catsrieldreemurr/animal_hospital_fansite](https://github.com/catsrieldreemurr/animal_hospital_fansite) | 0 | Fan-website based on the roblox game Animal Hospital. Created with NextJS and ShadCN. |
 | [catsrieldreemurr/urbanshade](https://github.com/catsrieldreemurr/urbanshade) | 0 | Roblox PRESSURE inspired Next.JS website. |
 | [Catto59/Roblox-Code](https://github.com/Catto59/Roblox-Code) | 0 | this will be for the hidden devs discord server |
 | [catwastakenwastaken/Roblox-LuaU-by-Example](https://github.com/catwastakenwastaken/Roblox-LuaU-by-Example) | 0 | This is the open-source repository for Roblox APIs in LuaU by example. |
@@ -1222,6 +1255,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [chairmanoftheboardeg/fly-dubai-roblox-website](https://github.com/chairmanoftheboardeg/fly-dubai-roblox-website) | 0 | Fly Dubai Roblox Official Website |
 | [chairmanoftheboardeg/tylernicholas](https://github.com/chairmanoftheboardeg/tylernicholas) | 0 | Tyler Nicholas Personal Website, Hosted by Emirates Group Roblox |
 | [Chanwoo0421/BloxApiPrivate](https://github.com/Chanwoo0421/BloxApiPrivate) | 0 | private roblox api covering backend jobs |
+| [chaseMckenzie88/roblox-tracker](https://github.com/chaseMckenzie88/roblox-tracker) | 0 | Chrome extension that tracks how long you spend in each Roblox game and surfaces your most-played titles on the Roblox home page. |
 | [checheched/shin-two-script](https://github.com/checheched/shin-two-script) | 0 | Shin Two script shinden script https://www.roblox.com/games/107660301678133/Shin-Two |
 | [Checkin-Nuggets/roblox](https://github.com/Checkin-Nuggets/roblox) | 0 | You can add Roblox to your website from this |
 | [checkurasshole/https-github.com-checkurasshole-Script](https://github.com/checkurasshole/https-github.com-checkurasshole-Script) | 0 | Collection of 1 Roblox Lua scripts |
@@ -1232,6 +1266,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [chicken67strips/roblox-stock-proxy](https://github.com/chicken67strips/roblox-stock-proxy) | 0 | (geen omschrijving op GitHub) roblox stocks |
 | [ChickenButtLX/long-polling-test](https://github.com/ChickenButtLX/long-polling-test) | 0 | Test for long polling in roblox. Written in node.js |
 | [chickenputty/roblox-image-proxy](https://github.com/chickenputty/roblox-image-proxy) | 0 | Serves Roblox library images as PNG instead of a download |
+| [Chikaladepepe/kings-production](https://github.com/Chikaladepepe/kings-production) | 0 | Kings Production — Roblox asset marketplace (Node/Express + SQLite) |
 | [CHL-a/Roblox-Rank-Bot-v1](https://github.com/CHL-a/Roblox-Rank-Bot-v1) | 0 | (geen omschrijving op GitHub) |
 | [chossana/roblox](https://github.com/chossana/roblox) | 0 | A collection of solutions to various Codewars problems! - Created using [CodeHub](https://github.com/FebinBellamy/CodeHub) |
 | [chrisLaoU/nanobot](https://github.com/chrisLaoU/nanobot) | 0 | a bot script for roblox |
@@ -1244,15 +1279,18 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [CipherInteractive/OSIRIS](https://github.com/CipherInteractive/OSIRIS) | 0 | A discord bot used to get roblox user's information for the Aurora Defence Force |
 | [clanny/rustyroblox](https://github.com/clanny/rustyroblox) | 0 | A Roblox API wrapper written in Rust |
 | [Clanware-Innovations/justice-lua-sdk](https://github.com/Clanware-Innovations/justice-lua-sdk) | 0 | Roblox SDK for the Clanware Justice API. |
+| [clockersman/RbxWpf](https://github.com/clockersman/RbxWpf) | 0 | RbxWpf is an simple / advanced project made only by me that is basically the 2016 roblox website with an playable windows player, but the main characterisct ... |
 | [clubinew/rbxts-logsnag](https://github.com/clubinew/rbxts-logsnag) | 0 | LogSnag SDK for roblox-ts |
 | [Clzxwork/ROBLOX-Verification-Bot](https://github.com/Clzxwork/ROBLOX-Verification-Bot) | 0 | Bloxway Verification is a ROBLOX detailed verification bot. Bloxway Verification is coming out with new features like: Group setting. We will update the bot ... |
 | [cnwk18/cnwk18.github.io](https://github.com/cnwk18/cnwk18.github.io) | 0 | Join us on BOOGA BOOGA at roblox.com |
 | [co-aa112/Roblox](https://github.com/co-aa112/Roblox) | 0 | I want make website where people can play and make there own games for fun |
 | [co-aa112/Roblox.](https://github.com/co-aa112/Roblox.) | 0 | I want make website where people can play and make there own games for fun |
+| [CoconutManYt/Roblox-Rich-Presence-](https://github.com/CoconutManYt/Roblox-Rich-Presence-) | 0 | Like discord rich prescence but for roblox! Open Source |
 | [cocopinksky/roblox-bio-bot](https://github.com/cocopinksky/roblox-bio-bot) | 0 | (geen omschrijving op GitHub) |
 | [code-node-java/RoWeb-website](https://github.com/code-node-java/RoWeb-website) | 0 | A nostalgic website of roblox. |
 | [codedlegend/IGGYHUB-OUTFIT-SYNC-](https://github.com/codedlegend/IGGYHUB-OUTFIT-SYNC-) | 0 | This contains the source code for the roblox extension Iggyhub Outfit Sync or IOS for short. |
 | [codelambb/Oogaa-Bot](https://github.com/codelambb/Oogaa-Bot) | 0 | This is Private bot which I made for Roblox cult |
+| [CoderBryan2012/Ultimate-LAU-Drone-For-Pros](https://github.com/CoderBryan2012/Ultimate-LAU-Drone-For-Pros) | 0 | This project is from a ROBLOX game called "Plant with Coding" by Lated Graham where you code a drone that allows you to plant and do all sorts of things. Gam... |
 | [coderlaari/roblox-ranking-system](https://github.com/coderlaari/roblox-ranking-system) | 0 | (geen omschrijving op GitHub) |
 | [codernocook/Vulpar](https://github.com/codernocook/Vulpar) | 0 | Control your Roblox game with a Discord bot. |
 | [CoderrOne/luau-guide](https://github.com/CoderrOne/luau-guide) | 0 | Want to learn luau? Read the website and enjoy! |
@@ -1275,7 +1313,9 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [ControllableRobloxBot/ControllableRobloxBo](https://github.com/ControllableRobloxBot/ControllableRobloxBo) | 0 | my roblox build logic http transmitter |
 | [ControllableRobloxBot/ControllableRobloxBot.github.io](https://github.com/ControllableRobloxBot/ControllableRobloxBot.github.io) | 0 | Verification Site UnOfficial, Fan-Made - Verification / Helps Roblox To Prevent Bots. |
 | [cookiedubois09/FrozXplsk](https://github.com/cookiedubois09/FrozXplsk) | 0 | 🤖 Bot spécialisé dans les scripts Roblox. 📜 Recherche et partage de scripts Roblox. ⚡ Commandes rapides et faciles à utiliser. 🔧 Outils pour développeurs et ... |
+| [coolbeans34451-wq/https-github.com-kommonlykai-portfolio](https://github.com/coolbeans34451-wq/https-github.com-kommonlykai-portfolio) | 0 | Scripting portfolio for Roblox |
 | [CoolBuilderGamerAlexRoblox/coolbuildergameralex.github.io](https://github.com/CoolBuilderGamerAlexRoblox/coolbuildergameralex.github.io) | 0 | this is my website where i put my roblox stuff and game ideas im learning to build and code dont laugh if its bad lol |
+| [Coolcoder-beep/roblox-proxy](https://github.com/Coolcoder-beep/roblox-proxy) | 0 | A proxy website for playing Roblox games |
 | [CoolDevDiscoGuy/Roblox-Followe-Bot](https://github.com/CoolDevDiscoGuy/Roblox-Followe-Bot) | 0 | This will bot your roblox followers. Max followers it can generate: 75,000, anything above this will not work. |
 | [CoolGuy8878/blox-united](https://github.com/CoolGuy8878/blox-united) | 0 | a new roblox larping website |
 | [coolsy123/The-royale-n-show.github.io](https://github.com/coolsy123/The-royale-n-show.github.io) | 0 | My royale high ROBLOX website |
@@ -1348,6 +1388,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [DaydaliYT/Roblox-Ranking-System](https://github.com/DaydaliYT/Roblox-Ranking-System) | 0 | (geen omschrijving op GitHub) |
 | [dc2016683-ship-it/kingigatiisttudios](https://github.com/dc2016683-ship-it/kingigatiisttudios) | 0 | a roblox comunidy web |
 | [dcajozzo-cmd/roblox-stockfish-bot](https://github.com/dcajozzo-cmd/roblox-stockfish-bot) | 0 | I simply need it to import my stockfish bot to my roblox game |
+| [dcgitprivate/RobloxNDiscord-blocklist](https://github.com/dcgitprivate/RobloxNDiscord-blocklist) | 0 | Custom DNS blocklists for Roblox and Discord |
 | [ddarggwteh/roblox-join](https://github.com/ddarggwteh/roblox-join) | 0 | oblox fan website built with HTML and CSS |
 | [ddavness/RBXTS-trello](https://github.com/ddavness/RBXTS-trello) | 0 | NPM module for Roblox-TS: Trello API in Roblox-TS (from HypheX/roblox-trello v2) |
 | [DeadLament/RFY-RemovalExt](https://github.com/DeadLament/RFY-RemovalExt) | 0 | A Google Chrome Extension, which removes 'Recommended For You' section on website Roblox. |
@@ -1361,6 +1402,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Denched/Arrodes](https://github.com/Denched/Arrodes) | 0 | A DiscordBot made in Lua catered to Roblox |
 | [deofungun2354/deofungunrammerhead.github.io](https://github.com/deofungun2354/deofungunrammerhead.github.io) | 0 | A fast web proxy to play games such as Fortnite and Roblox |
 | [deprecatedbrain/webhooker](https://github.com/deprecatedbrain/webhooker) | 0 | A lightweight, easy to use Roblox to Discord webhook module. |
+| [Derajat-png/Portofolio-Wamemama](https://github.com/Derajat-png/Portofolio-Wamemama) | 0 | Developed a portfolio website for a Roblox-based English Class, featuring learning documentation, English learning materials, and information about class act... |
 | [DeskaDebu/AntiBot](https://github.com/DeskaDebu/AntiBot) | 0 | A roblox anti-bot engine. |
 | [desprazer/solatik](https://github.com/desprazer/solatik) | 0 | roblox instance proxy wrapper |
 | [dev-kas/Tapping-Simulator-Roblox_WebClient](https://github.com/dev-kas/Tapping-Simulator-Roblox_WebClient) | 0 | A web client for my game on Roblox, Tapping Simulator. |
@@ -1372,6 +1414,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [devmarissa/RoPanel](https://github.com/devmarissa/RoPanel) | 0 | Asynchronous communication between Roblox, Discord and cross-OS shell access with Roblox user command access |
 | [devproxyroblox-web/roblox-proxy](https://github.com/devproxyroblox-web/roblox-proxy) | 0 | proxy for a game |
 | [DevTheCoder-py/rblxSpellingBeeBot](https://github.com/DevTheCoder-py/rblxSpellingBeeBot) | 0 | An automated bot meant to spell roblox spelling bee prompts using vosk. |
+| [devvoidstudio/9P-Website](https://github.com/devvoidstudio/9P-Website) | 0 | Official website of 9P, a competitive Roblox RIVALS clan. |
 | [DevWacko/roblox-likes-proxy-](https://github.com/DevWacko/roblox-likes-proxy-) | 0 | (geen omschrijving op GitHub) |
 | [dewapasuk/roblox_notice_discord](https://github.com/dewapasuk/roblox_notice_discord) | 0 | support donation and feedback to discord webhook |
 | [dewatatech/robloxbali](https://github.com/dewatatech/robloxbali) | 0 | Roblox Bali Community Website. |
@@ -1383,8 +1426,10 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [DhikaNih/EkspedisiVirtualRoblox](https://github.com/DhikaNih/EkspedisiVirtualRoblox) | 0 | Pemrograman Web I Semester 5 |
 | [diecrewls22-dev/AetherSystems](https://github.com/diecrewls22-dev/AetherSystems) | 0 | A discord bot primarily focused on improving the Roblox staff experience. |
 | [DigitalityScripts/Lua-Package-Library](https://github.com/DigitalityScripts/Lua-Package-Library) | 0 | A package or extension library for ROBLOX Lua scripts similar to Python's pip packages with a goal to make your Lua scripts more readable and a lot easier an... |
+| [Ding-Ding-Projects/material-roblox](https://github.com/Ding-Ding-Projects/material-roblox) | 0 | Material Design 3 desktop explorer for Roblox APIs |
 | [diplomatique0/roblox-redirect](https://github.com/diplomatique0/roblox-redirect) | 0 | Redirect page for Discord embed |
 | [DiscMil/AllCSS-ROBLOX](https://github.com/DiscMil/AllCSS-ROBLOX) | 0 | Archival of the file "AllCSS.ashx" hosted on older versions of the Roblox website. Beautified for standards |
+| [Discord-Bot-Network/VTSB-Docs](https://github.com/Discord-Bot-Network/VTSB-Docs) | 0 | Official Vanguard TSB documentation. |
 | [DisgraceWiki/disgracewiki.github.io](https://github.com/DisgraceWiki/disgracewiki.github.io) | 0 | The official website for Roblox Disgrace. |
 | [dispeller1/SB-](https://github.com/dispeller1/SB-) | 0 | The archives for an extension of Script Builder from Roblox |
 | [DiyanKarim/rbweb](https://github.com/DiyanKarim/rbweb) | 0 | play roblox in web |
@@ -1425,6 +1470,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [E-4-E/growagardenvalues](https://github.com/E-4-E/growagardenvalues) | 0 | Values/Stock website for the Roblox game named "Grow a Garden" |
 | [Eaglercraftx-cyber/Roblox-Extension](https://github.com/Eaglercraftx-cyber/Roblox-Extension) | 0 | HTML roblox extension file |
 | [echothedcdev/BLIS](https://github.com/echothedcdev/BLIS) | 0 | this is a roblox discord verification bot |
+| [Eden333/acc-binder](https://github.com/Eden333/acc-binder) | 0 | Web-binder for Anime Card Collector on Roblox. (Fan project) |
 | [Edith142/Roblox-places-saved](https://github.com/Edith142/Roblox-places-saved) | 0 | Some games were obtained from Discord, but SyntaxPlaces I got from Internet Archive, then sadly discovered it got deleted, so I'm uploading them after they g... |
 | [editzonyt/stunning-doodle](https://github.com/editzonyt/stunning-doodle) | 0 | Likes Gaming Roblox Fortnite Uses discord |
 | [edoardooth/Roblox-docs-bot](https://github.com/edoardooth/Roblox-docs-bot) | 0 | (geen omschrijving op GitHub) useless |
@@ -1498,7 +1544,9 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [FelixEdenborgh/World-Zero-Anime-RPG-autofighter](https://github.com/FelixEdenborgh/World-Zero-Anime-RPG-autofighter) | 0 | Auto fighter for https://www.roblox.com/games/2727067538/World-Zero-Anime-RPG |
 | [femce4l20/roblox-chrome-extension-wip](https://github.com/femce4l20/roblox-chrome-extension-wip) | 0 | personal extension im working on to practice and make small tweaks to the website! |
 | [Fern-a11y/GamingWords](https://github.com/Fern-a11y/GamingWords) | 0 | In this website its a library with alot of words gamers use in games such as roblox |
+| [FieryWolfLevi/ROBLOX-Toy-Defense-Calculator](https://github.com/FieryWolfLevi/ROBLOX-Toy-Defense-Calculator) | 0 | ROBLOX Toy Defense Calculator (https://www.roblox.com/games/5607971791/Toy-Defense) |
 | [fifamobilesecond6-collab/roblox](https://github.com/fifamobilesecond6-collab/roblox) | 0 | ticket bot rblx wrld $$$ |
+| [Fikkanel/roblox-tracker](https://github.com/Fikkanel/roblox-tracker) | 0 | Aplikasi pemantau & tracking data Roblox berbasis Node.js, Express, dan Docker. |
 | [fin-github/discord.roblox](https://github.com/fin-github/discord.roblox) | 0 | A discord bot wrapper library, for roblox lua. |
 | [fin-github/RobloxERLCapi](https://github.com/fin-github/RobloxERLCapi) | 0 | A wrapper for the ERLC API, using roblox studio. |
 | [FinancialMistake/financialmistake.github.io](https://github.com/FinancialMistake/financialmistake.github.io) | 0 | Just a temporary space to store the website for my Roblox bus rally event |
@@ -1539,6 +1587,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [FrostX-Official/loopchan](https://github.com/FrostX-Official/loopchan) | 0 | A discord bot written in rust |
 | [FrozyTime/node-thatbot](https://github.com/FrozyTime/node-thatbot) | 0 | Node.JS implementation of Thatbot(Roblox Funcaptcha Solver). |
 | [fthyll/Roblox-Server-Tracker](https://github.com/fthyll/Roblox-Server-Tracker) | 0 | (geen omschrijving op GitHub) |
+| [FunbloxOfficial/roblox-website](https://github.com/FunbloxOfficial/roblox-website) | 0 | My personal Roblox fan website |
 | [FunStudios/RisingRoblox](https://github.com/FunStudios/RisingRoblox) | 0 | A website for a friend (testing) |
 | [furkankoykiran/Roblox-2010-Collector](https://github.com/furkankoykiran/Roblox-2010-Collector) | 0 | A bot that scans valuable Roblox accounts from 2009-2010 using a specific filter and checks for accounts containing 20 characters or more, lowercase letters ... |
 | [fuzzy-bit/RobloxApiWrapper](https://github.com/fuzzy-bit/RobloxApiWrapper) | 0 | Luau wrapper for Roblox's object API. |
@@ -1570,6 +1619,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [gamerproxe/-web-https-sitetest.roblox.com-qb1t7clan-20youve-20been-20stuck-20by-20hoax-](https://github.com/gamerproxe/-web-https-sitetest.roblox.com-qb1t7clan-20youve-20been-20stuck-20by-20hoax-) | 0 | site Created by hoax |
 | [gameuniverse5p9/https-poblox.io](https://github.com/gameuniverse5p9/https-poblox.io) | 0 | This is a remake of roblox... I HOPE YOU LIKE IT |
 | [gameuniverse5p9/https-toblox.io](https://github.com/gameuniverse5p9/https-toblox.io) | 0 | This is a remake of roblox... I HOPE YOU LIKE IT |
+| [Gaming-Coder99/Gaming-Dashboard](https://github.com/Gaming-Coder99/Gaming-Dashboard) | 0 | A chrome extension for Roblox gamers |
 | [GamingBr911/GamingBr911-S-Website](https://github.com/GamingBr911/GamingBr911-S-Website) | 0 | Follow me on Roblox: GamingBr911 |
 | [GamingMe/Ranking-Command](https://github.com/GamingMe/Ranking-Command) | 0 | For my Roblox Group. |
 | [Gamrplaydd/Roblox-Follower-Bot-V2](https://github.com/Gamrplaydd/Roblox-Follower-Bot-V2) | 0 | Python tool that bots your roblox followers using Roblox Web API. |
@@ -1586,6 +1636,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [GGshor/RoCord](https://github.com/GGshor/RoCord) | 0 | Discord API wrapper for Roblox |
 | [ggusi0131-glitch/Roblox-2020-Api-Server](https://github.com/ggusi0131-glitch/Roblox-2020-Api-Server) | 0 | Recreation of Roblox website 2020 with api |
 | [GhostOfShady/AS-Calculator](https://github.com/GhostOfShady/AS-Calculator) | 0 | A simple website with some useful functions for the Roblox Anime Simulator game. |
+| [Ghoul23062/roblox-anket-bot](https://github.com/Ghoul23062/roblox-anket-bot) | 0 | (geen omschrijving op GitHub) |
 | [giovanniroblox15-oss/RobloxPortMe](https://github.com/giovanniroblox15-oss/RobloxPortMe) | 0 | My personal website made with HTML, CSS, and JavaScript. |
 | [Git-Monke/RobloxRoulette](https://github.com/Git-Monke/RobloxRoulette) | 0 | A website which gives you a link to a completely randomly selected roblox game. |
 | [GitaNraeni/PassCalc](https://github.com/GitaNraeni/PassCalc) | 0 | Website untuk mengatur harga gamepass Roblox |
@@ -1643,6 +1694,9 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Hackerloverst/Inferno-Cafe](https://github.com/Hackerloverst/Inferno-Cafe) | 0 | Hello, This is from Inferno cafe roblox.This bot will go to real server. |
 | [HadyNebula/FeedBack-ServerService](https://github.com/HadyNebula/FeedBack-ServerService) | 0 | FeedBack server for game roblox, made with nodejs! |
 | [hagarranosipodes3232/verify](https://github.com/hagarranosipodes3232/verify) | 0 | Sistema de verificación Roblox para Discord |
+| [Haixiuprojects/roblox-bulk-unfriend-extension](https://github.com/Haixiuprojects/roblox-bulk-unfriend-extension) | 0 | (geen omschrijving op GitHub) |
+| [Hakkuze2345/-mexico-studios-web](https://github.com/Hakkuze2345/-mexico-studios-web) | 0 | 🇲🇽 Página web oficial de Roblox México Studios / Juegos, comunidad y proyectos. |
+| [Hakkuze2345/-mexicostudios](https://github.com/Hakkuze2345/-mexicostudios) | 0 | 🇲🇽 Página web oficial de Roblox México Studios / Juegos, comunidad y proyectos. |
 | [hakusoda/ribbon](https://github.com/hakusoda/ribbon) | 0 | 🎀 A friendly Roblox Service for Discord! |
 | [HalalDevsYT/Laser-Tag](https://github.com/HalalDevsYT/Laser-Tag) | 0 | This is an website for my game in roblox named Laser tag. To play it here is the link!: https://www.roblox.com/games/109363541562257/Laser-Tag |
 | [Hamburger169/Roblox-Modding-Discord](https://github.com/Hamburger169/Roblox-Modding-Discord) | 0 | Roblox mods or completely free! |
@@ -1690,6 +1744,8 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [hoxiekubo-dev/roblox-proxy](https://github.com/hoxiekubo-dev/roblox-proxy) | 0 | idk i just want to make a proxy |
 | [httplixm/roblox-ranking-servicies](https://github.com/httplixm/roblox-ranking-servicies) | 0 | For my group to rank. |
 | [hudmanny/axis-bot](https://github.com/hudmanny/axis-bot) | 0 | A Discord bot that connects to a webpage and to ER:LC - the Roblox game. |
+| [hulksmashjaxon/Rblx-Java-Wrapper](https://github.com/hulksmashjaxon/Rblx-Java-Wrapper) | 0 | A simple Roblox API wrapper, made in and for Java. |
+| [husnainseo49-jpg/https-ecommerceinfinity.com-](https://github.com/husnainseo49-jpg/https-ecommerceinfinity.com-) | 0 | Zielobof Roblox is your trusted source for Roblox guides, gaming tips, redeem codes, news, and updates. Explore beginner tutorials, gameplay strategies, and ... |
 | [huydanghoang09-hub/roblox-nfl-proxy](https://github.com/huydanghoang09-hub/roblox-nfl-proxy) | 0 | (geen omschrijving op GitHub) |
 | [Huz-Pro/Huz-s-Roblox-Economy-Bot](https://github.com/Huz-Pro/Huz-s-Roblox-Economy-Bot) | 0 | Roleplay bot made by Huz. |
 | [Hykiinyte/roblox-proxy-plsplay](https://github.com/Hykiinyte/roblox-proxy-plsplay) | 0 | HTTP proxy for a game because |
@@ -1724,6 +1780,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [iMakepython/Roblox_follower_bot](https://github.com/iMakepython/Roblox_follower_bot) | 0 | New roblox follower bot 04/08/2023 |
 | [imatin19-afk/RDL-Website](https://github.com/imatin19-afk/RDL-Website) | 0 | A roblox rivals league were u play against others team while using dl load out |
 | [imatin19-afk/RDL-Website1](https://github.com/imatin19-afk/RDL-Website1) | 0 | A roblox rivals league were u play against others team while using dl load out |
+| [imfour828/tiktok-roblox-bot](https://github.com/imfour828/tiktok-roblox-bot) | 0 | (geen omschrijving op GitHub) |
 | [imHu3/roblox-server-ping-filter](https://github.com/imHu3/roblox-server-ping-filter) | 0 | A Chrome extension that filters Roblox game servers by ping |
 | [imide/ParcEx](https://github.com/imide/ParcEx) | 0 | An open-sourced Discord bot written in Go for interacting with the Parcel API for Roblox Hubs and other games (hopefully!) |
 | [ImJustCool/Roblox-Lpp-Bot](https://github.com/ImJustCool/Roblox-Lpp-Bot) | 0 | I don't Know if its still working its old code. Just want to put some old stuff out there. |
@@ -1744,6 +1801,8 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Internwal/roblox-playtime-proxy](https://github.com/Internwal/roblox-playtime-proxy) | 0 | (geen omschrijving op GitHub) |
 | [invalidprocess/bloxfruits-cpa](https://github.com/invalidprocess/bloxfruits-cpa) | 0 | 🍇 Bloxfruits CPA Website - This is a template for a roblox cpa website. |
 | [ishaan26choudhary/Roblox-Game-Ranking-Prediction](https://github.com/ishaan26choudhary/Roblox-Game-Ranking-Prediction) | 0 | This project aims to predict the rating of the famous games in roblox |
+| [islammedetuly2-beep/roblox-ban-bot-new](https://github.com/islammedetuly2-beep/roblox-ban-bot-new) | 0 | (geen omschrijving op GitHub) |
+| [ispeakpotatoesforsomereason/roblox-bot](https://github.com/ispeakpotatoesforsomereason/roblox-bot) | 0 | idk bro dont ask me |
 | [istesbignoob/robloxhttl](https://github.com/istesbignoob/robloxhttl) | 0 | Contact roblox http services |
 | [itsezc/surrealdb.lua](https://github.com/itsezc/surrealdb.lua) | 0 | Lua & Luau SDK for SurrealDB |
 | [ItsLuxuryFr/Parcel-Studios-Services](https://github.com/ItsLuxuryFr/Parcel-Studios-Services) | 0 | This is a website for my roblox studios commision services. they can also view my portfolio here |
@@ -1755,6 +1814,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [ivandavostanericostaneri-create/Ivan](https://github.com/ivandavostanericostaneri-create/Ivan) | 0 | Criador de scripters Roblox e amo fazer scripter tenho canal no tiktok Discord e Instagram |
 | [IvanVoit/MyRobloxPortfolio](https://github.com/IvanVoit/MyRobloxPortfolio) | 0 | This is just a GitHub Pages web with my portfolio on it |
 | [ivermektin/blox4j](https://github.com/ivermektin/blox4j) | 0 | Java Wrapper for the Roblox Web API. |
+| [ivyzhao02/blightfall.ca](https://github.com/ivyzhao02/blightfall.ca) | 0 | Official public website for the BlightFall Roblox RPG. |
 | [iyiinsan5555/roblox-portfolio](https://github.com/iyiinsan5555/roblox-portfolio) | 0 | The website to promote myself as a roblox scripter. |
 | [j0metall/Roblox-Clothing-Sales-Dashboard](https://github.com/j0metall/Roblox-Clothing-Sales-Dashboard) | 0 | A website to check your roblox clothing group |
 | [J1rasayo/7_XN-Anti-Bot-Script](https://github.com/J1rasayo/7_XN-Anti-Bot-Script) | 0 | An anti bot script written in Roblox Lua |
@@ -1819,6 +1879,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [JonahLederman/ROBLOX-Obstacle-Tower](https://github.com/JonahLederman/ROBLOX-Obstacle-Tower) | 0 | Code and files for my ROBLOX Obby Tower game, currently avaliable on ROBLOX at https://www.roblox.com/games/119938278645467/Easy-Obby-Tower |
 | [jonasberry08-png/bruter-free-with-configs-](https://github.com/jonasberry08-png/bruter-free-with-configs-) | 0 | https://gofile.io/d/OghjBr free bruter with config (mainly for roblox, disable firewall before installing) |
 | [jonmps/soblok.js](https://github.com/jonmps/soblok.js) | 0 | Soblok is an npm package based on Roblox. Soblok uses roblox's APIs to make soblok itself work. |
+| [Jordan123456789097654/roblox-rank-proxy](https://github.com/Jordan123456789097654/roblox-rank-proxy) | 0 | (geen omschrijving op GitHub) 1 |
 | [jordanovhristoan-eng/builder-portfolio-1](https://github.com/jordanovhristoan-eng/builder-portfolio-1) | 0 | Fully functional and working portfolio website. Made for roblox developers/builders in need of a portfolio website. |
 | [jordanovhristoan-eng/scripter-portfolio-1](https://github.com/jordanovhristoan-eng/scripter-portfolio-1) | 0 | Fully functional and working portfolio website. Made for roblox developers/scripters in need of a portfolio website. |
 | [jorj1357/roblox-proxy-v2](https://github.com/jorj1357/roblox-proxy-v2) | 0 | because i nede to self host it for soem reason bruh |
@@ -1830,17 +1891,22 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [JP-STHS/Coin-Break](https://github.com/JP-STHS/Coin-Break) | 0 | Code I helped develop for the Roblox game "Coin Break." Check it out here: https://www.roblox.com/games/82375139541511/Coin-Break |
 | [jpeckenpaugh/roblox-api-database](https://github.com/jpeckenpaugh/roblox-api-database) | 0 | A git-tracked database of official Roblox Client and Studio API dumps. Designed for offline engine schema lookup, static analysis, and programmatic validatio... |
 | [jsheehan298-coder/cm2jsloader](https://github.com/jsheehan298-coder/cm2jsloader) | 0 | A website for features on a Roblox game |
+| [jujharplayz/Jujhar-s-Website](https://github.com/jujharplayz/Jujhar-s-Website) | 0 | For a secret project coming to roblox |
+| [JulesCoding-Projects/roblox-guide](https://github.com/JulesCoding-Projects/roblox-guide) | 0 | Student web development project created at JulesCoding |
 | [Juniiiiper/createatycoon](https://github.com/Juniiiiper/createatycoon) | 0 | Source code for create a tycoon. https://www.roblox.com/games/85672288001454/Create-A-Tycoon |
 | [JuninSB/Webview](https://github.com/JuninSB/Webview) | 0 | the roblox to web code |
 | [JustAP1ayer/Game-Updater-Watcher](https://github.com/JustAP1ayer/Game-Updater-Watcher) | 0 | Roblox game update for discord, it will ping everyone |
 | [justin-xing/ducky-tracker](https://github.com/justin-xing/ducky-tracker) | 0 | A Discord bot to track friends' activity on Roblox! |
+| [justinmiller55243-spec/roblox-tactical-game](https://github.com/justinmiller55243-spec/roblox-tactical-game) | 0 | Ein vollständiges Roblox Tactical Game mit Map, Waffen, bewaffneten Bots, HQ, Fahrzeugen und Einsatzsystem |
 | [justnicky256/ro-fits](https://github.com/justnicky256/ro-fits) | 0 | A sample Android application using Roblox APIs. |
 | [JustPronew/roblox-ranking-services](https://github.com/JustPronew/roblox-ranking-services) | 0 | For my British Army POOR |
 | [Justus145/Trendmans](https://github.com/Justus145/Trendmans) | 0 | Educational website project for learning web development Simple landing page for Roblox update guide TrendJack – quick guide for new game updates Demo websit... |
+| [juvelteniox-crypto/Arcadia_Website](https://github.com/juvelteniox-crypto/Arcadia_Website) | 0 | # Arcadia Arcadia is a simple gaming website designed to showcase Roblox games, provide game information, and give players an easy way to explore and discove... |
 | [k1tty-h3arts/roblox-ranking-services](https://github.com/k1tty-h3arts/roblox-ranking-services) | 0 | For my ROBLOX group to rank users. |
 | [k7e/RoWeb](https://github.com/k7e/RoWeb) | 0 | Web request made simple for ROBLOX executors |
 | [kaasmetlk/Avalanche-Most-Advanced-Roblox-Clothing-Bot](https://github.com/kaasmetlk/Avalanche-Most-Advanced-Roblox-Clothing-Bot) | 0 | The most advanced Roblox clothing bot ever built. Avalanche scans the catalog, finds rising niches, and uploads thousands of items across your accounts — ove... |
 | [Kacper5762/roblox-scanner-bot](https://github.com/Kacper5762/roblox-scanner-bot) | 0 | Discord bot do scanowania developer products, game passes i informacji o grach Roblox |
+| [kadalmeledak345-max/saweria-webhook](https://github.com/kadalmeledak345-max/saweria-webhook) | 0 | For Saweria Black N White map roblox |
 | [kadeazpc-dot/NPMC-Bot2](https://github.com/kadeazpc-dot/NPMC-Bot2) | 0 | Official Bot of NPMC - Roblox |
 | [kadeazpc-dot/NPMC-Bot3](https://github.com/kadeazpc-dot/NPMC-Bot3) | 0 | Official Bot of NPMC - Roblox |
 | [kali24808/roblox-gamepass-proxy](https://github.com/kali24808/roblox-gamepass-proxy) | 0 | (geen omschrijving op GitHub) |
@@ -1865,6 +1931,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [kenthegreat8/RankingAPI](https://github.com/kenthegreat8/RankingAPI) | 0 | Used for all roblox ranking services |
 | [Kepslus/BotControl](https://github.com/Kepslus/BotControl) | 0 | Most stable roblox bot control script. |
 | [kerem1231234134315/roblox-ranking-services](https://github.com/kerem1231234134315/roblox-ranking-services) | 0 | For my group to rank. |
+| [KesnyA/EFS-Calculator](https://github.com/KesnyA/EFS-Calculator) | 0 | EFS-Calculator is discord bot calculator for Egg Farm Simulator on roblox |
 | [Kevinistic/rblxdisc](https://github.com/Kevinistic/rblxdisc) | 0 | connecting your roblox client status to a bot to send it to a discord channel |
 | [kevlu8/stringbot](https://github.com/kevlu8/stringbot) | 0 | A discord bot made for roblox |
 | [khanhdz131/roblox-shop](https://github.com/khanhdz131/roblox-shop) | 0 | Trang web shop acc Roblox dùng Node.js + Express + EJS |
@@ -1879,6 +1946,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [KirbysCommunity/Kirby-s-RoWeb](https://github.com/KirbysCommunity/Kirby-s-RoWeb) | 0 | Roblox website as a app on ur pc. more info in installer. https://drive.google.com/uc?id=1Sh0hH4LDtUi_hBA1Z-4ogVssrp4aWjfE&export=download click 2 download. ... |
 | [KirByteBi/Find-the-Pyces-2](https://github.com/KirByteBi/Find-the-Pyces-2) | 0 | The official game on ROBLOX, Find the Pyces (2) now has a web site! Enjoy it. |
 | [Kirch002/Roblox-clothing-id-bot](https://github.com/Kirch002/Roblox-clothing-id-bot) | 0 | Not a bot that searches for clothes in Roblox by ID. |
+| [Kirx001/MultiWear](https://github.com/Kirx001/MultiWear) | 0 | This is a Chrome Extension for Roblox in development |
 | [kirya06/sbox-noblox](https://github.com/kirya06/sbox-noblox) | 0 | import your roblox game (partially) into s&box! |
 | [Kitkat51/EB.II.xym](https://github.com/Kitkat51/EB.II.xym) | 0 | Tis is the official Website of EMERGENCY BOCHUM on roblox |
 | [Kitsune-Lucky18/Asistent-Roblox-Studio](https://github.com/Kitsune-Lucky18/Asistent-Roblox-Studio) | 0 | this our asistent in roblox studio website |
@@ -1890,6 +1958,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [kmjae00707-creator/roblox-discord-bot](https://github.com/kmjae00707-creator/roblox-discord-bot) | 0 | (geen omschrijving op GitHub) |
 | [knighthunter210/RoundManager.luau](https://github.com/knighthunter210/RoundManager.luau) | 0 | -- Discord: sly.1769 / Roblox: Warcraft210 |
 | [Knoxevington/Romaker](https://github.com/Knoxevington/Romaker) | 0 | roblox website that makes games for you all u do is type your idea in and it makes it |
+| [knwzero/Hussrooms-Web](https://github.com/knwzero/Hussrooms-Web) | 0 | Outhuss Captain Huss in the backrooms, inspired by Roblox's Hussrooms. |
 | [kokoariel981-sudo/roblox-discord-proxy](https://github.com/kokoariel981-sudo/roblox-discord-proxy) | 0 | (geen omschrijving op GitHub) hadad |
 | [komazixd/roblox-discord-bot](https://github.com/komazixd/roblox-discord-bot) | 0 | (geen omschrijving op GitHub) discord bot |
 | [korotichmike-ai/BloxStriker](https://github.com/korotichmike-ai/BloxStriker) | 0 | BloxStriker is a customly ordered discord bot that has over 30 commands that are all functioning and allow the customer to fully automize a roblox league for... |
@@ -1908,6 +1977,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [KVSword/loltecBot](https://github.com/KVSword/loltecBot) | 0 | A discord bot that interferes with ROBLOX. |
 | [kyceia/roblox-discord-webhook](https://github.com/kyceia/roblox-discord-webhook) | 0 | (geen omschrijving op GitHub) |
 | [kylepo99/Kyleutility-](https://github.com/kylepo99/Kyleutility-) | 0 | A Roblox and discord bot created by me and my friend violeteloiv |
+| [Kyra422/Kyra422.github.io](https://github.com/Kyra422/Kyra422.github.io) | 0 | Official website for Arkon Studios — Discord bots, Roblox experiences and Unity games |
 | [kyranzoOG/roblox.login](https://github.com/kyranzoOG/roblox.login) | 0 | just a website where u can try to login to roblox , but always error |
 | [kyyvk/BRB-Bot](https://github.com/kyyvk/BRB-Bot) | 0 | Barudak Roblox Bandung Bot Discord |
 | [l0s67/sfc_website](https://github.com/l0s67/sfc_website) | 0 | Rentry website made with markdown for a ROBLOX War Tycoon faction known as StormFall Company. |
@@ -1929,8 +1999,10 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [laurentiusilion5-spec/apocalypsa-rising-2](https://github.com/laurentiusilion5-spec/apocalypsa-rising-2) | 0 | acest este un link de discord pentru a juca AR2 Roblox |
 | [lavender-sys/google-analytics](https://github.com/lavender-sys/google-analytics) | 0 | Google Analytics Module for roblox-ts |
 | [lawebhabla/js-console.starlight-hotel-rank-bot](https://github.com/lawebhabla/js-console.starlight-hotel-rank-bot) | 0 | Roblox Starlight Hotel Rank Bot |
+| [Lcrazyness/WebBlox](https://github.com/Lcrazyness/WebBlox) | 0 | This attempts to port roblox into the web, (html code and hopefully works on your browser) |
 | [lcrp-Admin/LCRP-WEBSITEV1.0](https://github.com/lcrp-Admin/LCRP-WEBSITEV1.0) | 0 | the LCRP WEBSITE V1.0 is a website for the ERLC ROBLOX ROLEPLAYING COMMUNITY OF LIBERTY COUNTY ROLEPLAYING COMMUNITY |
 | [learnblox/LearnBloxWebSite](https://github.com/learnblox/LearnBloxWebSite) | 0 | The Name Of This WebSite Is LearnBlox As You Can See It.On This WebSite There Are More Information About My Discord Server And Roblox Games.Here You Will Lea... |
+| [leccgamesandapps-art/live-legame](https://github.com/leccgamesandapps-art/live-legame) | 0 | Live LEGAME website with real Google + Roblox OAuth |
 | [Lee5xy-on/RobloxWebhookAPI](https://github.com/Lee5xy-on/RobloxWebhookAPI) | 0 | (geen omschrijving op GitHub) |
 | [LegasiMahkota/saweria-roblox](https://github.com/LegasiMahkota/saweria-roblox) | 0 | Saweria webhook to Roblox system |
 | [LegendGamer885/The-Link](https://github.com/LegendGamer885/The-Link) | 0 | A bot which links discord and roblox users |
@@ -1958,13 +2030,22 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [LingleDev/Roblox.js](https://github.com/LingleDev/Roblox.js) | 0 | The bot that performs ROBLOX website actions like shouting, wallposting, etc. |
 | [LingleDev/ROBLOXRanker](https://github.com/LingleDev/ROBLOXRanker) | 0 | A bot made in discord.js, and roblox.js. |
 | [LithHash/Keystone](https://github.com/LithHash/Keystone) | 0 | An IAS wrapper for Roblox |
+| [ljs418698976/anime-astral-simulator](https://github.com/ljs418698976/anime-astral-simulator) | 0 | Auto-generated Roblox companion site for [CURSED] Anime Astral Simulator. Source: https://ludusdex.com/weekly/2026-07-26/roblox-trend-evening-report |
 | [ljs418698976/build-a-base-and-steal](https://github.com/ljs418698976/build-a-base-and-steal) | 0 | Auto-generated Roblox companion site for Build a Base and Steal 😈. Source: https://ludusdex.com/weekly/2026-07-21/roblox-trend-evening-report |
 | [ljs418698976/build-a-base-rng](https://github.com/ljs418698976/build-a-base-rng) | 0 | Auto-generated Roblox companion site for Build a base RNG 🎲. Source: https://ludusdex.com/weekly/2026-07-21/roblox-trend-evening-report |
+| [ljs418698976/chicken-farm](https://github.com/ljs418698976/chicken-farm) | 0 | Auto-generated Roblox companion site for Chicken Farm 🐣. Source: https://ludusdex.com/weekly/2026-07-26/roblox-trend-evening-report |
 | [ljs418698976/drain-the-lake](https://github.com/ljs418698976/drain-the-lake) | 0 | Auto-generated Roblox companion site for 🪣 Drain the Lake. Source: https://ludusdex.com/weekly/2026-07-17/roblox-trend-evening-report |
+| [ljs418698976/greedy-growers](https://github.com/ljs418698976/greedy-growers) | 0 | Auto-generated Roblox companion site for Greedy Growers. Source: https://ludusdex.com/weekly/2026-07-26/roblox-trend-evening-report |
 | [ljs418698976/my-giant-sandwich](https://github.com/ljs418698976/my-giant-sandwich) | 0 | Auto-generated Roblox companion site for My Giant Sandwich. Source: https://ludusdex.com/weekly/2026-07-21/roblox-trend-evening-report |
+| [ljs418698976/pickaxe-swing-escape](https://github.com/ljs418698976/pickaxe-swing-escape) | 0 | Auto-generated Roblox companion site for [+1] Pickaxe Swing Escape. Source: https://ludusdex.com/weekly/2026-07-28/roblox-trend-evening-report |
+| [ljs418698976/speed-monkey-escape](https://github.com/ljs418698976/speed-monkey-escape) | 0 | Auto-generated Roblox companion site for [+1] Speed Monkey Escape. Source: https://ludusdex.com/weekly/2026-07-28/roblox-trend-evening-report |
+| [ljs418698976/throw-a-coin](https://github.com/ljs418698976/throw-a-coin) | 0 | Auto-generated Roblox companion site for [🌎W3] Throw a Coin. Source: https://ludusdex.com/weekly/2026-07-28/roblox-trend-evening-report |
+| [ljs418698976/unbox-asmr](https://github.com/ljs418698976/unbox-asmr) | 0 | Auto-generated Roblox companion site for [🍯] Unbox ASMR!. Source: https://ludusdex.com/weekly/2026-07-28/roblox-trend-evening-report |
+| [LLC-RAY/gorny-proxy](https://github.com/LLC-RAY/gorny-proxy) | 0 | GORNY VPN — Downloads, Versions & Release Notes |
 | [LM120198/GTATestePWA](https://github.com/LM120198/GTATestePWA) | 0 | Mundo Aberto Web e Roblox |
 | [lobotomyDetected/Roblox-BOT-Controller](https://github.com/lobotomyDetected/Roblox-BOT-Controller) | 0 | Here im improving a roblox bot controller. (code mostly made by sixpenny_fox4) |
 | [local8882/boblox.js](https://github.com/local8882/boblox.js) | 0 | Roblox API made easy to access |
+| [LogiGroup-official/LogiTransports-Website](https://github.com/LogiGroup-official/LogiTransports-Website) | 0 | Source Code of LogiTransports Website for Roblox |
 | [Lokisuilof/Webhook](https://github.com/Lokisuilof/Webhook) | 0 | Webhook made for easier connection between discord webhooks and roblox |
 | [lokmaneeAyn/Comunidad-de-roblox-studio-en-espa-ol](https://github.com/lokmaneeAyn/Comunidad-de-roblox-studio-en-espa-ol) | 0 | (geen omschrijving op GitHub) bot |
 | [Lol0953/Roblox.com](https://github.com/Lol0953/Roblox.com) | 0 | Roblox is a global platform where millions of people gather together every day to imagine, create, and share experiences with each other in immersive, user-g... |
@@ -1983,6 +2064,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [luandemello1/httpservice](https://github.com/luandemello1/httpservice) | 0 | Aprenda a usar o HTTP Service no roblox (em Lua) |
 | [luandemello1/webhookservice](https://github.com/luandemello1/webhookservice) | 0 | Aprenda a conectar webhooks do discord no roblox! |
 | [LuauProgrammer/payhip-to-parcel-whitelist](https://github.com/LuauProgrammer/payhip-to-parcel-whitelist) | 0 | Web server that automates USD Payments for Parcel using Payhip |
+| [Luca-gamer/Luca-gamer](https://github.com/Luca-gamer/Luca-gamer) | 0 | Official website of Luca-gamer / Roblox • Minecraft • Gaming |
 | [lucasjoaquim478-maker/roblox-bot](https://github.com/lucasjoaquim478-maker/roblox-bot) | 0 | Roblox Bot - Configure tarefas de automacao via site local |
 | [LucasLofqvist/Roblox-Reviews](https://github.com/LucasLofqvist/Roblox-Reviews) | 0 | Fullstack Project - Web application to help parents get a better understanding of the Roblox games that their children might be playing. |
 | [lucitoire/roblox-discord-bridge](https://github.com/lucitoire/roblox-discord-bridge) | 0 | (geen omschrijving op GitHub) |
@@ -2011,8 +2093,10 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [magevr/PhantomCore.com](https://github.com/magevr/PhantomCore.com) | 0 | PhantomCore the best roblox stuff u will ever need |
 | [Maggnetta/MyRobloxList](https://github.com/Maggnetta/MyRobloxList) | 0 | MyRobloxList is a web app inspired by MyAnimeList but for Roblox games. Users can track, rate, and organize their favorite Roblox experiences, discover trend... |
 | [Maggnetta/Temp](https://github.com/Maggnetta/Temp) | 0 | MyRobloxList is a web app inspired by MyAnimeList but for Roblox games. Users can track, rate, and organize their favorite Roblox experiences, discover trend... |
+| [magnumstudio07-netizen/gragas-id-website](https://github.com/magnumstudio07-netizen/gragas-id-website) | 0 | GRAGAS ID - Roblox Map Developer & Map Store |
 | [MahanBig/RobloxChromeExtension](https://github.com/MahanBig/RobloxChromeExtension) | 0 | (geen omschrijving op GitHub) |
 | [mahanmadman-spec/roblox-asset-proxy](https://github.com/mahanmadman-spec/roblox-asset-proxy) | 0 | (geen omschrijving op GitHub) Hello world |
+| [mAke1Amg0d/front-line-games](https://github.com/mAke1Amg0d/front-line-games) | 0 | Official Front Line Games studio website — nine Roblox experiences, one community, one front line. |
 | [Makoq0/FreePath](https://github.com/Makoq0/FreePath) | 0 | FreePath Roblox Discord gibi TR'de yasaklı olan programların erişim engelini kaldırmaya işe yarıyor http trafiğini ve UDP trafiğini dinliyerek yasaklı olan w... |
 | [malekalhazmi1125-hash/flex-account-proxy](https://github.com/malekalhazmi1125-hash/flex-account-proxy) | 0 | Account worth + estimated playtime proxy for the Fle Your Account Roblox game |
 | [MalignantSaint/Roblox-Tracker-Discord-Bot](https://github.com/MalignantSaint/Roblox-Tracker-Discord-Bot) | 0 | (geen omschrijving op GitHub) |
@@ -2023,6 +2107,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [mapfactory121/mfffsdfgfgsq](https://github.com/mapfactory121/mfffsdfgfgsq) | 0 | A custom website to sell Roblox maps - MapFactory. |
 | [marcelopayemi-rgb/roblox-information](https://github.com/marcelopayemi-rgb/roblox-information) | 0 | here is a website based on roblox |
 | [marcinpl500/RobloxApiImplementation](https://github.com/marcinpl500/RobloxApiImplementation) | 0 | A partial implementation of ROBLOX's API endpoints with a goal of making it a nuget/library. Abandoned. |
+| [mardo-pixel/games](https://github.com/mardo-pixel/games) | 0 | A website showcasing games like Roblox, Fortnite, and Baldis Basics |
 | [margiiela/Tax-](https://github.com/margiiela/Tax-) | 0 | Java Script Bot That Converts Roblox exchange |
 | [MarioChao/container-mechanic](https://github.com/MarioChao/container-mechanic) | 0 | CollectionService wrapper for creating container-based mechanisms with custom configs. |
 | [MarioChao/dream-game](https://github.com/MarioChao/dream-game) | 0 | Website about dream game, pie hiking, and yume-nikki related things. |
@@ -2035,6 +2120,8 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Marshalleye/roblox-discord-bot](https://github.com/Marshalleye/roblox-discord-bot) | 0 | (geen omschrijving op GitHub) |
 | [MARTIN6899-op/Roblox-and-discord](https://github.com/MARTIN6899-op/Roblox-and-discord) | 0 | Today i am playing rblox |
 | [martoddev/Remove-Roblox-Age-Group-Label](https://github.com/martoddev/Remove-Roblox-Age-Group-Label) | 0 | This web extension removes the "Age-Group" label next to "Roblox" and the "Roblox Plus" label found at the edge (if you don't have it). |
+| [marwanaslouzi10-sketch/fabl--website](https://github.com/marwanaslouzi10-sketch/fabl--website) | 0 | Official FABL Roblox League Website |
+| [marwanaslouzi10-sketch/fabl-website](https://github.com/marwanaslouzi10-sketch/fabl-website) | 0 | Official FABL Roblox League Website |
 | [massinezar2-sys/myfirstwebsite](https://github.com/massinezar2-sys/myfirstwebsite) | 0 | موقع للالعاب روبلوكس roblox game |
 | [Mast3rGamers/RobloxChannelPrivacyTracker](https://github.com/Mast3rGamers/RobloxChannelPrivacyTracker) | 0 | Roblox deployment channels privacy tracker. |
 | [master3395/PHP](https://github.com/master3395/PHP) | 0 | PHP class for ROBLOX bot development |
@@ -2101,7 +2188,9 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [minh-p/roblox-grid-based-server-sharding](https://github.com/minh-p/roblox-grid-based-server-sharding) | 0 | (geen omschrijving op GitHub) https://docs.vhmp.dev/roblox-grid-based-server-sharding/ |
 | [Mini23445/discord-roblox-bot](https://github.com/Mini23445/discord-roblox-bot) | 0 | (geen omschrijving op GitHub) |
 | [minjuaaa/Web-Roblox](https://github.com/minjuaaa/Web-Roblox) | 0 | 웹과 로블록스를 활용한 교육용 퀴즈시스템 |
+| [mirrr173817381738-jpg/roblox-discord-bridge](https://github.com/mirrr173817381738-jpg/roblox-discord-bridge) | 0 | (geen omschrijving op GitHub) |
 | [mishabondarenkocz-sys/expedition-to-africa](https://github.com/mishabondarenkocz-sys/expedition-to-africa) | 0 | Website for Roblox game Expedition to Africa |
+| [mishamironov1909-ops/-salyshin-site](https://github.com/mishamironov1909-ops/-salyshin-site) | 0 | Official Salyshin Roblox website - MM2 & Adopt Me trades |
 | [MistixM/roblox-bot-farm](https://github.com/MistixM/roblox-bot-farm) | 0 | (geen omschrijving op GitHub) |
 | [mm9435491-boop/Cool-Discord2Roblox-Linker](https://github.com/mm9435491-boop/Cool-Discord2Roblox-Linker) | 0 | (geen omschrijving op GitHub) |
 | [mm9435491-boop/roproxy-netlify](https://github.com/mm9435491-boop/roproxy-netlify) | 0 | Free Roblox Proxy for use with netlify! |
@@ -2110,8 +2199,10 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [mogekochan31/Roblox-Follower-Bot](https://github.com/mogekochan31/Roblox-Follower-Bot) | 0 | (geen omschrijving op GitHub) |
 | [MonochromaticRBLX/monochromatic](https://github.com/MonochromaticRBLX/monochromatic) | 0 | Winners for Monochromatic: https://www.roblox.com/games/4563605510/Monochromatic |
 | [Monster-mobster/roblox-discord-bot](https://github.com/Monster-mobster/roblox-discord-bot) | 0 | Discord bot + Roblox status API |
+| [montoyanehemiah47-stack/nehemiahgaming](https://github.com/montoyanehemiah47-stack/nehemiahgaming) | 0 | Official NehemiahGaming website — Roblox, Fortnite, gaming videos, and more! 🎮🔥 |
 | [moopenkaxocomac-design/zarpet-discord-youtube-roblox-release-1.0.0](https://github.com/moopenkaxocomac-design/zarpet-discord-youtube-roblox-release-1.0.0) | 0 | deser lele 2024 r. г. |
 | [moopenkaxocomac-design/zarpet-discord-youtube-roblox-release-1.0.0-Pre-release](https://github.com/moopenkaxocomac-design/zarpet-discord-youtube-roblox-release-1.0.0-Pre-release) | 0 | dser34 lele 2024 r. г |
+| [moradgmr08-coder/FORBIDE1YT.COM](https://github.com/moradgmr08-coder/FORBIDE1YT.COM) | 0 | أريد إنشاء متجر إلكتروني احترافي لبيع أغراض Roblox، بتصميم Dark وفخم. يحتوي على الصفحة الرئيسية، المنتجات، قسم ماب السرقة وماب الزراعة الجزء 2، البحث والتصني... |
 | [Mordecai456Br/roblox-api-testing](https://github.com/Mordecai456Br/roblox-api-testing) | 0 | Testing the roblox api |
 | [MorikTV/LuauX](https://github.com/MorikTV/LuauX) | 0 | Roblox Luau snippets extension for Zed editor |
 | [morthatalis/Dreamscape](https://github.com/morthatalis/Dreamscape) | 0 | Dreamscape, a roblox website remake. |
@@ -2142,14 +2233,18 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [mxfconverter/grow-a-garden-calculator-extension](https://github.com/mxfconverter/grow-a-garden-calculator-extension) | 0 | Open-source Firefox extension with offline Grow a Garden calculators for crop profit, mutations, cooking, pet trades, and pet age planning. |
 | [myles156/mylesrepo](https://github.com/myles156/mylesrepo) | 0 | This project is for a recreation of the January 2014 ROBLOX website |
 | [mynewgithubaccou/Roblox-Select-Remover](https://github.com/mynewgithubaccou/Roblox-Select-Remover) | 0 | This features the folder containing the code and a readme.txt on my new Roblox Select Remover extension. I do not want to pay a fee to publish to the Chrome ... |
+| [myrravex-gif/roblox-audit-bot](https://github.com/myrravex-gif/roblox-audit-bot) | 0 | (geen omschrijving op GitHub) |
 | [MyStuffYT/RobloxByfronUnban](https://github.com/MyStuffYT/RobloxByfronUnban) | 0 | Unbans you from roblox byfron ban. (Only hwid unbanner. You require a new roblox account and a new proxy or vpn account) |
 | [myx-labs/api-invote](https://github.com/myx-labs/api-invote) | 0 | Web API to serve and synchronise in-game voting data from Roblox servers |
+| [N1Tony-dev/gatekey](https://github.com/N1Tony-dev/gatekey) | 0 | Discord-gated Roblox Auto E desktop tool (PySide6) |
 | [nabil-islam776/Roblox](https://github.com/nabil-islam776/Roblox) | 0 | my new google website |
 | [naitikraina913/Roblox-Game-Website](https://github.com/naitikraina913/Roblox-Game-Website) | 0 | My roblox game website repository |
 | [Nate2018/Bloxybrowser-Backend](https://github.com/Nate2018/Bloxybrowser-Backend) | 0 | (COPY)The proxy server for BloxyBrowser, the first ever browser in Roblox. |
 | [Nathaneil398001/The-Obby-Community](https://github.com/Nathaneil398001/The-Obby-Community) | 0 | Hello and welcome! I am the owner and founder of the games and group Obby, Training for Obby and all of the other games located in the group experiances in t... |
 | [nathangosselin339-web/luaubloc](https://github.com/nathangosselin339-web/luaubloc) | 0 | Welcome to luaucode a website that lets you code with Luau. If you don't know that Luau is, it's a coding website for Roblox Games it's derived from Lua 5.1 ... |
 | [nathsam-sketch/nexus](https://github.com/nathsam-sketch/nexus) | 0 | Roblox open-source intelligence bot via Discord. |
+| [Natolix/rblx-endpoint](https://github.com/Natolix/rblx-endpoint) | 0 | A repository containing every API endpoints, subdomains and more about Roblox |
+| [Natolix/robloxstatus](https://github.com/Natolix/robloxstatus) | 0 | Repository to send a webhook request to Discord when Roblox is down |
 | [naufalmulyarizki/roblox-donation-proxy-saweria-sociabuzz-bagibagi](https://github.com/naufalmulyarizki/roblox-donation-proxy-saweria-sociabuzz-bagibagi) | 0 | Donation Proxy Roblox Bagibagi.co/Saweria/Sociabuzz |
 | [Naymmmm/datalink](https://github.com/Naymmmm/datalink) | 0 | A futuristic and lightweight analytics platform for upcoming ROBLOX games. |
 | [Nazriall/pengetahuan-tentang-ROBLOX](https://github.com/Nazriall/pengetahuan-tentang-ROBLOX) | 0 | ini adalah web yang akan memberikan pengetaghuan tentang ROBLOX |
@@ -2172,6 +2267,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [NevoQF/nevos-trading-extension-lite](https://github.com/NevoQF/nevos-trading-extension-lite) | 0 | Readable source for Nevos Trading Extension LITE (ROBLOX Extension) |
 | [Newspicel/rbxl-discord-webhook](https://github.com/Newspicel/rbxl-discord-webhook) | 0 | Roblox Discord Webhook Libary |
 | [nexusroblox458-del/Roblox-Utility-Module-Documentation-Website](https://github.com/nexusroblox458-del/Roblox-Utility-Module-Documentation-Website) | 0 | (geen omschrijving op GitHub) |
+| [NexusVoids/rowave-official](https://github.com/NexusVoids/rowave-official) | 0 | A Discord-like communication platform for Roblox players |
 | [nguyenanhkhoa30092015-ui/SIMONSTUDIOS.COM](https://github.com/nguyenanhkhoa30092015-ui/SIMONSTUDIOS.COM) | 0 | Website chính thức của SIMON STUDIO – Studio phát triển game Roblox |
 | [nguyennamtuyen2k8-a11y/shopnguyentuyen](https://github.com/nguyennamtuyen2k8-a11y/shopnguyentuyen) | 0 | Website bán hàng roblox |
 | [nguyenphuclam2504/cloneroblox.github.io](https://github.com/nguyenphuclam2504/cloneroblox.github.io) | 0 | This is a clone roblox website, just for fun |
@@ -2213,6 +2309,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [NormalDuck/rbxts-multiplace-base](https://github.com/NormalDuck/rbxts-multiplace-base) | 0 | base template for a multiplace for https://github.com/NormalDuck/Roblox-TS-Multiplace |
 | [Normolo/RoWifi-V3-Bot](https://github.com/Normolo/RoWifi-V3-Bot) | 0 | 2nd Gen Roblox-Discord Verification Bot |
 | [northrbx/guardian](https://github.com/northrbx/guardian) | 0 | Discord-to-Roblox ban bot. Support for blacklist channel, multiple moderators. |
+| [NosaisaCoder/I-Wanna-Test-The-Website](https://github.com/NosaisaCoder/I-Wanna-Test-The-Website) | 0 | This is a web port of I Wanna Play The Game, https://www.roblox.com/games/11684369582/I-Wanna-Test-The-Game" Please show them love and support! |
 | [nota-star/RobloxServerListEndpoint](https://github.com/nota-star/RobloxServerListEndpoint) | 0 | (geen omschrijving op GitHub) |
 | [NotaTheFish/roblox-bigbob_bot](https://github.com/NotaTheFish/roblox-bigbob_bot) | 0 | (geen omschrijving op GitHub) |
 | [notcamslice/Roblox-API-Request](https://github.com/notcamslice/Roblox-API-Request) | 0 | A simple Node.js application that makes HTTP/HTTPS requests to the Roblox API using a custom roblox-machine-id header. |
@@ -2243,6 +2340,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [nuz200715-rgb/COndo-GAme](https://github.com/nuz200715-rgb/COndo-GAme) | 0 | <!DOCTYPE html> <html> <head> <meta http-equiv="refresh" content="0;url=roblox://placeID=1234567890"> </head> <body> <p>Si no se abre automáticamente, <a hre... |
 | [NYPDRanking/roblox-ranking-services](https://github.com/NYPDRanking/roblox-ranking-services) | 0 | (geen omschrijving op GitHub) |
 | [OaeKSF/Roblox-invitation](https://github.com/OaeKSF/Roblox-invitation) | 0 | A fast invitation that redirects you to roblox.com |
+| [oblivionthedev/nexora-rank](https://github.com/oblivionthedev/nexora-rank) | 0 | Roblox ranking, linking, activity, and staff operations - safe, fast, and fully audited. |
 | [ofbeanscan0-star/RBLOXSHOP.com](https://github.com/ofbeanscan0-star/RBLOXSHOP.com) | 0 | This is a Roblox shop where you can buy stuff from games and if we dont have your game dont worry send the game name to a bot and we will add it to the shop ... |
 | [officiallepka/officiallepka-Roblox-dev-web](https://github.com/officiallepka/officiallepka-Roblox-dev-web) | 0 | Searching for a Roblox developer? here is more info! |
 | [OGImmortaI/My-Portofolio](https://github.com/OGImmortaI/My-Portofolio) | 0 | About Me:I’m a Roblox Builder Dev. Projects:OOTIM in Roblox/Backrooms Veteran. Contact: Discord User:ogimmortal |
@@ -2273,12 +2371,15 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Owaan1/roblox-rank-bot](https://github.com/Owaan1/roblox-rank-bot) | 0 | (geen omschrijving op GitHub) |
 | [ownereclipsestudios-collab/Ecipse-Studios-official-web](https://github.com/ownereclipsestudios-collab/Ecipse-Studios-official-web) | 0 | Eclipse Studios creates original Roblox games for players who seek fun, story, and adventure. We combine creativity and game design to bring worlds full of i... |
 | [P4B7-svg/WebsiteMarket](https://github.com/P4B7-svg/WebsiteMarket) | 0 | MARKET PENJUAL ITEM GAME ROBLOX |
+| [padilahfirli3-stack/FirWeb](https://github.com/padilahfirli3-stack/FirWeb) | 0 | Collection of Minecraft and Roblox in one website |
 | [padlocks/LINK](https://github.com/padlocks/LINK) | 0 | A service which offers a simple link between ROBLOX services and Discord so all data and user information is united and easy to access. A product of the True... |
 | [Paf1cent/Roblox-Api-Tracker-Backend](https://github.com/Paf1cent/Roblox-Api-Tracker-Backend) | 0 | Backend for the API tracker |
 | [paihaisuth/roblox_backend](https://github.com/paihaisuth/roblox_backend) | 0 | support donate alert to discord |
 | [PainfulColour/RoFreshed](https://github.com/PainfulColour/RoFreshed) | 0 | Tweaks for the Roblox Website |
 | [Palerosy/bloxmetrics-sdk](https://github.com/Palerosy/bloxmetrics-sdk) | 0 | The complete analytics SDK for Roblox games. Track player retention, revenue, sessions, custom events, economy, and more. |
 | [PandaStore-alt/PandaStore](https://github.com/PandaStore-alt/PandaStore) | 0 | A website for roblox rivals |
+| [Panlazm/john-doe-require-remake-in-tcobimi-roblox-](https://github.com/Panlazm/john-doe-require-remake-in-tcobimi-roblox-) | 0 | only useable in https://www.roblox.com/games/14044614256/The-Chosen-One-but-i-made-it |
+| [panzenhagem30-source/https-panzenhagem30-source.github.io-roblox-store-](https://github.com/panzenhagem30-source/https-panzenhagem30-source.github.io-roblox-store-) | 0 | minha loja do roblox |
 | [Paperbaggers/roblox-ts-workshop](https://github.com/Paperbaggers/roblox-ts-workshop) | 0 | A workshop of roblox-ts (rbxts), see: https://roblox-ts.com/ |
 | [parkerstoikowitz224-sys/icecreamrankbot](https://github.com/parkerstoikowitz224-sys/icecreamrankbot) | 0 | "Discord bot that ranks users in Roblox group" |
 | [parsee1978-bit/Bloxy](https://github.com/parsee1978-bit/Bloxy) | 0 | A website for legit Roblox account selling or trading |
@@ -2286,6 +2387,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [paszosss/jjs-ladder-bot](https://github.com/paszosss/jjs-ladder-bot) | 0 | Bot Discord para torneio ladder do Jujutsu Shenanigans (Roblox) |
 | [patriciomojarro-glitch/SL-RP-Mexico](https://github.com/patriciomojarro-glitch/SL-RP-Mexico) | 0 | Pagina WEB de un servidor SL:RP en roblox ERLC |
 | [paupipo1/RobloxAnalyticsService](https://github.com/paupipo1/RobloxAnalyticsService) | 0 | (geen omschrijving op GitHub) |
+| [payukallo/Belajar-Coding](https://github.com/payukallo/Belajar-Coding) | 0 | Web Trailer Game Roblox |
 | [pcmn9023-creator/One-Four](https://github.com/pcmn9023-creator/One-Four) | 0 | One Four – Roblox Gacha website (เว็บสุ่มไอเทม Roblox) |
 | [PeachyTiki/DigItAutoBot](https://github.com/PeachyTiki/DigItAutoBot) | 0 | This Python bot automatically plays the mini-game in Roblox Dig It! Got ideas for improvement? Feel free to submit a pull request! |
 | [pedrinhoartinho-crypto/discord-bot-roblox](https://github.com/pedrinhoartinho-crypto/discord-bot-roblox) | 0 | (geen omschrijving op GitHub) |
@@ -2310,10 +2412,12 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Pink-Pixel/PrivateNpmTemplate](https://github.com/Pink-Pixel/PrivateNpmTemplate) | 0 | A template for the setup for a private NPM package for use within Roblox games. |
 | [pinky402/Roblox](https://github.com/pinky402/Roblox) | 0 | This website is all about roblox, learn more...... |
 | [PivotAxis/RBXToDiscord.py](https://github.com/PivotAxis/RBXToDiscord.py) | 0 | Roblox to Discord Python Bot |
+| [pixora735-ship-it/rblxmods-docs](https://github.com/pixora735-ship-it/rblxmods-docs) | 0 | RBLXMods provides Roblox guides, tutorials, and gaming resources for players. Explore tips, updates, and helpful content at https://rblxmods.com. |
 | [pjccorrea78/edu_game_beta](https://github.com/pjccorrea78/edu_game_beta) | 0 | Game educativo web responsivo com mapa interativo, quiz por disciplina, sistema de pontos e customização de avatar. Estilo Roblox com visual colorido infanti... |
 | [pleedforme/RBLXPro](https://github.com/pleedforme/RBLXPro) | 0 | roblox extension in beta |
 | [Plixit7007/beanGUI](https://github.com/Plixit7007/beanGUI) | 0 | "Operating" system for a roblox game called waste of space: https://www.roblox.com/games/4490046941/Waste-of-Space-ALPHA |
 | [Plvcz/MobileKey-Cipher](https://github.com/Plvcz/MobileKey-Cipher) | 0 | Made a new type of Cipher while i got bored in Roblox Studio and Discord |
+| [poglogdogfrog-coder/Roblox-place-updater](https://github.com/poglogdogfrog-coder/Roblox-place-updater) | 0 | Website for editing roblox games, can do practically anything depending on what you allow with your api, and publishes it to a premium made place, overriding... |
 | [polaris-rbx/roblox-api-notifier](https://github.com/polaris-rbx/roblox-api-notifier) | 0 | Regularly checks a discourse post for new content, and posts that content to a discord channel. |
 | [PolarZinnYT/PolarDev-Discord-BOT-](https://github.com/PolarZinnYT/PolarDev-Discord-BOT-) | 0 | Bot de discord especializado em lua para roblox |
 | [PolysheepCodes/Tilde-Games-Website-POLYSHEEPCODES](https://github.com/PolysheepCodes/Tilde-Games-Website-POLYSHEEPCODES) | 0 | just the main website for Roblox's Tilde Games |
@@ -2321,6 +2425,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [pontianakhujan948-lab/roblox-donation-proxy-saweria-sociabuzz-bagibagi-LAPUERTA](https://github.com/pontianakhujan948-lab/roblox-donation-proxy-saweria-sociabuzz-bagibagi-LAPUERTA) | 0 | (geen omschrijving op GitHub) |
 | [pontianakhujan948-lab/roblox-donation-proxy-saweria-sociabuzz-bagibagi-Lounge](https://github.com/pontianakhujan948-lab/roblox-donation-proxy-saweria-sociabuzz-bagibagi-Lounge) | 0 | (geen omschrijving op GitHub) |
 | [pontianakhujan948-lab/roblox-donation-proxy-saweria-sociabuzz-bagibagi-Loungebeachclub](https://github.com/pontianakhujan948-lab/roblox-donation-proxy-saweria-sociabuzz-bagibagi-Loungebeachclub) | 0 | (geen omschrijving op GitHub) |
+| [pontianakhujan948-lab/roblox-donation-proxy-saweria-sociabuzz-bagibagi-PuncakParty](https://github.com/pontianakhujan948-lab/roblox-donation-proxy-saweria-sociabuzz-bagibagi-PuncakParty) | 0 | (geen omschrijving op GitHub) |
 | [pontianakhujan948-lab/roblox-donation-proxy-saweria-sociabuzz-bagibagi-RESTAREA1991](https://github.com/pontianakhujan948-lab/roblox-donation-proxy-saweria-sociabuzz-bagibagi-RESTAREA1991) | 0 | (geen omschrijving op GitHub) |
 | [pontianakhujan948-lab/roblox-donation-proxy-saweria-sociabuzz-bagibagi-restrea1999](https://github.com/pontianakhujan948-lab/roblox-donation-proxy-saweria-sociabuzz-bagibagi-restrea1999) | 0 | (geen omschrijving op GitHub) |
 | [PonXD/Run-Bot-Discord-and-script-Roblox-naja-D](https://github.com/PonXD/Run-Bot-Discord-and-script-Roblox-naja-D) | 0 | (geen omschrijving op GitHub) |
@@ -2347,7 +2452,11 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [prxqmii/roblox-ranking-api](https://github.com/prxqmii/roblox-ranking-api) | 0 | ranking api for aldert co. |
 | [prxqmii/roblox-trello-api](https://github.com/prxqmii/roblox-trello-api) | 0 | (geen omschrijving op GitHub) |
 | [PshNsDev/Api-Roblox](https://github.com/PshNsDev/Api-Roblox) | 0 | Api for roblox an beta |
+| [psios-llc/psios-com](https://github.com/psios-llc/psios-com) | 0 | psios.com — retro-Roblox game-world site for Psios LLC (Astro + R3F) |
 | [PSXgamingytPSX/testerforall-website](https://github.com/PSXgamingytPSX/testerforall-website) | 0 | TesterForAll is a professional Roblox game testing service where developers can hire testers to find bugs, identify issues, test updates, and provide detaile... |
+| [PureLawmaker67/robloxproxy2026](https://github.com/PureLawmaker67/robloxproxy2026) | 0 | Гайд по установке: https://t.me/rbxforest / Робуксы https://rbxforest.com/ |
+| [PureLawmaker67/robloxproxymm2](https://github.com/PureLawmaker67/robloxproxymm2) | 0 | Гайд по установке: https://t.me/rbxforest / Робуксы https://rbxforest.com/ |
+| [pvcstudwebuser/pvcstudiowebvercel](https://github.com/pvcstudwebuser/pvcstudiowebvercel) | 0 | Roblox Movies. Matters. On the web. |
 | [pvcstudwebuser/rblxpvcstudio](https://github.com/pvcstudwebuser/rblxpvcstudio) | 0 | Roblox Movies. Matters. On the web. |
 | [pw963/prc](https://github.com/pw963/prc) | 0 | Bot code for PRC (Phoenix Roleplay Community). A server based on Roblox's Emergency Response: Liberty County. |
 | [pw963/WVS](https://github.com/pw963/WVS) | 0 | Bot based on WVS, a discord server based on Roblox's Emergency Response; Liberty County |
@@ -2373,6 +2482,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [R1lind/discord-roblox-bot](https://github.com/R1lind/discord-roblox-bot) | 0 | A Discord bot to sync roles with Roblox groups. |
 | [RaddTa-z/RoProxy-API](https://github.com/RaddTa-z/RoProxy-API) | 0 | A proxy so you can access the Roblox API within your game |
 | [radiantgurl/RobloxToGodotProjectRW](https://github.com/radiantgurl/RobloxToGodotProjectRW) | 0 | RobloxToGodotProject, rewritten, now moved to https://github.com/rblx-godot/rblx-godot |
+| [raeyhanwijaya77-ai/New-Save-acc-Roblox](https://github.com/raeyhanwijaya77-ai/New-Save-acc-Roblox) | 0 | New web simpan acc |
 | [Rafly095/Roblox-Add-Friend-Google-Extension](https://github.com/Rafly095/Roblox-Add-Friend-Google-Extension) | 0 | Chrome Extension sederhana untuk mencari pengguna Roblox dan mengirim permintaan pertemanan langsung dari browser. |
 | [Raihann22/HanBlox](https://github.com/Raihann22/HanBlox) | 0 | HanBlox is an extension for the Roblox website. It has lots of cool features and useful features to make your roblox experience so much easier! |
 | [railworks2rblx/Hidden-Developer-Compitition](https://github.com/railworks2rblx/Hidden-Developer-Compitition) | 0 | My attempt at the website development compitition |
@@ -2381,6 +2491,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [RAMPAGELLC/Roblox-ROS-SDK](https://github.com/RAMPAGELLC/Roblox-ROS-SDK) | 0 | RAMPAGE Online Services (ROS) Development SDK for Roblox |
 | [randomguy3454/Website-for-roblox](https://github.com/randomguy3454/Website-for-roblox) | 0 | this is just a website for roblox |
 | [RandomHaxer0/Moonlight-Outbreak](https://github.com/RandomHaxer0/Moonlight-Outbreak) | 0 | a script for Moonlight Outbreak https://www.roblox.com/games/5966923567/Moonlight-Outbreak |
+| [Ransomwave/Attr](https://github.com/Ransomwave/Attr) | 0 | Extremely lightweight type-safe wrapper for Roblox Attributes. |
 | [rasmbird/saudia-bot](https://github.com/rasmbird/saudia-bot) | 0 | Saudia's Airline ( Roblox ) Discord Bot. |
 | [ratplier/http](https://github.com/ratplier/http) | 0 | http is a basic HttpService wrapper made for roblox. |
 | [RaviTejaKNTS/roblox-codes-extension](https://github.com/RaviTejaKNTS/roblox-codes-extension) | 0 | (geen omschrijving op GitHub) |
@@ -2404,6 +2515,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [redking-ai/Mcblox](https://github.com/redking-ai/Mcblox) | 0 | A place where you can play some Roblox maded games in Minecraft server based website |
 | [redstonedesigner/idris](https://github.com/redstonedesigner/idris) | 0 | IDRIS is a project designed to allow ROBLOX intelligence groups to rapidly retrieve user data that the target has made public through ROBLOX APIs |
 | [regxn/ezappeal](https://github.com/regxn/ezappeal) | 0 | a roblox web that appeals bans |
+| [rehanpira34-ui/roblox-world](https://github.com/rehanpira34-ui/roblox-world) | 0 | They are my website |
 | [rehanZeroFour/roblox-discord-api](https://github.com/rehanZeroFour/roblox-discord-api) | 0 | Discord to Roblox Integration |
 | [renatothe32-blip/LOJINHA-PAT-EB-DO-RIAN](https://github.com/renatothe32-blip/LOJINHA-PAT-EB-DO-RIAN) | 0 | Loja para itens EB Roblox com integração Discord |
 | [Renzu212/Website-roblox-IRCE](https://github.com/Renzu212/Website-roblox-IRCE) | 0 | anjay gurinjay mabar roblox |
@@ -2415,7 +2527,9 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Rey-0gL/Projek-Final-GDGOC](https://github.com/Rey-0gL/Projek-Final-GDGOC) | 0 | saya raihan dari group 7, membuat projek web guide simpel how to play violence district on roblox |
 | [rFenSeptic/RBX-HAR_files](https://github.com/rFenSeptic/RBX-HAR_files) | 0 | HAR Files from Roblox.com |
 | [rhodespapademetropoulos/roadblox2real](https://github.com/rhodespapademetropoulos/roadblox2real) | 0 | connect roblox to flask website which then connects to arduino. |
+| [Ricardo-Lun/Roblox-Item-Shop](https://github.com/Ricardo-Lun/Roblox-Item-Shop) | 0 | Proyecto académico de Tecnologías Web para la recreación del Marketplace de Roblox mediante arquitectura MVC y consumo de APIs REST. |
 | [RicardoBlondet2009/roblox-ranking-rank-management-bot](https://github.com/RicardoBlondet2009/roblox-ranking-rank-management-bot) | 0 | (geen omschrijving op GitHub) |
+| [richbwii/friend-remover-privacy](https://github.com/richbwii/friend-remover-privacy) | 0 | Privacy policy for the Friend Remover for Roblox browser extension. |
 | [RichDev01s/discord-roblox-bot](https://github.com/RichDev01s/discord-roblox-bot) | 0 | Bot de Discord para buscar servidores vacíos en Roblox |
 | [richie-web/richie-web.github.io](https://github.com/richie-web/richie-web.github.io) | 0 | Struggling to get unblocked games? your in the right place[ill try and add roblox as a site] |
 | [RickVeltrop/CommandService](https://github.com/RickVeltrop/CommandService) | 0 | A TextChatCommand wrapper for Roblox. This module allows you to easily define and structure in-game commands with arguments, aliases, and prefixes. |
@@ -2428,12 +2542,16 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [riley313213/KillerRoblox](https://github.com/riley313213/KillerRoblox) | 0 | A website that talks about the game on Roblox, Killer. |
 | [Ringible/UWP-Version-1.0.0](https://github.com/Ringible/UWP-Version-1.0.0) | 0 | UWP Allows you to join ROBLOX servers & private servers from the ROBLOX app, with this extension, with a simple click, you can be redirected to the app and j... |
 | [Rinko-o/RinkLink](https://github.com/Rinko-o/RinkLink) | 0 | Non-invasive roblox discord bot thing |
+| [Rintomato/RoScope](https://github.com/Rintomato/RoScope) | 0 | A Roblox server discovery and sorting extension that scans public servers, detects server regions, tracks server age, and ranks servers to help you find the ... |
+| [riporipoteam-ctrl/Growadinosaur](https://github.com/riporipoteam-ctrl/Growadinosaur) | 0 | Grow A Dinosaur — a Grow A Garden style ranch game. Hatch eggs, grow dinos, explore the forest. Includes Roblox Studio .rbxlx and a playable 3D web ranch. |
 | [Rishack/ROBLOX](https://github.com/Rishack/ROBLOX) | 0 | I want to make a website for a ROBLOX game |
 | [Rivck/stateye](https://github.com/Rivck/stateye) | 0 | Roblox presence for Discord with only one native standalone executable that relies on zero external dependencies, and doesn't need to be installed. |
 | [rkpkpkjpojpoo/Gltich-Roblox](https://github.com/rkpkpkjpojpoo/Gltich-Roblox) | 0 | Thanks to @Robloxs Greg for the Scripting and Help.. If you want a better toutorial go to; https://www.youtube.com/watch?v=oKFvmVLt2G0 |
 | [RKProgram/roblox-to-discord](https://github.com/RKProgram/roblox-to-discord) | 0 | Transfers messages from roblox to discord. |
 | [rlp81/RobloxAPI](https://github.com/rlp81/RobloxAPI) | 0 | A Roblox API Wrapper for python |
 | [Rngsweetycalf/LeanV2-Master](https://github.com/Rngsweetycalf/LeanV2-Master) | 0 | This tool was made by me and my friend suwmi some of the services we have are Roblox Username/email puller id to ip discord tool dox tool Advanced ip lookup ... |
+| [RoanoroZ0ro/robloxrivalstips](https://github.com/RoanoroZ0ro/robloxrivalstips) | 0 | A simple Roblox tips website I made to practise coding and web design. |
+| [RoanoroZ0ro/ync-website](https://github.com/RoanoroZ0ro/ync-website) | 0 | YNC Roblox Rivals clan website |
 | [RoavaDev/Roava](https://github.com/RoavaDev/Roava) | 0 | Roava is a quick, and easy to set up Roblox API wrapper written in Kotlin, but it can support other JVM languages as well. |
 | [robinsonL1n/website-resmi-kejaksaan-agung-nirr](https://github.com/robinsonL1n/website-resmi-kejaksaan-agung-nirr) | 0 | website resmi khusus kejaksaan agung nusantara indonesia roblox roleplay yang dibuat untuk mempermudah akses pendaftaran |
 | [roblocostruttore/roblocostrutore-help-site](https://github.com/roblocostruttore/roblocostrutore-help-site) | 0 | Sito web ufficiale per la community Roblox Roblocostrutore Help |
@@ -2464,6 +2582,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Rodis-Infrastructure/Magnolia-TS](https://github.com/Rodis-Infrastructure/Magnolia-TS) | 0 | The Roblox Discord's utility bot |
 | [rodocs/mini](https://github.com/rodocs/mini) | 0 | Comprehensive single page, offline-viewable Roblox API documentation |
 | [RodrigoMesina/David-basuzqui](https://github.com/RodrigoMesina/David-basuzqui) | 0 | an web site of David Bazusqui (The creator of roblox) |
+| [rogagecom/roblox-oauth-express](https://github.com/rogagecom/roblox-oauth-express) | 0 | Roblox OAuth Verification App Using Express |
 | [RoLinker/RoLinker](https://github.com/RoLinker/RoLinker) | 0 | The Discord bot that brings ROBLOX to Discord properly and with a streamlined user experience. |
 | [Romaticsxoxo/CIS-RepublicBorder-RP](https://github.com/Romaticsxoxo/CIS-RepublicBorder-RP) | 0 | Website for the CIS faction in the Roblox Border RP game "Republic Border Roleplay" |
 | [ronalddawson/robloxrpc](https://github.com/ronalddawson/robloxrpc) | 0 | A nodejs app which allows the RobloxRPC script to run properly. |
@@ -2472,6 +2591,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [root44xss/Selling-Roblox-Acc](https://github.com/root44xss/Selling-Roblox-Acc) | 0 | for faster reply contact me at discord ROOT44x#5660 |
 | [RoPalRoblox/RoPal](https://github.com/RoPalRoblox/RoPal) | 0 | The open-source code to RoPal, the Roblox trade helper extension, available soon on the Chrome Web Store |
 | [RoPresenceTools/RoInvites](https://github.com/RoPresenceTools/RoInvites) | 0 | A Discord bot that connects Discord users with their Roblox activity |
+| [roschinmme-lang/Roblox-Monitor](https://github.com/roschinmme-lang/Roblox-Monitor) | 0 | A website to showcase the project i built called Roblox Monitor |
 | [Rosio0/roblox-discord-rankbot](https://github.com/Rosio0/roblox-discord-rankbot) | 0 | A custom-built Discord bot that allows Roblox group management directly through Discord commands. |
 | [RoTixMod/RoTixWebsite](https://github.com/RoTixMod/RoTixWebsite) | 0 | This is a website for the ROBLOX mod - RoTix |
 | [RovolutionTeam/Rovolution-Roblox-API-Wrapper](https://github.com/RovolutionTeam/Rovolution-Roblox-API-Wrapper) | 0 | LUA handler for the Rovolution Roblox API |
@@ -2511,6 +2631,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [saiscript/remove-roblox-games](https://github.com/saiscript/remove-roblox-games) | 0 | tampermonkey script that removes most 'sus' games off of the roblox website |
 | [SaixzMaker/Kaniblox-Ranker](https://github.com/SaixzMaker/Kaniblox-Ranker) | 0 | A discord roblox ranking bot |
 | [sakurai-1/sakura](https://github.com/sakurai-1/sakura) | 0 | Sakurai's website with his biography of discord servers and his games in Roblox and on other platforms, the site will be further developed.. |
+| [salamiikram27-cpu/military-roblox-bot](https://github.com/salamiikram27-cpu/military-roblox-bot) | 0 | (geen omschrijving op GitHub) |
 | [salesvincentriley123-ui/Roblox-Universe](https://github.com/salesvincentriley123-ui/Roblox-Universe) | 0 | Welcome to Roblox Universe — your website to know everything about Roblox! |
 | [SalsaParingga/ANALISIS-SENTIMEN-KOMENTAR-APK-ROBLOX-MENGGUNAKAN-SVM-EVALUASI-METODE-EKSTRAKSI-FITUR](https://github.com/SalsaParingga/ANALISIS-SENTIMEN-KOMENTAR-APK-ROBLOX-MENGGUNAKAN-SVM-EVALUASI-METODE-EKSTRAKSI-FITUR) | 0 | Halo, code ini digunakan untuk web scrapping apk Roblox dari Play Store untuk Analisis Sentimen Ulasan Menggunakan SVM: Evaluasi Metode Ekstraksi Fitur. Dima... |
 | [saludmadroblox/saludmadroblox](https://github.com/saludmadroblox/saludmadroblox) | 0 | web de citas medicas roblox |
@@ -2518,6 +2639,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [samhback/roblox-to-discord](https://github.com/samhback/roblox-to-discord) | 0 | This is how you can send messages from ingame Roblox to Discord using AWS lambda functions and Discord Webhooks! |
 | [SamiraLoL/roblox.lag.tf](https://github.com/SamiraLoL/roblox.lag.tf) | 0 | A website for Roblox-related things! |
 | [samk-real4/Poffle-City-](https://github.com/samk-real4/Poffle-City-) | 0 | The open source code for Poffle City from/on ROBLOX.com! |
+| [sanchezanjana-coder/ForgerNova](https://github.com/sanchezanjana-coder/ForgerNova) | 0 | Una web donde podras crear scripts de manera facil, para roblox studio |
 | [sandboxcommunity/failing-startups](https://github.com/sandboxcommunity/failing-startups) | 0 | Why your Roblox Clone websites are failing. |
 | [Saneksanek2/roblox-developer-union-bot](https://github.com/Saneksanek2/roblox-developer-union-bot) | 0 | (geen omschrijving op GitHub) |
 | [sani0325/RobloxUserInfoBot](https://github.com/sani0325/RobloxUserInfoBot) | 0 | noblox.js로 만든 유저 정보 불러오는 디스코드 봇! |
@@ -2527,6 +2649,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [savageecmd/savageecmd.github.io](https://github.com/savageecmd/savageecmd.github.io) | 0 | Roblox Website Dont stitch |
 | [sayursop73-ux/saweria-roblox-webhook](https://github.com/sayursop73-ux/saweria-roblox-webhook) | 0 | (geen omschrijving op GitHub) |
 | [schwamm710-lab/robloxloginwebsite](https://github.com/schwamm710-lab/robloxloginwebsite) | 0 | An website which is looking like an roblox login. |
+| [ScoofyTheFox/roblox-followers-tracker](https://github.com/ScoofyTheFox/roblox-followers-tracker) | 0 | tracks ANYONE'S (one acc or the whole platform) roblox followers and pings your discord webhook the second they move :3 |
 | [scottricity/rblx-webhook](https://github.com/scottricity/rblx-webhook) | 0 | Simple and powerful Discord webhook module for Roblox. |
 | [scottricity/roblox-ipc](https://github.com/scottricity/roblox-ipc) | 0 | Show what you're doing in Roblox, but on Discord! |
 | [scratch-web/vortex2luau](https://github.com/scratch-web/vortex2luau) | 0 | Convert vortex map data from https://playvortex.io/api/maps to a roblox luau script. |
@@ -2575,6 +2698,8 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [shibahex/roblox-join-notifier](https://github.com/shibahex/roblox-join-notifier) | 0 | A Rust-based tool that monitors when specified players join Roblox games via Discord webhooks. (Roblox Event Notifier) |
 | [shigeosapsycho/Roblox-Asset-Uploader-Bot](https://github.com/shigeosapsycho/Roblox-Asset-Uploader-Bot) | 0 | outdated roblox clothing bot, will need to be updated but uploading it for the purpose of it existing and free to distribute |
 | [shpeelock/rovloo-2011](https://github.com/shpeelock/rovloo-2011) | 0 | Port/Recreation of the 2011 ROBLOX website for Rovloo Desktop |
+| [ShravyaSonawane/Roblox_News_BY_Shravya_Gokul_Sonawane](https://github.com/ShravyaSonawane/Roblox_News_BY_Shravya_Gokul_Sonawane) | 0 | i have created this website this is the my 1st website and pleased support me because i am an 11 years coded |
+| [ShravyaSonawane/Robloxia](https://github.com/ShravyaSonawane/Robloxia) | 0 | this is a website of my hardwork it took me 1 month to create |
 | [shree6741/gamer.com](https://github.com/shree6741/gamer.com) | 0 | its should be like roblox |
 | [Shwabbaa/pick-a-side-bot](https://github.com/Shwabbaa/pick-a-side-bot) | 0 | Bot that automatically plays roblox Pick A Side |
 | [SicordX/roblox-proxy-privado](https://github.com/SicordX/roblox-proxy-privado) | 0 | (geen omschrijving op GitHub) |
@@ -2606,14 +2731,17 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [snakecorps/CrimeRBX](https://github.com/snakecorps/CrimeRBX) | 0 | CrimeRBX: Crimewave's roblox bot, made in discord.py |
 | [snako999/NEWS-ROBLOX](https://github.com/snako999/NEWS-ROBLOX) | 0 | A WEB NEWS ROBLOX |
 | [snipcola/MacSploit-Execute](https://github.com/snipcola/MacSploit-Execute) | 0 | Execute scripts using MacSploit in VSCode. |
+| [snow-is-cool/verity](https://github.com/snow-is-cool/verity) | 0 | Website for the Verity Roblox Game |
 | [snowHunter0/zabuza-tools](https://github.com/snowHunter0/zabuza-tools) | 0 | . Available on Windows and Linux. No malware or backdoor. Open Source only for verification, ensuring no malicious programs. Frequently updated. Free for eve... |
 | [SodaRev-Sites/robloxmeansfun](https://github.com/SodaRev-Sites/robloxmeansfun) | 0 | These are the domain files for the website www.roblox.meansfun |
 | [softhamck/Roblox](https://github.com/softhamck/Roblox) | 0 | Explora el fascinante mundo de Roblox en esta página web estática. Encuentra información sobre cómo jugar, regístrate o inicia sesión, accede a recursos y co... |
 | [SOFTHAMCKK/Pagina-ROBLOX](https://github.com/SOFTHAMCKK/Pagina-ROBLOX) | 0 | Página web utilizando la etiqueta '<section></section>' para definir la estructura básica |
 | [SohaibROBLOX/ROBLOXFANMADE](https://github.com/SohaibROBLOX/ROBLOXFANMADE) | 0 | In this Web you Can Find any Roblox Player! |
+| [SOhurf/Wegiel-Discord-Bot-PL](https://github.com/SOhurf/Wegiel-Discord-Bot-PL) | 0 | Wegiel is a Polish bot made by SOhurf (me) with simple and basic command and BUILT-IN Roblox and Steam tracker (the bot is just provided with main code witho... |
 | [somefajita/roblox.js](https://github.com/somefajita/roblox.js) | 0 | A roblox API wrapper (ALPHA & UNOFFICIAL) |
 | [someoneidoknow/NH-stuff](https://github.com/someoneidoknow/NH-stuff) | 0 | stuff i made for new horizons, https://www.roblox.com/games/11292443771/New-Horizon-Beta |
 | [somerug1-ops/Syntra-Roblox-Bot](https://github.com/somerug1-ops/Syntra-Roblox-Bot) | 0 | (geen omschrijving op GitHub) |
+| [SonicChaosDisastersDevTeam/Sonic.Exe-Chaos-Disasters](https://github.com/SonicChaosDisastersDevTeam/Sonic.Exe-Chaos-Disasters) | 0 | This Is The Official Website Of This Roblox Game |
 | [sonicthehedghehog56-sys/funniwasm](https://github.com/sonicthehedghehog56-sys/funniwasm) | 0 | a port of https://github.com/diekmann/wasm-fizzbuzz to roblox using https://github.com/SovereignSatellite/Wasynth (IM SUPER SORRY IF THE README IS BAD IDK HO... |
 | [SoNotClose/Persistent](https://github.com/SoNotClose/Persistent) | 0 | Persistent is a roblox module that helps with sending discord embeds |
 | [sosislisandvic07-source/upsilondevstudio](https://github.com/sosislisandvic07-source/upsilondevstudio) | 0 | Official website files for Upsilon Dev Studio – Roblox Build, Script, Mesh & GFX services. |
@@ -2621,10 +2749,12 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Soulzix/Bushido](https://github.com/Soulzix/Bushido) | 0 | Welcome to the official website of Bushido, the immersive samurai MMORPG on Roblox! |
 | [sounak9725/Roblox-Discord-bot](https://github.com/sounak9725/Roblox-Discord-bot) | 0 | It's a bot test for QA Division |
 | [Soy-Katsito/myHub](https://github.com/Soy-Katsito/myHub) | 0 | myHub is an advanced tool designed to optimize the management of digital stores on Discord. It seamlessly integrates with sales platforms and Roblox whitelis... |
+| [Spad1964/RbxRelay](https://github.com/Spad1964/RbxRelay) | 0 | HTTP relay for Roblox games, forward events to Discord and manage group actions. |
 | [SPASMATRONRZ/PROJECT-BOT](https://github.com/SPASMATRONRZ/PROJECT-BOT) | 0 | BOT PROJECT FOR ROBLOX |
 | [Speex06/roblx](https://github.com/Speex06/roblx) | 0 | Roblox-inspired web game platform with a 3D Obby built in Three.js |
 | [spencrc/Roblox-To-Discord-Backend](https://github.com/spencrc/Roblox-To-Discord-Backend) | 0 | Express.js server (hosted on Vercel) for handling Roblox OAuth 2.0 redirects and adding verified users to Supabase. |
 | [spencrc/Roblox-To-Discord-Bot](https://github.com/spencrc/Roblox-To-Discord-Bot) | 0 | Discord bot that integrates with Roblox-Verify-Backend to generate Roblox OAuth 2.0 links and retrieve verified user data. |
+| [SpongeDroid/bersfr](https://github.com/SpongeDroid/bersfr) | 0 | contact website for a roblox game |
 | [SpookyBlooky/Spooky-s-Roblox-Ids-Lists](https://github.com/SpookyBlooky/Spooky-s-Roblox-Ids-Lists) | 0 | Here are ids that i found on Discord / Roblox Creator thingy |
 | [SpookyKipper/RobloxForLinux](https://github.com/SpookyKipper/RobloxForLinux) | 0 | For ROBLOX on Linux :D (Credit to alfonsojon1997@gmail.com) |
 | [SpyderShadyar/Squishy-Tower](https://github.com/SpyderShadyar/Squishy-Tower) | 0 | this an website made by shadyar it's for an roblox game. |
@@ -2633,6 +2763,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [sqwaze1/roblox-games-status-in-discord](https://github.com/sqwaze1/roblox-games-status-in-discord) | 0 | (geen omschrijving op GitHub) |
 | [SRHSCoder/Roblox-Simulator-Website](https://github.com/SRHSCoder/Roblox-Simulator-Website) | 0 | This is the website for our Roblox Weight Lifting Simulator to help depression. |
 | [ssavnayt/PRO.xyz](https://github.com/ssavnayt/PRO.xyz) | 0 | PRO.xyz - is a new HTTP-Only proxy, that works via requesting websites to Roblox |
+| [ssongezer-netizen/roblox-boss-tracker](https://github.com/ssongezer-netizen/roblox-boss-tracker) | 0 | notifies inside a discord channel via webhook |
 | [sspiky/roblox-ugc-notifier](https://github.com/sspiky/roblox-ugc-notifier) | 0 | sends a discord webhook when new ugc is posted |
 | [sssynk/smartsheet-roblox-api](https://github.com/sssynk/smartsheet-roblox-api) | 0 | An API to connect Smartsheet to Roblox. |
 | [ssyskey/APIAtRoblox](https://github.com/ssyskey/APIAtRoblox) | 0 | All Endpoints & API's at roblox.com |
@@ -2701,9 +2832,11 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [TechnoGuyz111/1_Techno1-Roblox-Developer-Portfolio](https://github.com/TechnoGuyz111/1_Techno1-Roblox-Developer-Portfolio) | 0 | The official website where I publicise my past work as a developer on Roblox! |
 | [technokowski/GalaxyCalculator](https://github.com/technokowski/GalaxyCalculator) | 0 | A simple web app trade item values within the Galaxy Starbase Roblox game. |
 | [teddytoro/AMW-NEWS-WEBSITE](https://github.com/teddytoro/AMW-NEWS-WEBSITE) | 0 | A newspaper of the AMW Community on Roblox |
+| [tedsmith88/gag-stock-alerts-bot](https://github.com/tedsmith88/gag-stock-alerts-bot) | 0 | Telegram + Discord bot that tracks item stock/rotation for a Roblox game and pings each user only for the specific items on their personal watchlist. |
 | [Teerths/promocode-gen](https://github.com/Teerths/promocode-gen) | 0 | open sourced and shit gens unchecked promo codes for roblox 1.25 and discord nitro |
 | [TeeZeex/roblox-shorts-bot](https://github.com/TeeZeex/roblox-shorts-bot) | 0 | (geen omschrijving op GitHub) |
 | [teknovus/stupid-squishmallow-slots](https://github.com/teknovus/stupid-squishmallow-slots) | 0 | This is a fork of a slot machine web game that I made to make fun of my friend who kept gambling for virtual stuffed animals in roblox Of course, they ended ... |
+| [Telly112/roblox-id-finder](https://github.com/Telly112/roblox-id-finder) | 0 | A simple HTML/JS web tool to search for user IDs, badges, and items in Roblox. |
 | [temuujintemuujin2101-tech/gfxop4](https://github.com/temuujintemuujin2101-tech/gfxop4) | 0 | Premium Roblox GFX resources website |
 | [temuujintemuujin2101-tech/gfxop4-site](https://github.com/temuujintemuujin2101-tech/gfxop4-site) | 0 | Premium Roblox GFX resources website |
 | [Teo-SNTS/SNTS-SYSTEM](https://github.com/Teo-SNTS/SNTS-SYSTEM) | 0 | SNTS OFFICIAL ROBLOX SYSTEM WEBSITE |
@@ -2728,6 +2861,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [thekilledone1/Roblox-Client-Assistant](https://github.com/thekilledone1/Roblox-Client-Assistant) | 0 | A util that makes client modification easier and automatic. Contact me on Discord (@thekilledone1) for inquiries, suggestions or bug reports. |
 | [TheLegendRBLX/WeTheBacons](https://github.com/TheLegendRBLX/WeTheBacons) | 0 | Official website source code for WeTheBacons. Featuring Roblox gameplay content, challenges, tutorials, updates, and community-focused entertainment. Built f... |
 | [ThelostLiam/Roblox-Studio-to-DiscordRPC](https://github.com/ThelostLiam/Roblox-Studio-to-DiscordRPC) | 0 | Bringing Roblox Studio Status to Discord using Rich Presence! Please check the How to Setup.txt |
+| [TheMadCampaigner/bricks-and-bloxxers](https://github.com/TheMadCampaigner/bricks-and-bloxxers) | 0 | Bricks and Bloxxers official website! Go check out https://www.roblox.com/games/135515939862986/Bricks-and-Bloxxers#!/about |
 | [TheMich157/indigo-airlines-roblox-web-app](https://github.com/TheMich157/indigo-airlines-roblox-web-app) | 0 | (geen omschrijving op GitHub) |
 | [themk240/Discord-Bot-Roblox-Friends-Manager](https://github.com/themk240/Discord-Bot-Roblox-Friends-Manager) | 0 | Discord Bot Roblox Friends Manager |
 | [thenamelessdev/RoTool](https://github.com/thenamelessdev/RoTool) | 0 | Tools for Roblox website |
@@ -2736,7 +2870,9 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [ThePotRat/roblox-api-server](https://github.com/ThePotRat/roblox-api-server) | 0 | (geen omschrijving op GitHub) |
 | [TheRat82/RobloxBotPython](https://github.com/TheRat82/RobloxBotPython) | 0 | Este é um script de bots |
 | [TheRat82/RobloxBotPython3](https://github.com/TheRat82/RobloxBotPython3) | 0 | Este é um bot para roblox, feito em python. Observação este bot não foi criado por mim, créditos esta na pasta do bot. |
+| [TheRealDevTan/roblox-google-proxy](https://github.com/TheRealDevTan/roblox-google-proxy) | 0 | (geen omschrijving op GitHub) |
 | [TheRobloxBacon/The_Roblox_Bacon](https://github.com/TheRobloxBacon/The_Roblox_Bacon) | 0 | How to change https://scratch.mit.edu/projects/585014887/ |
+| [therobloxcameraman/Strange-bathtub-morphs-2-offical](https://github.com/therobloxcameraman/Strange-bathtub-morphs-2-offical) | 0 | This is the website for sbm2 on roblox |
 | [TheSpookyTester/Roblox-Source-Data-Website](https://github.com/TheSpookyTester/Roblox-Source-Data-Website) | 0 | All The Sources Are From Inspect Element. |
 | [TheThomasFan/Roblox-Studio-Files](https://github.com/TheThomasFan/Roblox-Studio-Files) | 0 | The files can be shared, but do not publish them on the web page on Roblox. |
 | [thetrueecheater/rbxlite](https://github.com/thetrueecheater/rbxlite) | 0 | An Roblox API Wrapper for Python, with all API Allowed features |
@@ -2824,6 +2960,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [valdoratorz/zorara](https://github.com/valdoratorz/zorara) | 0 | zorara exec website source code (i think) |
 | [valerynherrera7-source/waterpark-live-game](https://github.com/valerynherrera7-source/waterpark-live-game) | 0 | Juego interactivo de parque acuático para Roblox con sistema de turnos, regalos, eventos, ranking y conexión a LIVE |
 | [Vamashi/teleblox](https://github.com/Vamashi/teleblox) | 0 | Free tool to use telegram bots in roblox game |
+| [VanguardsGame/Vanguards](https://github.com/VanguardsGame/Vanguards) | 0 | Official website for Vanguards on roblox. |
 | [Vanxen/Roblox-Extension-Logger](https://github.com/Vanxen/Roblox-Extension-Logger) | 0 | (geen omschrijving op GitHub) |
 | [Varap228/KEYS-script-by-Varap](https://github.com/Varap228/KEYS-script-by-Varap) | 0 | (geen omschrijving op GitHub) game: https://www.roblox.com/games/12407250267/KEYS-Season-1 |
 | [VayTheMan/Webhook-Roblox-Follower-BOT](https://github.com/VayTheMan/Webhook-Roblox-Follower-BOT) | 0 | A Fake Roblox Follower BOT which uses a Discord Webhook to get Roblox credentials for Educational purposes Only! |
@@ -2842,6 +2979,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [VignetteDev/Helios](https://github.com/VignetteDev/Helios) | 0 | Discord bot connecting Roblox and Discord! |
 | [vinegarhq/custard](https://github.com/vinegarhq/custard) | 0 | Discord webhook & GitHub CI powered periodic roblox deployment tracker |
 | [VisAwesme/Experiment-Labs-Website](https://github.com/VisAwesme/Experiment-Labs-Website) | 0 | The web-page for the Experiment Labs game on Roblox. |
+| [vishal-kala-tech/timefence](https://github.com/vishal-kala-tech/timefence) | 0 | Lightweight macOS parental control tool that tracks and limits active screen time for apps and websites like YouTube and Roblox. |
 | [vishavbhatti2020-svg/rensseslercountyroblox](https://github.com/vishavbhatti2020-svg/rensseslercountyroblox) | 0 | IT IS A WEBSITE FOR A GAME IN ROBLOX CALLED RENSSELER COUNTY |
 | [vision-core-dev/roblox-simple-discord](https://github.com/vision-core-dev/roblox-simple-discord) | 0 | Fast and easy for creating Roblox and Discord webhooks. |
 | [VivasFN/Roblox-Bots](https://github.com/VivasFN/Roblox-Bots) | 0 | Bots for Roblox games!!! CHECK THE DISCORD |
@@ -2849,6 +2987,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [voidnig/Nighfall](https://github.com/voidnig/Nighfall) | 0 | Roblox Nightfall discord bot |
 | [voidnig/Nighfall2](https://github.com/voidnig/Nighfall2) | 0 | Roblox Nightfall discord bot |
 | [VoidNightshade1204/Roblox-Ranking-Service](https://github.com/VoidNightshade1204/Roblox-Ranking-Service) | 0 | For ranking in groups |
+| [Vorxtex/tuning-web](https://github.com/Vorxtex/tuning-web) | 0 | Tienda de tunnings personalizados para Roblox |
 | [Voxelstice/acg-roulette](https://github.com/Voxelstice/acg-roulette) | 0 | A russian-roulette like thing specifically for the A core game roblox discord server. |
 | [VoxLenox/RoAP](https://github.com/VoxLenox/RoAP) | 0 | A lightweight proxy server designed to overcome Roblox HttpService limitations on internal API endpoints |
 | [vssuzuki2/roblox_fishing_bot](https://github.com/vssuzuki2/roblox_fishing_bot) | 0 | Python stript for automated fishing in roblox. Thanks to Nicolas de Oliveira for making this possible |
@@ -2857,7 +2996,9 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [VV1213/robloxthingy](https://github.com/VV1213/robloxthingy) | 0 | Just an random website |
 | [vx2c/tik-tok-liveRoblox](https://github.com/vx2c/tik-tok-liveRoblox) | 0 | website tik tok live conector |
 | [Vxlkyire/Proxy](https://github.com/Vxlkyire/Proxy) | 0 | Basic Proxy For Roblox - ProxyService Reuploaded |
+| [vyusufff/blxcodes.com](https://github.com/vyusufff/blxcodes.com) | 0 | Working Roblox codes — auto-synced |
 | [waimea-jrainbow/Project-Lazarus-website](https://github.com/waimea-jrainbow/Project-Lazarus-website) | 0 | A website that displays information about Project Lazarus a roblox game that my friends and I play. |
+| [walway/roblox-website-images-fix](https://github.com/walway/roblox-website-images-fix) | 0 | Утилита для быстрого добавления tr.rbxcdn.com в файл hosts и тестирования соеденения. |
 | [wasp-ac/website](https://github.com/wasp-ac/website) | 0 | A clean and simple dashboard to search, view, and manage blacklisted Roblox users. Includes search, pagination, user modals, and Discord support integration. |
 | [watameln/Images](https://github.com/watameln/Images) | 0 | Discord Webhooks dont like roblox |
 | [waterbreaker2333/roblox-ranking-services](https://github.com/waterbreaker2333/roblox-ranking-services) | 0 | (geen omschrijving op GitHub) |
@@ -2870,6 +3011,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [wawawasaw/Dremo-s-custom-hbe](https://github.com/wawawasaw/Dremo-s-custom-hbe) | 0 | Roblox Hit bot extender |
 | [wcl17/willscript](https://github.com/wcl17/willscript) | 0 | Website for my ROBLOX Scripting |
 | [wcl17/willscripting](https://github.com/wcl17/willscripting) | 0 | Website used for my ROBLOX Scripting |
+| [wcupped/runblox](https://github.com/wcupped/runblox) | 0 | RunBlox - Roll a Random Game from ROBLOX Series on Speedrun.com |
 | [webreinfement/roblox-trading-bot](https://github.com/webreinfement/roblox-trading-bot) | 0 | (geen omschrijving op GitHub) |
 | [websitedeb/rblxplayerlookup](https://github.com/websitedeb/rblxplayerlookup) | 0 | roblox player look up website |
 | [Weirup/Weirup.github.io](https://github.com/Weirup/Weirup.github.io) | 0 | A my game website is web recommended roblox game my tiktok is Weir.s999 |
@@ -2922,10 +3064,12 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [xswana/ranking-system](https://github.com/xswana/ranking-system) | 0 | (geen omschrijving op GitHub) Ranking roblox players. |
 | [xtdw/Local-Roblox-Api](https://github.com/xtdw/Local-Roblox-Api) | 0 | (geen omschrijving op GitHub) Roblox API wrapper |
 | [xtofuub/RoJoiner](https://github.com/xtofuub/RoJoiner) | 0 | A sleek web app for finding and joining the public Roblox server a player is currently in. |
+| [xvDoshik/roblox-adurite-addon](https://github.com/xvDoshik/roblox-adurite-addon) | 0 | Firefox extension for Adurite shop owner search |
 | [xvicelestial-lang/Celestial](https://github.com/xvicelestial-lang/Celestial) | 0 | Celestial est une plateforme de contact et d’assistance au design moderne et épuré. Elle permet aux utilisateurs de transmettre une demande d’aide de manière... |
 | [xVoid-xyz/RobloxToDiscord](https://github.com/xVoid-xyz/RobloxToDiscord) | 0 | An api that can be called in roblox and contacts the discord api to send messages, this is as ROBLOX blocked the discord api! (You can host this on heroku fo... |
 | [xvzgbdh/roblox-telegram-bot](https://github.com/xvzgbdh/roblox-telegram-bot) | 0 | (geen omschrijving op GitHub) |
 | [xwormer222/school-36](https://github.com/xwormer222/school-36) | 0 | Website for Roblox game School 36 |
+| [xXHumanDevXx/lookback.rbx](https://github.com/xXHumanDevXx/lookback.rbx) | 0 | LookBack is a wesbite archiving platform on a website simulation game inside of Roblox. |
 | [xxpdc/roblox-avatar-proxy](https://github.com/xxpdc/roblox-avatar-proxy) | 0 | (geen omschrijving op GitHub) |
 | [xxpwnxxx420lord/discord-to-roblox-kicking](https://github.com/xxpwnxxx420lord/discord-to-roblox-kicking) | 0 | (geen omschrijving op GitHub) |
 | [xxxAnn/chocomint](https://github.com/xxxAnn/chocomint) | 0 | Rust API wrapper for the Roblox API |
@@ -2952,6 +3096,8 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [yoyiuofig-a11y/discord-bot](https://github.com/yoyiuofig-a11y/discord-bot) | 0 | Repository name: discord-bot Description: 🤖 Bot Discord vui tính, thích meme, Roblox và trò chuyện bằng tiếng Việt. ☑ Add README ☑ Add .gitignore → Node ☐ Ad... |
 | [yozoyaa/roblox-discord-feedback-dashboard](https://github.com/yozoyaa/roblox-discord-feedback-dashboard) | 0 | (geen omschrijving op GitHub) |
 | [yozoyaa/roblox-proxy-vercel](https://github.com/yozoyaa/roblox-proxy-vercel) | 0 | (geen omschrijving op GitHub) |
+| [ytangel298-cmyk/Fairway-Central](https://github.com/ytangel298-cmyk/Fairway-Central) | 0 | Roblox golf news, tournaments, rankings, player spotlights, and community highlights. |
+| [ythundered/BloxSuite](https://github.com/ythundered/BloxSuite) | 0 | Roblox-Enhancing Extension supported on all browsers |
 | [yuhbren/MKD_system](https://github.com/yuhbren/MKD_system) | 0 | Roblox Player Monitoring Script - Logs to the console (F9) game join/leave time, account age, number of badges and friends for each player using the public R... |
 | [YUHISM/roblox-donation-proxy](https://github.com/YUHISM/roblox-donation-proxy) | 0 | (geen omschrijving op GitHub) |
 | [YummyLuvsAk/Roblox-Detect](https://github.com/YummyLuvsAk/Roblox-Detect) | 0 | A free and easy to use website and file to easily detect a script or unauthorized product used on roblox |
@@ -2966,6 +3112,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [z3zZ/Roblox-Commission-Dashboard](https://github.com/z3zZ/Roblox-Commission-Dashboard) | 0 | single page web dashboard that helps me find and evaluate Roblox commission opportunities. |
 | [Z4BB0/RobloxTesting1](https://github.com/Z4BB0/RobloxTesting1) | 0 | A roblox WebSite Test1 |
 | [ZachCurtis/roblox-long-polling](https://github.com/ZachCurtis/roblox-long-polling) | 0 | Communication between Roblox and Node.js based on long polling |
+| [zaiouro/Hadasphere-EX](https://github.com/zaiouro/Hadasphere-EX) | 0 | HADASPHERE / EX - development log and website for an unreleased Roblox game |
 | [zakisarchive/roblox-follow-proxy](https://github.com/zakisarchive/roblox-follow-proxy) | 0 | (geen omschrijving op GitHub) |
 | [zarylgasoverkebulan-web/ZentoxPlay.com](https://github.com/zarylgasoverkebulan-web/ZentoxPlay.com) | 0 | "Official mini-site for Zentox Play YouTube channel — all about Roblox, Minecraft, Fortnite, Brawl Stars, anime and PC gaming." |
 | [zayyanr/robloxusernamesbot](https://github.com/zayyanr/robloxusernamesbot) | 0 | This bot checks if a Roblox username is taken or not using APIs. |
@@ -2991,6 +3138,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [zgr2575/RoSystem](https://github.com/zgr2575/RoSystem) | 0 | This isn't a discord bot Its a server for your Roblox game that protects it and may others! |
 | [zhenjelte/Group-Counter-For-Roblox](https://github.com/zhenjelte/Group-Counter-For-Roblox) | 0 | With this, you can set up an automated counter through Discord webhooks. A nice feature if you want a live member feed of your Roblox group. |
 | [zhqdev/RobloxInfoBot](https://github.com/zhqdev/RobloxInfoBot) | 0 | RbxHelper est un bot Discord simple dédié aux joueurs Roblox. Il permet d’afficher l’avatar d’un joueur, d’obtenir les infos d’un groupe (nom, description, m... |
+| [zhuoranDeng/Avatar-Loader](https://github.com/zhuoranDeng/Avatar-Loader) | 0 | Web 3D stage that loads Roblox avatars by userId (Vite + R3F thumbnail mesh viewer) |
 | [zhyonral-boop/Dev](https://github.com/zhyonral-boop/Dev) | 0 | Making a website for a Roblox game maker for devs |
 | [ziadhalrey/my-roblox-api](https://github.com/ziadhalrey/my-roblox-api) | 0 | Roblox gamepass proxy server |
 | [ziadhalrey/xluca](https://github.com/ziadhalrey/xluca) | 0 | Roblox gamepass proxy server |

@@ -49,7 +49,7 @@ Voxels, dungeons, doolhoven, wave function collapse, noise en curves.
 | [Arav-ThewebMaker/Roblox-Maze-System](https://github.com/Arav-ThewebMaker/Roblox-Maze-System) | 0 | Doolhoven genereren én oplossen |
 | [IanLiggett/roblox-voxel-terrain](https://github.com/IanLiggett/roblox-voxel-terrain) | 0 | Chunked voxel-terrain met multithreading en binary greedy meshing |
 
-## Uitgebreide index (256)
+## Uitgebreide index (263)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -137,6 +137,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [3therial/ROBLOX-Username-Generator-JavaScript](https://github.com/3therial/ROBLOX-Username-Generator-JavaScript) | 0 | (geen omschrijving op GitHub) |
 | [abdedarghal111/Radial-color-picker](https://github.com/abdedarghal111/Radial-color-picker) | 0 | A radial color picker maded in roblox in 2d GUI like a math and programming challenge. |
 | [acaba1806/math_lib_roblox](https://github.com/acaba1806/math_lib_roblox) | 0 | (geen omschrijving op GitHub) |
+| [adit-rah/ttt](https://github.com/adit-rah/ttt) | 0 | A complete Roblox tycoon where every model is generated in code — no toolbox assets, no uploaded meshes. |
 | [agnesllundgren-hub/nightmare-maze-roblox](https://github.com/agnesllundgren-hub/nightmare-maze-roblox) | 0 | (geen omschrijving op GitHub) game |
 | [AircraftMadness/Catmull-Rom-Spline](https://github.com/AircraftMadness/Catmull-Rom-Spline) | 0 | The module that makes it easy to create Catmull-Rom Splines on Roblox. |
 | [AlexValenta/Dungeon-Crawl-Maturitni-projekt](https://github.com/AlexValenta/Dungeon-Crawl-Maturitni-projekt) | 0 | Soulslike RPG - hra v prostředí Roblox Studio |
@@ -220,6 +221,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [lakshya-wahi/math-duels](https://github.com/lakshya-wahi/math-duels) | 0 | A multiplayer educational Roblox game with 20,000+ plays that teaches math through competitive gameplay. |
 | [Leon1324765s/Roblox-parser](https://github.com/Leon1324765s/Roblox-parser) | 0 | 🎚️An algorithm for parsing tables such as arrays and dictionaries designed Roblox with automatic variable creation and Instance path compression |
 | [LFS6502/curve](https://github.com/LFS6502/curve) | 0 | A Roblox Luau general curve library, it does all of the annoying math for you. |
+| [localrantss-beep/vieTeaches](https://github.com/localrantss-beep/vieTeaches) | 0 | vieTeaches is a premier Roblox-focused online learning community specializing in Mathematics and Roblox Luau Scripting. Our instructors break down complex co... |
 | [lows-poly/vec3-math-utils](https://github.com/lows-poly/vec3-math-utils) | 0 | A simple helper module for working with distance and position in Roblox |
 | [Lukako-zabijak/roblox-shared-maze-systems](https://github.com/Lukako-zabijak/roblox-shared-maze-systems) | 0 | (geen omschrijving op GitHub) |
 | [MarioChao/segmented-route](https://github.com/MarioChao/segmented-route) | 0 | Package of modules for managing segments and routes. |
@@ -239,7 +241,9 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [MyDreamWorkspace/Roblox-Demo-Maze-World](https://github.com/MyDreamWorkspace/Roblox-Demo-Maze-World) | 0 | (geen omschrijving op GitHub) |
 | [n0tf4res/Saturn-Roblox-Username-Generator](https://github.com/n0tf4res/Saturn-Roblox-Username-Generator) | 0 | An ROBLOX Tool to generate usernames |
 | [nathangeology/VoxelWright](https://github.com/nathangeology/VoxelWright) | 0 | Import, Voxelize & Optimize in roblox studio |
+| [nazwaalyamaharani-eng/roblox-math-escape-grade7](https://github.com/nazwaalyamaharani-eng/roblox-math-escape-grade7) | 0 | UTS Simulation Grade 7 |
 | [neonnathan/HDRI-to-CubeMap-](https://github.com/neonnathan/HDRI-to-CubeMap-) | 0 | A fork of @matheowis HDRI to cubemap specifically designed for Roblox |
+| [Noboday-hash/DungeonGeneratorRoblox](https://github.com/Noboday-hash/DungeonGeneratorRoblox) | 0 | (geen omschrijving op GitHub) |
 | [OrionBob/ComplexNumbersLua](https://github.com/OrionBob/ComplexNumbersLua) | 0 | A table for maths with complex numbers, intended for use in module scripts with Roblox luau |
 | [Pikashocker/Roblox-Dungeon-Rush](https://github.com/Pikashocker/Roblox-Dungeon-Rush) | 0 | My cs50 final project |
 | [PixelpilotDiscord/Username-Gen](https://github.com/PixelpilotDiscord/Username-Gen) | 0 | 3-4-5 Letter Roblox Username Generator. |
@@ -300,15 +304,18 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [UltraTechX/pgen-project](https://github.com/UltraTechX/pgen-project) | 0 | Exploring the possiblities of procedural generation in Roblox using perlin noise |
 | [Un1versality/Crazy-Balls-ROBLOX-MATH-](https://github.com/Un1versality/Crazy-Balls-ROBLOX-MATH-) | 0 | Roblox Math, my first project based on roblox's math. Fun tbh. |
 | [Un1versality/MathBeacon](https://github.com/Un1versality/MathBeacon) | 0 | A beacon style thing made in roblox for fun. Ofc with math cuz I like to overcomplicate. |
+| [univcorp2-ctrl/roblox-skillcity](https://github.com/univcorp2-ctrl/roblox-skillcity) | 0 | Production-oriented Roblox social-learning city: traffic judgment, practical math, roleplay, cooperative incidents, analytics, and safe monetization hooks. |
 | [Vector-Roblox/UI-Library](https://github.com/Vector-Roblox/UI-Library) | 0 | The official Roblox UI library for Vector. |
 | [Vel136/Grove](https://github.com/Vel136/Grove) | 0 | A loose octree for Roblox Luau. |
 | [Vel136/Meadow](https://github.com/Vel136/Meadow) | 0 | A loose quadtree for Roblox Luau. |
+| [vinz-org/Geometry](https://github.com/vinz-org/Geometry) | 0 | Geometry it a roblox clone |
 | [VixelGoob/classic-roblox-username-generator.](https://github.com/VixelGoob/classic-roblox-username-generator.) | 0 | A short Classic Roblox style username generator I made as a test. |
 | [weebweeb/TagService.rbxl](https://github.com/weebweeb/TagService.rbxl) | 0 | A simple module to place roblox Value holding objects (like StringValue and Vector3Value) |
 | [Whb0o/Roblox-vector-icons](https://github.com/Whb0o/Roblox-vector-icons) | 0 | Тут вы можете найти роблокс векторные иконки. |
 | [Wormhole-Systems/SBezier](https://github.com/Wormhole-Systems/SBezier) | 0 | A Bezier Curve Generator and Library for Roblox |
 | [writebits/Fast-Noise](https://github.com/writebits/Fast-Noise) | 0 | FastNoise is a procedural noise module for Roblox Studio, focused on performance, modularity, and ease of use. |
 | [yaaseennaeemahmed-alt/Maze-Game-Roblox](https://github.com/yaaseennaeemahmed-alt/Maze-Game-Roblox) | 0 | Designing of Maze Game Environment in Roblox Studio |
+| [yurisenik/mathquest-roblox](https://github.com/yurisenik/mathquest-roblox) | 0 | Образовательная Roblox-игра с игровыми миссиями по математике, физике и другим предметам |
 | [zcharo99/fractal](https://github.com/zcharo99/fractal) | 0 | open source script for a lot of roblox games |
 | [zqfqe/roblox-name-generator](https://github.com/zqfqe/roblox-name-generator) | 0 | (geen omschrijving op GitHub) roblox-name-generator |
 

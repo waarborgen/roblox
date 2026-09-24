@@ -78,7 +78,7 @@ Animatie-solvers, IK, Blender/Mixamo-pipelines, procedurele animatie en springs.
 | [realllityyt/myanimator](https://github.com/realllityyt/myanimator) | 0 | Animaties per ledemaat mixen: crossfade, additive layers, events |
 | [purpulhq/character-tilt](https://github.com/purpulhq/character-tilt) | 0 | Kantelt het character mee met de kijkrichting van de camera |
 
-## Uitgebreide index (425)
+## Uitgebreide index (430)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -200,14 +200,17 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Bhoomi-Pandey/WebDev-Animation-Project](https://github.com/Bhoomi-Pandey/WebDev-Animation-Project) | 0 | Roblox Logo Animation Project |
 | [Bikzmal/Roblox-Combat-Demo](https://github.com/Bikzmal/Roblox-Combat-Demo) | 0 | A Roblox combat framework I built featuring abilities, hitboxes, cooldowns, knockback, animations, and movement based attacks. |
 | [biotoxin495/GradientKit](https://github.com/biotoxin495/GradientKit) | 0 | A standalone UIGradient creation and animation utility for Roblox UI. |
+| [biotoxin495/LoadingSpinner](https://github.com/biotoxin495/LoadingSpinner) | 0 | A small, dependency-free Roblox utility for displaying animated loading spinners over UI elements. |
 | [bogusdip/Roblox-FPS-Custom-Characters-Physics-Based-Combat-Procedural-Animation](https://github.com/bogusdip/Roblox-FPS-Custom-Characters-Physics-Based-Combat-Procedural-Animation) | 0 | A solo Roblox FPS with fully custom characters, server-verified physics-based combat, and spring-driven procedural animation, no baked animation clips or def... |
 | [BonjourMadam/viewport-roblox-character](https://github.com/BonjourMadam/viewport-roblox-character) | 0 | This basically shows your character in a viewport. It has animations and everything. I do have a longer one i personally use. But this is a very basic one th... |
+| [cafardises/ExplosiveRobloxBow](https://github.com/cafardises/ExplosiveRobloxBow) | 0 | Animated bow that throws bullet that explodes on player and knockback them .. |
 | [carter-fr/Anim-Ware](https://github.com/carter-fr/Anim-Ware) | 0 | A useful script used to change your animation package on ROBLOX. |
 | [cebbolucas-a11y/roblox-aura-game](https://github.com/cebbolucas-a11y/roblox-aura-game) | 0 | Make it perfect 200% working and like pro developer Do it ok 100% working goods gui and system the design of gui and animation I said |
 | [chanLik1208-dev/Video2Roblox-Animation](https://github.com/chanLik1208-dev/Video2Roblox-Animation) | 0 | Only.For Windows and Macos [Still Testing] |
 | [chickenwing69420/My-Portfolio](https://github.com/chickenwing69420/My-Portfolio) | 0 | My roblox animation porfolio |
 | [chise3746-cpu/Gore.Roblox.Blender.3D](https://github.com/chise3746-cpu/Gore.Roblox.Blender.3D) | 0 | Roblox blender gore tutorial (Updated) |
 | [christianJames24/animator](https://github.com/christianJames24/animator) | 0 | small and easy to use ui animation library for roblox |
+| [chrisxjo/roblox-live-interactive](https://github.com/chrisxjo/roblox-live-interactive) | 0 | Interactive TikTok LIVE application that spawns and animates Roblox avatars in response to viewer comments and gifts. |
 | [chroma-hade/AnimController](https://github.com/chroma-hade/AnimController) | 0 | Sync, Manage For Roblox Rig Objects |
 | [codesenseAye/Animation-Node-Editor](https://github.com/codesenseAye/Animation-Node-Editor) | 0 | A node editor app meant to make creating animations for UI easier on Roblox |
 | [codesenseAye/Transfer-Animations](https://github.com/codesenseAye/Transfer-Animations) | 0 | Automatically copy animation objects within roblox studio , transfer them to a different group, and set the animation object ids to the new ids. |
@@ -288,6 +291,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [j35114125-sys/r7-but-better](https://github.com/j35114125-sys/r7-but-better) | 0 | soo bassically normal roblox r6 is only for animation, well i made it where it can be used as a morph now |
 | [jakey1730/Animation-player](https://github.com/jakey1730/Animation-player) | 0 | An animation player script for roblox |
 | [Jeraisen/Portofolio-Personal](https://github.com/Jeraisen/Portofolio-Personal) | 0 | Portfolio From Nett, he is an engineer / dev in several engines such as unreal engine, unity, roblox studio and can do multitasking like blender and others a... |
+| [joelkanyi/roblox-builder-school](https://github.com/joelkanyi/roblox-builder-school) | 0 | A fun, animated day-by-day Roblox Studio course for kids. Guided by Fundi the weaver bird. |
 | [JohnDoe1999j1/roblox-mead-animator](https://github.com/JohnDoe1999j1/roblox-mead-animator) | 0 | A Roblox animation GUI system for editing CFrame positions and rotations |
 | [JohnIvan-Ello/Weaponry](https://github.com/JohnIvan-Ello/Weaponry) | 0 | A collection of 3D weapons created using Maya, Blender and Unity, optimized for performance and visual fidelity within Roblox Studio. |
 | [johnzeedensc90-lgtm/roblox-parkour-game](https://github.com/johnzeedensc90-lgtm/roblox-parkour-game) | 0 | A parkour game for Roblox with advanced movement mechanics and animations |
@@ -491,6 +495,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [whohuong/Roblox-Dev-Starter](https://github.com/whohuong/Roblox-Dev-Starter) | 0 | Created for Part 1 of the "Block 2 Project" assigned during the Spring 2024, CS3090 - Computer Ethics course. |
 | [William844875/Unreleaseemote](https://github.com/William844875/Unreleaseemote) | 0 | - added 3 Emote (Unreleased by Roblox) |
 | [wolfqa/moonanim](https://github.com/wolfqa/moonanim) | 0 | Moon Animator for Roblox |
+| [wwwdalalali29-oss/roblox-r6-map](https://github.com/wwwdalalali29-oss/roblox-r6-map) | 0 | A Roblox-style R6 character rig and adventure map |
 | [xdasdwqfbtrtrrt1/policyjne-pagony-blender](https://github.com/xdasdwqfbtrtrrt1/policyjne-pagony-blender) | 0 | Blender script generating 15 realistic Polish Police rank insignia (pagony) as individual 3D models, optimized for Roblox export. |
 | [xSwezan/Animatr](https://github.com/xSwezan/Animatr) | 0 | Custom Animator for roblox |
 | [yiffaphetamine/moon-animator](https://github.com/yiffaphetamine/moon-animator) | 0 | moon animator the roblox plugin |

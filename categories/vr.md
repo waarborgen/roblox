@@ -22,7 +22,7 @@ Full-body VR, SteamVR-trackers en webcam-tracking.
 | [mathken029/vr-roblox-kit](https://github.com/mathken029/vr-roblox-kit) | 0 | Open-source VR game-development kit |
 | [Metatable-Games/MetaVR](https://github.com/Metatable-Games/MetaVR) | 0 | VR-framework in Luau |
 
-## Uitgebreide index (47)
+## Uitgebreide index (48)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -70,6 +70,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [SlapBattlesRepository/Roblox-Mobile-Virtual-Reality-Hook-Script](https://github.com/SlapBattlesRepository/Roblox-Mobile-Virtual-Reality-Hook-Script) | 0 | this is a script that makes it look like you have a virtual reality headset on, when you dont |
 | [Superior-Qam/P-SCP-Room---LCZ-Straight-Armoury](https://github.com/Superior-Qam/P-SCP-Room---LCZ-Straight-Armoury) | 0 | Raw Code Data for Custom Room in Project SCP. Play Project SCP in Roblox via: https://www.roblox.com/games/5534891288/Project-SCP-VR-SUPPORT |
 | [Superior-Qam/P-SCP-Room---X-Terminal-Support-Community](https://github.com/Superior-Qam/P-SCP-Room---X-Terminal-Support-Community) | 0 | Raw Code Data for Custom Room in Project SCP. Play Project SCP in Roblox via: https://www.roblox.com/games/5534891288/Project-SCP-VR-SUPPORT |
+| [teja-gitcode/Ashley-Virtual-Experience-Store](https://github.com/teja-gitcode/Ashley-Virtual-Experience-Store) | 0 | Roblox themed Ashley Experience Store with VR Support |
 | [The3Luigis/SMO-RP-Roblox](https://github.com/The3Luigis/SMO-RP-Roblox) | 0 | Just a man doing gods work, giving you access to SMO RP via this link: https://www.roblox.com/games/15186922599/Sonics-RP-VR |
 | [TrueLowCortisol/Fake-Virtual-Reality](https://github.com/TrueLowCortisol/Fake-Virtual-Reality) | 0 | FE Fake Virtual Reality on Roblox. |
 | [Vaklye/Corvex---VR-Character-System](https://github.com/Vaklye/Corvex---VR-Character-System) | 0 | Full-body VR character system for Roblox — arms, legs and torso that follow the player. One script to install. |

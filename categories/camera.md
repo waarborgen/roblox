@@ -34,7 +34,7 @@ Camera-shake, custom camera's, cutscene-tools en timelines.
 | [zKozie/CameraSystem](https://github.com/zKozie/CameraSystem) | 0 | Config-gedreven twee-laags camera: state-camera's plus one-shot action-overlays die terugblenden |
 | [JRmcnugget/Viewpoint](https://github.com/JRmcnugget/Viewpoint) | 0 | Vloeiende, sterk aanpasbare third-person camera |
 
-## Uitgebreide index (132)
+## Uitgebreide index (133)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -79,6 +79,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [benielcapo/RobloxCameraBroadcast](https://github.com/benielcapo/RobloxCameraBroadcast) | 0 | Transmit camera input to Roblox |
 | [bloodbonnieking/Roblox-Camera-Bind](https://github.com/bloodbonnieking/Roblox-Camera-Bind) | 0 | Binds the camera to a part via RunService. |
 | [Brian1KB/rbxts-wind-shake](https://github.com/Brian1KB/rbxts-wind-shake) | 0 | (geen omschrijving op GitHub) |
+| [bucurcezar26-creator/99-NIGHTS-IN-WW3-Roblox](https://github.com/bucurcezar26-creator/99-NIGHTS-IN-WW3-Roblox) | 0 | A complete multiplayer survival horror game for Roblox set in 2031 during WW3. Realistic, cinematic, immersive with advanced mechanics. |
 | [caslabs/modified-camera-shaker](https://github.com/caslabs/modified-camera-shaker) | 0 | roblox-ts package for Crazyman32's Roblox port of "EZ Camera Shake" with extended bindings |
 | [Cbarillas04/Dungeon-Generation-Camera-System](https://github.com/Cbarillas04/Dungeon-Generation-Camera-System) | 0 | Procedural dungeon generation system with branching room logic and a lock-on camera built in Roblox. |
 | [cristophvolt-netizen/-Open-Source-Roblox-Movement-Base](https://github.com/cristophvolt-netizen/-Open-Source-Roblox-Movement-Base) | 0 | A lightweight, modular, object-oriented movement system for Roblox Studio built with Luau. Designed for high responsiveness, camera-based immersion, and easy... |
