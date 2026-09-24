@@ -11,18 +11,27 @@ Particles, shaders, lighting, portalen, raytracing en canvas-rendering.
 | [boatbomber/GradientCanvas](https://github.com/boatbomber/GradientCanvas) | 58 | Canvas-renderer die met greedy gradients pixels tekent in GUI |
 | [boatbomber/ViewportCanvas](https://github.com/boatbomber/ViewportCanvas) | 53 | Greedy-meshed canvas voor willekeurige tekeningen in 3D/viewport |
 | [evaera/EvLightning](https://github.com/evaera/EvLightning) | 52 | Realistische bliksemschichten genereren |
+| [Crazyblox/penumbra](https://github.com/Crazyblox/penumbra) | 48 | Performante shaders in Luau |
 | [OMouta/RobloxShadeHost](https://github.com/OMouta/RobloxShadeHost) | 37 | ReShade-presets gebruiken met Roblox |
 | [ryanlua/Shime](https://github.com/ryanlua/Shime) | 34 | Shimmer/loading-glans op elk GuiObject |
 | [Mqxsyy/Lumina](https://github.com/Mqxsyy/Lumina) | 30 | Eigen particle-systeem API met node/graph-editor (à la Unity VFX Graph) |
 | [boatbomber/EditableImageBlur](https://github.com/boatbomber/EditableImageBlur) | 28 | Snelle blur-algoritmes voor EditableImage |
+| [buildthomas/ElectricArc](https://github.com/buildthomas/ElectricArc) | 25 | Elektrische boog-effecten |
+| [osgl-rbx/osgl](https://github.com/osgl-rbx/osgl) | 24 | Open Source Graphical Library (pixels tekenen op EditableImage) |
+| [Ethanthegrand/CanvasDraw](https://github.com/Ethanthegrand/CanvasDraw) | 22 | Snelle graphics-library voor pixel-tekenen |
+| [tijnepema/vfx-editor](https://github.com/tijnepema/vfx-editor) | 21 | VFX-editor en tooling voor live content-workflows |
+| [IITPP-Roblox/Region-Culling](https://github.com/IITPP-Roblox/Region-Culling) | 21 | Verbergt irrelevante map-delen voor betere performance |
 | [Razorboot/radiosity_engine_luau](https://github.com/Razorboot/radiosity_engine_luau) | 20 | Radiosity baked lighting (global illumination) volledig in Luau |
 | [joeldesante/rParticle](https://github.com/joeldesante/rParticle) | 20 | Lichtgewicht 2D particle-systeem voor GUI |
 | [rotntake/BloodEngine](https://github.com/rotntake/BloodEngine) | 18 | Druppel-emitter: bloed/vloeistof die spettert en op oppervlakken blijft liggen |
 | [zilibobi/forge-vfx](https://github.com/zilibobi/forge-vfx) | 17 | Emit-module van de VFX Forge plugin: complete VFX-rigs (particles, beams, meshes) afvuren vanuit code |
 | [AnotherSubatomo/RbxShader](https://github.com/AnotherSubatomo/RbxShader) | 17 | Een shader-engine in Luau (fragment-shaders via EditableImage) |
+| [boatbeaker/PixelColorApproximation](https://github.com/boatbeaker/PixelColorApproximation) | 17 | Pixelkleuren op het scherm benaderen |
+| [wad4444/refx](https://github.com/wad4444/refx) | 16 | Gereplicate VFX-effecten framework |
 | [Razorboot/luau-2016-shadow-engine](https://github.com/Razorboot/luau-2016-shadow-engine) | 12 | Schaduw-engine in Luau |
 | [olaffx/VineShade](https://github.com/olaffx/VineShade) | 12 | Shaders voor Roblox op Linux |
 | [boatbomber/ImageMask](https://github.com/boatbomber/ImageMask) | 8 | Images clippen/masken met een ViewportFrame-truc |
+| [yeku/legacy](https://github.com/yeku/legacy) | 8 | Klassieke Roblox-look terug (2012-2016) |
 | [KalaYoScripting/Ember](https://github.com/KalaYoScripting/Ember) | 7 | Particle-emitter gemaakt van UI-elementen (particles op elke GUI) |
 | [KloBraticc/RiShade](https://github.com/KloBraticc/RiShade) | 7 | Brengt client-shaders terug voor mooiere visuals |
 | [dogevspenguin/StudioShader](https://github.com/dogevspenguin/StudioShader) | 6 | 3DMigoto-shaders in Roblox Studio |

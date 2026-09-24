@@ -9,18 +9,29 @@ Reactieve UI, custom tekst, inventories, 2D-engines en mobiele controls.
 | [ryanlua/satchel](https://github.com/ryanlua/satchel) | 132 | Moderne vervanging van de standaard backpack |
 | [flipbook-labs/flipbook](https://github.com/flipbook-labs/flipbook) | 125 | Storybook voor Roblox UI (componenten los bekijken) |
 | [boatbomber/Highlighter](https://github.com/boatbomber/Highlighter) | 99 | Syntax highlighting van Lua-code in RichText |
+| [sircfenner/StudioComponents](https://github.com/sircfenner/StudioComponents) | 90 | React-versies van Roblox Studio-componenten (voor plugins) |
 | [loneka/onyx-ui](https://github.com/loneka/onyx-ui) | 59 | Kant-en-klare componenten voor Fusion |
 | [jsdotlua/CorePackages](https://github.com/jsdotlua/CorePackages) | 58 | Roblox' MIT/Apache CorePackages klaar voor Wally |
+| [OutOfBears/react-flow](https://github.com/OutOfBears/react-flow) | 51 | Animatie-library voor React-Lua met springs en tweens |
+| [littensy/rbxts-react](https://github.com/littensy/rbxts-react) | 51 | TypeScript-definities voor React Lua |
 | [notreux/UpsideEngine](https://github.com/notreux/UpsideEngine) | 46 | 2D game-engine voor Roblox |
+| [littensy/pretty-react-hooks](https://github.com/littensy/pretty-react-hooks) | 46 | Handige hooks voor roblox-ts React |
+| [Kampfkarren/ultimate-list](https://github.com/Kampfkarren/ultimate-list) | 43 | Declaratieve virtualized list voor React |
+| [evaera/plasma](https://github.com/evaera/plasma) | 43 | Immediate-mode UI-widgets (origineel) |
+| [boatbeaker/BoatTween](https://github.com/boatbeaker/BoatTween) | 43 | Uitgebreid tween-module met extra easing styles |
 | [ffrostfall/fluid](https://github.com/ffrostfall/fluid) | 40 | Declaratief UI-framework |
 | [nightcycle/synthetic](https://github.com/nightcycle/synthetic) | 40 | Google Material Design UI-library voor Fusion |
 | [cascadeui/Cascade](https://github.com/cascadeui/Cascade) | 39 | UI-library in macOS Sequoia-stijl |
 | [loneka/avalog](https://github.com/loneka/avalog) | 37 | Complete avatar-catalogus (avatar-editor) in Fusion |
+| [boatbeaker/GraphModule](https://github.com/boatbeaker/GraphModule) | 37 | Grafieken tekenen in Roblox |
+| [CatGuyMoment/Screen3D](https://github.com/CatGuyMoment/Screen3D) | 36 | 3D-UI die gewoon werkt |
 | [AlexanderLindholt/TextPlus](https://github.com/AlexanderLindholt/TextPlus) | 32 | Eigen tekst-rendering met custom fonts |
 | [EgoMooseOldProjects/Rbx_CustomFont](https://github.com/EgoMooseOldProjects/Rbx_CustomFont) | 32 | Custom fonts via sprite-sheets |
 | [latte-soft/lucide-roblox](https://github.com/latte-soft/lucide-roblox) | 31 | De Lucide icon-set in Roblox |
 | [7kayoh/Lydie](https://github.com/7kayoh/Lydie) | 29 | Mooie UI-componenten voor Fusion |
+| [loneka/neohotbar](https://github.com/loneka/neohotbar) | 28 | Moderne, aanpasbare hotbar |
 | [cxmeel/colour-utils](https://github.com/cxmeel/colour-utils) | 25 | Kleurmanipulatie-library |
+| [arxk/ezVisualz](https://github.com/arxk/ezVisualz) | 25 | UIGradient-animaties met veel presets |
 | [inurentto/grid-pack](https://github.com/inurentto/grid-pack) | 24 | Grid/Tetris-stijl inventories (zoals Resident Evil/Tarkov) |
 | [matter-ecs/plasma](https://github.com/matter-ecs/plasma) | 23 | Declaratieve immediate-mode UI-widgets (debug-UI voor Matter) |
 | [roblox-aurora/rbx-snapdragon](https://github.com/roblox-aurora/rbx-snapdragon) | 23 | GUI-dragging met snapping aan schermranden |
@@ -32,25 +43,42 @@ Reactieve UI, custom tekst, inventories, 2D-engines en mobiele controls.
 | [ok-nick/LayoutUtil](https://github.com/ok-nick/LayoutUtil) | 19 | UILayouts beheren |
 | [encodedlux/sling](https://github.com/encodedlux/sling) | 19 | Moderne reactieve backpack-UI |
 | [AmaranthineCodices/roact-material](https://github.com/AmaranthineCodices/roact-material) | 19 | Material Design-componenten voor Roact |
+| [rniraclefire/pretty-fusion-utils](https://github.com/rniraclefire/pretty-fusion-utils) | 19 | Utilities voor Fusion |
+| [y7ya-com/RowindCSS](https://github.com/y7ya-com/RowindCSS) | 19 | TailwindCSS-classes voor Roact en roblox-ts |
 | [MiaGobble/ExpressivePrompts](https://github.com/MiaGobble/ExpressivePrompts) | 18 | Volledig aanpasbare ProximityPrompt-UI |
 | [MiaGobble/Figma-Import-Assistant](https://github.com/MiaGobble/Figma-Import-Assistant) | 18 | Figma-designs importeren naar Roblox |
 | [RoStrap/RoStrapUI](https://github.com/RoStrap/RoStrapUI) | 18 | Material Design UI-modules (RoStrap) |
+| [alicesaidhi/videkit_ty](https://github.com/alicesaidhi/videkit_ty) | 18 | Componentkit voor Vide |
+| [nidorx/roblox-dat-gui](https://github.com/nidorx/roblox-dat-gui) | 18 | dat.gui-achtige controller om variabelen live aan te passen |
 | [simplynoni/roblox-material-ui](https://github.com/simplynoni/roblox-material-ui) | 17 | Material Design 3 componenten voor Roact |
 | [niksavc/rbxcustom-fontemojis](https://github.com/niksavc/rbxcustom-fontemojis) | 17 | Eigen emoji's via fonts (Twemoji-alternatieven) |
 | [cameronpcampbell/supercorner](https://github.com/cameronpcampbell/supercorner) | 16 | Figma-achtige smooth corners (squircles) als UICorner-alternatief |
 | [seaofvoices/chroma-luau](https://github.com/seaofvoices/chroma-luau) | 16 | Kleurmanipulatie-library |
 | [ryanlua/purse](https://github.com/ryanlua/purse) | 16 | Standaard backpack losgekoppeld van CoreGui |
+| [BrookenRecord/react-lua-freeze](https://github.com/BrookenRecord/react-lua-freeze) | 16 | Voorkomt dat React-subtrees renderen |
+| [ratplier/jello](https://github.com/ratplier/jello) | 16 | Immediate-mode UI/visualisatie |
 | [evaera/RadialSpriteSheetGenerator](https://github.com/evaera/RadialSpriteSheetGenerator) | 15 | Radiale progress-indicator spritesheets genereren |
 | [lopi-py/figblox](https://github.com/lopi-py/figblox) | 15 | Figma → Roblox converter (react-lua) |
 | [seaofvoices/react-lua-hooks](https://github.com/seaofvoices/react-lua-hooks) | 15 | Hook-collecties voor React Lua |
+| [Mullets-Gavin/Components](https://github.com/Mullets-Gavin/Components) | 15 | Open-source UI-componenten in roblox-ts TSX |
+| [LinusKat/ImPlot](https://github.com/LinusKat/ImPlot) | 14 | Grafieken plotten (ImPlot-stijl) |
+| [AmberGraceRblx/pract](https://github.com/AmberGraceRblx/pract) | 14 | Declaratieve UI-engine |
 | [Zyn-ic/Stoway](https://github.com/Zyn-ic/Stoway) | 13 | Geavanceerd inventory/hotbar-systeem met item-tracking |
 | [satyanto/rblxGlassUI](https://github.com/satyanto/rblxGlassUI) | 13 | Glassmorphism UI-library |
+| [arxk/Leaderboard](https://github.com/arxk/Leaderboard) | 13 | Persistente en tijdelijke leaderboards |
+| [littensy/react-reflex](https://github.com/littensy/react-reflex) | 13 | React hooks voor Reflex |
 | [frappedevs/FusionRouter](https://github.com/frappedevs/FusionRouter) | 12 | Stateful UI-routing in Fusion |
+| [tijnepema/fusion-components](https://github.com/tijnepema/fusion-components) | 12 | 31 moderne components voor Fusion 0.2 |
+| [rbx-rsml/rsml-luau](https://github.com/rbx-rsml/rsml-luau) | 12 | RSML: CSS-achtige styling voor Roblox-UI |
 | [rimuy/hook-bag](https://github.com/rimuy/hook-bag) | 11 | Custom Roact-hooks |
 | [Reselim/roact-flipper](https://github.com/Reselim/roact-flipper) | 11 | Roact + Flipper animatie-hooks |
+| [leifstout/AutoScaledFrame](https://github.com/leifstout/AutoScaledFrame) | 11 | Automatisch schalende frames |
+| [alicesaidhi/videx](https://github.com/alicesaidhi/videx) | 11 | Utilities voor Vide UI |
 | [alexmercier25/Enoria](https://github.com/alexmercier25/Enoria) | 10 | Snel, lichtgewicht UI-framework |
+| [boshyxd/coolTransitions](https://github.com/boshyxd/coolTransitions) | 10 | Scherm-overgangen library |
 | [TheNexusAvenger/Module3D](https://github.com/TheNexusAvenger/Module3D) | 9 | 3D-modellen in GUI-frames tonen |
 | [jammees/Rethink-Engine](https://github.com/jammees/Rethink-Engine) | 9 | Veelzijdige 2D game-engine voor Roblox |
+| [teakzc/backpack-plus](https://github.com/teakzc/backpack-plus) | 9 | Moderne backpack-vervanger |
 | [RadiatedExodus/LuaTextBox](https://github.com/RadiatedExodus/LuaTextBox) | 8 | Tekstveld met Lua-syntax highlighting + autocomplete (in-game code-editor) |
 | [boatbomber/SmoothScroll](https://github.com/boatbomber/SmoothScroll) | 7 | Smooth scrolling voor ScrollingFrames |
 | [daimond113/lexi](https://github.com/daimond113/lexi) | 7 | Lokalisatie/vertaling voor Vide |
@@ -60,14 +88,29 @@ Reactieve UI, custom tekst, inventories, 2D-engines en mobiele controls.
 | [Shadercloud/rbxts-react-clean-ui](https://github.com/Shadercloud/rbxts-react-clean-ui) | 7 | Nette React-componentenbibliotheek voor roblox-ts |
 | [twinrbx/donation-board](https://github.com/twinrbx/donation-board) | 7 | Donatie-bord met strakke UI |
 | [howmanysmall/Hooks](https://github.com/howmanysmall/Hooks) | 7 | Hooks voor React (Roblox) |
+| [Tactycl/Nodekit](https://github.com/Tactycl/Nodekit) | 7 | Cocos2d-x-geïnspireerde UI-library |
+| [BarkusHxndaaa/ScreenNode](https://github.com/BarkusHxndaaa/ScreenNode) | 7 | ScreenNode-module |
 | [TenebrisNoctua/FusionFoundation](https://github.com/TenebrisNoctua/FusionFoundation) | 6 | Roblox' Foundation UI-library geport naar Fusion |
 | [Vvshenok/SpotlightUI](https://github.com/Vvshenok/SpotlightUI) | 6 | Tutorials maken met een "spotlight" die focus legt op UI-elementen |
 | [qwreey/quad](https://github.com/qwreey/quad) | 6 | Reactieve rendering-library voor Roblox en GTK |
+| [alicesaidhi/pebble](https://github.com/alicesaidhi/pebble) | 6 | Pebble (Vide-componenten) |
+| [Quamatic/aether](https://github.com/Quamatic/aether) | 6 | Zwevende UI-elementen positioneren (Floating UI) |
+| [bjlarouche/uiblox-rbxts](https://github.com/bjlarouche/uiblox-rbxts) | 6 | UI-library voor roblox-ts |
+| [fisherjacobc/rbxts-transformer-web2rblx](https://github.com/fisherjacobc/rbxts-transformer-web2rblx) | 6 | Web-achtige React naar Roblox-UI |
+| [cmdNiels/rbxts-transformer-tailwind](https://github.com/cmdNiels/rbxts-transformer-tailwind) | 6 | Tailwind-classes voor @rbxts/react |
 | [TheNexusAvenger/Nexus-Button](https://github.com/TheNexusAvenger/Nexus-Button) | 5 | Multi-input knop (muis, touch, gamepad) |
 | [AlexanderLindholt/LuauXML](https://github.com/AlexanderLindholt/LuauXML) | 5 | XML naar Luau converter (fonts voor TextPlus) |
 | [OMouta/Rex](https://github.com/OMouta/Rex) | 5 | Declaratief UI-framework in React/Vue-stijl |
 | [DestinEcarma/draggable](https://github.com/DestinEcarma/draggable) | 5 | Vervanging voor de verouderde Draggable-property |
 | [AwesomePossum212/nametag-plus](https://github.com/AwesomePossum212/nametag-plus) | 5 | Modulaire nametags met titels en healthbars |
+| [dphfox/layman](https://github.com/dphfox/layman) | 5 | Experimentele layout-engine voor Fusion |
+| [MayorGnarwhal/StickyBillboard](https://github.com/MayorGnarwhal/StickyBillboard) | 5 | Billboards die aan schermrand blijven plakken |
+| [leifstout/create-user-notification](https://github.com/leifstout/create-user-notification) | 5 | Gebruikersnotificaties maken |
+| [7L-Software/fontlib](https://github.com/7L-Software/fontlib) | 5 | Font-library |
+| [22aispro/PludLayout](https://github.com/22aispro/PludLayout) | 5 | Uitgebreidere grid layouts |
+| [teamfireworks/liquid](https://github.com/teamfireworks/liquid) | 5 | Hooks en utilities voor Fluid UI |
+| [ShouxTech/roblox-minimap](https://github.com/ShouxTech/roblox-minimap) | 5 | Minimap met markers |
+| [astra-void/vela-rbxts](https://github.com/astra-void/vela-rbxts) | 5 | Tailwind-stijl className voor React/Vide |
 | [TheNexusAvenger/Nexus-Virtual-List](https://github.com/TheNexusAvenger/Nexus-Virtual-List) | 4 | Lange lijsten efficiënt tonen (virtualisatie) |
 | [voxelcrw/Zeno3D](https://github.com/voxelcrw/Zeno3D) | 4 | 3D-objecten in 2D-perspectief tonen (herschrijving van Module3D) |
 | [btc7274/control-hints](https://github.com/btc7274/control-hints) | 4 | Genereert control-hints UI op basis van het Input Action System |

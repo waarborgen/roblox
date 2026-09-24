@@ -5,13 +5,20 @@ Voxels, dungeons, doolhoven, wave function collapse, noise en curves.
 | Repo | ⭐ | Wat het doet |
 |---|---:|---|
 | [real2nix/mineblox](https://github.com/real2nix/mineblox) | 68 | Uitbreidbare voxel-engine (Minecraft-achtig) |
+| [omrezkeypie/BezierPath](https://github.com/omrezkeypie/BezierPath) | 36 | Bezier-splines voor TD-paden en algemene routes |
 | [Sleitnick/rbxts-octo-tree](https://github.com/Sleitnick/rbxts-octo-tree) | 29 | Octree voor snelle ruimtelijke lookups |
 | [EgoMooseOldProjects/Dungeon-generator](https://github.com/EgoMooseOldProjects/Dungeon-generator) | 19 | Dungeon-generatie module |
+| [unityjaeger/QuickBounds](https://github.com/unityjaeger/QuickBounds) | 19 | Snelle bounding-box/spatial queries |
+| [Imaginaerume/MarchingCubeCaves](https://github.com/Imaginaerume/MarchingCubeCaves) | 17 | Marching cubes voor grotten en ertsaders |
 | [EgoMoose/PolyBool-Lua](https://github.com/EgoMoose/PolyBool-Lua) | 16 | Boolean-operaties op polygonen (union, intersect, difference) |
+| [claylittlehorse/lua-geometry](https://github.com/claylittlehorse/lua-geometry) | 15 | Geometrie-functies |
 | [Sleitnick/RDC2019-Procedural-Generation](https://github.com/Sleitnick/RDC2019-Procedural-Generation) | 14 | Materiaal van de RDC2019 talk over procedurele generatie |
+| [surfbryce/Path](https://github.com/surfbryce/Path) | 14 | Curve Interpolator geport naar Roblox |
 | [bstummer/bezier](https://github.com/bstummer/bezier) | 12 | Bézier-curves van elke graad met arc-length parametrisatie |
 | [vocksel/geo](https://github.com/vocksel/geo) | 12 | Geometrische vormherkenning (gebaren tekenen → vorm) |
+| [omrezkeypie/BinaryOctree](https://github.com/omrezkeypie/BinaryOctree) | 9 | Binaire octree voor snelle ruimtelijke queries |
 | [Bytebit-Org/lua-linalg](https://github.com/Bytebit-Org/lua-linalg) | 8 | Lineaire algebra (matrices) voor Lua/Roblox |
+| [daily3014/rbx-algorithms](https://github.com/daily3014/rbx-algorithms) | 6 | Collectie algoritmes voor Luau |
 | [bstummer/matrix](https://github.com/bstummer/matrix) | 4 | Matrix-wiskunde (determinant, inverse, transformaties) |
 | [sammy0127/WavyRobloxObby](https://github.com/sammy0127/WavyRobloxObby) | 4 | Obby procedureel gegenereerd met Python |
 | [veloii/roblox-random-gen](https://github.com/veloii/roblox-random-gen) | 4 | Genereert een willekeurige Roblox-game |

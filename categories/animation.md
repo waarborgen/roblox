@@ -11,6 +11,7 @@ Animatie-solvers, IK, Blender/Mixamo-pipelines, procedurele animatie en springs.
 | [ffrostfall/crunchyroll](https://github.com/ffrostfall/crunchyroll) | 98 | Eigen animatie-solver (vervangt Animator) voor volledige controle |
 | [MaximumADHD/Moonlite](https://github.com/MaximumADHD/Moonlite) | 76 | Lichtgewicht in-game player voor Moon Animator-animaties (cutscenes!) |
 | [chriscerie/roact-spring](https://github.com/chriscerie/roact-spring) | 73 | react-spring voor react-lua |
+| [smartbone-org/SmartBone-2](https://github.com/smartbone-org/SmartBone-2) | 69 | Dynamische bones: haar, staarten, kleding die natuurlijk bewegen |
 | [evaera/roblox-animation-transfer](https://github.com/evaera/roblox-animation-transfer) | 53 | Animaties overzetten naar een andere eigenaar/groep |
 | [TylerAtStarboard/AnimationPublisher](https://github.com/TylerAtStarboard/AnimationPublisher) | 37 | Widget om custom animaties te updaten/uploaden |
 | [Dawgra/Facial-Unification](https://github.com/Dawgra/Facial-Unification) | 33 | Zet dynamic faces om naar klassieke 2D-gezichten, zonder HTTP |
@@ -28,10 +29,14 @@ Animatie-solvers, IK, Blender/Mixamo-pipelines, procedurele animatie en springs.
 | [Chrrxs/kimodo-r15-retarget](https://github.com/Chrrxs/kimodo-r15-retarget) | 9 | NVIDIA text-to-motion (BVH) retargeten naar R15 KeyframeSequences |
 | [unityjaeger/reel](https://github.com/unityjaeger/reel) | 8 | Eigen animatie-solver |
 | [datlass/fabrik-ik-motor6d](https://github.com/datlass/fabrik-ik-motor6d) | 8 | FABRIK IK-solver voor Motor6D-rigs |
+| [SteelProjectsRBX/BasicCrunchyrollAnimPlayer](https://github.com/SteelProjectsRBX/BasicCrunchyrollAnimPlayer) | 8 | Animatieplayer bovenop crunchyroll-solver |
 | [sivert-io/fbx-action-exporter](https://github.com/sivert-io/fbx-action-exporter) | 6 | Alle Blender-actions als losse FBX exporteren |
 | [jackTabsCode/bau](https://github.com/jackTabsCode/bau) | 5 | Bulk animatie-uploader |
 | [sentinel69402/Anima](https://github.com/sentinel69402/Anima) | 5 | Lichtgewicht animatie-library zonder boilerplate |
 | [CavefulGames/rbxclothing](https://github.com/CavefulGames/rbxclothing) | 5 | Kleding zonder Humanoid (EditableImage) |
+| [EgoMoose/rbx-rthro-scaler](https://github.com/EgoMoose/rbx-rthro-scaler) | 5 | Avatarhoogte aanpassen met behoud van proporties |
+| [EgoMoose/rbx-fractality-spring](https://github.com/EgoMoose/rbx-fractality-spring) | 5 | Snelle, getypeerde spring-class (Fraktality's spr) |
+| [fxxizan/RootMotion](https://github.com/fxxizan/RootMotion) | 5 | Root motion voor animaties |
 | [NotBlackrus/PlayerAnimator](https://github.com/NotBlackrus/PlayerAnimator) | 4 | Eigen animator-replicatie |
 | [wes-BAN/crux-animation](https://github.com/wes-BAN/crux-animation) | 4 | Animatie-engine geïnspireerd op Unity's animatie-API |
 | [jiwonz/anim2rbx](https://github.com/jiwonz/anim2rbx) | 4 | Animatiebestanden (FBX e.d.) omzetten naar KeyframeSequence |

@@ -11,9 +11,12 @@ Neurale netwerken, behavior trees, pathfinding, boids en LLM-NPC's.
 | [bstummer/openskill.lua](https://github.com/bstummer/openskill.lua) | 22 | Weng-Lin rating (TrueSkill-alternatief) voor matchmaking/ranked |
 | [boatbomber/AIConversation](https://github.com/boatbomber/AIConversation) | 18 | Praten met LLM-chatbots vanuit Roblox |
 | [snipcola/Roblox-AI](https://github.com/snipcola/Roblox-AI) | 17 | Word een AI in Roblox (LLM bestuurt een character) |
+| [imezx/Gradien](https://github.com/imezx/Gradien) | 12 | Strikt getypeerde, parallelle ML/DL-library |
 | [littensy/nanoai](https://github.com/littensy/nanoai) | 9 | Minimale library voor neurale netwerken |
 | [Project-Ptolemy/ProjectUAI](https://github.com/Project-Ptolemy/ProjectUAI) | 9 | Universele AI-agent die in Roblox draait (Claude Code-achtige loop) |
 | [Aerodymier/Pathfinder](https://github.com/Aerodymier/Pathfinder) | 7 | Pathfinding-karaktercontrol met PathfindingService |
+| [crit-DEV/Forbidden-V2](https://github.com/crit-DEV/Forbidden-V2) | 6 | API voor veelvoorkomende NPC-problemen |
+| [olmescode/EnemyModule](https://github.com/olmescode/EnemyModule) | 5 | Basis-vijandmodule |
 | [AqwamCreates/DataPredict-Neural](https://github.com/AqwamCreates/DataPredict-Neural) | 4 | TensorFlow-achtige deep learning library in Lua |
 | [Axp3cter/Arbor](https://github.com/Axp3cter/Arbor) | 3 | Composable, getypeerde behavior trees voor NPC-AI |
 | [Echolewron/rbx-enemy-ai](https://github.com/Echolewron/rbx-enemy-ai) | 3 | Vijand-AI: patrouilleren, achtervolgen, verstoppen |

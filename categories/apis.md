@@ -24,15 +24,20 @@ Open Cloud, web-API's, Discord, databases en analytics.
 | [Quenty/roblox-group-autoranker](https://github.com/Quenty/roblox-group-autoranker) | 24 | Node.js-server die automatisch ranks geeft in groepen |
 | [noblox/noblox.js-server](https://github.com/noblox/noblox.js-server) | 24 | REST-API bovenop noblox.js (Koa) |
 | [RoSeal-Extension/Roblox-DeepLink-Parser](https://github.com/RoSeal-Extension/Roblox-DeepLink-Parser) | 23 | Roblox (deep)links parsen |
+| [nikita-petko/RbxDataStoreService](https://github.com/nikita-petko/RbxDataStoreService) | 23 | DataStoreService voor Node.js |
+| [foxt/rblxRP](https://github.com/foxt/rblxRP) | 22 | Discord Rich Presence voor Roblox |
 | [relatiocc/opencloud](https://github.com/relatiocc/opencloud) | 21 | Getypeerde SDK voor Open Cloud |
 | [devSparkle/sentry-roblox](https://github.com/devSparkle/sentry-roblox) | 19 | Sentry.io crash-reporting voor je game |
 | [RoManager-org/romanager-oss](https://github.com/RoManager-org/romanager-oss) | 19 | Self-hosted groepsbeheer (ranking, Discord-koppeling) |
+| [boatbeaker/SheetValues](https://github.com/boatbeaker/SheetValues) | 19 | Google Sheets als live value-updater voor je game |
 | [Paficent/Roblox-Api-Tracker](https://github.com/Paficent/Roblox-Api-Tracker) | 18 | Trackt wijzigingen in de web-API documentatie |
+| [steinann/RoAvatar](https://github.com/steinann/RoAvatar) | 17 | Remake van de avatar-editor met extra features |
 | [boatbomber/GitHubUtil](https://github.com/boatbomber/GitHubUtil) | 16 | GitHub-API's aanroepen vanuit een Roblox-game |
 | [Sleitnick/RbxAWS](https://github.com/Sleitnick/RbxAWS) | 15 | AWS SDK voor Roblox (in ontwikkeling) |
 | [thegalaxydev/Aloha](https://github.com/thegalaxydev/Aloha) | 14 | Discord-API in Luau via Lune (bots die met je game praten) |
 | [Jodenee/Voyager](https://github.com/Jodenee/Voyager) | 14 | Discord-webhook API-wrapper voor Roblox |
 | [dynabloxjs/dynablox_opencloud](https://github.com/dynabloxjs/dynablox_opencloud) | 14 | Open Cloud wrapper voor Deno/Node |
+| [typedwaves/Rongo](https://github.com/typedwaves/Rongo) | 14 | MongoDB-API wrapper voor Roblox |
 | [BrookenRecord/sentry-luau](https://github.com/BrookenRecord/sentry-luau) | 13 | Volledige Sentry SDK voor Luau |
 | [grand-hawk/action-roblox-luau-execution](https://github.com/grand-hawk/action-roblox-luau-execution) | 13 | GitHub Action die Luau uitvoert via Open Cloud |
 | [chteau/Roblox-Supabase](https://github.com/chteau/Roblox-Supabase) | 12 | Type-safe Supabase-client (Postgres, storage, edge functions) |
@@ -40,10 +45,13 @@ Open Cloud, web-API's, Discord, databases en analytics.
 | [Roblox-Indie-Wikis/mediawiki-extensions-RobloxAPI](https://github.com/Roblox-Indie-Wikis/mediawiki-extensions-RobloxAPI) | 12 | MediaWiki-extensie die Roblox-data in je wiki toont |
 | [TheNexusAvenger/Nexus-Clearing](https://github.com/TheNexusAvenger/Nexus-Clearing) | 11 | Server voor Roblox GDPR-webhooks (data-verwijderverzoeken) |
 | [TheEpicFace007/roblox-domino-pizza-api](https://github.com/TheEpicFace007/roblox-domino-pizza-api) | 11 | Echt pizza bestellen bij Domino's vanuit Roblox (!) |
+| [k0ffinz/rblxcord](https://github.com/k0ffinz/rblxcord) | 11 | Discord Rich Presence |
 | [itsfrank/lune-cloud-luau-client](https://github.com/itsfrank/lune-cloud-luau-client) | 10 | Luau op Roblox-servers uitvoeren via Open Cloud (vanuit Lune) |
 | [datalinkhq/datalink](https://github.com/datalinkhq/datalink) | 10 | Analytics/data-platform voor Roblox-games |
 | [LFS6502/roblox-trello](https://github.com/LFS6502/roblox-trello) | 10 | Trello-API (OOP) vanuit Roblox |
 | [vsenger/aws-roblox](https://github.com/vsenger/aws-roblox) | 10 | Integraties tussen Roblox en AWS Cloud |
+| [meowpurrpur/RobloxUpdateTracker](https://github.com/meowpurrpur/RobloxUpdateTracker) | 10 | Discord-bot die Roblox-clientupdates meldt |
+| [nrmu9/ReBTRoblox](https://github.com/nrmu9/ReBTRoblox) | 10 | Voortzetting van BTRoblox (website-extensie) |
 | [Sightem/RoPP](https://github.com/Sightem/RoPP) | 9 | Roblox web-API wrapper in C++ |
 | [suufi/Sphere](https://github.com/suufi/Sphere) | 9 | Express-API om je game op afstand te modereren |
 | [ValiantWind/cloudblox](https://github.com/ValiantWind/cloudblox) | 8 | Promise-based wrapper voor web-API + Open Cloud |
@@ -51,6 +59,7 @@ Open Cloud, web-API's, Discord, databases en analytics.
 | [PiratePeep/roblox-3d-avatar-viewer](https://github.com/PiratePeep/roblox-3d-avatar-viewer) | 8 | Roblox 3D-avatarviewer nagebouwd in Next.js |
 | [Missile05/erlcPY](https://github.com/Missile05/erlcPY) | 8 | Python-wrapper voor de ER:LC-API |
 | [Ransomwave/Roblox-Stream-Donations](https://github.com/Ransomwave/Roblox-Stream-Donations) | 7 | Robux-donatie-alerts in OBS met TTS (zoals Streamlabs) |
+| [osyrisrblx/RbxDiscordProxy](https://github.com/osyrisrblx/RbxDiscordProxy) | 7 | Discord-proxyserver voor Roblox |
 | [boatbomber/RbxSlack](https://github.com/boatbomber/RbxSlack) | 6 | Slack-API's vanuit Roblox |
 | [GamebeastGG/RobloxSDK](https://github.com/GamebeastGG/RobloxSDK) | 6 | SDK voor het Gamebeast analytics-platform |
 | [guidojw/arora-api](https://github.com/guidojw/arora-api) | 6 | Backend voor de Roblox Web API met extra features |
@@ -61,6 +70,10 @@ Open Cloud, web-API's, Discord, databases en analytics.
 | [roblox-js/core](https://github.com/roblox-js/core) | 5 | Roblox web-API makkelijk aanspreken (JS) |
 | [typical-developers/goblox](https://github.com/typical-developers/goblox) | 5 | Go-library voor Roblox- en Open Cloud-API's |
 | [BloxTeams/blox-auth](https://github.com/BloxTeams/blox-auth) | 5 | OAuth 2.0-wrapper + Express-middleware (JS/TS) |
+| [0jewell/lumi](https://github.com/0jewell/lumi) | 5 | Discord-API wrapper in Luau |
+| [PostHog/posthog-roblox](https://github.com/PostHog/posthog-roblox) | 5 | PostHog analytics SDK voor Roblox |
+| [RoSeal-Extension/Parse-Roblox-Errors](https://github.com/RoSeal-Extension/Parse-Roblox-Errors) | 5 | Roblox-foutmeldingen parsen |
+| [ericplane/DevForumPlus](https://github.com/ericplane/DevForumPlus) | 5 | Snellere, uitgebreidere DevForum (extensie) |
 | [devsarim/roblox-catalog-proxy-server](https://github.com/devsarim/roblox-catalog-proxy-server) | 4 | Template voor een eigen catalog-proxy webserver |
 | [WhitehillGroup/RankCache](https://github.com/WhitehillGroup/RankCache) | 4 | Actuele groepsranks cachen over servers |
 | [KhanPython/Analytics-Service-Wrapper](https://github.com/KhanPython/Analytics-Service-Wrapper) | 4 | Rate-limited AnalyticsService-wrapper met event coalescing |

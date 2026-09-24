@@ -12,9 +12,17 @@ Melee-hitboxes, projectielen, guns, lag-compensatie en zones.
 | [RedTrioVirus/HitboxClass](https://github.com/RedTrioVirus/HitboxClass) | 28 | Eenvoudige maar krachtige hitbox-class |
 | [weenachuangkud/FastCast2](https://github.com/weenachuangkud/FastCast2) | 27 | FastCast met Parallel Luau, object pooling en strikte types |
 | [TeamSwordphin/ShapecastHitbox](https://github.com/TeamSwordphin/ShapecastHitbox) | 22 | Shapecast-gebaseerde melee-hitboxes (opvolger RaycastHitbox) |
+| [Ince-FS/Fast-Minkowski-Shapecast](https://github.com/Ince-FS/Fast-Minkowski-Shapecast) | 14 | Snel Minkowski-shapecast algoritme |
+| [Brawldude2/SwiftCast](https://github.com/Brawldude2/SwiftCast) | 13 | Simpele, snelle projectielen |
 | [Vel136/Vetra](https://github.com/Vel136/Vetra) | 10 | Analytische baan-projectielen: pierce, bounce, hi-fi raycasting |
 | [skyriverstudios/Zoner](https://github.com/skyriverstudios/Zoner) | 10 | Gebruiksvriendelijke zone-queries |
+| [synpixel/flashcast](https://github.com/synpixel/flashcast) | 8 | Fijnmazig alternatief voor FastCast (projectielen) |
+| [michaelvqq/RollbackHitbox](https://github.com/michaelvqq/RollbackHitbox) | 8 | Server-authoritative lag-compensatie voor shooters |
+| [EgoMoose/raycast-helper](https://github.com/EgoMoose/raycast-helper) | 7 | Ray/shapecasting met complexe filters |
+| [Breezy1214/EZ-Hitbox](https://github.com/Breezy1214/EZ-Hitbox) | 6 | Flexibel hitbox-systeem (server + client) |
+| [olmescode/Combat-System](https://github.com/olmescode/Combat-System) | 6 | Combat-systeem uit Monsta's BoBoiBoy-game |
 | [howmanysmall/fast-rotated-region3](https://github.com/howmanysmall/fast-rotated-region3) | 5 | Snellere GJK rotated region3 (collisie-checks) |
+| [Innovation-Inc-Roblox/Railgun](https://github.com/Innovation-Inc-Roblox/Railgun) | 5 | Railgun-wapen van Innovation Inc |
 | [vbaumel1337/central](https://github.com/vbaumel1337/central) | 4 | Server-authoritative hitbox/ray/shapecast queries met latency-compensatie |
 | [shmove/roblox-melee-movement-system](https://github.com/shmove/roblox-melee-movement-system) | 4 | Melee- en movement-scripts |
 | [datlass/Turret-Controller](https://github.com/datlass/Turret-Controller) | 3 | Turret-controller (richten met constraints) |

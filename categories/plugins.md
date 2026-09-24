@@ -9,13 +9,21 @@ Handige plugins voor bouwen, terrain, UI en workflow.
 | [AleksandrSl/intellij-luau](https://github.com/AleksandrSl/intellij-luau) | 35 | IntelliJ-plugin voor Luau |
 | [welcomestohell/rocket](https://github.com/welcomestohell/rocket) | 26 | Command-launcher plugin voor Studio |
 | [uniquadev/GuiToLuaConverter](https://github.com/uniquadev/GuiToLuaConverter) | 24 | Zet GUI's om naar Lua-code |
+| [unrooot/StudioMacros](https://github.com/unrooot/StudioMacros) | 24 | Plugin met UI-sneltoetsen |
+| [EgoMoose/rbx-react-studio-properties](https://github.com/EgoMoose/rbx-react-studio-properties) | 21 | React-versies van Studio's properties-panel |
+| [Pyseph/DataScope](https://github.com/Pyseph/DataScope) | 20 | Krachtige DataStore-explorer |
+| [cameronpcampbell/Ignite](https://github.com/cameronpcampbell/Ignite) | 20 | Component-systeem voor plugin-development |
 | [SovereignSatellite/Binja-Luau](https://github.com/SovereignSatellite/Binja-Luau) | 18 | Binary Ninja plugin voor Luau-bytecode analyse |
 | [stravant/roblox-redupe](https://github.com/stravant/roblox-redupe) | 15 | Array/herhaal-geometrie plugin |
 | [metaindev/connect-plugin](https://github.com/metaindev/connect-plugin) | 15 | Studio-plugin van Metain |
+| [athar-adv/Jexplorer](https://github.com/athar-adv/Jexplorer) | 13 | Open-source, stylebare Explorer-widget |
+| [TheNexusAvenger/Nexus-Unit-Testing-Plugin](https://github.com/TheNexusAvenger/Nexus-Unit-Testing-Plugin) | 13 | Plugin-front-end voor unit tests |
 | [Dekkonot/rbx-instance-serializer](https://github.com/Dekkonot/rbx-instance-serializer) | 11 | Instances naar Luau-code serialiseren (plugin) |
 | [wakatime/roblox-studio-wakatime](https://github.com/wakatime/roblox-studio-wakatime) | 11 | Houd je tijd in Studio bij met WakaTime |
+| [cameronpcampbell/superproperties](https://github.com/cameronpcampbell/superproperties) | 11 | Eigen properties-explorer |
 | [Anaminus/hotswap](https://github.com/Anaminus/hotswap) | 9 | Plugin-ontwikkeling versnellen (hot reload) |
 | [Ultrasonic1209/Zappy](https://github.com/Ultrasonic1209/Zappy) | 8 | Zap-playground als Studio-plugin |
+| [Someon1e/stylua_spider](https://github.com/Someon1e/stylua_spider) | 8 | StyLua als Roblox-plugin |
 | [Neohertz/comet](https://github.com/Neohertz/comet) | 7 | Framework voor Studio-plugins (roblox-ts) |
 | [Rawblocky/RobloxPlugin-SubwaySurfers](https://github.com/Rawblocky/RobloxPlugin-SubwaySurfers) | 7 | Grap-plugin: Subway Surfers in Studio |
 | [osyrisrblx/rofresh](https://github.com/osyrisrblx/rofresh) | 7 | Automatische sync-plugin voor Studio |
@@ -24,6 +32,9 @@ Handige plugins voor bouwen, terrain, UI en workflow.
 | [evaera/roblox-image-size](https://github.com/evaera/roblox-image-size) | 6 | Pixelgrootte van image-assets opvragen |
 | [ryanlua/Signs](https://github.com/ryanlua/Signs) | 5 | Plugin om snel TextLabels/borden te maken |
 | [ExperiencersInternational/DisableCoreGUIFunctions](https://github.com/ExperiencersInternational/DisableCoreGUIFunctions) | 5 | Plugin om TopBar-iconen en menu-opties uit te zetten |
+| [EgoMoose/rbx-csg-to-mesh-plugin](https://github.com/EgoMoose/rbx-csg-to-mesh-plugin) | 5 | Zet unions om naar editable meshes |
+| [Sleitnick/lines-of-code](https://github.com/Sleitnick/lines-of-code) | 5 | Plugin die aantal regels code toont |
+| [MonzterDev/Roblox-Auto-Import](https://github.com/MonzterDev/Roblox-Auto-Import) | 5 | Automatisch services en modules importeren |
 | [stravant/draggerframework](https://github.com/stravant/draggerframework) | 4 | Studio's DraggerFramework draaiend buiten plugin-security (in-game bouwtools!) |
 | [zildjibian/moon-plus](https://github.com/zildjibian/moon-plus) | 4 | Plugin om Moon Animator 2 te modden |
 | [polychromatist/luau-vim](https://github.com/polychromatist/luau-vim) | 4 | Luau-syntax plugin voor Vim |

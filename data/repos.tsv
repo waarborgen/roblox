@@ -1601,3 +1601,356 @@ vfx	Blupo/DayAtmos	2	Lighting-script op basis van een DevForum-post
 plugins	Bytebit-Org/PathGenerationPlugin	2	Plugin om paden te genereren
 data	evaera/rbx-resources	2	Game-assets en named instances voor roblox-ts
 systems	NilScripter/RoClass	2	OOP-classes
+networking	Parihsz/Chrono	128	Drop-in custom physics-replicatie library
+tooling	alicesaidhi/conch	113	Uitbreidbare developer-console
+security	daily3014/rbx-cryptography	112	Luau-implementaties van populaire hash- en encryptie-algoritmes
+ecs	iiitaoge/ECSR	100	Transactioneel, traceerbaar state-evolutie framework op Matter
+data	leifstout/dataServiceTyped	94	Getypeerde spelersdata-service
+ui	sircfenner/StudioComponents	90	React-versies van Roblox Studio-componenten (voor plugins)
+data	leifstout/dataService	86	Spelersdata-service met replicatie
+data	nezuo/lapis	81	DataStore-abstractie met sessie-locking en migraties
+ecs	alicesaidhi/jabby	80	Debugger voor jecs (ECS)
+wild	orpos/kaledis	71	Luau gebruiken met LÖVE (2D-framework)
+networking	leifstout/networker	70	Netwerk-library
+animation	smartbone-org/SmartBone-2	69	Dynamische bones: haar, staarten, kleding die natuurlijk bewegen
+networking	PepeElToro41/replecs	64	Agnostische replicatie-library voor ECS
+tooling	JakeyWasTaken/CeiveImGizmo	61	Performante immediate-mode gizmo's (debug-tekenen in 3D)
+tooling	KYRORBLX/Lori	58	Client-overlay om tijdens het spelen te debuggen
+data	anthony0br/DocumentService	53	DataStore-documenten met schema's en sessie-locking
+ui	OutOfBears/react-flow	51	Animatie-library voor React-Lua met springs en tweens
+security	Corecii/GreenTea	48	Runtime-typechecker met Luau-types en nette fouten
+vfx	Crazyblox/penumbra	48	Performante shaders in Luau
+ui	Kampfkarren/ultimate-list	43	Declaratieve virtualized list voor React
+wild	turtlesoupy/robloquake	42	Quake geport naar Roblox
+data	synpixel/roblox-classic-faces	41	Archief van klassieke Roblox-gezichten en hoofden
+learn	CodeBotsStudio/Dysymmetrical	40	Engine voor asymmetrische games (killer vs survivors)
+wild	quadigen/Kinemium-Engine	40	Sandboxed Lua-game-engine (Roblox-achtig)
+learn	MrChickenRocket/Server-Authority-Tutorial-Cakeman	40	Tutorial server authority met custom character en vloeiende visuals
+data	alicesaidhi/skilift	40	Transactionele datastore-library
+tooling	KYRORBLX/Konsole	38	Kleine command-console
+ui	CatGuyMoment/Screen3D	36	3D-UI die gewoon werkt
+data	ericplane/Scribe	36	Getypeerde, auto-gerepliceerde spelersdata op ProfileStore
+procgen	omrezkeypie/BezierPath	36	Bezier-splines voor TD-paden en algemene routes
+learn	leifstout/easy-defense	35	Tower defense als voorbeeld/template
+data	jackhexed/drop	34	ACID-datastore library
+networking	imezx/Warp	32	Razendsnelle networking-library
+systems	nezuo/spark	31	Input-action manager
+systems	BusyCityGuy/finite-state-machine-luau	30	Volledig getypeerde FSM met async transities
+networking	unityjaeger/Bolt	30	Networking-library
+data	nezuo/delta-compress	26	Delta-compressie van tabellen voor replicatie
+learn	etohgame/kit	25	Officiële creation kit van Eternal Towers of Hell
+ui	arxk/ezVisualz	25	UIGradient-animaties met veel presets
+systems	Innovation-Inc-Roblox/Glint	25	Toont of je met andere spelers kunt chatten
+systems	g0ofycat/Match	24	ELO-gebaseerd matchmaking-systeem
+vfx	osgl-rbx/osgl	24	Open Source Graphical Library (pixels tekenen op EditableImage)
+plugins	unrooot/StudioMacros	24	Plugin met UI-sneltoetsen
+data	0x5eal/luau-unzip	23	Unzip in pure Luau
+tooling	Kampfkarren/protoc-gen-luau	22	Protobuf-codegenerator voor Luau
+ecs	hardlyardi/light	22	Light (netwerk/serialisatie van hardlyardi)
+security	4x8Matrix/dev-suite	22	Tools om je eigen game te QA'en en pen-testen
+learn	HelixNebulaStudio/RiseOfTheDead	22	Development-repo van Rise of the Dead (volledige game)
+vfx	Ethanthegrand/CanvasDraw	22	Snelle graphics-library voor pixel-tekenen
+plugins	EgoMoose/rbx-react-studio-properties	21	React-versies van Studio's properties-panel
+tooling	revvy02/rodeo	21	Roblox Studio CLI + Luau-runtime
+tooling	dphfox/lingua	21	Complexe data tussen Rust en Luau sturen (Wasynth)
+vfx	tijnepema/vfx-editor	21	VFX-editor en tooling voor live content-workflows
+vfx	IITPP-Roblox/Region-Culling	21	Verbergt irrelevante map-delen voor betere performance
+plugins	Pyseph/DataScope	20	Krachtige DataStore-explorer
+networking	PogoDigitalism/BetterReplication	20	Character-replicatie met minimale netwerk-overhead
+plugins	cameronpcampbell/Ignite	20	Component-systeem voor plugin-development
+data	noahrepublic/DataKeep	20	Data-opslag oplossing (ProfileService-alternatief)
+tooling	v-champion/nexus-sync	20	Studio-output syncen naar VS Code
+tooling	checkraisefold/warmluau	19	Luau bundelen en transformeren (Lute)
+systems	Pyseph/ObjectCache	19	Snelle model/part-cache (object pooling)
+ui	rniraclefire/pretty-fusion-utils	19	Utilities voor Fusion
+networking	Steadyon/TweenServiceV2	19	Tweens client-side draaien met één server-update
+procgen	unityjaeger/QuickBounds	19	Snelle bounding-box/spatial queries
+data	yTrev/Replion	19	State-replicatie server naar client
+tooling	AsynchronousAI/scriptbench	19	Benchmarks voor scripts
+ecs	atomic-horizon/order	18	Module loader met cyclische dependencies
+ecs	hardlyardi/b226	18	Entity Component System voor Luau
+learn	dphfox/rdc-2024-fusion-demo	18	Fusion-demo van RDC 2024
+ui	alicesaidhi/videkit_ty	18	Componentkit voor Vide
+aitools	ohzw/roblox-dev-skills	18	AI-skills om 3D-objecten en maps te bouwen via MCP
+tooling	OverHash/Roblox-TS-Libraries	17	Libraries voor roblox-ts
+tooling	Crazyblox/pajamas	17	Runtime-abstractielaag voor pure Luau-projecten
+ui	BrookenRecord/react-lua-freeze	16	Voorkomt dat React-subtrees renderen
+wild	Open-SB/OpenSB	16	Open-source script builder
+ui	ratplier/jello	16	Immediate-mode UI/visualisatie
+vfx	wad4444/refx	16	Gereplicate VFX-effecten framework
+data	hardlyardi/faststackplus	16	Snelle stack-implementatie
+tooling	itsfrank/frktest	15	Test-framework voor standalone Luau
+tooling	0x5eal/semver-luau	15	Strongly typed semver-parser
+data	kohltastrophe/hyperloglog	15	HyperLogLog++ voor unieke tellingen
+tooling	howmanysmall/modern-roblox-ts-template	15	Moderne roblox-ts game-template
+combat	Ince-FS/Fast-Minkowski-Shapecast	14	Snel Minkowski-shapecast algoritme
+apis	typedwaves/Rongo	14	MongoDB-API wrapper voor Roblox
+tooling	malice-nz/RealConsole	14	Developer console opgepimpt
+tooling	Barocena/ROpen	14	Open Roblox-bestanden/tools
+systems	NeonD00m/Axis	14	Agnostische input-library voor ECS
+ui	LinusKat/ImPlot	14	Grafieken plotten (ImPlot-stijl)
+tooling	JohnnyMorganz/Luau.tmLanguage	14	TextMate-grammatica voor Luau
+systems	completelyhazel/LibreGrid	14	Grid-placement zonder wiskunde-hoofdpijn
+ecs	PepeElToro41/jecs-utils	14	Utilities voor jecs
+data	kohltastrophe/Z	13	Schematized buffer-serialisatie
+combat	Brawldude2/SwiftCast	13	Simpele, snelle projectielen
+systems	PossiblePanda/RegistryFactory	13	Registry factory voor game-data
+ecs	ActualFire-Games/module-loader	13	Simpele module loader
+wild	ddeityies/quantum	13	Quantumcomputer-simulatie in Luau
+ui	arxk/Leaderboard	13	Persistente en tijdelijke leaderboards
+tooling	synpixel/chrome.luau	13	Chrome DevTools Protocol in Luau (Lune)
+ui	littensy/react-reflex	13	React hooks voor Reflex
+plugins	athar-adv/Jexplorer	13	Open-source, stylebare Explorer-widget
+systems	bohraz/Arch	12	Hiërarchische state machines
+tooling	cameronpcampbell/genesis	12	Genesis (instance/project generator)
+data	TenebrisNoctua/StructU	12	Low-level structs in Luau
+systems	bellaouzo/PlayerState	12	PlayerState-library
+tooling	1suite/Solder	12	Snelle bundler voor Roblox-modellen
+ui	tijnepema/fusion-components	12	31 moderne components voor Fusion 0.2
+networking	bookek/satset	12	Buffer-backed networking met zero-allocation delta-sync
+ai	imezx/Gradien	12	Strikt getypeerde, parallelle ML/DL-library
+systems	synttx/oss	12	Suite van performante libraries
+systems	scion-softworks/parallelizer	12	Makkelijk werk verdelen over Actors
+security	metamethods/typed	12	Runtime-typevalidatie
+ui	rbx-rsml/rsml-luau	12	RSML: CSS-achtige styling voor Roblox-UI
+learn	dphfox/blox-classic	12	Archief van Blox Classic-broncode (2020)
+security	Shiawaseu/RBLX-Whitelist	11	Serie over veilige authenticatiesystemen
+ui	leifstout/AutoScaledFrame	11	Automatisch schalende frames
+tooling	Josephh310/Rojo-Tools	11	Lune-scripts: build, serve, syncback via Open Cloud
+movement	IITPP-Roblox/Anchored-Platform-Player-Movement	11	Spelers meebewegen op bewegende anchored platforms
+networking	NeonD00m/feces	11	Replicatiesysteem voor jecs-componenten
+networking	breadboardengineer1234/QuickNet	11	Sterk geoptimaliseerde networking
+data	ernisto/rng	11	RNG-utilities
+data	Crazyblox/blah	11	Ruwe buffer-data opslaan als require-bare modules
+tooling	PhoenixEntertainment/Phoenix-CLI	11	CLI voor packages en games
+ui	alicesaidhi/videx	11	Utilities voor Vide UI
+systems	dig1t/attrify	11	No-code prototyping via attributes
+systems	ffrostfall/keyForm	11	Key-form input-utility
+systems	Ukendio/querydescendants	11	Descendants snel opvragen
+tooling	Distracted-Games/RobloxProjectTemplate	11	Projecttemplate met Rojo, Selene, StyLua en scripts
+plugins	cameronpcampbell/superproperties	11	Eigen properties-explorer
+systems	Astra-Corporation/Astra.Admin	10	Open-source versie van Astra Admin
+ecs	luau-ecs/oxgz	10	Snel, portable, veilig ECS
+tooling	axiom-co/setup-pesde	10	GitHub Action: pesde + Lune installeren
+tooling	cxmeel/codify-lib	10	Instances omzetten naar code-snippets
+systems	CompeyDev/rusty-luau	9	Rust-idiomen (Option, Result, etc.) strikt getypeerd in Luau
+networking	tijnepema/simpoll	9	Bidirectionele long-polling tussen Luau en TypeScript (web-servers)
+movement	KhanPython/dispense-prop	9	Props fysiek uitdelen en aantrekken (zoals munten die naar je toe vliegen)
+tooling	christopher-buss/luau-lint	9	Moderne linter voor Luau, geschreven in Luau
+tooling	jackhexed/poke	9	Poke (Luau-tool van jackhexed)
+data	Velover/state-management-package-rbxts	9	State management package voor roblox-ts
+tooling	Corecii/lune-scripts	9	Collectie handige Lune-scripts
+procgen	omrezkeypie/BinaryOctree	9	Binaire octree voor snelle ruimtelijke queries
+tooling	nezuo/data-store-service-mock	9	Mock van DataStoreService voor tests
+ecs	LocalPulse/jecs-template	9	Template met jecs + React
+combat	synpixel/flashcast	8	Fijnmazig alternatief voor FastCast (projectielen)
+networking	AstaWasTaken/NetRay-Compile	8	IDL-compiler voor NetRay
+data	anexpia/BufferEncoder	8	Efficiënte encoder van tabellen naar buffers
+tooling	pesde-pkg/tooling	8	Luau-tools verpakt voor pesde
+plugins	Someon1e/stylua_spider	8	StyLua als Roblox-plugin
+data	Quamatic/rbxts-profile-store	8	roblox-ts bindings voor ProfileStore
+data	seaofvoices/heck-luau	8	Case-conversie (camelCase, snake_case) met Unicode
+audio	IITPP-Roblox/LocalAudio	8	Audio als data afspelen i.p.v. instances
+aitools	rustyspottedcatt/RoLLM	8	LLM-integratie voor Roblox
+animation	SteelProjectsRBX/BasicCrunchyrollAnimPlayer	8	Animatieplayer bovenop crunchyroll-solver
+tooling	Proton-Utilities/ProCMP	8	Build-compositiesysteem met multi-target en macro's
+aitools	paralov/roblox-studio-opencode-mcp	8	MCP voor Studio met OpenCode
+vfx	yeku/legacy	8	Klassieke Roblox-look terug (2012-2016)
+combat	michaelvqq/RollbackHitbox	8	Server-authoritative lag-compensatie voor shooters
+wild	TR-MZ/Scratchify-Blox-2	8	Scratch-projecten in Roblox draaien
+data	leifstout/servicePlayerData	8	Spelersdata-service
+camera	EgoMoose/gravity-camera	8	Camera met custom up-vector (lopen op muren/planeten)
+networking	ToriumSlurs/Jolt	8	High-performance networking library
+tooling	flipbook-labs/module-loader	8	ModuleScript-loader die de require-cache omzeilt (hot reload)
+data	evilbocchi/serikanum	7	Schattige big-number library
+tooling	biggaboy212/Marionette	7	Runtime Luau-debugger
+movement	azavier-a/Shatterbox	7	Shatterbox (voxel-destructie)
+data	EgoMoose/ordered-dictionary-luau	7	Dictionary die invoegvolgorde onthoudt
+tooling	esuriku/catppuccin-roblox-studio	7	Catppuccin-thema voor de Studio-scripteditor
+learn	RegularVynixu/DOORS-Entity-Spawner	7	Eigen DOORS-entities spawnen
+wild	malice-nz/Splice	7	Luau-compiler geschreven in Luau
+ui	Tactycl/Nodekit	7	Cocos2d-x-geïnspireerde UI-library
+ui	BarkusHxndaaa/ScreenNode	7	ScreenNode-module
+tooling	0x5eal/terracotta	7	Programmatische API en CLI rond darklua
+combat	EgoMoose/raycast-helper	7	Ray/shapecasting met complexe filters
+systems	devSparkle/Maid	7	Klassieke Maid-cleanup library
+systems	leifstout/clockwork	7	Timing/scheduling utility
+systems	leifstout/CodeService	7	Redeem-codes systeem
+learn	AsynchronousAI/chess-roblox	7	Schaakspel in Roblox
+systems	notpoiu/QueryBuilder	7	Query builder voor QueryDescendants
+data	SecondNewtonLaw/TableToBuffer	6	Tabellen naar buffers
+combat	Breezy1214/EZ-Hitbox	6	Flexibel hitbox-systeem (server + client)
+ai	crit-DEV/Forbidden-V2	6	API voor veelvoorkomende NPC-problemen
+movement	cozywitchcraft/anti-wallhop	6	Patcht wallhopping uit de humanoid controller
+systems	metricrb/skilltree	6	Server-authoritative skill trees (lineair, branching, radial)
+wild	Someon1e/chess_spider	6	Schaakengine in Roblox
+tooling	Scythe-Technology/glfw-luau	6	GLFW-wrapper voor Luau
+procgen	daily3014/rbx-algorithms	6	Collectie algoritmes voor Luau
+ui	alicesaidhi/pebble	6	Pebble (Vide-componenten)
+security	4x8Matrix/sandbox-luau	6	Luau-code sandboxen
+ui	Quamatic/aether	6	Zwevende UI-elementen positioneren (Floating UI)
+ecs	Gargafield/Parallel-Jecs	6	Demo: jecs-query parallel draaien en terugsyncen
+systems	dphfox/scoped	6	Rigoureuze destructie/cleanup in Luau
+systems	Madonox/Commons	6	Veelgebruikte utilities
+data	Bura-Games/typed-profile-service	6	Getypeerde ProfileService
+ecs	Mark-Marks/rubine	6	Runtime-agnostische scheduler voor jecs
+combat	olmescode/Combat-System	6	Combat-systeem uit Monsta's BoBoiBoy-game
+data	Bura-Games/data-structures	6	Datastructuren-library
+tooling	w-itherr/Edit-Leveler	6	Spectator-versie van een level-editor via World Draw
+systems	Breezy1214/EZInput	6	Makkelijke input-afhandeling
+data	CerebralLabs/cerebral	6	Player state management tool
+ecs	Levnth/Modula	6	Strikt getypeerde, Promise-gedreven module loader
+data	littensy/reactivity	6	Reactivity-library
+movement	ItipatS/Roblox-Server-Simulation	5	Server-side simulatie (vuurvliegjes, ballen) met lichte client-rendering
+tooling	LuneWeb/Template	5	Cross-platform apps met Luau
+tooling	omarcoaraujo/tint	5	Terminal-kleuren voor Luau
+data	VerifiedHawaii/Raddish	5	Redis-achtige store voor Roblox
+animation	EgoMoose/rbx-rthro-scaler	5	Avatarhoogte aanpassen met behoud van proporties
+apis	0jewell/lumi	5	Discord-API wrapper in Luau
+combat	Innovation-Inc-Roblox/Railgun	5	Railgun-wapen van Innovation Inc
+tooling	hardlyardi/runtest	5	Robuust test-framework voor Lune
+ui	dphfox/layman	5	Experimentele layout-engine voor Fusion
+systems	crit-DEV/ForbiddenAPI	5	Verzameling handige functies
+systems	Tazmondo/Tev	5	Tev (events/utilities)
+ecs	tarekmahmouduix/Flux	5	Utility-first framework
+ui	MayorGnarwhal/StickyBillboard	5	Billboards die aan schermrand blijven plakken
+ecs	star-alice/hineko-framework	5	Luau-framework
+plugins	EgoMoose/rbx-csg-to-mesh-plugin	5	Zet unions om naar editable meshes
+ai	olmescode/EnemyModule	5	Basis-vijandmodule
+ui	leifstout/create-user-notification	5	Gebruikersnotificaties maken
+ui	7L-Software/fontlib	5	Font-library
+data	EgoMoose/deque-luau	5	Double-ended queue
+movement	00826/cc	5	Humanoidless character controller + replicator
+data	Data-Oriented-House/Cursor	5	Buffer-wrapper om waarden op een stack te serialiseren
+networking	wobotomite/sendbufs	5	Networking met compressie voor blokken
+tooling	ffrostfall/heluau	5	heluau (Luau-tool)
+data	Brawldude2/RemoteTable-Light	5	Tabellen repliceren over het netwerk
+apis	PostHog/posthog-roblox	5	PostHog analytics SDK voor Roblox
+animation	EgoMoose/rbx-fractality-spring	5	Snelle, getypeerde spring-class (Fraktality's spr)
+tooling	yaeju1205/luau-precinct	5	Code-dependencies vinden in pure Luau
+ecs	Supersocial/Flux	5	Lichtgewicht game-framework
+systems	Raild3x/RailUtil	5	Utility-functies
+animation	fxxizan/RootMotion	5	Root motion voor animaties
+ui	22aispro/PludLayout	5	Uitgebreidere grid layouts
+systems	meisox/CuteSignal	5	Snelle signal-module
+learn	cozywitchcraft/infinite-minesweeper	5	Broncode van Infinite Minesweeper
+ui	teamfireworks/liquid	5	Hooks en utilities voor Fluid UI
+networking	SolarScuffle-Bot/DeepDelta	5	Diffs van geneste tabellen naar buffers
+ecs	DonkableDoof/Quinit	5	Makkelijke module loader
+tooling	dphfox/autput	10	Rust-prints en panics loggen naar Luau
+audio	IITPP-Roblox/LocalAudio-Subtitles	10	Ondertitels voor LocalAudio
+tooling	ffrostfall/rmake	10	rmake (build-tool)
+ecs	Mark-Marks/hammer	10	Utilities voor jecs
+networking	AstaWasTaken/NetRay	10	High-performance networking
+ecs	TeamHydrogen/Hydrogen	10	Batteries-included game-framework
+ui	boshyxd/coolTransitions	10	Scherm-overgangen library
+tooling	Scythe-Technology/luau-raylib	10	Luau-bindings voor raylib
+ecs	evaera/Fabric	60	Infrastructuur om de state van dingen in je game te representeren (units/components)
+tooling	sayhisam1/Rewire	57	Hot reloading van code in Roblox
+networking	red-blox/Red	56	Simpele, snelle networking-library
+systems	Epix-Incorporated/Adonis_2.0	54	Adonis 2.0 (herschreven admin-systeem)
+security	raphtalia/RbxFingerprint	52	Demonstratie van een privacy-kwetsbaarheid (fingerprinting)
+ui	littensy/rbxts-react	51	TypeScript-definities voor React Lua
+systems	Data-Oriented-House/LemonSignal	51	Signal-implementatie sneller dan de meeste andere
+learn	MerelyRBLX/ROBLOX-Lua	47	Scripts van Merely (klassieke Roblox-developer)
+movement	EgoMoose/Rbx-Wallstick-Legacy	44	Legacy wallstick: lopen op muren en objecten
+ui	evaera/plasma	43	Immediate-mode UI-widgets (origineel)
+ui	boatbeaker/BoatTween	43	Uitgebreid tween-module met extra easing styles
+networking	jackhexed/Red	40	Red networking (fork)
+learn	PacktPublishing/Coding-Roblox-Games-Made-Easy-2nd-Edition	39	Code bij het boek Coding Roblox Games Made Easy
+systems	red-blox/Util	39	Kleine utilities van red-blox
+ecs	kennethloeffler/anatta	39	ECS-integratie in Roblox
+ui	boatbeaker/GraphModule	37	Grafieken tekenen in Roblox
+learn	PacktPublishing/Mastering-Roblox-Coding	32	Code bij het boek Mastering Roblox Coding
+networking	Anaminus/wireshark-roblox	32	Wireshark-dissector voor het Roblox-netwerkprotocol
+wild	metauni/metaboard	30	Multiplayer tekenborden om kennis te delen (educatie)
+ui	loneka/neohotbar	28	Moderne, aanpasbare hotbar
+ecs	tiffany352/RobloxComponentSystem	27	Entity Component System voor Roblox
+security	rayanux/roblox-movement-anticheat	27	Server-side movement-anticheat met correctie
+vfx	buildthomas/ElectricArc	25	Elektrische boog-effecten
+learn	VintageCube/VintageCube	23	Minecraft Classic-kloon in Roblox
+networking	unisocket3/rblx-unisocket3	23	WebSockets voor Roblox
+systems	CodeKingdomsTeam/rodash	23	Rodash: lodash-achtige kernfuncties
+systems	LPGhatguy/roblox-lua-promise	22	Originele Promise-implementatie voor Roblox
+data	rstk/BitBuffer	22	Snelle BitBuffer
+ecs	NobleDraconian/Dragon-Engine	21	Universeel framework voor games
+tooling	Validark/Roblox-TS-Libraries	20	Diverse roblox-ts libraries van Validark
+tooling	RoStrap/Resources	20	RoStrap core bootstrapper
+apis	boatbeaker/SheetValues	19	Google Sheets als live value-updater voor je game
+data	headjoe3/Rocrastinate	19	React/Redux-achtige state en view library
+security	Humanagon/RBXLuaJailer	19	Beveiligt door spelers ingestuurde Lua-code
+tooling	AxisAngles/RobloxTableInspector	18	Tabellen inspecteren
+ui	nidorx/roblox-dat-gui	18	dat.gui-achtige controller om variabelen live aan te passen
+networking	Kenji-Shore/Roblox-Client-Server-Time-Sync-Module	18	Klok synchroniseren tussen client en server
+tooling	bradsharp/gizmo	17	Visuele debug-library
+systems	unrooot/beamchat	17	Open-source remake van de standaard chat
+data	Blockzez/RobloxFormatNumber	17	Getallen formatteren (1.2K, 3.4M)
+vfx	boatbeaker/PixelColorApproximation	17	Pixelkleuren op het scherm benaderen
+data	boatbeaker/FreedumbStore	17	DataStore-wrapper die de limieten omzeilt (experimenteel)
+procgen	Imaginaerume/MarchingCubeCaves	17	Marching cubes voor grotten en ertsaders
+systems	Nyapaw/Roblox	16	Tools en scripts voor Roblox-development
+learn	Foxxive/Open-Source-Stuff	16	Open-source scripts en places voor development
+tooling	Corecii/roblox-screenshot	16	Geautomatiseerde screenshots in Studio met transparante achtergrond
+learn	e345ee/MathForge	16	Numerieke methoden in 3D visualiseren (Russisch)
+procgen	claylittlehorse/lua-geometry	15	Geometrie-functies
+data	boatbeaker/HeatUp	15	DataStore-wrapper die de cooldown omzeilt
+camera	Hasnain123Raza/ROBLOX-OTS-Camera-System	14	Over-the-shoulder camera
+ui	AmberGraceRblx/pract	14	Declaratieve UI-engine
+tooling	lopi-py/kickstart-roblox.nvim	14	Neovim-config voor Roblox-development
+networking	TheGreatSageEqualToHeaven/Remoteless	14	Networking zonder remotes (uit protest)
+systems	Elttob/LibOpen	14	Open-source packages van Studio Elttob
+procgen	surfbryce/Path	14	Curve Interpolator geport naar Roblox
+systems	RobertStevey/Roblox	13	Open-source modules
+plugins	TheNexusAvenger/Nexus-Unit-Testing-Plugin	13	Plugin-front-end voor unit tests
+ecs	Sleitnick/Axis	13	Provider-framework
+security	ccuser44/FE-Plus-Plus	13	Anti-exploit tegen FilteringEnabled-kwetsbaarheden
+audio	boatbeaker/AudioVisualizer	13	Audio-visualizer
+tooling	rojo-rbx/vscode-rojo	56	VS Code-extensie voor Rojo
+ui	littensy/pretty-react-hooks	46	Handige hooks voor roblox-ts React
+tooling	roblox-ts/types	44	TypeScript-typings voor het Roblox-platform
+learn	mandrillxx/eatventure-rblx	30	Game gebaseerd op mobiele game Eatventure
+tooling	evaera/Roblox-FFlag-Watcher	25	Volgt en logt wijzigingen in FFlags
+apis	nikita-petko/RbxDataStoreService	23	DataStoreService voor Node.js
+apis	foxt/rblxRP	22	Discord Rich Presence voor Roblox
+networking	ReAdminRBX/roblox-long-polling	19	Realtime long polling
+ui	y7ya-com/RowindCSS	19	TailwindCSS-classes voor Roact en roblox-ts
+apis	steinann/RoAvatar	17	Remake van de avatar-editor met extra features
+tooling	Corecii/RbxUpload	16	Tool om bestanden naar Roblox te uploaden
+ui	Mullets-Gavin/Components	15	Open-source UI-componenten in roblox-ts TSX
+tooling	Corecii/Roblox-VS-Code-Output-Sync	14	Roblox-output naar VS Code
+learn	Velover/RobloxUIBible	14	Roblox UI Bible (gids)
+tooling	Coyenn/roblox-model-renderer	14	3D-modellen renderen voor gebruik in Roblox
+apis	k0ffinz/rblxcord	11	Discord Rich Presence
+systems	christopher-buss/flux	11	Input Action System-wrapper
+wild	Luau2TS/luau2ts	11	Luau-naar-TypeScript compiler
+learn	imkalrbx/rbxts-multiplace-setup-flamework	11	Multi-place project met roblox-ts en Flamework
+tooling	osyrisrblx/rbxts-build	10	Build-orchestrator voor roblox-ts
+apis	meowpurrpur/RobloxUpdateTracker	10	Discord-bot die Roblox-clientupdates meldt
+apis	nrmu9/ReBTRoblox	10	Voortzetting van BTRoblox (website-extensie)
+ui	teakzc/backpack-plus	9	Moderne backpack-vervanger
+tooling	EgoMoose/figma-to-roblox-ui	9	Figma-project omzetten naar Roblox-UI
+tooling	evilbocchi/rbxts-asset-sync	9	Lokale asset-CDN-pipeline voor roblox-ts
+tooling	jackTabsCode/reflex-devtools	9	Developer tools voor Reflex
+ecs	daimond113/rbxts-transformer-jecs	8	roblox-ts transformer voor jecs
+tooling	Tesmi-Develop/roblox-ts-project-template	8	roblox-ts projecttemplate
+tooling	Corecii/Devprod	8	Developer Products configureren vanuit toml/json
+apis	osyrisrblx/RbxDiscordProxy	7	Discord-proxyserver voor Roblox
+wild	insitux/rbxts-Insitux	7	S-expression scripttaal waarmee spelers games veilig modden
+networking	littleBitsman/roblox-rtc	6	Realtime communicatie tussen game-server en je eigen server
+tooling	OrbitalOwen/roblox-win-installer-action	6	GitHub Action om Roblox op Windows te installeren (CI)
+ui	bjlarouche/uiblox-rbxts	6	UI-library voor roblox-ts
+systems	DareRBLX/foxChat	6	Simpel, modern chatsysteem
+ui	fisherjacobc/rbxts-transformer-web2rblx	6	Web-achtige React naar Roblox-UI
+ui	cmdNiels/rbxts-transformer-tailwind	6	Tailwind-classes voor @rbxts/react
+ui	ShouxTech/roblox-minimap	5	Minimap met markers
+tooling	tijnepema/create-roblox	5	Template-CLI voor projecten
+plugins	Sleitnick/lines-of-code	5	Plugin die aantal regels code toont
+apis	RoSeal-Extension/Parse-Roblox-Errors	5	Roblox-foutmeldingen parsen
+plugins	MonzterDev/Roblox-Auto-Import	5	Automatisch services en modules importeren
+movement	OverHash/mining-system	5	Mijnbouw-systeem in roblox-ts
+apis	ericplane/DevForumPlus	5	Snellere, uitgebreidere DevForum (extensie)
+data	roblox-aurora/rbx-variant	5	Variant-types voor roblox-ts
+ecs	thefnox/minimum	5	Minimale Matter + React setup voor roblox-ts
+ui	astra-void/vela-rbxts	5	Tailwind-stijl className voor React/Vide
+systems	surfdev7/atlas	5	Library tegen repetitieve development-taken
+wild	pickaxe828/LynxScript-ts	5	Tekstprogrammeertaal voor CatWeb

@@ -13,7 +13,10 @@ Quests, dialogen, input, trading, admin, signals en meer.
 | [MaximumADHD/Roblox-Parallel-Worker](https://github.com/MaximumADHD/Roblox-Parallel-Worker) | 60 | Parallel Luau zonder gedoe: taken verdelen over Actors |
 | [paradoxuum/centurion](https://github.com/paradoxuum/centurion) | 58 | Uitbreidbaar command-framework (roblox-ts) |
 | [Sleitnick/RbxObservers](https://github.com/Sleitnick/RbxObservers) | 57 | Observer-functies (tags, attributes, players) |
+| [Epix-Incorporated/Adonis_2.0](https://github.com/Epix-Incorporated/Adonis_2.0) | 54 | Adonis 2.0 (herschreven admin-systeem) |
+| [Data-Oriented-House/LemonSignal](https://github.com/Data-Oriented-House/LemonSignal) | 51 | Signal-implementatie sneller dan de meeste andere |
 | [kohls-admin/kohls-admin](https://github.com/kohls-admin/kohls-admin) | 48 | Kohl's Admin herschreven: complete experience-moderatie |
+| [red-blox/Util](https://github.com/red-blox/Util) | 39 | Kleine utilities van red-blox |
 | [AlexanderLindholt/SignalPlus](https://github.com/AlexanderLindholt/SignalPlus) | 37 | Zeer snelle signal-library |
 | [EgoMoose/Rbx-PSD-UI](https://github.com/EgoMoose/Rbx-PSD-UI) | 36 | Photoshop PSD-bestanden omzetten naar Roblox GUI |
 | [Epix-Incorporated/Adonis-Plugins](https://github.com/Epix-Incorporated/Adonis-Plugins) | 36 | Community-plugins voor Adonis admin |
@@ -21,45 +24,78 @@ Quests, dialogen, input, trading, admin, signals en meer.
 | [bradsharp/Roblox-Miscellaneous](https://github.com/bradsharp/Roblox-Miscellaneous) | 33 | Diverse utilities van een Roblox-engineer |
 | [TheNexusAvenger/Nexus-Admin](https://github.com/TheNexusAvenger/Nexus-Admin) | 32 | Admin-systeem voor gewone spelers, gebouwd op Cmdr |
 | [TenebrisNoctua/ClassPP](https://github.com/TenebrisNoctua/ClassPP) | 32 | C++/Java-achtige class-architectuur in Luau |
+| [nezuo/spark](https://github.com/nezuo/spark) | 31 | Input-action manager |
 | [Nicell/alien-signals-luau](https://github.com/Nicell/alien-signals-luau) | 30 | Lichtste reactieve signals-library |
+| [BusyCityGuy/finite-state-machine-luau](https://github.com/BusyCityGuy/finite-state-machine-luau) | 30 | Volledig getypeerde FSM met async transities |
 | [decimalcubed/luau-thread](https://github.com/decimalcubed/luau-thread) | 28 | Parallel Luau zo simpel mogelijk |
 | [Blupo/ColorPane](https://github.com/Blupo/ColorPane) | 27 | Kleur-tools voor Studio-plugins |
 | [ffrostfall/luausignal](https://github.com/ffrostfall/luausignal) | 26 | Cross-runtime signal-implementatie |
+| [Innovation-Inc-Roblox/Glint](https://github.com/Innovation-Inc-Roblox/Glint) | 25 | Toont of je met andere spelers kunt chatten |
+| [g0ofycat/Match](https://github.com/g0ofycat/Match) | 24 | ELO-gebaseerd matchmaking-systeem |
 | [evaera/Aurora](https://github.com/evaera/Aurora) | 23 | Status-effecten ("auras") beheren: buffs, debuffs, stacking |
+| [CodeKingdomsTeam/rodash](https://github.com/CodeKingdomsTeam/rodash) | 23 | Rodash: lodash-achtige kernfuncties |
+| [LPGhatguy/roblox-lua-promise](https://github.com/LPGhatguy/roblox-lua-promise) | 22 | Originele Promise-implementatie voor Roblox |
 | [zblox164/PlacementService](https://github.com/zblox164/PlacementService) | 21 | Bouw/placement-systeem (tycoon/sandbox) |
 | [prooheckcp/RoQuest](https://github.com/prooheckcp/RoQuest) | 20 | Uitgebreid quest-systeem |
 | [administer-org/administer](https://github.com/administer-org/administer) | 20 | Modulair admin-paneel |
 | [loneka/moonlets](https://github.com/loneka/moonlets) | 19 | Unopinionated utility-modules |
+| [Pyseph/ObjectCache](https://github.com/Pyseph/ObjectCache) | 19 | Snelle model/part-cache (object pooling) |
 | [Asiandayboy/InventoryMaker](https://github.com/Asiandayboy/InventoryMaker) | 17 | Framework om je eigen inventory-systeem te bouwen |
 | [rimuy/GameJoy](https://github.com/rimuy/GameJoy) | 17 | Composable input-library (combo's, sequences, holds) |
+| [unrooot/beamchat](https://github.com/unrooot/beamchat) | 17 | Open-source remake van de standaard chat |
 | [RBLXUtils/FastSignal](https://github.com/RBLXUtils/FastSignal) | 16 | Signal-library gelijk aan RBXScriptSignal |
+| [Nyapaw/Roblox](https://github.com/Nyapaw/Roblox) | 16 | Tools en scripts voor Roblox-development |
 | [Cosmental/Social-Chat-V2](https://github.com/Cosmental/Social-Chat-V2) | 15 | Complete chat-overhaul: bubbles, effecten, tags |
 | [buildthomas/Demojify](https://github.com/buildthomas/Demojify) | 15 | Emoji-tekens uit strings verwijderen |
 | [AdamMillsy/Inputter](https://github.com/AdamMillsy/Inputter) | 14 | Cross-platform input-manager |
+| [NeonD00m/Axis](https://github.com/NeonD00m/Axis) | 14 | Agnostische input-library voor ECS |
+| [completelyhazel/LibreGrid](https://github.com/completelyhazel/LibreGrid) | 14 | Grid-placement zonder wiskunde-hoofdpijn |
+| [Elttob/LibOpen](https://github.com/Elttob/LibOpen) | 14 | Open-source packages van Studio Elttob |
 | [DialogueMaker/plugin](https://github.com/DialogueMaker/plugin) | 13 | RPG-dialogen voor NPC's |
 | [Redon-Tech/Emergency-Vehicle-Creator](https://github.com/Redon-Tech/Emergency-Vehicle-Creator) | 13 | Zwaailichten/sirenes voor hulpdienstvoertuigen (ELS) |
+| [PossiblePanda/RegistryFactory](https://github.com/PossiblePanda/RegistryFactory) | 13 | Registry factory voor game-data |
+| [RobertStevey/Roblox](https://github.com/RobertStevey/Roblox) | 13 | Open-source modules |
 | [mkargus/PartToTerrain](https://github.com/mkargus/PartToTerrain) | 12 | Parts omzetten naar terrain |
 | [YetAnotherClown/luau-futures](https://github.com/YetAnotherClown/luau-futures) | 12 | Rust-achtige Futures voor Luau |
 | [lukadev-0/util.luau](https://github.com/lukadev-0/util.luau) | 12 | Verzameling nuttige Luau-utilities |
 | [lukadev-0/rbx-typed-promise](https://github.com/lukadev-0/rbx-typed-promise) | 12 | Promise-library met volledige types |
+| [bohraz/Arch](https://github.com/bohraz/Arch) | 12 | Hiërarchische state machines |
+| [bellaouzo/PlayerState](https://github.com/bellaouzo/PlayerState) | 12 | PlayerState-library |
+| [synttx/oss](https://github.com/synttx/oss) | 12 | Suite van performante libraries |
+| [scion-softworks/parallelizer](https://github.com/scion-softworks/parallelizer) | 12 | Makkelijk werk verdelen over Actors |
+| [dig1t/attrify](https://github.com/dig1t/attrify) | 11 | No-code prototyping via attributes |
+| [ffrostfall/keyForm](https://github.com/ffrostfall/keyForm) | 11 | Key-form input-utility |
+| [Ukendio/querydescendants](https://github.com/Ukendio/querydescendants) | 11 | Descendants snel opvragen |
+| [christopher-buss/flux](https://github.com/christopher-buss/flux) | 11 | Input Action System-wrapper |
 | [TheNexusAvenger/Nexus-Instance](https://github.com/TheNexusAvenger/Nexus-Instance) | 10 | Eigen custom instance-classes maken in Luau |
 | [Ultray-Studios/RBXConnectionManager](https://github.com/Ultray-Studios/RBXConnectionManager) | 10 | Connections beheren met auto-cleanup en debugging |
 | [averlyst/NamedSignal](https://github.com/averlyst/NamedSignal) | 10 | Signal-implementatie met goede balans tussen ergonomie en snelheid |
+| [Astra-Corporation/Astra.Admin](https://github.com/Astra-Corporation/Astra.Admin) | 10 | Open-source versie van Astra Admin |
 | [IllusionAC/Illusion-InputActionSystem](https://github.com/IllusionAC/Illusion-InputActionSystem) | 9 | Input Action System library (acties i.p.v. toetsen) |
 | [vocksel/context-controls](https://github.com/vocksel/context-controls) | 9 | Makkelijke wrapper rond ContextActionService |
 | [FarFromLittle/Questline](https://github.com/FarFromLittle/Questline) | 9 | Quest-creatie module |
 | [Dionysusnu/rbxts-rust-classes](https://github.com/Dionysusnu/rbxts-rust-classes) | 9 | Rust's Option/Result/Vec als TypeScript-classes |
 | [Mullets-Gavin/Roblox](https://github.com/Mullets-Gavin/Roblox) | 9 | Losse modules van een ervaren developer |
+| [CompeyDev/rusty-luau](https://github.com/CompeyDev/rusty-luau) | 9 | Rust-idiomen (Option, Result, etc.) strikt getypeerd in Luau |
 | [welcomestohell/boba](https://github.com/welcomestohell/boba) | 8 | Type-safe runtime typechecker |
 | [HuotChu/roblox-pubsub](https://github.com/HuotChu/roblox-pubsub) | 8 | PubSub-module |
 | [gdr1461/GAdmin](https://github.com/gdr1461/GAdmin) | 8 | Zeer aanpasbaar admin-systeem |
 | [jaeymo/classy](https://github.com/jaeymo/classy) | 8 | OOP class-library |
 | [blorbee1/ComputeLua](https://github.com/blorbee1/ComputeLua) | 7 | Parallel Luau makkelijker (compute-shader stijl) |
 | [R-unic/mechanism](https://github.com/R-unic/mechanism) | 7 | Elegante input-wrapper |
+| [devSparkle/Maid](https://github.com/devSparkle/Maid) | 7 | Klassieke Maid-cleanup library |
+| [leifstout/clockwork](https://github.com/leifstout/clockwork) | 7 | Timing/scheduling utility |
+| [leifstout/CodeService](https://github.com/leifstout/CodeService) | 7 | Redeem-codes systeem |
+| [notpoiu/QueryBuilder](https://github.com/notpoiu/QueryBuilder) | 7 | Query builder voor QueryDescendants |
 | [mvyasu/TeleportQueue](https://github.com/mvyasu/TeleportQueue) | 6 | Teleport-queue voor lobbies/matchmaking |
 | [Team-Snowdust/feature-flags](https://github.com/Team-Snowdust/feature-flags) | 6 | Feature-flags library |
 | [Reselim/cmdr-additions](https://github.com/Reselim/cmdr-additions) | 6 | Extra commands voor Cmdr |
 | [Inertia-Lighting/lua-additions](https://github.com/Inertia-Lighting/lua-additions) | 6 | Extra standaardfuncties voor Lua |
+| [metricrb/skilltree](https://github.com/metricrb/skilltree) | 6 | Server-authoritative skill trees (lineair, branching, radial) |
+| [dphfox/scoped](https://github.com/dphfox/scoped) | 6 | Rigoureuze destructie/cleanup in Luau |
+| [Madonox/Commons](https://github.com/Madonox/Commons) | 6 | Veelgebruikte utilities |
+| [Breezy1214/EZInput](https://github.com/Breezy1214/EZInput) | 6 | Makkelijke input-afhandeling |
+| [DareRBLX/foxChat](https://github.com/DareRBLX/foxChat) | 6 | Simpel, modern chatsysteem |
 | [omrezkeypie/OmrezKeyBind](https://github.com/omrezkeypie/OmrezKeyBind) | 5 | Declaratieve, actie-gebaseerde input-library |
 | [dig/roblox-lua-parallel](https://github.com/dig/roblox-lua-parallel) | 5 | Simpele parallelle uitvoering |
 | [Bytebit-Org/roblox-RewardContainers](https://github.com/Bytebit-Org/roblox-RewardContainers) | 5 | Type-safe beloningen geven aan spelers |
@@ -70,6 +106,11 @@ Quests, dialogen, input, trading, admin, signals en meer.
 | [opDavi1/Obby-Engine](https://github.com/opDavi1/Obby-Engine) | 5 | Engine voor obby's: checkpoints, killparts, stages |
 | [Hermivore8151/RobloxChatAlternative](https://github.com/Hermivore8151/RobloxChatAlternative) | 5 | Community-gedreven vervanging van het chatsysteem |
 | [4x8Matrix/wally-packages](https://github.com/4x8Matrix/wally-packages) | 5 | Monorepo met Wally-packages |
+| [crit-DEV/ForbiddenAPI](https://github.com/crit-DEV/ForbiddenAPI) | 5 | Verzameling handige functies |
+| [Tazmondo/Tev](https://github.com/Tazmondo/Tev) | 5 | Tev (events/utilities) |
+| [Raild3x/RailUtil](https://github.com/Raild3x/RailUtil) | 5 | Utility-functies |
+| [meisox/CuteSignal](https://github.com/meisox/CuteSignal) | 5 | Snelle signal-module |
+| [surfdev7/atlas](https://github.com/surfdev7/atlas) | 5 | Library tegen repetitieve development-taken |
 | [bstummer/PartyService](https://github.com/bstummer/PartyService) | 4 | Party-systemen, globale matchmaking-queues en teleport via MessagingService |
 | [metatablecatgames/catwork](https://github.com/metatablecatgames/catwork) | 4 | Declaratieve runtime en object-framework |
 | [R-unic/action-journal](https://github.com/R-unic/action-journal) | 4 | State-changes opnemen en replay/rollback doen |

@@ -4,15 +4,25 @@ Hashing, encryptie, logins, permissies, rate limiting en anticheat.
 
 | Repo | ⭐ | Wat het doet |
 |---|---:|---|
+| [daily3014/rbx-cryptography](https://github.com/daily3014/rbx-cryptography) | 112 | Luau-implementaties van populaire hash- en encryptie-algoritmes |
+| [raphtalia/RbxFingerprint](https://github.com/raphtalia/RbxFingerprint) | 52 | Demonstratie van een privacy-kwetsbaarheid (fingerprinting) |
+| [Corecii/GreenTea](https://github.com/Corecii/GreenTea) | 48 | Runtime-typechecker met Luau-types en nette fouten |
 | [Dekkonot/luau-hashing](https://github.com/Dekkonot/luau-hashing) | 35 | Hash-algoritmes (SHA, MD5, CRC...) in pure Luau |
 | [PossiblePanda/QueryAuth](https://github.com/PossiblePanda/QueryAuth) | 27 | Type-safe permissie-checks met complexe logica |
+| [rayanux/roblox-movement-anticheat](https://github.com/rayanux/roblox-movement-anticheat) | 27 | Server-side movement-anticheat met correctie |
+| [4x8Matrix/dev-suite](https://github.com/4x8Matrix/dev-suite) | 22 | Tools om je eigen game te QA'en en pen-testen |
+| [Humanagon/RBXLuaJailer](https://github.com/Humanagon/RBXLuaJailer) | 19 | Beveiligt door spelers ingestuurde Lua-code |
 | [boatbomber/HashLib](https://github.com/boatbomber/HashLib) | 18 | Cryptografische hashes (SHA, MD5...) in pure Lua |
 | [EgoMoose/rbx-captcha](https://github.com/EgoMoose/rbx-captcha) | 13 | Captcha's in Roblox (anti-bot) |
+| [ccuser44/FE-Plus-Plus](https://github.com/ccuser44/FE-Plus-Plus) | 13 | Anti-exploit tegen FilteringEnabled-kwetsbaarheden |
+| [metamethods/typed](https://github.com/metamethods/typed) | 12 | Runtime-typevalidatie |
 | [BrookenRecord/Rodentify](https://github.com/BrookenRecord/Rodentify) | 11 | Roblox game-servers authenticeren bij je eigen backend |
+| [Shiawaseu/RBLX-Whitelist](https://github.com/Shiawaseu/RBLX-Whitelist) | 11 | Serie over veilige authenticatiesystemen |
 | [boatbomber/LoginSystem](https://github.com/boatbomber/LoginSystem) | 8 | Veilige login-accounts binnen een game |
 | [TheNexusAvenger/Sovereign](https://github.com/TheNexusAvenger/Sovereign) | 7 | Bans centraal beheren over meerdere games en groepen |
 | [codehouseRBLX/AntiBot](https://github.com/codehouseRBLX/AntiBot) | 7 | Scam-bots detecteren met machine learning |
 | [bytexenon/luau-rng-cracker](https://github.com/bytexenon/luau-rng-cracker) | 6 | Toont hoe Luau's Random voorspelbaar is (RNG-cracker) |
+| [4x8Matrix/sandbox-luau](https://github.com/4x8Matrix/sandbox-luau) | 6 | Luau-code sandboxen |
 | [Shambi-0/Luau-Sha256](https://github.com/Shambi-0/Luau-Sha256) | 4 | Geoptimaliseerde SHA-256 voor Luau |
 | [ssynical/triplesec](https://github.com/ssynical/triplesec) | 3 | Triple-cascade encryptie (VeraCrypt-stijl) in Luau |
 | [janisfox/marble](https://github.com/janisfox/marble) | 3 | Role-based access control met DataStore-persistentie |

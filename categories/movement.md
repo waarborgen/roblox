@@ -10,6 +10,7 @@ Character controllers, ragdolls, destructie, parkour en eigen physics-engines.
 | [MaximumADHD/sm64-roblox](https://github.com/MaximumADHD/sm64-roblox) | 117 | Super Mario 64 bewegingscode geport naar Luau |
 | [EgoMoose/Rbx-Gravity-Controller](https://github.com/EgoMoose/Rbx-Gravity-Controller) | 51 | Karakters die zwaartekracht trotseren (lopen op bollen/planeten) |
 | [EgoMoose/rbx-wallstick](https://github.com/EgoMoose/rbx-wallstick) | 49 | Karakters plakken aan muren en bewegende objecten |
+| [EgoMoose/Rbx-Wallstick-Legacy](https://github.com/EgoMoose/Rbx-Wallstick-Legacy) | 44 | Legacy wallstick: lopen op muren en objecten |
 | [daftcube/orbitlib](https://github.com/daftcube/orbitlib) | 35 | Two-body orbital mechanics (ruimtevaart/planeten-banen) |
 | [prisma-dev/delta](https://github.com/prisma-dev/delta) | 30 | Deterministische physics-library (voor rollback/replays) |
 | [EgoMooseOldProjects/Custom-Character-Controller](https://github.com/EgoMooseOldProjects/Custom-Character-Controller) | 23 | Custom character controller: op muren lopen |
@@ -17,14 +18,21 @@ Character controllers, ragdolls, destructie, parkour en eigen physics-engines.
 | [boatbomber/AlarmClock](https://github.com/boatbomber/AlarmClock) | 15 | Houdt BaseParts "wakker" in de physics-engine |
 | [LeoStormer/ragdoll-system](https://github.com/LeoStormer/ragdoll-system) | 13 | Ragdoll-physics systeem voor games |
 | [Bartokens/VoxBreaker](https://github.com/Bartokens/VoxBreaker) | 11 | Voxel-destructie: muren/objecten kapotslaan in blokjes |
+| [IITPP-Roblox/Anchored-Platform-Player-Movement](https://github.com/IITPP-Roblox/Anchored-Platform-Player-Movement) | 11 | Spelers meebewegen op bewegende anchored platforms |
 | [datlass/PhysicsCharacterController](https://github.com/datlass/PhysicsCharacterController) | 10 | Character controller met mover-constraints |
 | [magicoal-nerb/impulse](https://github.com/magicoal-nerb/impulse) | 9 | Luau physics-engine met sequential impulses, herimplementeert Humanoid-physics |
 | [ffrostfall/character-interpolation-example](https://github.com/ffrostfall/character-interpolation-example) | 9 | Voorbeeld: character-interpolatie (smooth netwerk-movement) |
 | [jaipack17/GuiCollisionService](https://github.com/jaipack17/GuiCollisionService) | 9 | Collision-detectie tussen GUI-elementen (2D-games) |
+| [KhanPython/dispense-prop](https://github.com/KhanPython/dispense-prop) | 9 | Props fysiek uitdelen en aantrekken (zoals munten die naar je toe vliegen) |
 | [Brawldude2/RagdollService](https://github.com/Brawldude2/RagdollService) | 7 | Ragdoll-module voor alle rig-types |
 | [Fizzyhex/BufferModule](https://github.com/Fizzyhex/BufferModule) | 7 | Input-latency oplossen bij physics-items (gooien/vasthouden) |
 | [fewkz/character-realism](https://github.com/fewkz/character-realism) | 7 | Verbeterde fork van Character-Realism |
+| [azavier-a/Shatterbox](https://github.com/azavier-a/Shatterbox) | 7 | Shatterbox (voxel-destructie) |
+| [cozywitchcraft/anti-wallhop](https://github.com/cozywitchcraft/anti-wallhop) | 6 | Patcht wallhopping uit de humanoid controller |
 | [ScriptBreakpoint-QK/Realistic-Water-Simulation](https://github.com/ScriptBreakpoint-QK/Realistic-Water-Simulation) | 5 | Realistische water-physics |
+| [ItipatS/Roblox-Server-Simulation](https://github.com/ItipatS/Roblox-Server-Simulation) | 5 | Server-side simulatie (vuurvliegjes, ballen) met lichte client-rendering |
+| [00826/cc](https://github.com/00826/cc) | 5 | Humanoidless character controller + replicator |
+| [OverHash/mining-system](https://github.com/OverHash/mining-system) | 5 | Mijnbouw-systeem in roblox-ts |
 | [jaipack17/RayCast2](https://github.com/jaipack17/RayCast2) | 4 | Raycasting voor GUI's (2D) |
 | [TheSecondTry/RobloxTAS](https://github.com/TheSecondTry/RobloxTAS) | 4 | Tool-assisted speedrun (TAS) opnemen en afspelen |
 | [AngrySalt/Roblox-Grabbing-System](https://github.com/AngrySalt/Roblox-Grabbing-System) | 3 | Physics-based oppakken en slepen (Cook Burgers-stijl) |

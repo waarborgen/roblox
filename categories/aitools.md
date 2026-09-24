@@ -9,11 +9,14 @@ MCP-servers, AI-agents en skills die in Studio kunnen bouwen.
 | [hope1026/weppy-roblox-mcp](https://github.com/hope1026/weppy-roblox-mcp) | 61 | MCP-server + plugin: AI-assistenten scripts, terrain, lighting laten maken |
 | [TabooHarmony/roblox-brain](https://github.com/TabooHarmony/roblox-brain) | 56 | Skill-library met Roblox Studio-kennis voor AI-coding agents |
 | [MSayib/roblox-dev-skill](https://github.com/MSayib/roblox-dev-skill) | 25 | Kennisbank die AI-assistenten Roblox-experts maakt |
+| [ohzw/roblox-dev-skills](https://github.com/ohzw/roblox-dev-skills) | 18 | AI-skills om 3D-objecten en maps te bouwen via MCP |
 | [nonlooped/roblox-suite](https://github.com/nonlooped/roblox-suite) | 16 | Skill-set voor AI-agents met accurate Roblox-richtlijnen |
 | [luumenlabs/luau-skills](https://github.com/luumenlabs/luau-skills) | 12 | Agent-skills voor Luau en Roblox-development |
 | [AshExplained/roblox-skills](https://github.com/AshExplained/roblox-skills) | 10 | 34 Claude Code skills voor Roblox-gamedev |
 | [CodePhobiia/claude-roblox-game-studio](https://github.com/CodePhobiia/claude-roblox-game-studio) | 9 | Claude Code als Roblox-studio: 36 agents, 50 skills, Luau-wiki |
 | [Pugbread/ro-sync](https://github.com/Pugbread/ro-sync) | 8 | Local-first Studio control plane voor mensen en coding agents |
+| [rustyspottedcatt/RoLLM](https://github.com/rustyspottedcatt/RoLLM) | 8 | LLM-integratie voor Roblox |
+| [paralov/roblox-studio-opencode-mcp](https://github.com/paralov/roblox-studio-opencode-mcp) | 8 | MCP voor Studio met OpenCode |
 | [princeofscale/bloxforge](https://github.com/princeofscale/bloxforge) | 7 | Open-source AI-agent toolkit voor Studio |
 | [andrian-syh/roblox-best-practices-skill](https://github.com/andrian-syh/roblox-best-practices-skill) | 7 | Roblox/Luau best-practices skill voor AI-agents |
 | [JustineDevs/roblox-ai-os](https://github.com/JustineDevs/roblox-ai-os) | 7 | Roblox AI OS: skills voor Codex, Claude, Cursor |

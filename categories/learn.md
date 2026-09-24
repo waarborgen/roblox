@@ -17,31 +17,47 @@ Artikelen, complete open-source games, templates en curated lijsten.
 | [Sleitnick/RbxCookbook](https://github.com/Sleitnick/RbxCookbook) | 69 | Handige Lua-snippets voor Roblox |
 | [MiaGobble/Open-Sourced-Projects](https://github.com/MiaGobble/Open-Sourced-Projects) | 54 | Oude/onafgemaakte/geannuleerde games en projecten open-source (.rbxl) |
 | [MaximumADHD/Roblox-Boilerplate](https://github.com/MaximumADHD/Roblox-Boilerplate) | 49 | Handige fragmenten voor het maken van Roblox-games |
+| [MerelyRBLX/ROBLOX-Lua](https://github.com/MerelyRBLX/ROBLOX-Lua) | 47 | Scripts van Merely (klassieke Roblox-developer) |
 | [Coyenn/awesome-roblox-ts](https://github.com/Coyenn/awesome-roblox-ts) | 43 | Alle packages voor roblox-ts |
+| [CodeBotsStudio/Dysymmetrical](https://github.com/CodeBotsStudio/Dysymmetrical) | 40 | Engine voor asymmetrische games (killer vs survivors) |
+| [MrChickenRocket/Server-Authority-Tutorial-Cakeman](https://github.com/MrChickenRocket/Server-Authority-Tutorial-Cakeman) | 40 | Tutorial server authority met custom character en vloeiende visuals |
+| [PacktPublishing/Coding-Roblox-Games-Made-Easy-2nd-Edition](https://github.com/PacktPublishing/Coding-Roblox-Games-Made-Easy-2nd-Edition) | 39 | Code bij het boek Coding Roblox Games Made Easy |
 | [EgoMooseOldProjects/ExampleDump](https://github.com/EgoMooseOldProjects/ExampleDump) | 37 | Voorbeeldcode bij EgoMoose's video's en artikelen (CFrame-wiskunde) |
 | [MayGo/maze-world](https://github.com/MayGo/maze-world) | 35 | Open-source doolhof-game |
 | [B-Ricey763/Roblox-Studio-Tycoon](https://github.com/B-Ricey763/Roblox-Studio-Tycoon) | 35 | Tycoon-code met uitleg (tutorialserie) |
+| [leifstout/easy-defense](https://github.com/leifstout/easy-defense) | 35 | Tower defense als voorbeeld/template |
 | [beagleded/Roblox-Places-Archive](https://github.com/beagleded/Roblox-Places-Archive) | 32 | Archief van oude en moderne Roblox-places |
+| [PacktPublishing/Mastering-Roblox-Coding](https://github.com/PacktPublishing/Mastering-Roblox-Coding) | 32 | Code bij het boek Mastering Roblox Coding |
 | [YetAnotherClown/awesome-react-lua](https://github.com/YetAnotherClown/awesome-react-lua) | 30 | Awesome-lijst voor React-lua |
+| [mandrillxx/eatventure-rblx](https://github.com/mandrillxx/eatventure-rblx) | 30 | Game gebaseerd op mobiele game Eatventure |
 | [littensy/charm-example](https://github.com/littensy/charm-example) | 29 | Voorbeeldgame gebouwd met Charm (state management) |
 | [EgoMooseOldProjects/Vector3-and-CFrame](https://github.com/EgoMooseOldProjects/Vector3-and-CFrame) | 25 | Vector3 en CFrame nagebouwd in pure Lua en C# (leer hoe ze werken) |
+| [etohgame/kit](https://github.com/etohgame/kit) | 25 | Officiële creation kit van Eternal Towers of Hell |
+| [VintageCube/VintageCube](https://github.com/VintageCube/VintageCube) | 23 | Minecraft Classic-kloon in Roblox |
 | [evaera/LuaAlgorithms](https://github.com/evaera/LuaAlgorithms) | 22 | Generieke algoritmes voor Roblox |
 | [seaofvoices/awesome-luau](https://github.com/seaofvoices/awesome-luau) | 22 | Handpicked lijst met kwaliteits-Luau-packages (npm) |
 | [BrookenRecord/tabletop-island](https://github.com/BrookenRecord/tabletop-island) | 22 | Open-source sociale game met tafelspellen |
+| [HelixNebulaStudio/RiseOfTheDead](https://github.com/HelixNebulaStudio/RiseOfTheDead) | 22 | Development-repo van Rise of the Dead (volledige game) |
 | [jaipack17/write-ups](https://github.com/jaipack17/write-ups) | 21 | Artikelen en onderzoek over Roblox-physics/wiskunde |
+| [dphfox/rdc-2024-fusion-demo](https://github.com/dphfox/rdc-2024-fusion-demo) | 18 | Fusion-demo van RDC 2024 |
 | [evilbocchi/eternal-empire](https://github.com/evilbocchi/eternal-empire) | 17 | Complete tycoon/incremental game open-source (roblox-ts) |
 | [MonzterDev/Roblox-Game-Template](https://github.com/MonzterDev/Roblox-Game-Template) | 16 | Luau game-template met Module Framework + ProfileService |
 | [Xyraniz/VaultUI](https://github.com/Xyraniz/VaultUI) | 16 | Collectie van 15+ gratis UI-libraries |
 | [D0NM/lua-lessons-ru](https://github.com/D0NM/lua-lessons-ru) | 16 | Broncode van videocursus Love2D/Roblox/Lua (Russisch) |
+| [Foxxive/Open-Source-Stuff](https://github.com/Foxxive/Open-Source-Stuff) | 16 | Open-source scripts en places voor development |
+| [e345ee/MathForge](https://github.com/e345ee/MathForge) | 16 | Numerieke methoden in 3D visualiseren (Russisch) |
 | [Emancyphur/Roblox-Studio-Tutorials](https://github.com/Emancyphur/Roblox-Studio-Tutorials) | 15 | Broncode en modellen van Roblox Studio tutorials |
 | [LPGhatguy/roads](https://github.com/LPGhatguy/roads) | 15 | Rojo tech-demo |
 | [Bytebit-Org/lua-statistics](https://github.com/Bytebit-Org/lua-statistics) | 14 | Statistische functies voor Lua |
 | [PhoenixCausesOof/awesome-roblox](https://github.com/PhoenixCausesOof/awesome-roblox) | 14 | Curated lijst met Roblox-code en resources |
+| [Velover/RobloxUIBible](https://github.com/Velover/RobloxUIBible) | 14 | Roblox UI Bible (gids) |
 | [LastTalon/sentinel-core](https://github.com/LastTalon/sentinel-core) | 13 | Complete co-op horde-survival game open-source |
 | [MonzterDev/TS-Halloween-Simulator](https://github.com/MonzterDev/TS-Halloween-Simulator) | 13 | Complete simulator-game in roblox-ts (leerproject) |
 | [Fizzyhex/price-point](https://github.com/Fizzyhex/price-point) | 12 | Complete open-source game: raad marketplace-prijzen |
+| [dphfox/blox-classic](https://github.com/dphfox/blox-classic) | 12 | Archief van Blox Classic-broncode (2020) |
 | [ffrostfall/roblox-writeups](https://github.com/ffrostfall/roblox-writeups) | 11 | Diepgaande technische writeups over Roblox |
 | [MiaGobble/Praxis](https://github.com/MiaGobble/Praxis) | 11 | Collectie libraries en utilities |
+| [imkalrbx/rbxts-multiplace-setup-flamework](https://github.com/imkalrbx/rbxts-multiplace-setup-flamework) | 11 | Multi-place project met roblox-ts en Flamework |
 | [howmanysmall/DataStructures](https://github.com/howmanysmall/DataStructures) | 10 | Datastructuren in Lua |
 | [rghv234/pokemonbrickbronze](https://github.com/rghv234/pokemonbrickbronze) | 10 | Bestanden van de Pokémon Brick Bronze game |
 | [elomala/Fighting-game](https://github.com/elomala/Fighting-game) | 8 | Open-source vechtgame |
@@ -50,6 +66,8 @@ Artikelen, complete open-source games, templates en curated lijsten.
 | [devsarim/roblox-project-template](https://github.com/devsarim/roblox-project-template) | 7 | Boilerplate: synced state, data saving, synced UI |
 | [B-Ricey763/Roblox-Snowball-Fight](https://github.com/B-Ricey763/Roblox-Snowball-Fight) | 7 | Open-source sneeuwbalgevecht-game |
 | [THEBESTol0ch/Computer-Core-APOLLO-Research-Facility-WIP](https://github.com/THEBESTol0ch/Computer-Core-APOLLO-Research-Facility-WIP) | 7 | Code van een research-facility game (reactor-core) |
+| [RegularVynixu/DOORS-Entity-Spawner](https://github.com/RegularVynixu/DOORS-Entity-Spawner) | 7 | Eigen DOORS-entities spawnen |
+| [AsynchronousAI/chess-roblox](https://github.com/AsynchronousAI/chess-roblox) | 7 | Schaakspel in Roblox |
 | [ethangtkt/Outrageous-Blades](https://github.com/ethangtkt/Outrageous-Blades) | 6 | Multiplayer melee-toernooi game (open-source) |
 | [replier0/open-source-games](https://github.com/replier0/open-source-games) | 6 | Collectie open-source Roblox-games |
 | [fiveman1/strafes-site](https://github.com/fiveman1/strafes-site) | 6 | Website met content uit StrafesNET (bhop/surf) |
@@ -60,6 +78,7 @@ Artikelen, complete open-source games, templates en curated lijsten.
 | [ConMur/StonkSimulator](https://github.com/ConMur/StonkSimulator) | 5 | Aandelen-simulatie game |
 | [justinkolaras/NS-V2-Game](https://github.com/justinkolaras/NS-V2-Game) | 5 | Framework van de game Next Saturday V2 |
 | [LPGhatguy/roact-patterns](https://github.com/LPGhatguy/roact-patterns) | 5 | Voorbeelden van veelgebruikte Roact-patronen |
+| [cozywitchcraft/infinite-minesweeper](https://github.com/cozywitchcraft/infinite-minesweeper) | 5 | Broncode van Infinite Minesweeper |
 | [Dekkonot/crossroads-rojo](https://github.com/Dekkonot/crossroads-rojo) | 4 | De klassieke Crossroads-game als Rojo-project |
 | [evilbocchi/bocchi-upgrade-tree](https://github.com/evilbocchi/bocchi-upgrade-tree) | 4 | Open-source upgrade-tree game |
 | [T-R-I-X/Jorik-TS](https://github.com/T-R-I-X/Jorik-TS) | 4 | Open-source MMORPG in roblox-ts |

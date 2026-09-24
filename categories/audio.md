@@ -4,6 +4,9 @@
 
 | Repo | ⭐ | Wat het doet |
 |---|---:|---|
+| [boatbeaker/AudioVisualizer](https://github.com/boatbeaker/AudioVisualizer) | 13 | Audio-visualizer |
+| [IITPP-Roblox/LocalAudio-Subtitles](https://github.com/IITPP-Roblox/LocalAudio-Subtitles) | 10 | Ondertitels voor LocalAudio |
+| [IITPP-Roblox/LocalAudio](https://github.com/IITPP-Roblox/LocalAudio) | 8 | Audio als data afspelen i.p.v. instances |
 | [Redon-Tech/radio-system](https://github.com/Redon-Tech/radio-system) | 7 | Radiosysteem met de nieuwe voice/sound API's |
 | [Interfiber/rbxmidi](https://github.com/Interfiber/rbxmidi) | 6 | Speel Roblox-piano's met een echt MIDI-keyboard |
 | [Jupiter-Development-Revamp/PhantomComms](https://github.com/Jupiter-Development-Revamp/PhantomComms) | 3 | Proximity-chat voor RP- en horrorgames |

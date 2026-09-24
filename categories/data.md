@@ -7,8 +7,12 @@ DataStores, serialisatie, compressie, state en big numbers.
 | [MadStudioRoblox/ProfileStore](https://github.com/MadStudioRoblox/ProfileStore) | 338 | Session-locked DataStore saving (opvolger ProfileService) |
 | [littensy/charm](https://github.com/littensy/charm) | 261 | Atomic state management (Jotai-stijl) |
 | [paradoxum-games/lyra](https://github.com/paradoxum-games/lyra) | 151 | Geavanceerd player-data beheer met simpele API |
+| [leifstout/dataServiceTyped](https://github.com/leifstout/dataServiceTyped) | 94 | Getypeerde spelersdata-service |
 | [cxmeel/sift](https://github.com/cxmeel/sift) | 92 | Immutable data library |
+| [leifstout/dataService](https://github.com/leifstout/dataService) | 86 | Spelersdata-service met replicatie |
 | [buildthomas/MockDataStoreService](https://github.com/buildthomas/MockDataStoreService) | 84 | DataStoreService emuleren voor offline testen |
+| [nezuo/lapis](https://github.com/nezuo/lapis) | 81 | DataStore-abstractie met sessie-locking en migraties |
+| [anthony0br/DocumentService](https://github.com/anthony0br/DocumentService) | 53 | DataStore-documenten met schema's en sessie-locking |
 | [freddylist/llama](https://github.com/freddylist/llama) | 52 | Library voor immutable data |
 | [cipharius/msgpack-luau](https://github.com/cipharius/msgpack-luau) | 51 | MessagePack binaire serialisatie |
 | [Reselim/Base64](https://github.com/Reselim/Base64) | 50 | Snelle Base64 encoder/decoder |
@@ -16,36 +20,72 @@ DataStores, serialisatie, compressie, state en big numbers.
 | [Dekkonot/bitbuffer](https://github.com/Dekkonot/bitbuffer) | 45 | Binaire data packen in pure Lua |
 | [MadStudioRoblox/Sera](https://github.com/MadStudioRoblox/Sera) | 43 | Low-level geschematiseerde serialisatie naar buffers |
 | [chadhyatt/LuaEncode](https://github.com/chadhyatt/LuaEncode) | 41 | Snelle table-serialisatie naar Lua-code |
+| [synpixel/roblox-classic-faces](https://github.com/synpixel/roblox-classic-faces) | 41 | Archief van klassieke Roblox-gezichten en hoofden |
+| [alicesaidhi/skilift](https://github.com/alicesaidhi/skilift) | 40 | Transactionele datastore-library |
+| [ericplane/Scribe](https://github.com/ericplane/Scribe) | 36 | Getypeerde, auto-gerepliceerde spelersdata op ProfileStore |
 | [cxmeel/BasicState](https://github.com/cxmeel/BasicState) | 35 | Supersimpele state management |
+| [jackhexed/drop](https://github.com/jackhexed/drop) | 34 | ACID-datastore library |
 | [Dekkonot/int64-luau](https://github.com/Dekkonot/int64-luau) | 29 | Unsigned 64-bit integers in pure Luau via vectors |
 | [alonefact/RBLX-UGC-Emotes](https://github.com/alonefact/RBLX-UGC-Emotes) | 28 | API-dump van alle UGC-emotes |
 | [evaera/Quicksave](https://github.com/evaera/Quicksave) | 27 | DataStore-abstractie met schema's en retries |
+| [nezuo/delta-compress](https://github.com/nezuo/delta-compress) | 26 | Delta-compressie van tabellen voor replicatie |
 | [KdudeDev/InfiniteMath](https://github.com/KdudeDev/InfiniteMath) | 25 | Voorbij het 10^308 getal-limiet |
 | [EgoMoose/rbx-bufferize](https://github.com/EgoMoose/rbx-bufferize) | 24 | Roblox-datatypes lossless naar/van buffers encoderen |
 | [HuotChu/ArrayForLua](https://github.com/HuotChu/ArrayForLua) | 24 | JavaScript-achtige Array-library voor Lua |
+| [0x5eal/luau-unzip](https://github.com/0x5eal/luau-unzip) | 23 | Unzip in pure Luau |
+| [rstk/BitBuffer](https://github.com/rstk/BitBuffer) | 22 | Snelle BitBuffer |
 | [evilbocchi/alyanum](https://github.com/evilbocchi/alyanum) | 20 | High-performance big numbers (incremental/simulator games) |
+| [noahrepublic/DataKeep](https://github.com/noahrepublic/DataKeep) | 20 | Data-opslag oplossing (ProfileService-alternatief) |
+| [yTrev/Replion](https://github.com/yTrev/Replion) | 19 | State-replicatie server naar client |
+| [headjoe3/Rocrastinate](https://github.com/headjoe3/Rocrastinate) | 19 | React/Redux-achtige state en view library |
 | [Gem-API/Rose](https://github.com/Gem-API/Rose) | 17 | Volledige Roblox Instance-serializer (instances opslaan/laden) |
+| [Blockzez/RobloxFormatNumber](https://github.com/Blockzez/RobloxFormatNumber) | 17 | Getallen formatteren (1.2K, 3.4M) |
+| [boatbeaker/FreedumbStore](https://github.com/boatbeaker/FreedumbStore) | 17 | DataStore-wrapper die de limieten omzeilt (experimenteel) |
 | [duckarmor/Freeze](https://github.com/duckarmor/Freeze) | 16 | Immutable datastructuren |
+| [hardlyardi/faststackplus](https://github.com/hardlyardi/faststackplus) | 16 | Snelle stack-implementatie |
+| [kohltastrophe/hyperloglog](https://github.com/kohltastrophe/hyperloglog) | 15 | HyperLogLog++ voor unieke tellingen |
+| [boatbeaker/HeatUp](https://github.com/boatbeaker/HeatUp) | 15 | DataStore-wrapper die de cooldown omzeilt |
 | [RiskoZS/llz4](https://github.com/RiskoZS/llz4) | 14 | LZ4-compressie in pure Lua (data kleiner maken) |
 | [XoifaiI/Ledger](https://github.com/XoifaiI/Ledger) | 13 | Lock-free, event-sourced datastore zonder session locks |
 | [Dekkonot/base91-luau](https://github.com/Dekkonot/base91-luau) | 13 | Base91 encoderen/decoderen (compacter dan Base64) |
+| [kohltastrophe/Z](https://github.com/kohltastrophe/Z) | 13 | Schematized buffer-serialisatie |
+| [TenebrisNoctua/StructU](https://github.com/TenebrisNoctua/StructU) | 12 | Low-level structs in Luau |
 | [R-unic/serio](https://github.com/R-unic/serio) | 11 | Buffer-serialisatie library |
+| [ernisto/rng](https://github.com/ernisto/rng) | 11 | RNG-utilities |
+| [Crazyblox/blah](https://github.com/Crazyblox/blah) | 11 | Ruwe buffer-data opslaan als require-bare modules |
 | [howmanysmall/FastBitBuffer](https://github.com/howmanysmall/FastBitBuffer) | 10 | Snelste Roblox BitBuffer |
 | [CrabGuy/APInt](https://github.com/CrabGuy/APInt) | 10 | Arbitrary-precision integers |
 | [fosterchild1/AptInt](https://github.com/fosterchild1/AptInt) | 10 | Snelste BigInteger-implementatie in Luau |
 | [TheNexusAvenger/Nexus-Data-Store](https://github.com/TheNexusAvenger/Nexus-Data-Store) | 9 | DataStore-requests bufferen en wijzigingen naar andere servers sturen |
 | [LastTalon/Monolith](https://github.com/LastTalon/Monolith) | 9 | Collecties-library (sets, queues, etc.) |
+| [Velover/state-management-package-rbxts](https://github.com/Velover/state-management-package-rbxts) | 9 | State management package voor roblox-ts |
 | [NotDSF/leopard](https://github.com/NotDSF/leopard) | 8 | "Snelste" serializer voor Lua en Roblox |
 | [raphtalia/Enum](https://github.com/raphtalia/Enum) | 8 | Eigen Enum-library |
+| [anexpia/BufferEncoder](https://github.com/anexpia/BufferEncoder) | 8 | Efficiënte encoder van tabellen naar buffers |
+| [Quamatic/rbxts-profile-store](https://github.com/Quamatic/rbxts-profile-store) | 8 | roblox-ts bindings voor ProfileStore |
+| [seaofvoices/heck-luau](https://github.com/seaofvoices/heck-luau) | 8 | Case-conversie (camelCase, snake_case) met Unicode |
+| [leifstout/servicePlayerData](https://github.com/leifstout/servicePlayerData) | 8 | Spelersdata-service |
 | [NotReeceHarris/DataStore3](https://github.com/NotReeceHarris/DataStore3) | 7 | Modulaire externe SQL-opslag voor Roblox |
 | [seaofvoices/luau-character](https://github.com/seaofvoices/luau-character) | 7 | Unicode-tekenclassificatie en conversie |
 | [romdotdog/BigInteger.lua](https://github.com/romdotdog/BigInteger.lua) | 7 | BigInteger-library getranspileerd naar Luau |
 | [howmanysmall/RbxWeb](https://github.com/howmanysmall/RbxWeb) | 7 | DataStore-module |
+| [evilbocchi/serikanum](https://github.com/evilbocchi/serikanum) | 7 | Schattige big-number library |
+| [EgoMoose/ordered-dictionary-luau](https://github.com/EgoMoose/ordered-dictionary-luau) | 7 | Dictionary die invoegvolgorde onthoudt |
 | [wrello/Plums](https://github.com/wrello/Plums) | 6 | Table-wijzigingen server → client repliceren |
 | [olmescode/DataModule](https://github.com/olmescode/DataModule) | 6 | DataStore-library voor games |
+| [SecondNewtonLaw/TableToBuffer](https://github.com/SecondNewtonLaw/TableToBuffer) | 6 | Tabellen naar buffers |
+| [Bura-Games/typed-profile-service](https://github.com/Bura-Games/typed-profile-service) | 6 | Getypeerde ProfileService |
+| [Bura-Games/data-structures](https://github.com/Bura-Games/data-structures) | 6 | Datastructuren-library |
+| [CerebralLabs/cerebral](https://github.com/CerebralLabs/cerebral) | 6 | Player state management tool |
+| [littensy/reactivity](https://github.com/littensy/reactivity) | 6 | Reactivity-library |
 | [Fiusen/filterTable](https://github.com/Fiusen/filterTable) | 5 | Snel diep zoeken en filteren in tabellen |
 | [TumbleWede/Val](https://github.com/TumbleWede/Val) | 5 | Lichte state management |
 | [seaofvoices/luau-disk](https://github.com/seaofvoices/luau-disk) | 5 | Immutable datastructuren voor Luau |
+| [VerifiedHawaii/Raddish](https://github.com/VerifiedHawaii/Raddish) | 5 | Redis-achtige store voor Roblox |
+| [EgoMoose/deque-luau](https://github.com/EgoMoose/deque-luau) | 5 | Double-ended queue |
+| [Data-Oriented-House/Cursor](https://github.com/Data-Oriented-House/Cursor) | 5 | Buffer-wrapper om waarden op een stack te serialiseren |
+| [Brawldude2/RemoteTable-Light](https://github.com/Brawldude2/RemoteTable-Light) | 5 | Tabellen repliceren over het netwerk |
+| [roblox-aurora/rbx-variant](https://github.com/roblox-aurora/rbx-variant) | 5 | Variant-types voor roblox-ts |
 | [rimuy/roselect](https://github.com/rimuy/roselect) | 4 | Composable data-selectors |
 | [TRC-Loop/OpenCatWebJson](https://github.com/TRC-Loop/OpenCatWebJson) | 4 | Python-library voor CatWeb's JSON-formaten |
 | [Mullets-Gavin/s](https://github.com/Mullets-Gavin/s) | 4 | State management library |
