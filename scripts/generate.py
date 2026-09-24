@@ -9,6 +9,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data" / "repos.tsv"
+EXTRA = ROOT / "data" / "extra.tsv"
 OUT_DIR = ROOT / "categories"
 
 # Volgorde en titels van de categorieën
@@ -39,8 +40,10 @@ CATEGORIES = {
 }
 
 
-def load():
-    with DATA.open(encoding="utf-8") as f:
+def load(path=DATA):
+    if not path.exists():
+        return []
+    with path.open(encoding="utf-8") as f:
         rows = list(csv.DictReader(f, delimiter="\t", quoting=csv.QUOTE_NONE))
     for r in rows:
         r["stars"] = int(r["stars"])
@@ -65,17 +68,26 @@ def anchor(title):
 
 def main():
     rows = load()
+    curated = {r["repo"].lower() for r in rows}
+    extra = [r for r in load(EXTRA) if r["repo"].lower() not in curated]
     OUT_DIR.mkdir(exist_ok=True)
     index = []
     for key, (title, blurb) in CATEGORIES.items():
         cat_rows = [r for r in rows if r["category"] == key]
-        if not cat_rows:
+        cat_extra = [r for r in extra if r["category"] == key]
+        if not cat_rows and not cat_extra:
             continue
-        (OUT_DIR / f"{key}.md").write_text(
-            f"# {title}\n\n{blurb}\n\n{table(cat_rows)}\n\n[← Terug naar overzicht](../README.md)\n",
-            encoding="utf-8",
-        )
-        index.append((key, title, blurb, cat_rows))
+        page = f"# {title}\n\n{blurb}\n\n## Handgecureerd ({len(cat_rows)})\n\n{table(cat_rows)}\n"
+        if cat_extra:
+            page += (
+                f"\n## Uitgebreide index ({len(cat_extra)})\n\n"
+                "Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. "
+                "Omschrijving = originele GitHub-omschrijving.\n\n"
+                f"{table(cat_extra)}\n"
+            )
+        page += "\n[← Terug naar overzicht](../README.md)\n"
+        (OUT_DIR / f"{key}.md").write_text(page, encoding="utf-8")
+        index.append((key, title, blurb, cat_rows, cat_extra))
 
     readme = [
         "# Roblox Hidden Gems 💎",
@@ -88,27 +100,34 @@ def main():
         "",
         "Tip: ⭐ zegt weinig bij nieuwe projecten, veel pareltjes hebben (nog) bijna geen sterren.",
         "",
-        f"Totaal: **{len(rows)} repos** in **{len(index)} categorieën**. ⭐ = GitHub-sterren op het moment van verzamelen (sept. 2026).",
+        f"Totaal: **{len(rows) + len(extra)} repos** in **{len(index)} categorieën**: "
+        f"**{len(rows)}** handgecureerd (met Nederlandse uitleg, hieronder) + **{len(extra)}** in de uitgebreide index "
+        "(automatisch verzameld en gefilterd, op de categoriepagina's). ⭐ = GitHub-sterren op het moment van verzamelen (sept. 2026).",
         "",
         "## Categorieën",
         "",
     ]
-    for key, title, blurb, cat_rows in index:
-        readme.append(f"- [{title}](#{anchor(title)}) — **{len(cat_rows)}** repos ([losse pagina](categories/{key}.md))")
+    for key, title, blurb, cat_rows, cat_extra in index:
+        readme.append(
+            f"- [{title}](#{anchor(title)}) — **{len(cat_rows)}** gecureerd + **{len(cat_extra)}** in index "
+            f"([volledige pagina](categories/{key}.md))"
+        )
     readme.append("")
-    for key, title, blurb, cat_rows in index:
-        readme += [f"## {title}", "", f"{blurb} ({len(cat_rows)} repos)", "", table(cat_rows), ""]
+    for key, title, blurb, cat_rows, cat_extra in index:
+        more = f" — nog **{len(cat_extra)}** meer in de [uitgebreide index](categories/{key}.md#uitgebreide-index-{len(cat_extra)})" if cat_extra else ""
+        readme += [f"## {title}", "", f"{blurb} ({len(cat_rows)} gecureerd{more})", "", table(cat_rows), ""]
     readme += [
         "## Uitbreiden",
         "",
         "1. Voeg een regel toe aan [`data/repos.tsv`](data/repos.tsv) (`categorie<TAB>eigenaar/repo<TAB>sterren<TAB>omschrijving`).",
         "2. Draai `python3 scripts/generate.py` — README en categoriepagina's worden opnieuw gegenereerd.",
+        "3. De uitgebreide index (`data/extra.tsv`) wordt gebouwd met `python3 scripts/build_extra.py <pool.json>` uit opgeslagen zoekresultaten.",
         "",
         "> Let op: controleer altijd de licentie van een repo voordat je code in je eigen game gebruikt.",
         "",
     ]
     (ROOT / "README.md").write_text("\n".join(readme), encoding="utf-8")
-    print(f"{len(rows)} repos, {len(index)} categorieën gegenereerd")
+    print(f"{len(rows)} gecureerd + {len(extra)} index = {len(rows) + len(extra)} repos, {len(index)} categorieën gegenereerd")
 
 
 if __name__ == "__main__":

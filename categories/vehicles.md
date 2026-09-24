@@ -2,6 +2,8 @@
 
 Chassis, suspensie, hover, raketten, drijfvermogen en treinen.
 
+## Handgecureerd (23)
+
 | Repo | ⭐ | Wat het doet |
 |---|---:|---|
 | [lisphm/A-Chassis](https://github.com/lisphm/A-Chassis) | 102 | Officieel A-Chassis: realistische auto's en motoren |
@@ -27,5 +29,62 @@ Chassis, suspensie, hover, raketten, drijfvermogen en treinen.
 | [Kaminoan-Engineers/repulsyn](https://github.com/Kaminoan-Engineers/repulsyn) | 0 | Modulair repulsorlift/hover-systeem voor land-, zee- en luchtvoertuigen |
 | [cassicoder/boat-game](https://github.com/cassicoder/boat-game) | 0 | Boot-game: Matter ECS + Gerstner-oceaan + drijfvermogen + vissen |
 | [HassanJN66/roblox-vehicle-framework](https://github.com/HassanJN66/roblox-vehicle-framework) | 0 | Raycast-wielen + soft physics body, FWD/RWD/AWD |
+
+## Uitgebreide index (50)
+
+Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
+
+| Repo | ⭐ | Wat het doet |
+|---|---:|---|
+| [Treelon/ptfs-charts](https://github.com/Treelon/ptfs-charts) | 93 | Charts for the Roblox game Pilot Training Flight Simulator |
+| [ptfstools/Vector24](https://github.com/ptfstools/Vector24) | 10 | A simple beginner alternative vector client used for ATC24. Used for giving a precision compass heading to planes in the Roblox game Pilot Training Flight Si... |
+| [scr-autopilot/scr-autopilot](https://github.com/scr-autopilot/scr-autopilot) | 9 | 🚄 The only fully automatic autopilot for Stepford County Railway. |
+| [jake-baxter/rblx-train-driving-system](https://github.com/jake-baxter/rblx-train-driving-system) | 8 | A WIP Roblox Train Driving System simply for anyone to use. |
+| [paswa-dev/ViewspaceToPng](https://github.com/paswa-dev/ViewspaceToPng) | 6 | Takes a Viewspace/Plane area, and creates a roblox image out of it. This is a work in progress and is not fully optimized, so feel free to assist in optimizi... |
+| [regibus361/OpenRoSig](https://github.com/regibus361/OpenRoSig) | 5 | UK-based rail signalling system for Roblox train simulators. |
+| [TheEveEye/SCR-Realism-Project](https://github.com/TheEveEye/SCR-Realism-Project) | 4 | Our goal is to create a perfectly timed timetable for all stations and drivers in the Roblox Game "Stepford County Railway" |
+| [cityuserGH/ptfsperf](https://github.com/cityuserGH/ptfsperf) | 2 | Calculate aircraft performance in Pilot Training Flight Simulator (PTFS) on Roblox |
+| [SanMein/Pilot-Flight-Calculator](https://github.com/SanMein/Pilot-Flight-Calculator) | 2 | Multiple Calculator for Roblox mode - Aeronautica |
+| [123gurshaan97/Vehicle-Legends](https://github.com/123gurshaan97/Vehicle-Legends) | 1 | This game is like the vehicle Legends and if you win a Bugatti you'll get 2,000 billion Roblox |
+| [belarusian/Sigurd20202-s-Place](https://github.com/belarusian/Sigurd20202-s-Place) | 1 | A Roblox open-world obby / flight course with coin collection, treasure chests, NPC dialogue, and a shop system. Built with Luau + Rojo. |
+| [cfuenlabs/detonary](https://github.com/cfuenlabs/detonary) | 1 | A bombastic search engine to help you train for Roblox's Word Bomb |
+| [Community-Shipyards/sevenbot](https://github.com/Community-Shipyards/sevenbot) | 1 | djs bot programmed specifically for Community Shipyards/Perdere |
+| [cyrus01337/narugoku-shipgundam](https://github.com/cyrus01337/narugoku-shipgundam) | 1 | Funky anime battle game on Roblox |
+| [danarsjow/RBLX_FuelSystem_Percentage](https://github.com/danarsjow/RBLX_FuelSystem_Percentage) | 1 | Fuel System in % for Roblox A-Chassis |
+| [danarsjow/RBLX_TyreWear_Regen](https://github.com/danarsjow/RBLX_TyreWear_Regen) | 1 | Tyre Wear Regenerator for Roblox A-Chassis |
+| [DevDodger/Dchassis](https://github.com/DevDodger/Dchassis) | 1 | Dchassis for roblox cars. |
+| [devhykka/pfdata](https://github.com/devhykka/pfdata) | 1 | Multiple sources of data for the Project Flight flight simulator on Roblox. |
+| [devvalkyrie/Roblox-Car-Spotting-Website](https://github.com/devvalkyrie/Roblox-Car-Spotting-Website) | 1 | This is a website made by me where I post a cool cars that I saw in Roblox Greenville and Southwest Florida |
+| [disownh8r/h8r-script](https://github.com/disownh8r/h8r-script) | 1 | Roblox multi-tool script, specifically made for Mic-Up. Includes features such as shift-speed, fly, noclip and voice-chat unsuspension.. |
+| [downj05/ROBLOX-Flytool](https://github.com/downj05/ROBLOX-Flytool) | 1 | External flight tool for ROBLOX, using Pymem for process read/write. |
+| [Drexen-Zikauni/RobloxGalaxyPlayerInventoriesDatabase](https://github.com/Drexen-Zikauni/RobloxGalaxyPlayerInventoriesDatabase) | 1 | A database that contains about 8000 to 9000 player's observed ship inventory. |
+| [ehenry344/A-Chassis-Debug-Tool-](https://github.com/ehenry344/A-Chassis-Debug-Tool-) | 1 | Roblox Studio Plugin designed to help programmers determine error laden scripts within their achassis vehicle plugins folder, and allows them to highlight an... |
+| [Ericberpa/fly-gui](https://github.com/Ericberpa/fly-gui) | 1 | Fly GUI v4 by EricBerpa: Roblox client flight controller with keyboard and touch controls. |
+| [FlightLineCharts/flightlinecharts.github.io](https://github.com/FlightLineCharts/flightlinecharts.github.io) | 1 | Online Charts & Guides for playing FLIGHTLINE, Roblox Flight Simulator |
+| [fwlxpro/brm5](https://github.com/fwlxpro/brm5) | 1 | A simple tool for BRM5 helicopter pilots to record their flights and replay them later. Fly your route once, save it, and come back anytime to replay the sam... |
+| [Gianworld/NBA2kRoblox](https://github.com/Gianworld/NBA2kRoblox) | 1 | Here you can play 5v5 and friendly match in mypark where you can train, you can explore in mypark buy accessories and all that and show urself who you really... |
+| [GuaveTree/Raycast-Suspension-System-in-Roblox](https://github.com/GuaveTree/Raycast-Suspension-System-in-Roblox) | 1 | My first try making suspension in Roblox without type checking and OOP for now. I'm still working on it |
+| [IndianVersion/Planes](https://github.com/IndianVersion/Planes) | 1 | i dont utilize what roblox studio gives me, i make it utilize what i give it |
+| [isLenk/Shipwreck-Roblox-Game](https://github.com/isLenk/Shipwreck-Roblox-Game) | 1 | A year long game development project started 09/01/2017 which greatly increased my CS problem-solving skills. |
+| [Kyariko/KChassis-for-Roblox](https://github.com/Kyariko/KChassis-for-Roblox) | 1 | Kchassis is a basic raycast chassis implementation for Roblox games. |
+| [Lumen142/Roblox-AC6-FIX](https://github.com/Lumen142/Roblox-AC6-FIX) | 1 | “A-Chassis Tune” automatically kicks players from the server if they have audio playback issues in certain versions. |
+| [MadChillRBLX/MONTERNA-BIGSUR-CODE](https://github.com/MadChillRBLX/MONTERNA-BIGSUR-CODE) | 1 | Hi and welcome to monterna's new project for roblox the project is a car game in roblox |
+| [MUS15037/Your-MUS15037.github.io](https://github.com/MUS15037/Your-MUS15037.github.io) | 1 | This website is a unblocked game website |
+| [OOPete/Racing-Game](https://github.com/OOPete/Racing-Game) | 1 | Small racing game created on roblox |
+| [PGC-Interactive/ZenSpawner](https://github.com/PGC-Interactive/ZenSpawner) | 1 | ZenSpawner is a car spawner system designed to spawn A-Chassis cars via AssetIds. It is designed for games that have issues with Roblox's memory limit and ha... |
+| [scr-randomizer/scr-randomizer.github.io](https://github.com/scr-randomizer/scr-randomizer.github.io) | 1 | A driving options randomizer for the Roblox railway network simulation game, Stepford County Railway. LINK BELOW: |
+| [Stayroh/Train-System](https://github.com/Stayroh/Train-System) | 1 | A Roblox-Train-System with arc path and perfectly smooth alignment |
+| [talonbrinkman/Autopilot-Software](https://github.com/talonbrinkman/Autopilot-Software) | 1 | A drive script that controls a roblox vehicle with built in Autopilot. |
+| [tommyorwhat/VoiceWatch](https://github.com/tommyorwhat/VoiceWatch) | 1 | A privacy-first lightweight Windows tray app that tracks Roblox voice chat suspension timers and notifies you when VC is restored. |
+| [tukamate/robloxdeadrails](https://github.com/tukamate/robloxdeadrails) | 1 | Can Someone Send Me the Cattle Car in Roblox Dead Rails? My User Is TUKAMATE |
+| [vatssavvya/ROBLOX-Obby-Showdown](https://github.com/vatssavvya/ROBLOX-Obby-Showdown) | 1 | A competitive, fast-paced multiplayer obstacle-course racing game built in Roblox. Features skill-based movement mechanics, real-time queues, voting, strateg... |
+| [woody-willis/british-railway-auto-drive](https://github.com/woody-willis/british-railway-auto-drive) | 1 | A Python script that automatically drives the class 170 in British Railway on Roblox. |
+| [WormDude/AeroCraftle](https://github.com/WormDude/AeroCraftle) | 1 | A game for aircraft in the ROBLOX game Aeronautica |
+| [mikenappi/Project-Racer](https://github.com/mikenappi/Project-Racer) | 0 | Roblox Racing Game :) |
+| [olafier/Roblox-Emergency-Situations-on-Plane](https://github.com/olafier/Roblox-Emergency-Situations-on-Plane) | 0 | Educational Roblox simulation teaching in-flight emergency procedures through hands-on practice, with built-in pre-test/post-test scoring · SP344 Software En... |
+| [pacn3t/robloxracingsim](https://github.com/pacn3t/robloxracingsim) | 0 | Portfolio: Roblox Racing Sim (Mario Kart Inspired) |
+| [polkkolk/WHEELS](https://github.com/polkkolk/WHEELS) | 0 | Wheelchair Racing Game - Roblox |
+| [ricarditorich/roblox-racing](https://github.com/ricarditorich/roblox-racing) | 0 | Proyecto de generación automática de juegos Roblox con DeepSeek y n8n |
+| [Winnie7050/roblox-car-pulling-game](https://github.com/Winnie7050/roblox-car-pulling-game) | 0 | A Roblox game where players pull cars with physics-based rope mechanics |
 
 [← Terug naar overzicht](../README.md)
