@@ -27,7 +27,7 @@ RELEVANT = re.compile(
 
 # Uitsluiten: exploits, cheats, account-/botting-tools, spam enz.
 BLOCK = re.compile(
-    r"exploit|execut(or|er)\b|\binject|aimbot|aim ?lock|silent ?aim|\besp\b|wall ?hack|triggerbot|cheat|"
+    r"exploit|execut(or|er)\b|\binject|aimbot|aim ?lock|silent ?aim|\besp\b|wall ?hack|triggerbot|(?<!anti)(?<!anti-)(?<!anti )cheat|"
     r"\bhack(s|ed|ing|er)?\b|script ?hub|\bhub\b|keyless|key ?system|no ?key|spoof|bypass|unlocker|"
     r"fps ?unlock|bootstrap|launcher|fflag|fast ?flag|cookie|stealer|grabber|token ?log|ip ?log|phish|"
     r"\brat\b|sniper|snipe|botter|botting|follow ?bot|visit ?bot|group ?join|account ?(gen|creat|manag|check|switch)|"
@@ -38,7 +38,7 @@ BLOCK = re.compile(
     r"loadstring|httpget|offsets?\b|\bdll\b|\bcheat ?engine|kernel|vulnerab|crash(er)?\b|\bnuke|lag ?switch|"
     r"fe ?bypass|\bfe ?script|filtering ?enabled ?bypass|\bskid|\bgui script|\bmod ?menu|godmode|infinite ?(yield|jump|money)|"
     r"fix for windows|direct download|install steps|download link|\bcrack|keygen|\bpatcher\b|\bwin(dows)? 1[01]\b|"
-    r"pastebin|legit script|script for (roblox )?(place|game|mh)\b|rblx script for|\bunlocked\b|reanimat|free all|self ?-?bot|\bfly ?(script|hack|gui)|noclip|teleport ?script|\bkill ?(all|aura)|dynamic-link|game client|\bloggers? (in|for) |fake ?(vr|lag|ping|player|admin)|creates? (roblox )?accounts|ally ?(bot|request)|\bmass\b|\bscrap(e|er|ing)\b|password|discord\.gg|pirat|afk(er)?\b|all games|universal ?scripts?|the script for|scripts? for (the )?(experience|game)|roblox-?like client|play (old|classic) (games|roblox)|old roblox|\bbackup of|\bscripts? ?(20\d\d|edition|pack)|\(20\d\d edition\)|roblox ?scripts?\b|unlock ?all|spammer|\bspam\b|unblocker|server ?(joiner|hop|finder)|re-?join|brainrot|\bfling|\bdelta\b|multi ?-?acc|multiple ?(sessions|instances|clients|accounts)|несколько|zapret|обход|\bgamepass(es)? ?free|\bfree ?(gamepass|items|ugc)|\bautomation ?tool|\bauto ?(buy|sell|rejoin|join|play)|\bbot for\b|voice ?chat ?guide|clothing ?(guide|store|farm)|\bpremium\b ?free|giveaway|\bscam|\bbeam(ing|er)\b",
+    r"pastebin|free ?scripts?\b|script for the\b|legit script|script for (roblox )?(place|game|mh)\b|rblx script for|\bunlocked\b|reanimat|free all|self ?-?bot|\bfly ?(script|hack|gui)|noclip|teleport ?script|\bkill ?(all|aura)|dynamic-link|game client|\bloggers? (in|for) |fake ?(vr|lag|ping|player|admin)|creates? (roblox )?accounts|ally ?(bot|request)|\bmass\b|\bscrap(e|er|ing)\b|password|discord\.gg|pirat|afk(er)?\b|all games|universal ?scripts?|the script for|scripts? for (the )?(experience|game)|roblox-?like client|play (old|classic) (games|roblox)|old roblox|\bbackup of|\bscripts? ?(20\d\d|edition|pack)|\(20\d\d edition\)|roblox ?scripts?\b|unlock ?all|spammer|\bspam\b|unblocker|server ?(joiner|hop|finder)|re-?join|brainrot|\bfling|\bdelta\b|multi ?-?acc|multiple ?(sessions|instances|clients|accounts)|несколько|zapret|обход|\bgamepass(es)? ?free|\bfree ?(gamepass|items|ugc)|\bautomation ?tool|\bauto ?(buy|sell|rejoin|join|play)|\bbot for\b|voice ?chat ?guide|clothing ?(guide|store|farm)|\bpremium\b ?free|giveaway|\bscam|\bbeam(ing|er)\b",
     re.I,
 )
 # Game-specifieke cheatscripts ("Blox Fruits script", "Da Hood auto farm", ...)

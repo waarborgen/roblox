@@ -30,7 +30,7 @@ Chassis, suspensie, hover, raketten, drijfvermogen en treinen.
 | [cassicoder/boat-game](https://github.com/cassicoder/boat-game) | 0 | Boot-game: Matter ECS + Gerstner-oceaan + drijfvermogen + vissen |
 | [HassanJN66/roblox-vehicle-framework](https://github.com/HassanJN66/roblox-vehicle-framework) | 0 | Raycast-wielen + soft physics body, FWD/RWD/AWD |
 
-## Uitgebreide index (120)
+## Uitgebreide index (121)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -122,6 +122,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [MoziDuarte/Roblox-Car-Game-Lobby](https://github.com/MoziDuarte/Roblox-Car-Game-Lobby) | 0 | Lobby for car game with garage system, cutscene showcase, categories and interactive UI |
 | [mqz0211/RBLXRacer](https://github.com/mqz0211/RBLXRacer) | 0 | RBLXRacer is an open-source Roblox racing game framework designed for speed, customization, and multiplayer fun. Built entirely in Roblox Studio using Lua, t... |
 | [nascvicent/astronica](https://github.com/nascvicent/astronica) | 0 | Space exploration game for Roblox inspired by No Man's Sky. Pilot ships, explore procedurally-populated planets, collect resources, scan creatures, and upgra... |
+| [naveenhansvishnu-lang/roblox-boat-simulator](https://github.com/naveenhansvishnu-lang/roblox-boat-simulator) | 0 | Roblox Boot Simulator mit Pets, Upgrades & Rebirth |
 | [Nezuko-Roblox/KartGame_Engine](https://github.com/Nezuko-Roblox/KartGame_Engine) | 0 | Kart racing game engine for Roblox |
 | [NoodleDeveloper/N-Chassis](https://github.com/NoodleDeveloper/N-Chassis) | 0 | The new generation of vehicle simulation on Roblox. |
 | [norfthalex-bit/norfthalex-bit.github.io](https://github.com/norfthalex-bit/norfthalex-bit.github.io) | 0 | This website is going to present you my ROBLOX portfolio. I specialise in Building, Modelling and importing vehicles. |

@@ -78,7 +78,7 @@ Animatie-solvers, IK, Blender/Mixamo-pipelines, procedurele animatie en springs.
 | [realllityyt/myanimator](https://github.com/realllityyt/myanimator) | 0 | Animaties per ledemaat mixen: crossfade, additive layers, events |
 | [purpulhq/character-tilt](https://github.com/purpulhq/character-tilt) | 0 | Kantelt het character mee met de kijkrichting van de camera |
 
-## Uitgebreide index (335)
+## Uitgebreide index (336)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -360,6 +360,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [samudithTharindaka/Roblox-Gui-Animation-library](https://github.com/samudithTharindaka/Roblox-Gui-Animation-library) | 0 | A roblox module script that will help for any roblox developer to do any kind of gui animations |
 | [saputraandika28358-sudo/Vex-Liberary](https://github.com/saputraandika28358-sudo/Vex-Liberary) | 0 | Vex — A lightweight, animated external UI library for Roblox with draggable windows, tabs, toggles, dropdowns, and sliders. Single-file, zero dependencies. |
 | [saputraandika28358-sudo/Vex-Liberrary](https://github.com/saputraandika28358-sudo/Vex-Liberrary) | 0 | Vex — A lightweight, animated external UI library for Roblox with draggable windows, tabs, toggles, dropdowns, and sliders. Single-file, zero dependencies. r... |
+| [Sara-0801/energy-run](https://github.com/Sara-0801/energy-run) | 0 | Beneath the Surface: Energy Run is a Roblox parkour game. Players descend underground stages with jumps, moving platforms, and obstacles. Falling resets the ... |
 | [sausageman01235-dot/roblox-climbing-wall](https://github.com/sausageman01235-dot/roblox-climbing-wall) | 0 | Roblox climbing wall script with smooth character rotation and wall traversal animation |
 | [seashyne/Krapow-Animator-Plug-in-Roblox](https://github.com/seashyne/Krapow-Animator-Plug-in-Roblox) | 0 | Krapow Animator Plug-in Roblox create animation |
 | [SelfDestructiveBomb/TweenSequence](https://github.com/SelfDestructiveBomb/TweenSequence) | 0 | Tweens them number and color sequences 😱😱 ( For Roblox ) |

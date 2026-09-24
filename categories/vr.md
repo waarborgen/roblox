@@ -22,7 +22,7 @@ Full-body VR, SteamVR-trackers en webcam-tracking.
 | [mathken029/vr-roblox-kit](https://github.com/mathken029/vr-roblox-kit) | 0 | Open-source VR game-development kit |
 | [Metatable-Games/MetaVR](https://github.com/Metatable-Games/MetaVR) | 0 | VR-framework in Luau |
 
-## Uitgebreide index (15)
+## Uitgebreide index (16)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -42,6 +42,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Matej-Kocanda/block-quest-game](https://github.com/Matej-Kocanda/block-quest-game) | 0 | Block Quest 3D – Roblox-style 3D platformer game for kids, built with Three.js. Touch-optimized for iPad/tablet/mobile. |
 | [Metatable-Games/RBLXVRGui](https://github.com/Metatable-Games/RBLXVRGui) | 0 | Roblox Virtual Reality Graphical User Interface Management Module |
 | [Nicontm/VRBridge](https://github.com/Nicontm/VRBridge) | 0 | A Roblox VR API |
+| [Offline0909/RobloxSteamVRFixer](https://github.com/Offline0909/RobloxSteamVRFixer) | 0 | Fixes issue with SteamVR launching every time Roblox process is opened. |
 | [QuoniamVR/LuauXR](https://github.com/QuoniamVR/LuauXR) | 0 | Open-Source VR Module for Roblox |
 
 [← Terug naar overzicht](../README.md)
