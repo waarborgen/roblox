@@ -86,9 +86,9 @@ Entity Component Systems en frameworks voorbij Knit.
 | [zblox164/Scrypt](https://github.com/zblox164/Scrypt) | 1 | Scrypt-framework |
 | [ZacharyVanier/VZNCore-Template](https://github.com/ZacharyVanier/VZNCore-Template) | 0 | Batteries-included ECS-framework template |
 
-## Uitgebreide index (389)
+## Uitgebreide index (387)
 
-Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
+Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of spamfarms), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving; "(geen omschrijving op GitHub)" = opgenomen op basis van een duidelijke reponaam.
 
 | Repo | ⭐ | Wat het doet |
 |---|---:|---|
@@ -248,6 +248,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [0xsteak/nova-ui](https://github.com/0xsteak/nova-ui) | 0 | An advanced component-based UI framework for Roblox. |
 | [1Humza/evolve-framework](https://github.com/1Humza/evolve-framework) | 0 | ROBLOX Luau custom framework object oriented in nature featuring classes and inheritance. |
 | [3xp0x3d/Horus](https://github.com/3xp0x3d/Horus) | 0 | An all-in-one framework for Roblox development |
+| [6721207049-sys/roblox-ghost-hunting-game](https://github.com/6721207049-sys/roblox-ghost-hunting-game) | 0 | Roblox Survival Horror Ghost Hunting Game - Complete System Architecture |
 | [abdulsenlik/roblox-game-factory](https://github.com/abdulsenlik/roblox-game-factory) | 0 | Roblox Game Factory — autonomous GDD-to-game pipeline architecture flowchart |
 | [Adr1z/Adr1z_PokemonFW](https://github.com/Adr1z/Adr1z_PokemonFW) | 0 | Pokemon FrameWork for Roblox made by Adr1z |
 | [akashswarnkar012-glitch/sparky-portfolio](https://github.com/akashswarnkar012-glitch/sparky-portfolio) | 0 | SPARKY — Roblox builder & map designer portfolio. Pure HTML/CSS/JS, no frameworks. |
@@ -284,9 +285,9 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [christopher-buss/nucleus](https://github.com/christopher-buss/nucleus) | 0 | A high-performance roblox-ts ECS. |
 | [claudiuscapqs-hub/Flow](https://github.com/claudiuscapqs-hub/Flow) | 0 | Flow is a lightweight, developer-friendly execution framework for Roblox that helps structure, name, debug, and manage complex logic through clean and reusab... |
 | [conariumsoft/lovecraft.github.io](https://github.com/conariumsoft/lovecraft.github.io) | 0 | API Reference for the LovecraftVR ROBLOX framework. |
+| [CornerChicken/SpellBlade](https://github.com/CornerChicken/SpellBlade) | 0 | Roblox game project featuring ECS |
 | [cresmarmat-an/roblox-cleaner](https://github.com/cresmarmat-an/roblox-cleaner) | 0 | Cleaner is a resource management and lifecycle cleanup utility for Roblox. |
 | [cuberootmctoasted/rbxts-ecs-ultimate-template](https://github.com/cuberootmctoasted/rbxts-ecs-ultimate-template) | 0 | (geen omschrijving op GitHub) |
-| [cubix-one/cubix](https://github.com/cubix-one/cubix) | 0 | The ultimate Roblox framework for TypeScript |
 | [D-M-dev/Actor-based-system](https://github.com/D-M-dev/Actor-based-system) | 0 | trict-typed actor-based backend framework for Roblox with mailboxes, supervision, worker pools and async request/response. |
 | [dacodpla/frmwork](https://github.com/dacodpla/frmwork) | 0 | modular roblox dialogue framework code: Rendezvous |
 | [danameisnothing/Roblox-DeveloperConsole](https://github.com/danameisnothing/Roblox-DeveloperConsole) | 0 | A simple framework for adding console commands |
@@ -303,7 +304,6 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [double0and7n7/n4noware](https://github.com/double0and7n7/n4noware) | 0 | A modular UI framework for Roblox. |
 | [dr4wn/currents](https://github.com/dr4wn/currents) | 0 | An original connection-puzzle game for Roblox: drag pipes between matching endpoints so every pair is joined and every cell is covered. |
 | [E-Witz/RoScript.js](https://github.com/E-Witz/RoScript.js) | 0 | Easy to use frameworking for Roblox! |
-| [embohtotally/Knit](https://github.com/embohtotally/Knit) | 0 | Lightweight game framework for Roblox |
 | [EnumEnv/GameX](https://github.com/EnumEnv/GameX) | 0 | GameX is a advanced game development framework made for roblox, also including in-game management with UI fitting the roblox's CoreGUI style to make you real... |
 | [EricApostal/roblox-lava-rising](https://github.com/EricApostal/roblox-lava-rising) | 0 | Lava Rising Roblox game using Flamework / React |
 | [erturkgnc/roblox-scripting-showcase](https://github.com/erturkgnc/roblox-scripting-showcase) | 0 | Selected Roblox Luau code samples showcasing gameplay systems, client/server logic, and system architecture. |
@@ -312,6 +312,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [fathanh004/roblox-course](https://github.com/fathanh004/roblox-course) | 0 | Testing Roblox Knit Framework and Modules |
 | [faulty-segmentation/void-loader](https://github.com/faulty-segmentation/void-loader) | 0 | Basic Roblox module loader for personal use. |
 | [faust504/rostory](https://github.com/faust504/rostory) | 0 | A story game framework for Roblox made using Rojo. |
+| [FIHHHH2/Fih-Menu](https://github.com/FIHHHH2/Fih-Menu) | 0 | Fih Menu — Modular Cubed-Style Universal GUI Architecture for Roblox |
 | [fishguy100/RBXGamework-NotRoleplaying](https://github.com/fishguy100/RBXGamework-NotRoleplaying) | 0 | Roblox RPG framework-engine idk |
 | [fishtank-co/fishPluginFramework](https://github.com/fishtank-co/fishPluginFramework) | 0 | Framework for Roblox Plugins. |
 | [Floating-Point-Studios/DeusFramework](https://github.com/Floating-Point-Studios/DeusFramework) | 0 | (geen omschrijving op GitHub) |
@@ -359,9 +360,9 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Lipaanek/Oddysey-Framework](https://github.com/Lipaanek/Oddysey-Framework) | 0 | Oddysey, alias RLWQF (Roblox Light Weight Quest Framework), is a Quest Framework made for roblox. |
 | [LiquifyCD/No-Comment-Framework](https://github.com/LiquifyCD/No-Comment-Framework) | 0 | A modern, modular Roblox UI framework built entirely with LocalScripts. |
 | [lnconcinnity/Flare](https://github.com/lnconcinnity/Flare) | 0 | Fast, robust and advanced roblox framework! |
-| [lspdfrzach/FrameWorks](https://github.com/lspdfrzach/FrameWorks) | 0 | A discord bot primarily focused on improving the Roblox staff experience. |
 | [master3395/TeamCrazyGameFramework](https://github.com/master3395/TeamCrazyGameFramework) | 0 | Team Crazy Game Framework for ROBLOX |
 | [Mawyxx/MawyxxHub](https://github.com/Mawyxx/MawyxxHub) | 0 | Roblox GUI framework: Tab → Group → Controls |
+| [Mazatec2045/Aria-Pastel-Goth-3D-Roblox](https://github.com/Mazatec2045/Aria-Pastel-Goth-3D-Roblox) | 0 | Interactive 3D Roblox Pastel Goth showcase with persistent WebGL background, Lenis smooth scrolling, and Oryzo-inspired teardown architecture |
 | [MEH-Studios-Incorporated/MSFramework](https://github.com/MEH-Studios-Incorporated/MSFramework) | 0 | A powerful Framework for different kinds of Roblox Games |
 | [microsoftslaw/moduleloader](https://github.com/microsoftslaw/moduleloader) | 0 | module loader i use for roblox studio |
 | [microwave3000/TOASTERFRAMEWORKdemo](https://github.com/microwave3000/TOASTERFRAMEWORKdemo) | 0 | A very unfinished short demo of the 2013 version of ROBLOX. |
@@ -387,11 +388,11 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Notyouorme2000/peaceful-framework](https://github.com/Notyouorme2000/peaceful-framework) | 0 | Small Roblox service/controller framework |
 | [okay-Alex/DifferentialFramework](https://github.com/okay-Alex/DifferentialFramework) | 0 | Service-Based Roblox game framework // Latest Public Stable Build: v2.13a |
 | [OliverHensworth/ro-int](https://github.com/OliverHensworth/ro-int) | 0 | Ro-int is a Roblox Framework that connects to features usually you cannot get to, but Ro-int solves that. ~~Ro-int means Roblox Interaction~~ |
-| [orlixrblx/Orlixrblx](https://github.com/orlixrblx/Orlixrblx) | 0 | Roblox developer specializing in Luau scripting Such as, systems, gameplay mechanics, and backend architecture. |
 | [ouw2204/Faye](https://github.com/ouw2204/Faye) | 0 | Roblox reactive UI framework. |
 | [Phoenix-Framework/Framework](https://github.com/Phoenix-Framework/Framework) | 0 | A modular, feature-rich framework to help the ease of development for Roblox games. |
 | [pigxity-games/lua-anot-default-extension](https://github.com/pigxity-games/lua-anot-default-extension) | 0 | lua-annotations default extension, serving as a Roblox game framework and as an example for using the API |
 | [prooheckcp/Unit](https://github.com/prooheckcp/Unit) | 0 | This is a full Roblox game framework that has been inspired in the Unity platform. It allows the user to organize his Instances the same way he would organiz... |
+| [puka-21/PlaytimeWatcher](https://github.com/puka-21/PlaytimeWatcher) | 0 | Extensible C# playtime tracker with modular architecture: core time engine, async app providers (Roblox/Steam), and flexible outputs (Discord Webhook/Console). |
 | [Qquaded/LuaCSS-Roblox-Reactive-UI-Framework](https://github.com/Qquaded/LuaCSS-Roblox-Reactive-UI-Framework) | 0 | LuaCSS is a roblox UI Framework that imitates css, But in Roblox. |
 | [R-unic/componentize](https://github.com/R-unic/componentize) | 0 | A component system for Roblox, optionally using tags |
 | [R-unic/flamework-instance-pooling](https://github.com/R-unic/flamework-instance-pooling) | 0 | Classes to pool Roblox instances, UIPool and PartPool included |
@@ -423,7 +424,6 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [skeithnight/TowerFramework](https://github.com/skeithnight/TowerFramework) | 0 | roblox studio tower kebangkitan |
 | [skiddingisback/Weave](https://github.com/skiddingisback/Weave) | 0 | Weave is a modern application framework for Roblox. |
 | [snarkden/sharkfin-framework](https://github.com/snarkden/sharkfin-framework) | 0 | A modding framework for sharkfin and Roblox Native |
-| [SocietixM/SocietixM](https://github.com/SocietixM/SocietixM) | 0 | A Roblox Modification Framework Inspired by FiveM! (Unfinished, W.I.P) |
 | [sofwanalfariz/SC999-Framework](https://github.com/sofwanalfariz/SC999-Framework) | 0 | SC999 Framework v2.0 - Tab-Based iOS 27 Glassmorphism GUI for Roblox |
 | [sonnguyen9800/roblox-knit-demo](https://github.com/sonnguyen9800/roblox-knit-demo) | 0 | Simple test on knit-framework (Roblox & Lua) |
 | [sp4rtan-dev/Roblox-System-Architecture](https://github.com/sp4rtan-dev/Roblox-System-Architecture) | 0 | Frameworks de segurança e infraestrutura para Roblox “Luau”.. |
@@ -450,8 +450,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [thehungrygopher-ui/roblox-tycoon-system](https://github.com/thehungrygopher-ui/roblox-tycoon-system) | 0 | A comprehensive Roblox tycoon system with upgrades, data persistence, multiplayer support, and UI framework |
 | [thelightsaberthatisblue-cell/Object](https://github.com/thelightsaberthatisblue-cell/Object) | 0 | Roblox Framework i thought of making |
 | [therlw/Leaf-Framework](https://github.com/therlw/Leaf-Framework) | 0 | A Roblox Gui Framework |
-| [Twin1Twin2/roblox-ecs-framework-old](https://github.com/Twin1Twin2/roblox-ecs-framework-old) | 0 | Entity-Component-System framework for use in Roblox games |
-| [Twin1Twin2/roblox-ecs-framework-old-v2](https://github.com/Twin1Twin2/roblox-ecs-framework-old-v2) | 0 | Entity-Component-System framework for use in Roblox games |
+| [TTXsuper/bottle-charge-system](https://github.com/TTXsuper/bottle-charge-system) | 0 | Professional Roblox bottle charge mechanic system with modular architecture |
 | [Unfamiliar49/TaskStore](https://github.com/Unfamiliar49/TaskStore) | 0 | An upgraded, asynchronous pcall & task runner framework for Roblox |
 | [unpronounceable-ordersphenisciformes466/unpronounceable-ordersphenisciformes466.github.io](https://github.com/unpronounceable-ordersphenisciformes466/unpronounceable-ordersphenisciformes466.github.io) | 0 | Implement a framework-agnostic coding standard to write secure, efficient, and clean code for Roblox and Luau development. |
 | [UntitledProtocol/Antares-Framework](https://github.com/UntitledProtocol/Antares-Framework) | 0 | A simple framework for Roblox Games |
@@ -466,7 +465,6 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [WhiteDragonRoblox/roblox-ts-matter-minimum](https://github.com/WhiteDragonRoblox/roblox-ts-matter-minimum) | 0 | A minimal Roblox TypeScript project using Matter ECS |
 | [wireofparadise/loom](https://github.com/wireofparadise/loom) | 0 | Lifecycle management framework for Roblox. |
 | [wocseees/god-hog-framework](https://github.com/wocseees/god-hog-framework) | 0 | A 3D Sonic styled framework for Godot Engine based on the Digital Swirl framework from Roblox. Designed to be simple, easy to learn, and flexible for creatin... |
-| [wocseees/GodHog-Framework-Alpha](https://github.com/wocseees/GodHog-Framework-Alpha) | 0 | A 3D Sonic styled framework for Godot Engine based on the Digital Swirl framework from Roblox. Designed to be simple, easy to learn, and flexible for creatin... |
 | [WoRBX/WGUIBuilder](https://github.com/WoRBX/WGUIBuilder) | 0 | Um framework para ajudar na construção de interfaces no Roblox Studio |
 | [worldcrasher/fat-simulator](https://github.com/worldcrasher/fat-simulator) | 0 | The goal of this project is to build a scalable ROBLOX simulator framework to speed up the workflow of building simulators by just recycling an easy to use f... |
 | [WorldPosition/Forged-Framework](https://github.com/WorldPosition/Forged-Framework) | 0 | AGF Inspired Roblox Framework |

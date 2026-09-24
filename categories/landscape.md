@@ -65,7 +65,7 @@ Terrain-generators, echte kaarten, grotten, oceanen, foliage, dag/nacht en weer.
 
 ## Uitgebreide index (428)
 
-Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
+Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of spamfarms), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving; "(geen omschrijving op GitHub)" = opgenomen op basis van een duidelijke reponaam.
 
 | Repo | ⭐ | Wat het doet |
 |---|---:|---|
@@ -79,13 +79,11 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [ddavness/spacescape-roblox-converter](https://github.com/ddavness/spacescape-roblox-converter) | 4 | A lightweight tool to prepare skyboxes made with spacescape to be imported to Roblox. |
 | [Reselim/ugc.works](https://github.com/Reselim/ugc.works) | 4 | Shortlinks for Roblox UGC using Cloudflare Workers. Unaffiliated with Roblox. |
 | [vexk1x/Vortex](https://github.com/vexk1x/Vortex) | 4 | Sol's RNG Biome/Aura Detector that supports Multiple Webhooks and Accounts. |
-| [pretzer25/Roprox](https://github.com/pretzer25/Roprox) | 3 | Cloning now.gg's cloud roblox. Ad-free |
 | [typical-developers/rblx-open-cloud](https://github.com/typical-developers/rblx-open-cloud) | 3 | A wrapper for Roblox's Open Cloud API. |
 | [AndrewLemons/RobloxOSM](https://github.com/AndrewLemons/RobloxOSM) | 2 | Render real-world maps in Roblox. |
 | [dgolaus/cubegraphics](https://github.com/dgolaus/cubegraphics) | 2 | Site da Cube Graphics, estúdio de thumbnails e ícones para jogos Roblox. |
 | [Hexcede/cosmic-clash](https://github.com/Hexcede/cosmic-clash) | 2 | (geen omschrijving op GitHub) |
 | [Khaomi/open-cloud.js](https://github.com/Khaomi/open-cloud.js) | 2 | Wrapper around Roblox's Open Cloud API |
-| [kiraadityaa/kiraadityaa](https://github.com/kiraadityaa/kiraadityaa) | 2 | Kazehaya Aditya (kiraadityaa) — Roblox game developer & Lua/Luau scripter from Indonesia · Python automation · TypeScript & Next.js · cloud Linux desktops on... |
 | [LambDogFood/Luau-Quad-tree](https://github.com/LambDogFood/Luau-Quad-tree) | 2 | Simple implementation of a quad tree in lua |
 | [Lorg-Love/Koishi-roblox-group-rankup](https://github.com/Lorg-Love/Koishi-roblox-group-rankup) | 2 | (geen omschrijving op GitHub) 一个使用RobloxOpenCloud的Api实现的使用指令即可为用户调整角色的插件 |
 | [OrganicEarth7/Rabblerouser-Planet-Assets](https://github.com/OrganicEarth7/Rabblerouser-Planet-Assets) | 2 | This is just a roblox asset pack |
@@ -122,7 +120,6 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [JackKuang5734/RBX-Realtime-Marketplace-Data-Engine](https://github.com/JackKuang5734/RBX-Realtime-Marketplace-Data-Engine) | 1 | RMDE is a distributed, high-frequency data aggregation app engine designed to monitor and process live marketplace information from multiple remote API endpo... |
 | [jdtwy/rbxlExporter](https://github.com/jdtwy/rbxlExporter) | 1 | Export Roblox projects into file explorer tree which simulates the Roblox Studio file structure, all from within Roblox itself |
 | [Keshatsaini/Project-Veyndral](https://github.com/Keshatsaini/Project-Veyndral) | 1 | Project Veyndral is a medieval-fantasy MMORPG on Roblox, inspired by Skyrim & ESO. Featuring immersive NPC interactions, fair cosmetic-only monetization, pla... |
-| [Korbloxing/Roblox-wave-script](https://github.com/Korbloxing/Roblox-wave-script) | 1 | roblox defense gate game wave script |
 | [LightningLion58/TreeGrapher](https://github.com/LightningLion58/TreeGrapher) | 1 | TreeGrapher allows you to graph Tree structures made with the TreeNode class. |
 | [loanma0209-maker/animated-octo-palm-tree](https://github.com/loanma0209-maker/animated-octo-palm-tree) | 1 | (geen omschrijving op GitHub) |
 | [Lorg-Love/Roblox-RGYBot](https://github.com/Lorg-Love/Roblox-RGYBot) | 1 | A group ranking system using Roblox Open Cloud. |
@@ -168,12 +165,10 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [aarextiaokhiao/Really-Grass-Cutting-Incremental](https://github.com/aarextiaokhiao/Really-Grass-Cutting-Incremental) | 0 | The game inspired by Grass Cutting Incremental (Roblox) |
 | [aaronateataco/robloxbanwave](https://github.com/aaronateataco/robloxbanwave) | 0 | Real-time Roblox ban wave tracker powered by community reports from r/robloxhackers. |
 | [Abdul6666666/skybox-roblox](https://github.com/Abdul6666666/skybox-roblox) | 0 | skybox roblox be Abdul |
-| [Abdul6666666/skybox.roblox](https://github.com/Abdul6666666/skybox.roblox) | 0 | skybox roblox be Abdul |
 | [AdjustedTechnologies/Adjusted-Cloud](https://github.com/AdjustedTechnologies/Adjusted-Cloud) | 0 | AdjustedCloud - Professional Roblox data framework for developers who demand full control. Features: player & global caching, dirty flags, atomic updates, ba... |
 | [aeeeed/Luau-Dungeon-Map-Generator](https://github.com/aeeeed/Luau-Dungeon-Map-Generator) | 0 | A script I made for Roblox for making dungeon layouts |
 | [Afthab-IN/hill-climb-roblox](https://github.com/Afthab-IN/hill-climb-roblox) | 0 | 3D terrain racer for Roblox, built with Rojo + Luau. Drive a buggy across procedural rolling hills. |
 | [AgastyaTestaccount/Test-App](https://github.com/AgastyaTestaccount/Test-App) | 0 | 1. CORE CONCEPT & VISION A 3D shopping experience that gamifies e-commerce by combining Roblox-style gameplay with Amazon/Lazada functionality. Users navigat... |
-| [Agent-Flex/Lumber-Mod](https://github.com/Agent-Flex/Lumber-Mod) | 0 | Hi this is my Minecraft mod based on Lumber Tycoon 2 on roblox, this mod will add dimensions, wood (of course), trees, axes, etc! This mod is heavily W.I.P, ... |
 | [agent-recursiveecho/Roblox-Procedural-Map](https://github.com/agent-recursiveecho/Roblox-Procedural-Map) | 0 | Multiplayer procedural map generation prototype for Roblox using deterministic chunk-based world generation. |
 | [aimeryplr/rbxts-object-to-tree](https://github.com/aimeryplr/rbxts-object-to-tree) | 0 | (geen omschrijving op GitHub) |
 | [alanstoll/rbx-pulse](https://github.com/alanstoll/rbx-pulse) | 0 | Build your own Roblox Player analytics on top of datastore records via Roblox's Open Cloud API |
@@ -185,16 +180,15 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [andrewens/luau-parser](https://github.com/andrewens/luau-parser) | 0 | Parse roblox Luau code into an abstract syntax tree |
 | [api-evangelist/roblox](https://github.com/api-evangelist/roblox) | 0 | Roblox — independent third-party profile of a public API surface, by API Evangelist. Roblox is a user-generated content platform where creators build, publis... |
 | [api-evangelist/roblox-engine-api](https://github.com/api-evangelist/roblox-engine-api) | 0 | Roblox Engine API — independent third-party profile of a public API surface, by API Evangelist. Roblox provides a suite of developer APIs for building experi... |
-| [arcade-basketball/arcade-basketball](https://github.com/arcade-basketball/arcade-basketball) | 0 | This repository features an external timing helper for Roblox's arcade basketball. It assists with shot-meter releases, optimizes stamina consumption, and ma... |
 | [ArchFRR/Blackhole-skybox](https://github.com/ArchFRR/Blackhole-skybox) | 0 | its a skybox for roblox rivals |
 | [arrow-program/VRCSol](https://github.com/arrow-program/VRCSol) | 0 | Software that sends the currently equipped aura and current biome from Sol's RNG (a game on Roblox) to the VRChat chat box via VRCOSC. |
 | [arthurferreiranascimento2023-bot/map-generator](https://github.com/arthurferreiranascimento2023-bot/map-generator) | 0 | Gerador procedural de mapas/casas com contexto e prefabs em Lua (Roblox) |
 | [Atma1/roblox-firestore-wrapper](https://github.com/Atma1/roblox-firestore-wrapper) | 0 | Roblox to Cloud Firestore API wrapper |
+| [auqsine2020-star/fnf-note-botplay-roblox](https://github.com/auqsine2020-star/fnf-note-botplay-roblox) | 0 | An automatic botplay system for Friday Night Funkin' notes in Roblox |
 | [ava-service/RobloxSkyboxProject](https://github.com/ava-service/RobloxSkyboxProject) | 0 | RSBP is a tool to create Roblox sky tex files without having to go through the process of getting them through Roblox Studio, which many people dont know how... |
 | [AveriWylie/AS-CORE](https://github.com/AveriWylie/AS-CORE) | 0 | AS-CORE (Compute Orchestration & Rendering Engine) is a Spring Boot backend that simplifies Lua development. It ingests and handles telemetry, orchestrates o... |
 | [axellse/ljms-map](https://github.com/axellse/ljms-map) | 0 | late july, midsummer wiki map generator |
 | [ayaan4670-creator/wavewatch](https://github.com/ayaan4670-creator/wavewatch) | 0 | Wave Watch, for Roblox Escape tsunami for Stories! |
-| [Ayaansh698/my-winrar-zip-archive](https://github.com/Ayaansh698/my-winrar-zip-archive) | 0 | check out my personal winrar zip archive get winrar itsgood this is my personal zip download it it have some roblox stuff like skyboxes and dark textures pac... |
 | [Ayaansh698/skyboxes-for-roblox-rivals](https://github.com/Ayaansh698/skyboxes-for-roblox-rivals) | 0 | get custom skies with these sky boxes |
 | [aystudio1/cvc-gamepad](https://github.com/aystudio1/cvc-gamepad) | 0 | a cloud gaming service to play minecraft roblox and fortnite |
 | [beLookHappy/FileService](https://github.com/beLookHappy/FileService) | 0 | A Fast, Easy, Objects-Tree Database Service For roblox |
@@ -202,23 +196,22 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [biotoxin495/roblox-the-world-1to1-scale_osm-viewer](https://github.com/biotoxin495/roblox-the-world-1to1-scale_osm-viewer) | 0 | (geen omschrijving op GitHub) |
 | [Bmike6/Skill-Tree](https://github.com/Bmike6/Skill-Tree) | 0 | WIP skill tree for roblox |
 | [bns34/roblox-og-userlist](https://github.com/bns34/roblox-og-userlist) | 0 | Checks og user IDs and logs active account usernames to a file. |
-| [BobBigHeaded/Roblox-Tree-Chopping](https://github.com/BobBigHeaded/Roblox-Tree-Chopping) | 0 | Tree chopping from Lumber Tycoon 2 but made by me. |
 | [bobiketonejorik-prog/how-to-make-custom-skybox-in-roblox](https://github.com/bobiketonejorik-prog/how-to-make-custom-skybox-in-roblox) | 0 | This is a tutorial how to change your skybox to custom in roblox and other games! |
 | [boothjordan213/River-City-Roleplay](https://github.com/boothjordan213/River-City-Roleplay) | 0 | River City Roleplay is a high‑quality Roblox community built inside Emergency Response: Liberty County, designed for players who want immersive, realistic, a... |
 | [boxhead972/Roblox-Shoot-the-Lake-Game](https://github.com/boxhead972/Roblox-Shoot-the-Lake-Game) | 0 | First Roblox Game - Incremental game where shooting a body of water gives you Doubloons to upgrade your weapons and eventually kill the evil lake |
 | [brenno-lugon/MyRoblox](https://github.com/brenno-lugon/MyRoblox) | 0 | A Java Spring Boot microservices platform for a fictional gaming ecosystem, featuring API Gateway, Backend for Frontend (BFF), Oracle Database, Docker, Swagg... |
 | [BrickVerse-co/RBLXDatastore2WorldStore](https://github.com/BrickVerse-co/RBLXDatastore2WorldStore) | 0 | Convert Roblox Datastore's to Worldstore utilizing Roblox & BrickVerse's Open Cloud API |
 | [BulletLOL/grass-cutter-roblox](https://github.com/BulletLOL/grass-cutter-roblox) | 0 | (geen omschrijving op GitHub) |
+| [BuyKevin/rivals-bimbocore-glam-pack](https://github.com/BuyKevin/rivals-bimbocore-glam-pack) | 0 | Custom Roblox Rivals visual pack with glossy pink chrome UI, heart motifs, rank emblems, arena and cosmic skybox. |
 | [cadmiumcolors/GAG2-Alerts](https://github.com/cadmiumcolors/GAG2-Alerts) | 0 | A desktop application for restock and weather notifications for the popular Roblox game 'Grow A Garden 2' |
 | [CapedBojji/Cosmos](https://github.com/CapedBojji/Cosmos) | 0 | The everything ECS framework for Roblox-TS |
 | [capybara889-web/MangosSkys](https://github.com/capybara889-web/MangosSkys) | 0 | 🍋 Mango's Skys / Browse and apply 120+ Skys in Roblox with emojis. Skys only. |
-| [carvedv/Carved-Optimized-Box](https://github.com/carvedv/Carved-Optimized-Box) | 0 | A Roblox game focused on performance optimization with cosmetics and a time-based leaderboard system |
 | [carvedv/Carveds-Optimized-Box](https://github.com/carvedv/Carveds-Optimized-Box) | 0 | A Roblox game focused on performance optimization with cosmetics and a time-based leaderboard system |
 | [CFoxy24/Planet-Gen](https://github.com/CFoxy24/Planet-Gen) | 0 | Highly Customizable Planet Generation for Roblox |
-| [cfreemepq/Roblox-Platform-Script](https://github.com/cfreemepq/Roblox-Platform-Script) | 0 | This is a simple roblox platform script for walk in the sky |
 | [ch3pasov/roblox-game-of-life](https://github.com/ch3pasov/roblox-game-of-life) | 0 | Mobile-friendly Conway's Game of Life for Roblox, built with Luau, Rojo, and Open Cloud. |
 | [ChamarWilliams/arboryn](https://github.com/ChamarWilliams/arboryn) | 0 | Local-first three-way merge engine for Roblox object trees |
 | [charlotteyypan/Roblox-Weather-Plugin](https://github.com/charlotteyypan/Roblox-Weather-Plugin) | 0 | Displays the weather conditions (cloudy, clear, rainy, etc.) in game given a selected city. |
+| [chj8839/roblox-survival-shooter](https://github.com/chj8839/roblox-survival-shooter) | 0 | Roblox wave survival shooter with lobby gacha and in-run augments |
 | [Chronomadics/Weather-Machine](https://github.com/Chronomadics/Weather-Machine) | 0 | Open source weather tech for roblox games. |
 | [Civilation/OpenCloud](https://github.com/Civilation/OpenCloud) | 0 | OpenCloud is a API Designed to purge requests to your ROBLOX Cloud |
 | [Clapseur/robloxstudioterrain](https://github.com/Clapseur/robloxstudioterrain) | 0 | nothing to see here |
@@ -231,15 +224,14 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [CrimsonXVI/Discord-Bot-Project](https://github.com/CrimsonXVI/Discord-Bot-Project) | 0 | BRM-F [Bundaran Roblox Multi-Fandom] Bot scripts that i made, you can copy things and deploy it at https://discloud.com/ |
 | [CrowTheFurry/Roblox-Terrain-Open-Sourced](https://github.com/CrowTheFurry/Roblox-Terrain-Open-Sourced) | 0 | A repository dedicated to making Open-Sourced terrain generation using different methods. |
 | [culmfirefly2184/fk-minecraft-blx-scrpt](https://github.com/culmfirefly2184/fk-minecraft-blx-scrpt) | 0 | This script adds Minecraft-inspired mechanics to Roblox, including custom building tools, terrain modification, and block placement features. Perfect for cre... |
+| [DaBigShashy/Sols_Rng_MiniWatcher](https://github.com/DaBigShashy/Sols_Rng_MiniWatcher) | 0 | Are you trying to study but want to maximize your earning without distracting urself? And then suddenly a biome you have been waiting for goes by? Well fear ... |
 | [dabl7/gears](https://github.com/dabl7/gears) | 0 | Calculate external, internal, worm, rack, bevel and planetary gear sets with this tool. |
-| [dakmak2000b6/-Wave-Script-Tools-](https://github.com/dakmak2000b6/-Wave-Script-Tools-) | 0 | **Wave Script Tools** is a custom Lua scripting assistant created for advanced Roblox users who want a more efficient way to manage, test, and organize scrip... |
 | [daltonboy1000-cloud/sim](https://github.com/daltonboy1000-cloud/sim) | 0 | i want to make a roblox simulator game where its like every second u get 1 plus speed and u have to progress throught stages as you run through differnte bio... |
 | [Danker69/MSGCloudAPIAccess](https://github.com/Danker69/MSGCloudAPIAccess) | 0 | For access to Roblox's MessagingService via Open Cloud |
 | [Dark-ai-pixel/New-Catstrap-Release-No-Longer-Needed-Regular-Roblox](https://github.com/Dark-ai-pixel/New-Catstrap-Release-No-Longer-Needed-Regular-Roblox) | 0 | We present you Catstrap in it modifications like Cats fall from the sky such a function can be included other different modifications meme and in addition to... |
 | [Dark42ed/robloc](https://github.com/Dark42ed/robloc) | 0 | A rust API for Roblox Open Cloud Apis |
 | [dbrinda/SkyboxConverter](https://github.com/dbrinda/SkyboxConverter) | 0 | Equirectangular Skybox to Roblox Cube Maps |
 | [dbrinda/skyforge-analytics](https://github.com/dbrinda/skyforge-analytics) | 0 | Analytics and Creator Feedback for Roblox Studio plugin SkyForge |
-| [deadhoes/SnowClient](https://github.com/deadhoes/SnowClient) | 0 | a Roblox UI Library. |
 | [DeepHypoxic/PTP-Project](https://github.com/DeepHypoxic/PTP-Project) | 0 | Roblox Game About Polluting the Planet. |
 | [Dekkonot/opencloud-luau-execute-lune](https://github.com/Dekkonot/opencloud-luau-execute-lune) | 0 | A thin wrapper for Roblox's Open Cloud Luau Execution API, written for Lune |
 | [demonlexe/rbxts-water](https://github.com/demonlexe/rbxts-water) | 0 | (geen omschrijving op GitHub) |
@@ -261,12 +253,14 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [ernopms/terrainParkour](https://github.com/ernopms/terrainParkour) | 0 | Server code for Terrain Parkour, the roblox game |
 | [eulernumbersquared/rf-incremental](https://github.com/eulernumbersquared/rf-incremental) | 0 | rf is the best 2 letter abbreviation ever. Based on the insanity of "project incremental", a roblox game studio which made the elemental upgrade tree rewritten |
 | [evilbocchi/rbxts-instance-tree-sync](https://github.com/evilbocchi/rbxts-instance-tree-sync) | 0 | (geen omschrijving op GitHub) |
+| [exuric/roblox-bedwars-info](https://github.com/exuric/roblox-bedwars-info) | 0 | Advanced fan-made info site for Roblox BedWars by Easy.gg - kits, battle pass, updates and live stats. Deployable to Cloudflare Pages. |
 | [F17ers/Roblox-UNBLOCKED-](https://github.com/F17ers/Roblox-UNBLOCKED-) | 0 | Roblox UNBLOCKED, not another one of those troll projects. Wait for the pay attempts" Made using webdriver |
 | [Fangous/RbxBehaviorTreeVisualizer](https://github.com/Fangous/RbxBehaviorTreeVisualizer) | 0 | A Roblox Studio plugin for visualizing and debugging behavior trees created with RbxBehaviorTree. |
 | [Fathandi/YayiddStore](https://github.com/Fathandi/YayiddStore) | 0 | Link Tree Yayidd Store (Buy & Sell Fruits - Roblox - Blox Fruit) |
 | [fatihah454/Ooceanlib](https://github.com/fatihah454/Ooceanlib) | 0 | My roblox ui library |
 | [femce4l20/high-performance-water-2026](https://github.com/femce4l20/high-performance-water-2026) | 0 | the original is made by @DaGpm231 on Roblox & github. Last updated in 2023 and had a lot of issues, so here i am |
 | [femphilic/cloudy](https://github.com/femphilic/cloudy) | 0 | A typed open-source library for interacting with Roblox's Cloud APIs in Luau. |
+| [fontenotcutis-png/ChoppingTreesRoblox](https://github.com/fontenotcutis-png/ChoppingTreesRoblox) | 0 | Complete Roblox Chopping Trees Game - Full Multiplayer Implementation with Complete Scripts, Systems, and Assets |
 | [FTStheDEV/roblox-rolling-game-upgrade-tree-system](https://github.com/FTStheDEV/roblox-rolling-game-upgrade-tree-system) | 0 | my roblox game scripts for review so that i can be a verified scripter |
 | [FxllenCode/RobloxOpenSource](https://github.com/FxllenCode/RobloxOpenSource) | 0 | A Repository of all my open source work, from modules, to scripts, to terrain, here is the place to find them! |
 | [gamenew09/roblox.js](https://github.com/gamenew09/roblox.js) | 0 | NPM package that makes Roblox's Open Cloud almost as easy as the native Luau implementation. |
@@ -281,6 +275,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [greenandpurplefox-max/flip-sim](https://github.com/greenandpurplefox-max/flip-sim) | 0 | Roblox Flip sim game with Rojo sync and wave combat |
 | [grotto-interactive/grotto-blender-library](https://github.com/grotto-interactive/grotto-blender-library) | 0 | Canonical Blender asset tree & Roblox FBX export pipeline for Grotto |
 | [guerakun/anomaly-biomes](https://github.com/guerakun/anomaly-biomes) | 0 | Repo for my 1st roblox game trial |
+| [gwyErcGH/thegwyErcs-infinite-incremental-upgrade-tree-gaem](https://github.com/gwyErcGH/thegwyErcs-infinite-incremental-upgrade-tree-gaem) | 0 | My Roblox game starting with nothing and building a crazy ‘empire’ of currencies, and more. Also check my itch.io page, which will be listed in Readme. |
 | [hagiik/gag-viewer](https://github.com/hagiik/gag-viewer) | 0 | FastAPI + Tailwind web viewer for Grow A Garden (GAGAPI): Seeds/Gear/Eggs/Cosmetics/Event Shop/Weather, rarity grouping, auto-refresh, per-category updates, ... |
 | [hakimop0192-commits/roblox-rivals-skybox](https://github.com/hakimop0192-commits/roblox-rivals-skybox) | 0 | Skybox system for Roblox Rivals game |
 | [HanazonoArchive/RBX-Server-Manager](https://github.com/HanazonoArchive/RBX-Server-Manager) | 0 | Modern Roblox server explorer & 1-click joiner. Live low-ping scanning, friend radar, instance bookmarks, multi-device cloud sync, and 10 customizable themes. |
@@ -293,9 +288,11 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [iampixll/roblox-discord-webhook-proxy](https://github.com/iampixll/roblox-discord-webhook-proxy) | 0 | Cloudflare Worker that proxies Roblox HTTP requests to Discord webhooks |
 | [idimbengue003-web/Roboutik](https://github.com/idimbengue003-web/Roboutik) | 0 | Site d achat Roblox pour enfants avec paiement Wave, validation auto 24h, espace vendeur et notation |
 | [idk12355323/skyforge-frontier](https://github.com/idk12355323/skyforge-frontier) | 0 | Rojo project for Skyforge Frontier, a complete Roblox progression game prototype with custom map, UI, economy, quests, daily rewards, and monetization placeh... |
+| [ihatemarvelrivals/Explorer-Link-ROBLOX-VSCODE-](https://github.com/ihatemarvelrivals/Explorer-Link-ROBLOX-VSCODE-) | 0 | Roblox Explorer Link is an extension that mirrors a live Roblox Studio Explorer tree. Icons, properties, a 3D preview, and script source into VS Code, and op... |
 | [ileanasaintpaul/cosmic-garden-tycoon](https://github.com/ileanasaintpaul/cosmic-garden-tycoon) | 0 | A passive Roblox tycoon where you place antennas to scan for shooting stars, collect cosmic loot, and flex your space garden to friends. |
 | [IlluminateEC/redbud](https://github.com/IlluminateEC/redbud) | 0 | A program for generating Luau wrappers for Roblox instance trees |
 | [imlog4n/roblox-ranking-cloud-api](https://github.com/imlog4n/roblox-ranking-cloud-api) | 0 | (geen omschrijving op GitHub) |
+| [inDMNoaa/studio-lite-build-survival](https://github.com/inDMNoaa/studio-lite-build-survival) | 0 | Build and Survival in Night game script for Roblox Studio Lite with 100+ blocks, mechanics, day/night cycle, monsters, and shop system |
 | [iqbaleff214/roblox-bully-school](https://github.com/iqbaleff214/roblox-bully-school) | 0 | Players roleplay as a student at a fictional boarding school. They can attend class, skip it, fight or avoid other students, outrun teachers, complete mini-g... |
 | [iqbaleff214/roblox-obby-base](https://github.com/iqbaleff214/roblox-obby-base) | 0 | Player climb tower of increasingly hard obstacle stages. Coin drop along path and on stage clear. Coin spend on shop: skips, gear, cosmetics, pets. Progressi... |
 | [ItsODRJR/hdri_to_roblox_skybox](https://github.com/ItsODRJR/hdri_to_roblox_skybox) | 0 | code that splits a hdri image into a cubemap for a roblox skybox |
@@ -318,6 +315,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [jvo34/parcel-pandemonium](https://github.com/jvo34/parcel-pandemonium) | 0 | Chaotic Roblox delivery game where YeetEx drivers race to deliver packages while dodging dogs, distracted drivers, TikTok kids, wildlife, UFOs, and absurd di... |
 | [KaiserRB/Terrain-Artist-for-CW-P](https://github.com/KaiserRB/Terrain-Artist-for-CW-P) | 0 | Working on different Roblox Studio Maps for an upcoming Roleplay/Adventure Star Wars Game |
 | [kalovladimirov-netizen/-1-speed-keyboard-escape-game-2-](https://github.com/kalovladimirov-netizen/-1-speed-keyboard-escape-game-2-) | 0 | Create a polished 3D Roblox speed game with original assets, 1,000 levels, 21 rebirths, 4 worlds, unique stages, safe zones, upgrades, shops, trails, auras, ... |
+| [kamilgamer1/Boblox](https://github.com/kamilgamer1/Boblox) | 0 | Play Roblox online! (credits: Cloudmoon) |
 | [kasapdev/kasap-api-sdk-kit](https://github.com/kasapdev/kasap-api-sdk-kit) | 0 | 5 typed TS API/SDK clients: Steam Market, Discord webhooks, Twitch clips, Roblox Open Cloud, Godot Asset Library |
 | [KashTheKing/rbxts-genfeaturetree-boilerplate](https://github.com/KashTheKing/rbxts-genfeaturetree-boilerplate) | 0 | A feature-tree structured roblox-ts boilerplate using rbxts-genfeaturetree for automatic Rojo project.json generation. |
 | [KauaGould/sky-obby-rblx](https://github.com/KauaGould/sky-obby-rblx) | 0 | Projeto de obby no Roblox desenvolvido como primeira experiência funcional, com progressão básica e desafios de plataforma. |
@@ -329,19 +327,16 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [kosonenonpaska-beep/RobloxOnlineGameCreatorForMobile](https://github.com/kosonenonpaska-beep/RobloxOnlineGameCreatorForMobile) | 0 | Uses Roblox new Cloud API to make games. |
 | [Krultu/rbx-publish](https://github.com/Krultu/rbx-publish) | 0 | Action for publishing a place file to Roblox using the Open Cloud API |
 | [kvbc/roket](https://github.com/kvbc/roket) | 0 | Roblox networking framework built to skyroket your developer experience! |
-| [kvbc/roket-ts](https://github.com/kvbc/roket-ts) | 0 | Roblox networking framework built to skyroket your developer experience! |
 | [kwideveloper/Roblox-SkyLeap](https://github.com/kwideveloper/Roblox-SkyLeap) | 0 | (geen omschrijving op GitHub) |
 | [L1NK101/SkyPie-Sys-roblox](https://github.com/L1NK101/SkyPie-Sys-roblox) | 0 | A simple movement system based on LUAU, for roblox. |
 | [laoang1213/Grow-a-Garden-Stock](https://github.com/laoang1213/Grow-a-Garden-Stock) | 0 | Grow a Garden Stock Tracker — live Egg, Seed, Gear, Cosmetics & Honey inventories + real-time weather |
 | [LAUREANBARB/RobloxCustomizer](https://github.com/LAUREANBARB/RobloxCustomizer) | 0 | Customize roblox cursors, skyboxes, fonts easily and all in one place with reapplying upon roblox update! |
-| [LawofLife8th/LawofLife8th](https://github.com/LawofLife8th/LawofLife8th) | 0 | My life is all about Friday Night Funkin and Roblox Funky Friday |
 | [lcd11001/roblox-behavior-tree](https://github.com/lcd11001/roblox-behavior-tree) | 0 | (geen omschrijving op GitHub) |
-| [Lebedinskas/terrainforge-landing](https://github.com/Lebedinskas/terrainforge-landing) | 0 | TerrainForge — Professional Procedural Terrain Generator for Roblox Studio / Landing Page |
-| [lennirizzler-web/Weather_Tutorial](https://github.com/lennirizzler-web/Weather_Tutorial) | 0 | Its an Tutorial for my roblox WeathersystemScript |
 | [lennirizzler-web/WeatherTutorial](https://github.com/lennirizzler-web/WeatherTutorial) | 0 | Its an Tutorial for my roblox WeathersystemScript |
 | [likznw/Robloxi](https://github.com/likznw/Robloxi) | 0 | Nomad task driver for launching containers using containerd. |
 | [liltinyten/WOS_PlanetSearcher](https://github.com/liltinyten/WOS_PlanetSearcher) | 0 | A simple planet searcher for the Roblox game Waste of Space. |
 | [LimitzMain/Cut-A-Tree-](https://github.com/LimitzMain/Cut-A-Tree-) | 0 | An adventure RPG designed around Roblox’s engagement patterns, featuring interactive tree-cutting, progression systems, and reward pacing that sustain player... |
+| [linkapro2/roblox-fall-guys-game](https://github.com/linkapro2/roblox-fall-guys-game) | 0 | A Fall Guys inspired Roblox game with 8 floors, disappearing platforms, revive system, and cosmetics |
 | [Littlefoxboi/Part-to-Terrain](https://github.com/Littlefoxboi/Part-to-Terrain) | 0 | Part to Terrain is a Roblox plugin written in RbxLua. It allows users to convert bricks into Smooth Terrain with a friendly UI. |
 | [ljs418698976/mine-a-planet](https://github.com/ljs418698976/mine-a-planet) | 0 | Auto-generated Roblox companion site for Mine a Planet [BETA 8]. Source: https://ludusdex.com/weekly/2026-07-21/roblox-trend-evening-report |
 | [Lloydhf/Dasher](https://github.com/Lloydhf/Dasher) | 0 | DASHER: Ascent 0.5 — Roblox tower obby with three towers, Updraft movement, recoverable falls and cosmetic progression. Studio package and design case study. |
@@ -375,7 +370,6 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [natersoda/crategame-roblox-player](https://github.com/natersoda/crategame-roblox-player) | 0 | Image recognition and decision making tree to play a roblox crate opening game |
 | [National-Shitposting-Agency/rb_lua](https://github.com/National-Shitposting-Agency/rb_lua) | 0 | roblox lua scripts made for use with protosmasher |
 | [NebulaEmpress/Day-Night-Cycle](https://github.com/NebulaEmpress/Day-Night-Cycle) | 0 | Here's an example of the Day/Night cycle for Roblox Studio |
-| [NewFurry/NewFurry-s-Company-YTNFCG](https://github.com/NewFurry/NewFurry-s-Company-YTNFCG) | 0 | SAVE THE FURRIES!!! my account in roblos : https://www.roblox.com/users/1108966369/profile My Discord : 5079 NewFurry Follow and don't forget my new videos! ... |
 | [nicholast013/Roblox-Ban-Panel](https://github.com/nicholast013/Roblox-Ban-Panel) | 0 | Basic roblox ban panel using customtkinter as GUI library and roblox Cloud API as a way to do the ban |
 | [nihaoissigma-dotcom/-1-minecraft-mining-experience-](https://github.com/nihaoissigma-dotcom/-1-minecraft-mining-experience-) | 0 | this game is a roblox game that allows you to experience caves in minet |
 | [NinjaC42773/NunjaC42773](https://github.com/NinjaC42773/NunjaC42773) | 0 | Give candy blossom trees in grow a garden roblox |
@@ -383,12 +377,12 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Noah-Haf/Roblox-Weather-RealTime](https://github.com/Noah-Haf/Roblox-Weather-RealTime) | 0 | Have your roblox game match real life weather. |
 | [nobleandsnow/Roblox-Clothing-Preview-System-EN](https://github.com/nobleandsnow/Roblox-Clothing-Preview-System-EN) | 0 | A useful tool for classic clothing designers, developed by Noble and inspired by Snow. |
 | [nobody174/Roblox-Games](https://github.com/nobody174/Roblox-Games) | 0 | Ghost Catcher Tycoon — a Roblox game with quests, PvP, and cosmetics. On hold. |
+| [normal-map-generator/normal-map-generator.github.io](https://github.com/normal-map-generator/normal-map-generator.github.io) | 0 | Normal map generator that turns any image or 3D model into PBR textures: normal, roughness and metallic maps. With a 3D text generator and Roblox export. |
 | [number300/worm-cave](https://github.com/number300/worm-cave) | 0 | (geen omschrijving op GitHub) https://www.roblox.com/games/110139475350829/worm-cave |
 | [ofaruka/grass-cutter-roblox](https://github.com/ofaruka/grass-cutter-roblox) | 0 | (geen omschrijving op GitHub) |
 | [officialkrishna2455-tech/roblox-tower-defense](https://github.com/officialkrishna2455-tech/roblox-tower-defense) | 0 | Defend your base against relentless waves of enemies in this highly strategic, stylized tower defense experience! Build, upgrade, and manage your economy to ... |
 | [offsetless/RobloxExternal-Base](https://github.com/offsetless/RobloxExternal-Base) | 0 | Includes a driver to read and write to RBX memory (not sure if its UD yet I will update once I confirm) |
 | [olliepnightingale/roblox-weather-sync](https://github.com/olliepnightingale/roblox-weather-sync) | 0 | (geen omschrijving op GitHub) |
-| [OsmanRoblox/OsmanRoblox](https://github.com/OsmanRoblox/OsmanRoblox) | 0 | Config files for my GitHub profile. |
 | [Papillon6814/destroy-noob-in-the-sky](https://github.com/Papillon6814/destroy-noob-in-the-sky) | 0 | Noob Skyfall - Roblox vertical falling shooter race game |
 | [parker02311/ropython](https://github.com/parker02311/ropython) | 0 | RoPython is a asynchronous wrapper for Roblox Open Cloud API |
 | [parsaMARXx/Roblox-External](https://github.com/parsaMARXx/Roblox-External) | 0 | Shout Out To Cloudy Volxphy Made This And I Fixed All The |
@@ -409,15 +403,16 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Quamatic/fenwick-tree](https://github.com/Quamatic/fenwick-tree) | 0 | A 1-based Fenwick Tree implementation for Roblox. |
 | [R-unic/rbx-wave](https://github.com/R-unic/rbx-wave) | 0 | A sine/cosine wave implementation for Roblox |
 | [R1mob2-svg/crystal-cave-quest](https://github.com/R1mob2-svg/crystal-cave-quest) | 0 | Crystal Cave Quest — Roblox experience with talking NPCs, secret chest rooms, and a dragon gate finale. |
+| [R1mob2-svg/spooky-forest-survival](https://github.com/R1mob2-svg/spooky-forest-survival) | 0 | GeminX Roblox survival game — spooky forest, campfire safe zone, 10 waves, checkpoints. Rojo native Luau project. |
 | [rahuldarwade/Aetheria-Skies-Roblox](https://github.com/rahuldarwade/Aetheria-Skies-Roblox) | 0 | Roblox city builder game inspired by Cities: Skylines - Floating sky islands with aether mechanics. Using Rojo for development. |
 | [rahuldarwade/CityForge-Roblox](https://github.com/rahuldarwade/CityForge-Roblox) | 0 | Cities: Skylines inspired city builder on Roblox - Large expandable map with tile purchasing system. One connected city. |
 | [rauanfortunato27-ops/99nights](https://github.com/rauanfortunato27-ops/99nights) | 0 | Check out [🌋] 99 Nights in the Forest 🔦. It’s one of the millions of unique, user-generated 3D experiences created on Roblox. Build a camp with friends. ⛺ So... |
 | [rblx-classic-dertriti/Roblox-Classic-Sky-textures](https://github.com/rblx-classic-dertriti/Roblox-Classic-Sky-textures) | 0 | all Classic roblox sky texture and other |
 | [rbxcloud/rbx.cloud](https://github.com/rbxcloud/rbx.cloud) | 0 | Google Chrome extension that enhances your Roblox experience! |
+| [realsyrup99/PlanetCyan](https://github.com/realsyrup99/PlanetCyan) | 0 | sky for voistrap (roblox third party thing), using this for a texture pack. downloading it by itself wont do anything |
 | [rezaltaccount/Ghost-Riders](https://github.com/rezaltaccount/Ghost-Riders) | 0 | disables collision roblox ghost drivers script - made by rez please dont steal |
 | [riordanfmckenna/RobloxCatalogScraper](https://github.com/riordanfmckenna/RobloxCatalogScraper) | 0 | Scraps The Roblox Catalog based off different categories and works with Google Cloud to upload and organize it in a Google Sheets |
 | [roblox-open-cloud/api-types](https://github.com/roblox-open-cloud/api-types) | 0 | API types for Roblox's Open Cloud. |
-| [Robloxbyskye/Robloxbyskye](https://github.com/Robloxbyskye/Robloxbyskye) | 0 | Ciao io mi chiamo Skye e sono marocchina e anche italiana e so altre lingue oltre a italiano e marocchino.il mio gioco prifirito e ROBLOX⭐⭐⭐⭐⭐ |
 | [rodriguezjasonlloyd/roforgecloud](https://github.com/rodriguezjasonlloyd/roforgecloud) | 0 | A Rust companion for Roblox development |
 | [ryand56/roblox-translator-ibmcloud](https://github.com/ryand56/roblox-translator-ibmcloud) | 0 | Translates chat into any specified language with IBM Cloud Language Translator |
 | [ryanultralife/BigTimber](https://github.com/ryanultralife/BigTimber) | 0 | Big Timber — Roblox logging tycoon game. Chop trees, haul logs, run the sawmill. |
@@ -430,21 +425,23 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [scottricity/rblx-opencloud.js](https://github.com/scottricity/rblx-opencloud.js) | 0 | A JavaScript module to interact with Roblox's OpenCloud. |
 | [scottricity/rcloud](https://github.com/scottricity/rcloud) | 0 | A TypeScript wrapper for the Roblox OpenCloud. |
 | [Searangerx/Canoe-Crew](https://github.com/Searangerx/Canoe-Crew) | 0 | A roblox game where you and friends travel down a river in a canoe. |
+| [SebyP44/roblox-farm-defense-game](https://github.com/SebyP44/roblox-farm-defense-game) | 0 | Roblox Farm Defense Game - Multiplayer survival game with farming, tower defense, and zombie waves |
 | [SeifSultan03/rblx-Planetania](https://github.com/SeifSultan03/rblx-Planetania) | 0 | Roblox game, Planetania, programmed in lua |
 | [sequidhunter/Roblox-Simple-Planet-Orbit-System](https://github.com/sequidhunter/Roblox-Simple-Planet-Orbit-System) | 0 | (geen omschrijving op GitHub) |
 | [Sezei/rbxcloud-luvit](https://github.com/Sezei/rbxcloud-luvit) | 0 | A collection of Roblox Open Cloud tools made for Luvit |
+| [siualex488-cloud/roblox-skyboxes-80-](https://github.com/siualex488-cloud/roblox-skyboxes-80-) | 0 | This is a skybox pack made by me, some of these though are from other people. |
 | [skxllytheskeleton/roblox-procedural-generation](https://github.com/skxllytheskeleton/roblox-procedural-generation) | 0 | Roblox Procedural Map Generation |
 | [SkyHubRoblox/SKYHR-SKYHUBROBLOX](https://github.com/SkyHubRoblox/SKYHR-SKYHUBROBLOX) | 0 | SkyHub Script Roblox best |
 | [skysoepic/Roblox-Map-Generation](https://github.com/skysoepic/Roblox-Map-Generation) | 0 | This is placed just in case my file corrupts but you are free to use this script if you want |
 | [slametop/SlameHub](https://github.com/slametop/SlameHub) | 0 | Script Lua For Roblox(Tree Mansion Tycoon) |
 | [slametop/SlameHubNeTop](https://github.com/slametop/SlameHubNeTop) | 0 | Lua Script for roblox(Tree Mansion Tycoon) |
 | [snopxsnopx857/Snow-H-](https://github.com/snopxsnopx857/Snow-H-) | 0 | Script for roblox 50 options free and 500 prenium. |
-| [Snowdevv/Roblox-traffic-lights-script](https://github.com/Snowdevv/Roblox-traffic-lights-script) | 0 | Script of traffic lights by SnowDevv |
 | [Snowflake-Technologies/Roblox-Management-Panel](https://github.com/Snowflake-Technologies/Roblox-Management-Panel) | 0 | SnowPanel is the ultimate Roblox Management platform! Connect your Roblox Group, Roblox Game, Discord server and website to 1 place! |
 | [solobass/CosmoCats](https://github.com/solobass/CosmoCats) | 0 | Cosmo Cats - A highly monetizable Roblox game |
 | [Son2k13bskb/Roblox-FullMap-Save-LV7](https://github.com/Son2k13bskb/Roblox-FullMap-Save-LV7) | 0 | Full Map Save with Terrain + Union + Mesh / LV7 Anti-Kick |
 | [Spatgetti/GoldGenerator](https://github.com/Spatgetti/GoldGenerator) | 0 | Gold Generator Model For Skyblock on Roblox |
 | [Spymaury/custom-sky](https://github.com/Spymaury/custom-sky) | 0 | U can get custom sky in roblox rivals sub panmaury |
+| [Steamgamer/snowtrap-download](https://github.com/Steamgamer/snowtrap-download) | 0 | Snowtrap Download If you need better fps for Roblox this is for you. |
 | [Stil-man/roblox-sky-box](https://github.com/Stil-man/roblox-sky-box) | 0 | tu abuela se va a eschar un pedo con esto |
 | [Strongestguy2/Roblox-Minecraft-Tycoon-game-tech-tree-editor](https://github.com/Strongestguy2/Roblox-Minecraft-Tycoon-game-tech-tree-editor) | 0 | (geen omschrijving op GitHub) |
 | [StyearX/Cubemaps](https://github.com/StyearX/Cubemaps) | 0 | Converter Starfield and Cubemap (Minecraft) to Roblox skybox textures |
@@ -456,12 +453,12 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Th3Pr0fessor/MathTrees-FractalTrees-](https://github.com/Th3Pr0fessor/MathTrees-FractalTrees-) | 0 | (geen omschrijving op GitHub) Fractal Trees Roblox |
 | [theatifali/roblox-luau-debugging-guide](https://github.com/theatifali/roblox-luau-debugging-guide) | 0 | Cloudflare Pages source for a beginner Roblox Luau debugging guide. |
 | [TheEpicFace007/weather-visualisation](https://github.com/TheEpicFace007/weather-visualisation) | 0 | Visualising weather on roblox |
+| [TheJW07/roblox-devilsknife-weapon](https://github.com/TheJW07/roblox-devilsknife-weapon) | 0 | A Deltarune Devil's Knife weapon system for Roblox Studio with three abilities: homing throw, chaos bomb, and knife rain |
 | [TheMooMan1/Rafted](https://github.com/TheMooMan1/Rafted) | 0 | A Roblox survival game inspired by Raft, built with unique gameplay mechanics, PvE systems, and an expanding oceanic world |
 | [theRealMarc10/Roblox-Custom-Sky-Cursor-and-FPS-BOOSTER](https://github.com/theRealMarc10/Roblox-Custom-Sky-Cursor-and-FPS-BOOSTER) | 0 | will add more but this is a custom roblox skybox and cursor customiser |
 | [TheTryph/Roblox-Dynamic-Weather-Module](https://github.com/TheTryph/Roblox-Dynamic-Weather-Module) | 0 | (geen omschrijving op GitHub) |
 | [Thewatersgamerz/cosmos-roblox-group-application-form](https://github.com/Thewatersgamerz/cosmos-roblox-group-application-form) | 0 | we are starting this new group game please sumbit your forms here |
 | [Tiiber20/cloud-disco](https://github.com/Tiiber20/cloud-disco) | 0 | Cloudflare Worker proxy for AetherAI Roblox integration. |
-| [Tiiber20/discord](https://github.com/Tiiber20/discord) | 0 | Cloudflare Worker proxy for AetherAI Roblox integration. |
 | [TKRTWO1/Beyond-the-skybox-scratch-version](https://github.com/TKRTWO1/Beyond-the-skybox-scratch-version) | 0 | Not same like roblox hehe |
 | [tnagjei/roblox-guide-site-template-cloudflare](https://github.com/tnagjei/roblox-guide-site-template-cloudflare) | 0 | (geen omschrijving op GitHub) |
 | [TogamiCookiie/roblox-is.life](https://github.com/TogamiCookiie/roblox-is.life) | 0 | credit to @cloudflare for the design idea |
@@ -475,10 +472,11 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Vainalykas/Day-Night-Cycle-System-for-Roblox](https://github.com/Vainalykas/Day-Night-Cycle-System-for-Roblox) | 0 | This script manages a day/night cycle using Lighting.TimeOfDay and provides hooks for custom actions. |
 | [vainarity/monetisation-manager](https://github.com/vainarity/monetisation-manager) | 0 | open-source tool for managing roblox gamepasses and developer products in bulk |
 | [VALENCERBLX/Captcha](https://github.com/VALENCERBLX/Captcha) | 0 | Hitboxes for Roblox — twelve drivers, one promise-driven API. |
+| [vanya523/roblox-zombie-defense](https://github.com/vanya523/roblox-zombie-defense) | 0 | A multiplayer zombie defense game with waves, weapons, turrets, and progression |
 | [Vitouliss/VitTerrain](https://github.com/Vitouliss/VitTerrain) | 0 | A collection of files that make up my old reused terrain generator in ROBLOX. |
 | [vladlaskavyj2-debug/roblox-rain-system](https://github.com/vladlaskavyj2-debug/roblox-rain-system) | 0 | Профессиональная система дождя для Roblox с партиклами, облаками, динамическим освещением и звуками |
-| [vq9o/luau-snowflake](https://github.com/vq9o/luau-snowflake) | 0 | Snowflake IDs in Roblox Luau. |
-| [vq9o/RobloxGroupSDK](https://github.com/vq9o/RobloxGroupSDK) | 0 | Roblox Group SDK In standalone PHP for the Roblox Open Cloud API. |
+| [w8r011-tech/roblox-chopping-trees-game](https://github.com/w8r011-tech/roblox-chopping-trees-game) | 0 | لعبة Roblox مستوحاة من A Game About Chopping Trees - نظام قطع الأشجار مع ترقيات وحلقة لعب كاملة |
+| [w8r011-tech/tree-chopper-roblox](https://github.com/w8r011-tech/tree-chopper-roblox) | 0 | Roblox game inspired by A Game About Chopping Trees |
 | [weirdswizard/DeepBreathSimulator](https://github.com/weirdswizard/DeepBreathSimulator) | 0 | its a roblox game. i am making , which is a simulator where u dive into the ocean to reach the deepest part of the ocean. |
 | [wgrool/AXplus2](https://github.com/wgrool/AXplus2) | 0 | A large mod for Accelerate X that adds weather, forests and much more! |
 | [white-dragon-core/rbxts-Object-To-Tree](https://github.com/white-dragon-core/rbxts-Object-To-Tree) | 0 | (geen omschrijving op GitHub) |
@@ -487,7 +485,9 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [WilliamGMG/Roblox-Studio-Forest-Generator](https://github.com/WilliamGMG/Roblox-Studio-Forest-Generator) | 0 | A simple tree generator script for Roblox Studio. |
 | [WiseDodge/RBXWireNet](https://github.com/WiseDodge/RBXWireNet) | 0 | Modular Python client for Roblox Open Cloud APIs enabling correlational data extraction from groups, users, and games. |
 | [wlft/oxalyl-lite](https://github.com/wlft/oxalyl-lite) | 0 | Simple *.roblox.com proxy purposed for Cloudflare Workers |
+| [xliidev/cloudhook](https://github.com/xliidev/cloudhook) | 0 | Roblox Utility Script for RIVALS/Pistol Arena |
 | [xTrayambak/waving-roblox-water](https://github.com/xTrayambak/waving-roblox-water) | 0 | Roblox blocky water using sine waves. |
+| [Yar1991-Translation/RoProxy-CN](https://github.com/Yar1991-Translation/RoProxy-CN) | 0 | A Roblox API mirror site built using Cloudflare Worker functionality |
 | [Yaxxo/script-rblox-skytimechange](https://github.com/Yaxxo/script-rblox-skytimechange) | 0 | A script to make the sky change on roblox depending on what time is it |
 | [yucheng2580/ghost-driver-codes-gk-](https://github.com/yucheng2580/ghost-driver-codes-gk-) | 0 | Ghost Driver codes for Roblox [Pre‑Alpha] — working codes list, redeem steps and guides. Updated weekly. |
 | [z3zZ/skyblock-builder](https://github.com/z3zZ/skyblock-builder) | 0 | EPQ project heavily inspired by the unofficial Roblox "Deepwoken" character builder where players are able to assign stats to calculate and premake their ove... |

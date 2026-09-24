@@ -81,8 +81,9 @@ def main():
         if cat_extra:
             page += (
                 f"\n## Uitgebreide index ({len(cat_extra)})\n\n"
-                "Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. "
-                "Omschrijving = originele GitHub-omschrijving.\n\n"
+                "Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of spamfarms), "
+                "categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving; "
+                "\"(geen omschrijving op GitHub)\" = opgenomen op basis van een duidelijke reponaam.\n\n"
                 f"{table(cat_extra)}\n"
             )
         page += "\n[← Terug naar overzicht](../README.md)\n"

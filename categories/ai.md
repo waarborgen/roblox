@@ -42,9 +42,9 @@ Neurale netwerken, behavior trees, pathfinding, boids en LLM-NPC's.
 | [sebastianboscan/roblox-ai-npc](https://github.com/sebastianboscan/roblox-ai-npc) | 0 | NPC's die natuurlijke taal via TextGenerator omzetten in acties |
 | [Murned/roblox-boid-flocking](https://github.com/Murned/roblox-boid-flocking) | 0 | Drone-zwerm met Reynolds' boids + spatial grid |
 
-## Uitgebreide index (147)
+## Uitgebreide index (148)
 
-Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
+Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of spamfarms), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving; "(geen omschrijving op GitHub)" = opgenomen op basis van een duidelijke reponaam.
 
 | Repo | ⭐ | Wat het doet |
 |---|---:|---|
@@ -91,6 +91,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [adam-drake1/roblox-lua-state-machine](https://github.com/adam-drake1/roblox-lua-state-machine) | 0 | (geen omschrijving op GitHub) |
 | [Alex91100-cmd/Code-Npc-Corps](https://github.com/Alex91100-cmd/Code-Npc-Corps) | 0 | ce code permet de rendre la mort d'un npc sur roblox beaucoup plus reaslist |
 | [aloooxh/Roblox-Elote-Tycoon-Map](https://github.com/aloooxh/Roblox-Elote-Tycoon-Map) | 0 | Complete Roblox map for an original ELOTE TYCOON game. Features 8 player businesses arranged in a circular neighborhood, central plaza, NPC-friendly pathing,... |
+| [AmirrullahAhnafAgil/Analisis-Sentimen-Ulasan-pengguna-Aplikasi-Roblox-Menggunakan-Convolutional-Neural-Network](https://github.com/AmirrullahAhnafAgil/Analisis-Sentimen-Ulasan-pengguna-Aplikasi-Roblox-Menggunakan-Convolutional-Neural-Network) | 0 | (geen omschrijving op GitHub) |
 | [ashlynmadison/Carl-mcdonald](https://github.com/ashlynmadison/Carl-mcdonald) | 0 | Carl is from a roblox game/series "NPC are becoming smart" by GroovyDominoes52, today i got bored so i make him mcdonald employee so yeah- |
 | [AvinMaulana24/roblox-npc-backend](https://github.com/AvinMaulana24/roblox-npc-backend) | 0 | (geen omschrijving op GitHub) |
 | [BetiDev677/EOM_Game](https://github.com/BetiDev677/EOM_Game) | 0 | Luau script for a Roblox studio plot placement system (object placement and toggling, grid snapping, deletion, saving with DataStore API and rotations) as we... |
@@ -114,8 +115,6 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [EeyoreNN/roblox-scp-rl-bot](https://github.com/EeyoreNN/roblox-scp-rl-bot) | 0 | Reinforcement Learning bot that learns to play Roblox SCP Site Roleplay from scratch |
 | [eralijan008-lgtm/roblox-bear-script](https://github.com/eralijan008-lgtm/roblox-bear-script) | 0 | Roblox aggressive bear NPC с анимациями атак (лапа, укус), системой здоровья и механикой отвлечения медом |
 | [eyvanlol/Roblox-NPC](https://github.com/eyvanlol/Roblox-NPC) | 0 | This is my project on Roblox interactive and non-interactive NPC |
-| [FlowAshley/Priority](https://github.com/FlowAshley/Priority) | 0 | Priority based state machine for Roblox |
-| [FlowAshley/Priority4](https://github.com/FlowAshley/Priority4) | 0 | Priority based state machine for Roblox |
 | [g0ofycat/rl_framework](https://github.com/g0ofycat/rl_framework) | 0 | Reinforcement Learning Framework for small models in Roblox |
 | [Gabzouul/npc-game](https://github.com/Gabzouul/npc-game) | 0 | Roblox multiplayer NPC deception game |
 | [GandalfWisdom/PathBuddy](https://github.com/GandalfWisdom/PathBuddy) | 0 | A basic pathfinding Humanoid mover for Roblox. |
@@ -170,6 +169,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [rexmagnusdavid/roblox-ts-pathfinding](https://github.com/rexmagnusdavid/roblox-ts-pathfinding) | 0 | An A* pathfinding module for Roblox geometry. Written in TypeScript and utilizes roblox-ts. |
 | [RyderDoesRandomStuff/Roblox-Npc-s](https://github.com/RyderDoesRandomStuff/Roblox-Npc-s) | 0 | a collection of random npc stuff |
 | [SALLYPEMDAS/NOOBTOPIA](https://github.com/SALLYPEMDAS/NOOBTOPIA) | 0 | simple autonomous NPC script for roblox |
+| [sandikasep913-coder/sanzzstr-topup-game](https://github.com/sandikasep913-coder/sanzzstr-topup-game) | 0 | Website Topup Game FF, ML, PUBG, Roblox dengan metode pembayaran standar |
 | [sean-mullens/Roblox-AStar](https://github.com/sean-mullens/Roblox-AStar) | 0 | Simple 3D pathfinding alg I made |
 | [SilviaTormo/aura-farm](https://github.com/SilviaTormo/aura-farm) | 0 | Aura Farm: Roblox aura-farming game pilot (poses, duels, judged training, NPC crowd) |
 | [Stiexeno/roblox-csharp-state-management](https://github.com/Stiexeno/roblox-csharp-state-management) | 0 | C# state machine plugin for roblox-csharp. Pure C# states with optional lifecycle markers (IEnter/IExecutable/...) driven by RunService and resolved through DI. |
@@ -190,6 +190,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Vel136/Stratix](https://github.com/Vel136/Stratix) | 0 | A hierarchical state machine for Roblox Luau. |
 | [VerifiedHawaii/Learny](https://github.com/VerifiedHawaii/Learny) | 0 | Advanced roblox ML learning |
 | [vimeaus/Roblox-NPCs](https://github.com/vimeaus/Roblox-NPCs) | 0 | A project aimed at bringing improvements to Roblox's Non Player Characters. With a focus on improved pathing and greater performance. |
+| [VolizXDev/NeuralConnectionForRoblox](https://github.com/VolizXDev/NeuralConnectionForRoblox) | 0 | This repository handles a consciousness brain from a fly. I dont want say much, since i created when my familiy was sleeping. |
 | [Where44444/LuaPathfinding](https://github.com/Where44444/LuaPathfinding) | 0 | Script for Roblox map to help 8 blocks find a path around each other dynamically to build a logo |
 | [williamswilsonhilson-debug/NPCService](https://github.com/williamswilsonhilson-debug/NPCService) | 0 | A roblox npc system |
 | [XdualityRBX/Quest-System](https://github.com/XdualityRBX/Quest-System) | 0 | Roblox NPC quest system with typewriter dialogue, quest progress GUI, and rewards. |

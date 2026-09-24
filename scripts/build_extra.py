@@ -27,7 +27,9 @@ RELEVANT = re.compile(
 
 # Uitsluiten: exploits, cheats, account-/botting-tools, spam enz.
 BLOCK = re.compile(
-    r"exploit|hitbox ?expand|alt ?control|friend ?(bot|req)|group ?finder|account ?(bot|informer)|execut(or|er)\b|\binject|aimbot|aim ?lock|silent ?aim|\besp\b|wall ?hack|triggerbot|(?<!anti)(?<!anti-)(?<!anti )cheat|"
+    r"exploit|expoit|anti-?lag|deep clean|unlock powerful|ultimate [\w ]{0,30}script|pet spawn|c00l|\bsober\b|\b(op|fe) scripts?\b|all executors|join my discord|\btsb\b|visual script|rtp script|lemodz|no login|screenshare|kumpulan|"
+    r"landing page|id card|20\d\d client|time stop script|mod updater|violence district|lumber tycoon|slap battles|инжект|фикс|читы|\bxeno\b|future client|link generator|now\.gg|crowdbotics|bindai|auto-repo|collection of \d+ roblox|place \d+ from universe|"
+    r"personal (website|site)|my (user|account|channel)|\byt channel|please download|gh repo clone|vending|donation|jewel|bracelet|hitbox ?expand|alt ?control|friend ?(bot|req)|group ?finder|account ?(bot|informer)|execut(or|er)\b|\binject|aimbot|aim ?lock|silent ?aim|\besp\b|wall ?hack|triggerbot|(?<!anti)(?<!anti-)(?<!anti )cheat|"
     r"\bhack(s|ed|ing|er)?\b|script ?hub|\bhub\b|keyless|key ?system|no ?key|spoof|bypass|unlocker|"
     r"fps ?unlock|bootstrap|launcher|fflag|fast ?flag|cookie|stealer|grabber|token ?log|ip ?log|phish|"
     r"\brat\b|sniper|snipe|botter|botting|follow ?bot|visit ?bot|group ?join|account ?(gen|creat|manag|check|switch)|"
@@ -82,6 +84,12 @@ CATEGORY_RULES = [
 CATEGORY_RULES = [(c, re.compile(p, re.I)) for c, p in CATEGORY_RULES]
 
 
+# Repo's die "...Script" heten zijn meestal game-exploits; alleen houden als ze duidelijk dev-werk zijn.
+DEV_SCRIPT = re.compile(
+    r"\bsystem|module|framework|librar|leaderstats|datastore|admin (panel|command)|tween|placement|sprint|"
+    r"emote|inventory|door|camera|\bnpc|pathfind|kill ?brick|round|lobby|checkpoint|anim|studio|plugin|"
+    r"core ?scripts|for (beginners|developers|your game|games)|in your game|into your game", re.I)
+
 GENERIC_WORDS = set("""roblox rblx rbx robloxstudio studio script scripts game games project projects test tests
 testing my main repo repository place files file dev lua luau stuff the an of and for new old simple basic first second own
 personal public private source code src master ts js hello world github io web website site app""".split())
@@ -115,6 +123,17 @@ def main(pool_path):
     with CURATED.open(encoding="utf-8") as f:
         curated = {r["repo"].lower() for r in csv.DictReader(f, delimiter="\t", quoting=csv.QUOTE_NONE)}
     rows, reasons = [], {}
+    # Dubbele omschrijvingen: klonen/spamfarms. Houd per omschrijving alleen het beste origineel
+    # (meeste sterren, daarna oudste); 10+ kopieën = spamfarm, dan valt de hele groep af.
+    desc_count, desc_best = {}, {}
+    for key, it in pool.items():
+        d = (it.get("desc") or "").strip().lower()
+        if not d:
+            continue
+        desc_count[d] = desc_count.get(d, 0) + 1
+        rank = (-int(it.get("stars") or 0), it.get("created") or "9999")
+        if d not in desc_best or rank < desc_best[d][0]:
+            desc_best[d] = (rank, key)
     for key, it in pool.items():
         def skip(why):
             reasons[why] = reasons.get(why, 0) + 1
@@ -124,6 +143,14 @@ def main(pool_path):
             skip("officieel"); continue
         if it.get("fork"):
             skip("fork"); continue
+        owner, rname = it["repo"].split("/")
+        if rname.lower() == owner.lower() or re.search(r"[-_][0-9a-f]{8,}$", rname):
+            skip("profiel/spam-naam"); continue
+        d = (it.get("desc") or "").strip().lower()
+        if d and desc_count[d] >= 10:
+            skip("spamfarm (10+ repos met dezelfde omschrijving)"); continue
+        if d and desc_count[d] > 1 and desc_best[d][1] != key:
+            skip("kloon (zelfde omschrijving als ander repo)"); continue
         desc = it.get("desc") or ""
         topics = " ".join(it.get("topics") or [])
         name = it["repo"].split("/")[1]
@@ -140,6 +167,9 @@ def main(pool_path):
             skip("niet roblox"); continue
         if BLOCK.search(text) or GAME_SCRIPT.search(text):
             skip("exploit/cheat/spam"); continue
+        if (re.search(r"scripts?$", name, re.I) and int(it.get("stars") or 0) < 3
+                and not DEV_SCRIPT.search(text)):
+            skip("losse game-script"); continue
         if it.get("lang") == "HTML" and re.search(r"20(25|26)", text) and it.get("created", "") >= "2026-06":
             skip("seo-spam"); continue
         if re.search(r"\b(best|top|ultimate)\b.{0,40}\b2026\b|\b2026\b.{0,20}\b(best|guide|free)\b", text, re.I):

@@ -22,14 +22,13 @@ Full-body VR, SteamVR-trackers en webcam-tracking.
 | [mathken029/vr-roblox-kit](https://github.com/mathken029/vr-roblox-kit) | 0 | Open-source VR game-development kit |
 | [Metatable-Games/MetaVR](https://github.com/Metatable-Games/MetaVR) | 0 | VR-framework in Luau |
 
-## Uitgebreide index (48)
+## Uitgebreide index (45)
 
-Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
+Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of spamfarms), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving; "(geen omschrijving op GitHub)" = opgenomen op basis van een duidelijke reponaam.
 
 | Repo | ⭐ | Wat het doet |
 |---|---:|---|
 | [conariumsoft/lovecraft](https://github.com/conariumsoft/lovecraft) | 2 | Virtual Reality Engine for ROBLOX. |
-| [DarksGitHub/VRScript](https://github.com/DarksGitHub/VRScript) | 1 | Roblox VR Script Archive |
 | [Horurasu/tramvet-development-roblox-aprendizaje-anatomia](https://github.com/Horurasu/tramvet-development-roblox-aprendizaje-anatomia) | 1 | This space is dedicated to exploring the potential of virtual reality, augmented reality, and more within the Roblox platform. Focused on game/vr/ar/xr devel... |
 | [Kizum1/VReader](https://github.com/Kizum1/VReader) | 1 | VR Book Reader on Roblox and Oculus Quest, merging free ROBLOX assets with Project Gutenberg's vast library. Dive into immersive worlds and discover the joy ... |
 | [maji-git/roblox-vr-listing](https://github.com/maji-git/roblox-vr-listing) | 1 | Roblox games with VR Support list |
@@ -67,9 +66,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [QuoniamVR/RobloxVR](https://github.com/QuoniamVR/RobloxVR) | 0 | Some shit for Roblox VR (sorry GitHub!) |
 | [QuoniamVR/VR-Chassis](https://github.com/QuoniamVR/VR-Chassis) | 0 | An A-Chassis derivative for VR cars in Roblox! |
 | [ReBuildVR/ReBuild](https://github.com/ReBuildVR/ReBuild) | 0 | ReBuild is a roblox VR game where the player gets shown objects that he/she has to rebuild within a timelimit |
-| [SlapBattlesRepository/Roblox-Mobile-Virtual-Reality-Hook-Script](https://github.com/SlapBattlesRepository/Roblox-Mobile-Virtual-Reality-Hook-Script) | 0 | this is a script that makes it look like you have a virtual reality headset on, when you dont |
 | [Superior-Qam/P-SCP-Room---LCZ-Straight-Armoury](https://github.com/Superior-Qam/P-SCP-Room---LCZ-Straight-Armoury) | 0 | Raw Code Data for Custom Room in Project SCP. Play Project SCP in Roblox via: https://www.roblox.com/games/5534891288/Project-SCP-VR-SUPPORT |
-| [Superior-Qam/P-SCP-Room---X-Terminal-Support-Community](https://github.com/Superior-Qam/P-SCP-Room---X-Terminal-Support-Community) | 0 | Raw Code Data for Custom Room in Project SCP. Play Project SCP in Roblox via: https://www.roblox.com/games/5534891288/Project-SCP-VR-SUPPORT |
 | [teja-gitcode/Ashley-Virtual-Experience-Store](https://github.com/teja-gitcode/Ashley-Virtual-Experience-Store) | 0 | Roblox themed Ashley Experience Store with VR Support |
 | [The3Luigis/SMO-RP-Roblox](https://github.com/The3Luigis/SMO-RP-Roblox) | 0 | Just a man doing gods work, giving you access to SMO RP via this link: https://www.roblox.com/games/15186922599/Sonics-RP-VR |
 | [TrueLowCortisol/Fake-Virtual-Reality](https://github.com/TrueLowCortisol/Fake-Virtual-Reality) | 0 | FE Fake Virtual Reality on Roblox. |
