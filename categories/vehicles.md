@@ -30,7 +30,7 @@ Chassis, suspensie, hover, raketten, drijfvermogen en treinen.
 | [cassicoder/boat-game](https://github.com/cassicoder/boat-game) | 0 | Boot-game: Matter ECS + Gerstner-oceaan + drijfvermogen + vissen |
 | [HassanJN66/roblox-vehicle-framework](https://github.com/HassanJN66/roblox-vehicle-framework) | 0 | Raycast-wielen + soft physics body, FWD/RWD/AWD |
 
-## Uitgebreide index (229)
+## Uitgebreide index (235)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -114,6 +114,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [cross20006t/BAFTScript](https://github.com/cross20006t/BAFTScript) | 0 | Free Roblox Build A Boat For Treasure Script Download 2025 🚀 |
 | [cruzill/scr-signal-timer](https://github.com/cruzill/scr-signal-timer) | 0 | An app for timing setup and signal desk time on Roblox's Stepford County Railway |
 | [dabl7/framework](https://github.com/dabl7/framework) | 0 | Tool for calculating and building framework in build a boat for treasure on roblox |
+| [dabl7/shapes](https://github.com/dabl7/shapes) | 0 | Calculator for making some shapes in build a boat |
 | [Dahbix/ptfs-plane-randomizer](https://github.com/Dahbix/ptfs-plane-randomizer) | 0 | A plane randomizer for the Roblox game PTFS |
 | [DamnitKvvin/DamnitKvvin.github.io](https://github.com/DamnitKvvin/DamnitKvvin.github.io) | 0 | Kvvin: ROBLOX Developer and Designer. Dive into my portfolio displaying expertise in emergency vehicle outfitting and dynamic lighting within ROBLOX Studio. |
 | [danarsjow/RBLX_Virtual_RefuelorPit_System](https://github.com/danarsjow/RBLX_Virtual_RefuelorPit_System) | 0 | Virtual Refuel or Pit System for Roblox A-Chassis (Use as child of KapKing47's Fuel System\FuelEvent) |
@@ -132,6 +133,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [fashwest990/YeetPlane](https://github.com/fashwest990/YeetPlane) | 0 | Free Roblox Yeet a Plane Simulator Script 🚀 |
 | [FB4Studios/Brisbane-train-sim](https://github.com/FB4Studios/Brisbane-train-sim) | 0 | offical resportay for Brisbane train sim on roblox by me |
 | [flatlichicken/SCR-Roulette](https://github.com/flatlichicken/SCR-Roulette) | 0 | (WIP) Randomizer program for Stepford Country Railway on roblox |
+| [Flix47/rss-train](https://github.com/Flix47/rss-train) | 0 | Created for Realistic Street Soccer (Roblox) goalkeeper |
 | [franbos4/Artic-Dockyar-BBMap](https://github.com/franbos4/Artic-Dockyar-BBMap) | 0 | Map for bad bussiness on roblox it has a bit of lore. omega have been doing illegal weapon transactions in the artic the beta team has setted up a ambus in t... |
 | [fsutcliffe/frank-tank-obby](https://github.com/fsutcliffe/frank-tank-obby) | 0 | Frank the Tank OBBY — Roblox game with Rojo sync |
 | [ghxjcbhxjcjchchchchchch-dotcom/Car-fly](https://github.com/ghxjcbhxjcjchchchchchch-dotcom/Car-fly) | 0 | Roblox car flying script |
@@ -170,6 +172,9 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Luc-JSL/Roblox-Pet-Mutation-Simulator](https://github.com/Luc-JSL/Roblox-Pet-Mutation-Simulator) | 0 | Evolve, mutate, and become the ultimate mutant! Train your character, unlock powerful mutations, battle enemies and bosses, explore mysterious zones, and col... |
 | [LucidPoly/Gamma](https://github.com/LucidPoly/Gamma) | 0 | Gamma is a super simple raytracing library for roblox made with lua. |
 | [LuckyClover7373/AirFlow](https://github.com/LuckyClover7373/AirFlow) | 0 | An roblox open-source airplane |
+| [lysingeboys-del/aidenpixels-portfolio](https://github.com/lysingeboys-del/aidenpixels-portfolio) | 0 | Helping Roblox studios build, manage, and grow. Portfolio featuring shipped projects, development services, management experience, and ways to get in touch. |
+| [lysingeboys-del/AidenPortfolio](https://github.com/lysingeboys-del/AidenPortfolio) | 0 | Roblox Developer & Studio Manager with 3+ years of experience and 19 shipped projects. Explore my portfolio, services, and ways we can work together. |
+| [lysingeboys-del/AidenPortfolioRblx](https://github.com/lysingeboys-del/AidenPortfolioRblx) | 0 | Professional portfolio website showcasing Roblox development, studio management, community operations, and game production experience. Featuring 19 shipped p... |
 | [M-a-s-o-n-C/PalmBeachAssistant](https://github.com/M-a-s-o-n-C/PalmBeachAssistant) | 0 | A roblox group managing bot! |
 | [Magma69/sg-trainer](https://github.com/Magma69/sg-trainer) | 0 | A new way to train for the SG role for SCR (On Roblox) |
 | [maragnus/DeadCamp](https://github.com/maragnus/DeadCamp) | 0 | A co-op Roblox survival road-trip game where players escape a zombie outbreak in an RV, scavenging campsites, gas stations, ranger stations, farms, and aband... |
@@ -229,6 +234,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [sharky-3/roblox-8-ball-ray-tracer](https://github.com/sharky-3/roblox-8-ball-ray-tracer) | 0 | Roblox 8-Ball Ray Tracer is an intelligent aiming assistant for Roblox 8-ball pool. It uses computer vision to detect table lines and shows real-time traject... |
 | [ShyCape/MTC-Trainer](https://github.com/ShyCape/MTC-Trainer) | 0 | Demonstration of how to play the online roblox game "MTC" multicrew tank combat |
 | [sinmirka/BABFT-Printer-Script](https://github.com/sinmirka/BABFT-Printer-Script) | 0 | An utility made for printing images in Roblox Build A Boat game. |
+| [smashgamingofficial09-del/heathrow-ptfs](https://github.com/smashgamingofficial09-del/heathrow-ptfs) | 0 | Heathrow Airport PTFS Website - Pilot Training Flight Simulator Roblox |
 | [Soskoify/Vstop](https://github.com/Soskoify/Vstop) | 0 | Stop car in Roblox |
 | [SSkirt/American-Airlines.roblox](https://github.com/SSkirt/American-Airlines.roblox) | 0 | An roblox airline made to simulate a flight with Airline named American Airlines |
 | [StarTheProot/wastonrailway](https://github.com/StarTheProot/wastonrailway) | 0 | Test website for Waston Railway, the roblox game |

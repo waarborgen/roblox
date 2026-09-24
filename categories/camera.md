@@ -34,7 +34,7 @@ Camera-shake, custom camera's, cutscene-tools en timelines.
 | [zKozie/CameraSystem](https://github.com/zKozie/CameraSystem) | 0 | Config-gedreven twee-laags camera: state-camera's plus one-shot action-overlays die terugblenden |
 | [JRmcnugget/Viewpoint](https://github.com/JRmcnugget/Viewpoint) | 0 | Vloeiende, sterk aanpasbare third-person camera |
 
-## Uitgebreide index (128)
+## Uitgebreide index (131)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -102,6 +102,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Heavierr618/Roblox-shake](https://github.com/Heavierr618/Roblox-shake) | 0 | i was bored so i just made this much really. all it does is shake your roblox character |
 | [Huepow/Roblox-Intelligent-Camera-System](https://github.com/Huepow/Roblox-Intelligent-Camera-System) | 0 | Intelligent camera system with 3 diffrent modes. |
 | [huh90cg/mmv-enhanced-scripts-for-roblox](https://github.com/huh90cg/mmv-enhanced-scripts-for-roblox) | 0 | Unlock Powerful Roblox MMV Script Tools for Creative Cinematics 🎮✨ |
+| [hxvacstudio/Hxvac](https://github.com/hxvacstudio/Hxvac) | 0 | Hxvac is a Roblox trailer editor and Shorts creator helping developers promote their games with clean, cinematic, attention-grabbing video content. From full... |
 | [iarkhery08/roblox-proxy-shakensizzle](https://github.com/iarkhery08/roblox-proxy-shakensizzle) | 0 | (geen omschrijving op GitHub) |
 | [instantstudio/cameracontroler](https://github.com/instantstudio/cameracontroler) | 0 | A Roblox Camera Controller System |
 | [IrishFix/rbxts-cmove-wrapper](https://github.com/IrishFix/rbxts-cmove-wrapper) | 0 | A sophisticated Roblox camera controller with smooth movement, rotation tracking, and intelligent occlusion detection. Features configurable smoothing, multi... |
@@ -111,6 +112,8 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [kapifoxypirate/Roblox-camera-movemnt-script-PL-](https://github.com/kapifoxypirate/Roblox-camera-movemnt-script-PL-) | 0 | Skrypt stworzony przez programistów SHADE MARKET (shadesurfer) |
 | [Keozma/Roblox-Force-Reset-Gui](https://github.com/Keozma/Roblox-Force-Reset-Gui) | 0 | Force resets the character, useful in tsb or battleground games if your stuck in cutscenes. |
 | [kietnguyen271012-sketch/roblox-target-tracking-system](https://github.com/kietnguyen271012-sketch/roblox-target-tracking-system) | 0 | Complete Roblox Lua target tracking system with RGB UI, camera control, and damage detection |
+| [Kixdev/diamond-freecam-roblox](https://github.com/Kixdev/diamond-freecam-roblox) | 0 | Roblox cinematic freecam with smooth controls, adjustable speed, custom keybinds, FOV zoom, bubble chat hiding, and creator-focused features |
+| [Kixdev/greenscreen-cinematic-roblox](https://github.com/Kixdev/greenscreen-cinematic-roblox) | 0 | Advanced Chroma Key & Environment Isolation Tool for Roblox Content Creators |
 | [Kixdev/roblox-photo-studio](https://github.com/Kixdev/roblox-photo-studio) | 0 | Cinematic Photo Studio tools for Roblox |
 | [Kixdev/spectate-player-roblox](https://github.com/Kixdev/spectate-player-roblox) | 0 | Client-side Roblox spectate player UI with smooth camera control, player list navigation, and modern UX. |
 | [krxmvll/EasyCamera](https://github.com/krxmvll/EasyCamera) | 0 | [Roblox Plugin] The easiest way to work with cameras |

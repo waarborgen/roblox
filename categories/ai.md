@@ -42,7 +42,7 @@ Neurale netwerken, behavior trees, pathfinding, boids en LLM-NPC's.
 | [sebastianboscan/roblox-ai-npc](https://github.com/sebastianboscan/roblox-ai-npc) | 0 | NPC's die natuurlijke taal via TextGenerator omzetten in acties |
 | [Murned/roblox-boid-flocking](https://github.com/Murned/roblox-boid-flocking) | 0 | Drone-zwerm met Reynolds' boids + spatial grid |
 
-## Uitgebreide index (141)
+## Uitgebreide index (144)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -127,6 +127,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [HmmmThinking/-Lua-Npc-teleporter](https://github.com/HmmmThinking/-Lua-Npc-teleporter) | 0 | TPS to npcs in roblox |
 | [hotdog9955/Roblox_Learn](https://github.com/hotdog9955/Roblox_Learn) | 0 | roblox machine learning library |
 | [i3Crk/DialogService](https://github.com/i3Crk/DialogService) | 0 | A service to aid Roblox developers in standardizing dialog handlers for their games' NPC interactions. |
+| [IanLiggett/roblox-boids](https://github.com/IanLiggett/roblox-boids) | 0 | A repo of my boid project that I'll try to keep relatively up to date |
 | [IsaganiI/RBLX-Website-](https://github.com/IsaganiI/RBLX-Website-) | 0 | Roblox machine learning model host. |
 | [iscode0/NanoRBX](https://github.com/iscode0/NanoRBX) | 0 | Nano (or NanoRBX) is a machine learning/deep learning/reinforcement learning library for Roblox studio |
 | [JayJay648/roblox-restaurant-system](https://github.com/JayJay648/roblox-restaurant-system) | 0 | A Roblox restaurant system with ID management for NPCs, items, and locations |
@@ -180,9 +181,11 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [turbinebroskilolz-dot/RobloxNPCPlayground](https://github.com/turbinebroskilolz-dot/RobloxNPCPlayground) | 0 | Its a playground of NPCs |
 | [Twiched/RoPath](https://github.com/Twiched/RoPath) | 0 | An custom pathfinding service for roblox. |
 | [UnanimousTechnologies/Friendly-NPC](https://github.com/UnanimousTechnologies/Friendly-NPC) | 0 | This guide explains how to create an NPC that follows the player in Roblox Studio. |
+| [UniversoGalactico/StateMachineManagerRoblox](https://github.com/UniversoGalactico/StateMachineManagerRoblox) | 0 | (geen omschrijving op GitHub) |
 | [urvape/Follow-Player-GUI](https://github.com/urvape/Follow-Player-GUI) | 0 | A GUI that uses the Roblox Pathfinding Service to Follow players on Roblox. |
 | [urvape/SimplePath](https://github.com/urvape/SimplePath) | 0 | SimplePath, a Roblox Pathfinding Service. |
 | [vadjusha16-rgb/Digital-Circus-Roblox](https://github.com/vadjusha16-rgb/Digital-Circus-Roblox) | 0 | A Roblox game inspired by Digital Circus with Kaine, NPC circus system, and player interactions |
+| [Vel136/Stratix](https://github.com/Vel136/Stratix) | 0 | A hierarchical state machine for Roblox Luau. |
 | [VerifiedHawaii/Learny](https://github.com/VerifiedHawaii/Learny) | 0 | Advanced roblox ML learning |
 | [vimeaus/Roblox-NPCs](https://github.com/vimeaus/Roblox-NPCs) | 0 | A project aimed at bringing improvements to Roblox's Non Player Characters. With a focus on improved pathing and greater performance. |
 | [Where44444/LuaPathfinding](https://github.com/Where44444/LuaPathfinding) | 0 | Script for Roblox map to help 8 blocks find a path around each other dynamically to build a logo |

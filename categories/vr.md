@@ -22,7 +22,7 @@ Full-body VR, SteamVR-trackers en webcam-tracking.
 | [mathken029/vr-roblox-kit](https://github.com/mathken029/vr-roblox-kit) | 0 | Open-source VR game-development kit |
 | [Metatable-Games/MetaVR](https://github.com/Metatable-Games/MetaVR) | 0 | VR-framework in Luau |
 
-## Uitgebreide index (44)
+## Uitgebreide index (45)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -72,5 +72,6 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Superior-Qam/P-SCP-Room---X-Terminal-Support-Community](https://github.com/Superior-Qam/P-SCP-Room---X-Terminal-Support-Community) | 0 | Raw Code Data for Custom Room in Project SCP. Play Project SCP in Roblox via: https://www.roblox.com/games/5534891288/Project-SCP-VR-SUPPORT |
 | [The3Luigis/SMO-RP-Roblox](https://github.com/The3Luigis/SMO-RP-Roblox) | 0 | Just a man doing gods work, giving you access to SMO RP via this link: https://www.roblox.com/games/15186922599/Sonics-RP-VR |
 | [wawawee/auepic](https://github.com/wawawee/auepic) | 0 | Welcome to AuEpic Gaming! |
+| [wuisabel-gif/university-of-spoiled-children](https://github.com/wuisabel-gif/university-of-spoiled-children) | 0 | A walkable, Roblox-style 3D college campus you explore in your browser, based on Cal Newport's How to Win at College. Single self-contained HTML file. |
 
 [← Terug naar overzicht](../README.md)

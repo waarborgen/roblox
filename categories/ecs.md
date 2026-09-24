@@ -86,7 +86,7 @@ Entity Component Systems en frameworks voorbij Knit.
 | [zblox164/Scrypt](https://github.com/zblox164/Scrypt) | 1 | Scrypt-framework |
 | [ZacharyVanier/VZNCore-Template](https://github.com/ZacharyVanier/VZNCore-Template) | 0 | Batteries-included ECS-framework template |
 
-## Uitgebreide index (381)
+## Uitgebreide index (382)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -260,6 +260,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [ANormalDude14/Jorex](https://github.com/ANormalDude14/Jorex) | 0 | roblox framework ive developed |
 | [AntiMobq/ModuleLoader](https://github.com/AntiMobq/ModuleLoader) | 0 | Roblox horrible module loader, with some optimizations |
 | [anzordatunasvhili-beep/Roblox_Key_Knit](https://github.com/anzordatunasvhili-beep/Roblox_Key_Knit) | 0 | (geen omschrijving op GitHub) |
+| [Armahan/Lifecycle](https://github.com/Armahan/Lifecycle) | 0 | Lifecycle is a cleanup / ownership utility for Roblox systems. |
 | [Asetasar/Asetasar-Framework](https://github.com/Asetasar/Asetasar-Framework) | 0 | Simple but powerful framework for Roblox |
 | [astrogue/knitTemplate-1](https://github.com/astrogue/knitTemplate-1) | 0 | My project template for Roblox Knit |
 | [ausidev/roblox-backend-datamanager](https://github.com/ausidev/roblox-backend-datamanager) | 0 | Modular DataManager using Knit Framework |

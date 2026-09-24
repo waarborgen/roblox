@@ -72,7 +72,7 @@ Character controllers, ragdolls, destructie, parkour en eigen physics-engines.
 | [Terrani-3/movement-system](https://github.com/Terrani-3/movement-system) | 0 | Movement-feel: camera-tilt, dynamische FOV en directionele animatie-blending |
 | [chroma-hade/Roblox-2D-Movement](https://github.com/chroma-hade/Roblox-2D-Movement) | 0 | 2D-movement en camerasysteem |
 
-## Uitgebreide index (374)
+## Uitgebreide index (384)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -240,6 +240,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [eazyware/BHOP-standard-v1](https://github.com/eazyware/BHOP-standard-v1) | 0 | In this variant I tried to make a balance between ROBLOX and CS:GO physics. |
 | [eendje2013/Murders-vs-serifds-duels-in-Roblox](https://github.com/eendje2013/Murders-vs-serifds-duels-in-Roblox) | 0 | Speed x ray jump |
 | [EilaFleuret/Roblox-Test-Project](https://github.com/EilaFleuret/Roblox-Test-Project) | 0 | Simple project to learn how to build and script in Roblox. Small jump game where you collect coins to upgrade your jump and leap across platforms |
+| [eliasheidicker364-spec/roblox-swim-simulator](https://github.com/eliasheidicker364-spec/roblox-swim-simulator) | 0 | a roblox simulator game |
 | [elicat310-eng/roblox-invisibility-and-jump-platform](https://github.com/elicat310-eng/roblox-invisibility-and-jump-platform) | 0 | Sistema de invisibilidad y plataformas para Roblox |
 | [EliteGameBoosting/Elite-Boosting](https://github.com/EliteGameBoosting/Elite-Boosting) | 0 | Climb the ranks and unlock rewards in your favorite games with Elite Boosting! We specialize in providing professional boosting services for Apex Legends, Ra... |
 | [ElixNoir/Roblox-Physics2D](https://github.com/ElixNoir/Roblox-Physics2D) | 0 | Physics for 2D objects. I haven't decided how I'm going to structure this yet. |
@@ -286,6 +287,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Isaquegs2011/hobby-2-Dio](https://github.com/Isaquegs2011/hobby-2-Dio) | 0 | um jogo de parkour do roblox |
 | [ItsPingOfficial/SimpleParallelRobloxMovement](https://github.com/ItsPingOfficial/SimpleParallelRobloxMovement) | 0 | Just a simple example of how to use parallel code for your movement system on Roblox. Nothing advanced. |
 | [IvanSpaceCoder/Space-Exploration-Simulator](https://github.com/IvanSpaceCoder/Space-Exploration-Simulator) | 0 | Realistic space simulator built in Roblox with real orbital physics and mechanics |
+| [janijukka-hue/af51-rbx-factory-v23](https://github.com/janijukka-hue/af51-rbx-factory-v23) | 0 | AF51 RBX Factory v23 - Humanoid Production Upgrade: Complete Roblox game factory with game-like character generation pipeline |
 | [jaydenalarcon-dev/roblox-parkour-game](https://github.com/jaydenalarcon-dev/roblox-parkour-game) | 0 | Published Roblox parkour game developed in Luau with custom levels, movement mechanics, and gameplay systems. |
 | [JebKerbin/roblox-space-sim](https://github.com/JebKerbin/roblox-space-sim) | 0 | A Roblox-based space simulation game with realistic physics and modular rocket building system |
 | [jhon1dev/RobloxLearning](https://github.com/jhon1dev/RobloxLearning) | 0 | I'll be charging this repository with every knoledge that i've been learning on roblox. |
@@ -302,6 +304,8 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Kaiga-kun/climb-jump-tower-roblox-toolkit](https://github.com/Kaiga-kun/climb-jump-tower-roblox-toolkit) | 0 | Ultimate Climb and Jump Tower Script for Roblox 🚀 Boost Your Game Experience 🕹️ |
 | [KaltaOficial/BloxyMart](https://github.com/KaltaOficial/BloxyMart) | 0 | (geen omschrijving op GitHub) Roblox character downloader |
 | [karsonf1/glide-a-rot](https://github.com/karsonf1/glide-a-rot) | 0 | First Roblox game development endeavor / Creature collector with a custom physics-based scalable hang-gliding mechanic. |
+| [kbg70802211-debug/-Fly-](https://github.com/kbg70802211-debug/-Fly-) | 0 | Infinity jumps on roblox |
+| [kbg70802211-debug/Octavain853-](https://github.com/kbg70802211-debug/Octavain853-) | 0 | Infinity jumps on roblox |
 | [kipuki/roblox-character-customization](https://github.com/kipuki/roblox-character-customization) | 0 | Roblox library allowing players to customize and save their character. |
 | [kitdevcs/MovementModule](https://github.com/kitdevcs/MovementModule) | 0 | This is an Roblox Module. |
 | [Kixdev/mouselock-roblox-improvement](https://github.com/Kixdev/mouselock-roblox-improvement) | 0 | MouseLock Overlay for Roblox (Cursor-Free) adds a mouse-lock style character facing system without overriding default Roblox movement. Keeps walk, sprint, an... |
@@ -359,6 +363,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [PGB-HUB/roblox-button-touch-scrip](https://github.com/PGB-HUB/roblox-button-touch-scrip) | 0 | -- Simulate touch on the button without moving player local button = workspace:FindFirstChild("Gudock") if button then firetouchinterest(game.Players.LocalPl... |
 | [picklelolxd/roblox-sprint-universal](https://github.com/picklelolxd/roblox-sprint-universal) | 0 | roblox sprint expolit script |
 | [Pipafoguete/ClimbCore](https://github.com/Pipafoguete/ClimbCore) | 0 | Advanced Roblox Movement Framework |
+| [pixelmetrecks/Dash-World-Unrated-Demons-List](https://github.com/pixelmetrecks/Dash-World-Unrated-Demons-List) | 0 | welcome to dash world unrated demon list (aka dwudl)! Here you can find unrated yet hard levels from the roblox game, "Dash World" by tactycl! |
 | [PlayNoxa/playnoxa](https://github.com/PlayNoxa/playnoxa) | 0 | Gaming guides, reward tips, redeem help, and practical walkthroughs for Roblox, Valorant, and more. |
 | [poahsups/Roblox-simple-gui](https://github.com/poahsups/Roblox-simple-gui) | 0 | Fly, Walkspeed, JumpHeight. Simple. |
 | [Pokruk/RobloxAntiGravityManager](https://github.com/Pokruk/RobloxAntiGravityManager) | 0 | Useful roblox service-like ModuleScript to help disable gravity for models or parts |
@@ -372,6 +377,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Qquaded/LaunchPhysics](https://github.com/Qquaded/LaunchPhysics) | 0 | LaunchPhysics is a Roblox module where it can weld each part in a model to a center and unanchor them. |
 | [quantumsrt/ragdoll](https://github.com/quantumsrt/ragdoll) | 0 | ragdoll system for roblox |
 | [quuBot/Pick-up-trash-simulator-game1](https://github.com/quuBot/Pick-up-trash-simulator-game1) | 0 | Trash Simulator System By [Your Roblox Username] Includes: - Leaderstats setup - Coin + upgrade system - Trash collection and spawning system How it works: P... |
+| [r-for-random/Slapcode](https://github.com/r-for-random/Slapcode) | 0 | Open-source package for Roblox roleplay games containing customization, out-of-character, dice and naming systems. |
 | [R0bl0x10501050/roblox-object-replay-system](https://github.com/R0bl0x10501050/roblox-object-replay-system) | 0 | This is a module I made for roblox that allows you to record the positions/movements of an object, and replay them at a later time. |
 | [R1mob2-svg/roblox-lava-obby](https://github.com/R1mob2-svg/roblox-lava-obby) | 0 | A Roblox obby with lava, six jumping platforms, a checkpoint, and a finish line. Native Luau, Rojo sync, governed GeminX mini-game starter. |
 | [R1mob2-svg/space-station-gravity-explorer](https://github.com/R1mob2-svg/space-station-gravity-explorer) | 0 | Space Station Gravity Explorer — a Roblox experience with gravity pads, laser doors, and rocket launch mechanics built from the Industrial Builder template. |
@@ -406,6 +412,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [StaffShifts/ParkourPowerhouseSpport](https://github.com/StaffShifts/ParkourPowerhouseSpport) | 0 | This is my roblox games support website! |
 | [StaffShifts/ParkourPowerhouseSupport](https://github.com/StaffShifts/ParkourPowerhouseSupport) | 0 | This is my roblox games support website! |
 | [SteveHilper/SteveHilpersRobloxWalkspeedModScript](https://github.com/SteveHilper/SteveHilpersRobloxWalkspeedModScript) | 0 | SteveHilper's Roblox Walkspeed Mod Script |
+| [stickwithfiddle-sys/mineholm-wiki](https://github.com/stickwithfiddle-sys/mineholm-wiki) | 0 | The Mineholm Wiki — complete guide & knowledgebase for the Roblox survival building game Mineholm. |
 | [studio2445/roblox-model-movement-system](https://github.com/studio2445/roblox-model-movement-system) | 0 | Sistema para mover modelos no Roblox Studio para qualquer posição desejada |
 | [sudormrfslash/stssystem](https://github.com/sudormrfslash/stssystem) | 0 | a pretty flexible shift-to-sprint system for roblox games |
 | [superstan1ee/No-lag](https://github.com/superstan1ee/No-lag) | 0 | Simple Lua script to optimize performance in your Roblox game. This script will disable unnecessary physics calculations and improve overall efficiency. |
@@ -433,6 +440,9 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [ValueHat-Script/roblox-speed-boost-system](https://github.com/ValueHat-Script/roblox-speed-boost-system) | 0 | A Roblox game script system for speed boosters, sprint mechanics, and enhanced movement |
 | [vasitproject06/vihaansknowledgeworld](https://github.com/vasitproject06/vihaansknowledgeworld) | 0 | This website is all about the subjects I love like Space, Cricket, Roblox and Minecraft |
 | [Vel136/Resonix](https://github.com/Vel136/Resonix) | 0 | Physics-based acoustic simulation engine for Roblox — Beer-Lambert occlusion, frequency-dependent material absorption, and network replication in one library. |
+| [Vench1k/BurLix](https://github.com/Vench1k/BurLix) | 0 | Roblox Lua character manipulation and custom UI playground project |
+| [veyselpavyoncuoglu/Roblox-Auto-JJ-Tool](https://github.com/veyselpavyoncuoglu/Roblox-Auto-JJ-Tool) | 0 | Does jumping jacks automatically instead of you for roblox military roleplay games. |
+| [vibekircvrsed/roblox-codex-knowledge](https://github.com/vibekircvrsed/roblox-codex-knowledge) | 0 | Roblox Luau references and rules for Codex |
 | [VinzzHubscript/ByVinzzHub](https://github.com/VinzzHubscript/ByVinzzHub) | 0 | Script Roblox auto walk by vinzz |
 | [voidgitts/roblox_character_moving_events](https://github.com/voidgitts/roblox_character_moving_events) | 0 | its a really simple & short code abt the character moving events in roblox |
 | [wenomachainsamacontado-png/Ultimate-Script](https://github.com/wenomachainsamacontado-png/Ultimate-Script) | 0 | Ultimate Script is a lightweight utility script for Roblox focused on enhancing gameplay and control. It offers a clean interface, smooth performance, and a ... |

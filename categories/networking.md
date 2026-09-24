@@ -95,7 +95,7 @@ Buffer-netcode, IDL-compilers, encryptie en eigen replicatie.
 | [thekingofspace/Reflect](https://github.com/thekingofspace/Reflect) | 0 | Sync-systeem |
 | [ocauapaz/BTYN](https://github.com/ocauapaz/BTYN) | 0 | Networking-compiler: schema naar gebatchte, delta-encoded Luau |
 
-## Uitgebreide index (318)
+## Uitgebreide index (324)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -272,11 +272,14 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [fromdeen/roblox-secure-score-ui](https://github.com/fromdeen/roblox-secure-score-ui) | 0 | A drop-in Roblox score system: secure server-side point grants (1–100), persistent DataStore save/load, daily login bonus, critical hits, and a clean bottom-... |
 | [Furkan003/LinuxDpiTurkey](https://github.com/Furkan003/LinuxDpiTurkey) | 0 | Turkiye'de engellenen sitelere erisimi acan Linux uygulamasi. Ac, dugmeye bas, biter. |
 | [fxdchzd/roblox-rpc](https://github.com/fxdchzd/roblox-rpc) | 0 | Discord Rich Presence for Roblox |
+| [galaxy-spacecrafts2/Roblox-2013-novetus-site](https://github.com/galaxy-spacecrafts2/Roblox-2013-novetus-site) | 0 | A fan-made remake of the ROBLOX website from 2013 in ASP.NET WebForms & MVC. |
 | [GameF200/Quartz](https://github.com/GameF200/Quartz) | 0 | Quartz is a simple, quick network library for roblox studio |
 | [gamenew09/RoStrap-CrossServerTopic](https://github.com/gamenew09/RoStrap-CrossServerTopic) | 0 | A object that wraps and adds functionality to the MessagingService. This module is for use with RoStrap (although can be used standalone if you find a Signal... |
 | [GamingGuy84/Notwork](https://github.com/GamingGuy84/Notwork) | 0 | Notwork is a lightweight Roblox networking library that adds type safety, schema validation, and compact binary serialization to RemoteEvents, without changi... |
 | [GEN0C1DE/Metro-Networks-DISC2RBX](https://github.com/GEN0C1DE/Metro-Networks-DISC2RBX) | 0 | Metro Networks Discord to Roblox Communication |
+| [gleb2803/RPC](https://github.com/gleb2803/RPC) | 0 | A Simple Tool To Remote Controll Roblox Places. |
 | [GOFNY/roblox-ts-template](https://github.com/GOFNY/roblox-ts-template) | 0 | A Roblox-TS project template partially Rojo managed with Flamework and Flamework components / networking. |
+| [grabconquerormagnify/roblox-network-error-fix](https://github.com/grabconquerormagnify/roblox-network-error-fix) | 0 | НОВЫЙ РАБОЧИЙ РОБЛОКС ФИКС (04.06.2026) |
 | [GuestTox/Rich-Blox-Presence](https://github.com/GuestTox/Rich-Blox-Presence) | 0 | Roblox to Discord RPC Integration |
 | [Haj3300/Roblox-network-error-patch](https://github.com/Haj3300/Roblox-network-error-patch) | 0 | Solve the problem while opening error |
 | [HappySunChild/netws](https://github.com/HappySunChild/netws) | 0 | roblox server-client network module #1053 |
@@ -285,6 +288,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [I0ris/HttpSpy](https://github.com/I0ris/HttpSpy) | 0 | A Simple and highly efficient network debugging tool for Roblox |
 | [IcyColdDve/2018Roblox](https://github.com/IcyColdDve/2018Roblox) | 0 | The goal is to replicate 2018 Roblox and other versions in one! All new Roblox updates that break this repo will be fixed days or weeks later. |
 | [iDisvelop/RoMatch](https://github.com/iDisvelop/RoMatch) | 0 | Open source matchmaking system for ROBLOX using ROBLOX's MessagingService |
+| [idkaboutbytes/bytenet](https://github.com/idkaboutbytes/bytenet) | 0 | ByteNet package for Roblox. |
 | [Ilikeroblox123/roblox](https://github.com/Ilikeroblox123/roblox) | 0 | Roblox.net is a net link that allows players to chat without adding them. |
 | [imshrak/UniversalDeleteCarRemote](https://github.com/imshrak/UniversalDeleteCarRemote) | 0 | Using roblox remote event DeleteCar |
 | [ishaanrch/packet](https://github.com/ishaanrch/packet) | 0 | script for roblox raldi! |
@@ -375,6 +379,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [SkieAdmin/Panda-Booster-V2](https://github.com/SkieAdmin/Panda-Booster-V2) | 0 | Literally a Ping Booster for your Net, improve speed like Roblox and etc. |
 | [skja67/robloxstudio-bridge](https://github.com/skja67/robloxstudio-bridge) | 0 | Peer-to-peer Roblox Studio test session tool. Hosts a local Studio server and connects players directly via UPnP, with playit.gg as a manual fallback when UP... |
 | [slofeax/-](https://github.com/slofeax/-) | 0 | roblox.com js.rbxcdn.com ecsv2.roblox.com metrics.roblox.com games.roblox.com tr.rbxcdn.com thumbnails.roblox.com roblox.com rbxcdn.com rbxinfra.net rbxtrk.c... |
+| [SomethingSeth/Networker](https://github.com/SomethingSeth/Networker) | 0 | Roblox Remote wrapper that uses service-styled function calls. |
 | [Spiderfffun/robloxRCE](https://github.com/Spiderfffun/robloxRCE) | 0 | remote commands using the roblox chat |
 | [SpiritAvtorizate/Easing-Functions-Lua](https://github.com/SpiritAvtorizate/Easing-Functions-Lua) | 0 | Converted functions from TypeScript on easings.net website to a lua format, respectively can be used in LUAU roblox projects. |
 | [squireeee/SquireX](https://github.com/squireeee/SquireX) | 0 | SquireX – Remote-Level Deletion Framework: Total control over Roblox remotes. Command execution, player targeting, and remote manipulation with precision. Li... |
@@ -412,6 +417,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [vvvgrgtfhdffvxd-a11y/MinimalStrap](https://github.com/vvvgrgtfhdffvxd-a11y/MinimalStrap) | 0 | 🚀 Bloxstrap-Mini [Beta] — ультра-легкий форк оригинального загрузчика. Удалены Discord RPC, тяжелые ресурсы и лишние фоновые модули. Сфокусирован на чистой п... |
 | [weskinthewest/RobloxRPC](https://github.com/weskinthewest/RobloxRPC) | 0 | RobloxRPC - A Better Roblox Discord RPC |
 | [Whiteoak-Studios/Oak](https://github.com/Whiteoak-Studios/Oak) | 0 | Oak — Whiteoak Studios' service framework for Roblox: plain-table services, Blink-bound declared remotes, Init/Start lifecycle, policy pipeline. Knit replace... |
+| [Wqffles-com/Erlc.Net](https://github.com/Wqffles-com/Erlc.Net) | 0 | A .NET API wrapper for the Roblox ER:LC API. |
 | [WurstRoblox/Wurst](https://github.com/WurstRoblox/Wurst) | 0 | A Roblox Bedwars Client Inspired By https://www.wurstclient.net And https://github.com/7GrandDadPGN/VapeV4ForRoblox |
 | [Xepois/copper](https://github.com/Xepois/copper) | 0 | Simple Networking package built for roblox games. |
 | [xethlyx/roblox-sync](https://github.com/xethlyx/roblox-sync) | 0 | Sync Roblox players manually to Bungee/Spigot networks |
