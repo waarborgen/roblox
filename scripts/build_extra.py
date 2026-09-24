@@ -27,7 +27,7 @@ RELEVANT = re.compile(
 
 # Uitsluiten: exploits, cheats, account-/botting-tools, spam enz.
 BLOCK = re.compile(
-    r"exploit|execut(or|er)\b|\binject|aimbot|aim ?lock|silent ?aim|\besp\b|wall ?hack|triggerbot|(?<!anti)(?<!anti-)(?<!anti )cheat|"
+    r"exploit|hitbox ?expand|alt ?control|friend ?(bot|req)|group ?finder|account ?(bot|informer)|execut(or|er)\b|\binject|aimbot|aim ?lock|silent ?aim|\besp\b|wall ?hack|triggerbot|(?<!anti)(?<!anti-)(?<!anti )cheat|"
     r"\bhack(s|ed|ing|er)?\b|script ?hub|\bhub\b|keyless|key ?system|no ?key|spoof|bypass|unlocker|"
     r"fps ?unlock|bootstrap|launcher|fflag|fast ?flag|cookie|stealer|grabber|token ?log|ip ?log|phish|"
     r"\brat\b|sniper|snipe|botter|botting|follow ?bot|visit ?bot|group ?join|account ?(gen|creat|manag|check|switch)|"
@@ -82,6 +82,21 @@ CATEGORY_RULES = [
 CATEGORY_RULES = [(c, re.compile(p, re.I)) for c, p in CATEGORY_RULES]
 
 
+GENERIC_WORDS = set("""roblox rblx rbx robloxstudio studio script scripts game games project projects test tests
+testing my main repo repository place files file dev lua luau stuff the an of and for new old simple basic first second own
+personal public private source code src master ts js hello world github io web website site app""".split())
+CODE_LANGS = {"Lua", "Luau", "TypeScript", "Rust", "C#", "Python", "JavaScript", "Go", "C++", "Java", "Kotlin", "Swift"}
+
+
+def descriptive_name(it, name, text):
+    """Repo zonder omschrijving telt alleen mee als de naam zelf duidelijk zegt wat het is."""
+    if it.get("lang") not in CODE_LANGS or int(it.get("size") or 0) < 10:
+        return False
+    words = re.sub(r"[-_.]", " ", re.sub(r"([a-z])([A-Z])", r"\1 \2", name)).lower().split()
+    meaningful = [w for w in words if w.isalpha() and len(w) >= 3 and w not in GENERIC_WORDS]
+    return len(meaningful) >= 3 or (len(meaningful) >= 2 and categorize(text) not in ("systems", "learn"))
+
+
 def categorize(text):
     for cat, rx in CATEGORY_RULES:
         if rx.search(text):
@@ -113,7 +128,8 @@ def main(pool_path):
         topics = " ".join(it.get("topics") or [])
         name = it["repo"].split("/")[1]
         text = f"{name.replace('-', ' ').replace('_', ' ')} {desc} {topics}"
-        if len(desc) < 12 or (len(desc.split()) < 4 and int(it.get("stars") or 0) < 5):
+        no_desc = len(desc) < 12 or (len(desc.split()) < 4 and int(it.get("stars") or 0) < 5)
+        if no_desc and not descriptive_name(it, name, text):
             skip("geen/te korte omschrijving"); continue
         rojo_ok = re.search(r"\brojo\b", topics, re.I) or (
             re.search(r"\brojo\b", f"{name} {desc}", re.I)
@@ -128,7 +144,8 @@ def main(pool_path):
             skip("seo-spam"); continue
         if re.search(r"\b(best|top|ultimate)\b.{0,40}\b2026\b|\b2026\b.{0,20}\b(best|guide|free)\b", text, re.I):
             skip("seo-spam"); continue
-        rows.append((categorize(text), it["repo"], int(it.get("stars") or 0), clean(desc)))
+        note = clean(desc) if not no_desc else "(geen omschrijving op GitHub)" + (f" {clean(desc)}" if desc.strip() else "")
+        rows.append((categorize(text), it["repo"], int(it.get("stars") or 0), note))
     rows.sort(key=lambda r: (r[0], -r[2], r[1].lower()))
     with OUT.open("w", encoding="utf-8") as f:
         f.write("category\trepo\tstars\tnote\n")

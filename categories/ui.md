@@ -195,7 +195,7 @@ Reactieve UI, custom tekst, inventories, 2D-engines en mobiele controls.
 | [emdomanus/facet](https://github.com/emdomanus/facet) | 0 | Camera-aware 3D UI-surface-primitives |
 | [ocauapaz/rbx-blocktext](https://github.com/ocauapaz/rbx-blocktext) | 0 | Zwevende 3D-tekst uit verende kubussen met gradients, transities en touch-interactie |
 
-## Uitgebreide index (1137)
+## Uitgebreide index (1262)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -222,7 +222,9 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [TheEpicFace007/roblox-bible-bot](https://github.com/TheEpicFace007/roblox-bible-bot) | 16 | A Roblox chat bot that makes Roblox a more peaceful and holy place. |
 | [Footagesus/Icons](https://github.com/Footagesus/Icons) | 14 | Icons that were published in Roblox |
 | [Usering/Core-Scripts](https://github.com/Usering/Core-Scripts) | 14 | All of ROBLOX's Core Scripts. These control in-game UI among other things. |
+| [yoyeet961/roblox-chat-settings-editor](https://github.com/yoyeet961/roblox-chat-settings-editor) | 14 | (geen omschrijving op GitHub) |
 | [Oqarshi/RoLocate](https://github.com/Oqarshi/RoLocate) | 13 | A premium, lightweight (≈1MB) Roblox userscript that adds features like server region filters, best connection, custom backgrounds (themes), and more, plus m... |
+| [Shuiux/Roblox-Builder-Fonts](https://github.com/Shuiux/Roblox-Builder-Fonts) | 13 | (geen omschrijving op GitHub) |
 | [AlexR32/Bracket](https://github.com/AlexR32/Bracket) | 12 | User Interface Library For Roblox |
 | [Jumpathy/BetterChatV3](https://github.com/Jumpathy/BetterChatV3) | 12 | Better Chat V3 Roblox |
 | [littensy/rbxts-react-ts](https://github.com/littensy/rbxts-react-ts) | 12 | React for Roblox-TS |
@@ -273,6 +275,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [CAZ-H/roblox-copy-ids](https://github.com/CAZ-H/roblox-copy-ids) | 4 | Right click context menu on roblox.com for quickly copying asset and user IDs |
 | [discoart/FluentPlus](https://github.com/discoart/FluentPlus) | 4 | A modified fluent ui library for Roblox |
 | [frostilism/RobloxStudio-Icon-Refresher](https://github.com/frostilism/RobloxStudio-Icon-Refresher) | 4 | Thank you for checking out my solo texture pack. This is a all in one, you dont have to do anything after the steps below are done. |
+| [JameDevOfficial/Easy-UI-Tools](https://github.com/JameDevOfficial/Easy-UI-Tools) | 4 | (geen omschrijving op GitHub) |
 | [Jimqr/Grow-a-Garden-Stock-Notifier-](https://github.com/Jimqr/Grow-a-Garden-Stock-Notifier-) | 4 | Grow A Garden Stocks Tracker with Notifications |
 | [Nieznany237/Roblox-Friends-Followers-Followings-Tracker](https://github.com/Nieznany237/Roblox-Friends-Followers-Followings-Tracker) | 4 | This repository contains a Python script that monitors changes in your Roblox account's friends, followers, and followings. It sends notifications via Discor... |
 | [ro0ti/Roblox-Scripting-UI](https://github.com/ro0ti/Roblox-Scripting-UI) | 4 | A collection of UI kits built around programmatically creating scripts on roblox. |
@@ -281,6 +284,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Scripped/Roblox-Inventory-Shopper](https://github.com/Scripped/Roblox-Inventory-Shopper) | 4 | Displays what a user is currently wearing, as well as the urls of these items. |
 | [Shadercloud/RoactRadial](https://github.com/Shadercloud/RoactRadial) | 4 | This is a Roblox Roact component that creates a radial menu |
 | [synpixel/rbx-faker](https://github.com/synpixel/rbx-faker) | 4 | A library that generates Roblox data such as group icons and display names, inspired by faker-js. |
+| [TargetZero1/Fusion-Merge-Simulator](https://github.com/TargetZero1/Fusion-Merge-Simulator) | 4 | (geen omschrijving op GitHub) Roblox Personal Game |
 | [Xelvanta/roblox-custom-cursor](https://github.com/Xelvanta/roblox-custom-cursor) | 4 | Roblox Custom Cursor is a lightweight Windows application that makes it easy to customize your Roblox cursors with custom PNGs. |
 | [y7ya-com/zustand](https://github.com/y7ya-com/zustand) | 4 | Zustand port for roblox-ts & react-ts. |
 | [0zBug/CoreUI](https://github.com/0zBug/CoreUI) | 3 | A UI Library for the Roblox CoreGui |
@@ -300,7 +304,6 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Pygot/Pinky](https://github.com/Pygot/Pinky) | 3 | Tracks & Validates Roblox Username in Youtube Chat |
 | [red-blox/Eye](https://github.com/red-blox/Eye) | 3 | A declarative interface library for Roblox. |
 | [Tamasina07/SKEUOROBLOX](https://github.com/Tamasina07/SKEUOROBLOX) | 3 | A (discontinued) skeuomorphic theme for Roblox. |
-| [ukrblx/UK-s-Group-Finder](https://github.com/ukrblx/UK-s-Group-Finder) | 3 | UK's Group Finder is a powerful Python script designed to efficiently discover active and unowned Roblox groups. Leveraging asynchronous requests and threadi... |
 | [vladmarica/roblox-vscode-icon-theme](https://github.com/vladmarica/roblox-vscode-icon-theme) | 3 | A VSCode icon theme using Roblox Studio icons |
 | [Zytronium/starscape_text_adventure](https://github.com/Zytronium/starscape_text_adventure) | 3 | Starscape: Text Adventure Edition, a fan-made text adventure game based on the Roblox game, Starscape. |
 | [53845052/roblox-uis](https://github.com/53845052/roblox-uis) | 2 | Roblox UI Libraries made by me |
@@ -323,8 +326,10 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Finchasaurus/UIBlox](https://github.com/Finchasaurus/UIBlox) | 2 | A copy of Roblox's Internal component and design library intended for roblox studio. |
 | [FluffyStreusel/ROBLOXChatSystem](https://github.com/FluffyStreusel/ROBLOXChatSystem) | 2 | ROBLOX Chat System documentation for those interested. |
 | [hnwiie/AequorUI](https://github.com/hnwiie/AequorUI) | 2 | for contact discord @onyfan |
+| [howmanysmall/RoactHookedLuau](https://github.com/howmanysmall/RoactHookedLuau) | 2 | (geen omschrijving op GitHub) Original: https://github.com/littensy/rbxts-roact-hooked |
 | [HyggshiOSDeveloper/Hyggshi-OS-project-center](https://github.com/HyggshiOSDeveloper/Hyggshi-OS-project-center) | 2 | Center for management and development of projects related to Hyggshi OS. |
 | [incetents/DebuGui](https://github.com/incetents/DebuGui) | 2 | Gui used for Debugging in Roblox |
+| [jiwonz/react-lua-plus](https://github.com/jiwonz/react-lua-plus) | 2 | (geen omschrijving op GitHub) |
 | [Kadan6407/Sure-Library](https://github.com/Kadan6407/Sure-Library) | 2 | A Test Roblox Gui Library |
 | [Khai-08/Dynamic-Embed-Bot](https://github.com/Khai-08/Dynamic-Embed-Bot) | 2 | A Discord bot that dynamically updates embeds with the dominant color of a Roblox game icon. The bot fetches the latest game thumbnail, extracts the dominant... |
 | [krissh-wtf/y3y-luau](https://github.com/krissh-wtf/y3y-luau) | 2 | Hide text in plain sight, using invisible characters! now in Luau |
@@ -379,7 +384,6 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [BloodLetters/Mono-UI](https://github.com/BloodLetters/Mono-UI) | 1 | Beautiful dark mono ui looks |
 | [boatbeaker/text-glyph-bounds-demo](https://github.com/boatbeaker/text-glyph-bounds-demo) | 1 | A hacky demo showing a method to get individual text glyph bounds in Roblox |
 | [BonjourMadam/roblox-backpack-universal-saving-script](https://github.com/BonjourMadam/roblox-backpack-universal-saving-script) | 1 | This is the universal backpack saving script I did for a commision. Its the most common one, but it still runs well and if I get a request from a customer, I... |
-| [Byfron-AntiCheater/ByfronAltControl](https://github.com/Byfron-AntiCheater/ByfronAltControl) | 1 | Byfron’s Alt Control is a Roblox Lua script that helps users manage several alternate accounts using easy chat commands. It’s intended for Roblox, offering c... |
 | [CarMaster17/Gui](https://github.com/CarMaster17/Gui) | 1 | Roblox Admin gui project |
 | [Carunogpt/Teleport-to-player-roblox](https://github.com/Carunogpt/Teleport-to-player-roblox) | 1 | Teleport to player gui roblox |
 | [CAZ-H/ReBlox](https://github.com/CAZ-H/ReBlox) | 1 | [Broken] Replace pages on the Roblox website with React alternatives |
@@ -389,6 +393,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [ciberfantasma/ciberfantasma](https://github.com/ciberfantasma/ciberfantasma) | 1 | 🛠 Owner @ Fernet.lol FiveM · C++ · ImGui · External development Building tools, overlays, and utilities for FiveM, Rust and Roblox. Focus on performance, cle... |
 | [claylittlehorse/roblox-project-template](https://github.com/claylittlehorse/roblox-project-template) | 1 | roact/rodux roblox project template |
 | [collynme/dialogue-system-open-source](https://github.com/collynme/dialogue-system-open-source) | 1 | simple dialog system for roblox |
+| [CookieCums/Roblox-Quick-Chat](https://github.com/CookieCums/Roblox-Quick-Chat) | 1 | (geen omschrijving op GitHub) |
 | [CookiesAndCreamDotCC/disbotainer](https://github.com/CookiesAndCreamDotCC/disbotainer) | 1 | 🦭 Docker/Podman container for DisBot |
 | [Craxelgaming2100/Studio-Icon-Pack](https://github.com/Craxelgaming2100/Studio-Icon-Pack) | 1 | The icon pack for Roblox Studio that I use. Also a fork of stravant's classic Roblox icons, credit to him. |
 | [CrypticKingJoe/Discord-chat-hook-Roblox](https://github.com/CrypticKingJoe/Discord-chat-hook-Roblox) | 1 | Logs chat using discord webhooks |
@@ -410,6 +415,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [EgorHivrich/RobloxChatTranslator](https://github.com/EgorHivrich/RobloxChatTranslator) | 1 | This program can translate russian language in chat to english by pressing CTRL + C. |
 | [eves26phylum/DeadlineUIRecreation](https://github.com/eves26phylum/DeadlineUIRecreation) | 1 | Recreating Deadline's UI in ROBLOX React + roblox-ts |
 | [f01o-top/NyphorLib](https://github.com/f01o-top/NyphorLib) | 1 | Roblox Nyphor UI Library |
+| [falconcrast/RohaxLinoriaLib](https://github.com/falconcrast/RohaxLinoriaLib) | 1 | (geen omschrijving op GitHub) Roblox UI library |
 | [Firebladedoge229/Mintstrap](https://github.com/Firebladedoge229/Mintstrap) | 1 | Mint theme for Roblox using Bloxstrap |
 | [fisqb/robloxrichtextgen](https://github.com/fisqb/robloxrichtextgen) | 1 | Roblox Rich Text Generator |
 | [flamingboy44/Roblox-UI-Libs2](https://github.com/flamingboy44/Roblox-UI-Libs2) | 1 | i will try to update this as much as i can. |
@@ -417,13 +423,16 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [GabrielHoy/lua-html-parser](https://github.com/GabrielHoy/lua-html-parser) | 1 | Parser for Hyper Text Markup Language, written in Lua and Luau. |
 | [Gamerdude7820/Updated-Roblox-VSC-Icons](https://github.com/Gamerdude7820/Updated-Roblox-VSC-Icons) | 1 | A modded version of the Roblox Studio Icon Theme VS Code which adds icons for Typescript and also fixes some folder definitions to work better with roblox-ts... |
 | [Geekeh/Phone-Notification-For-Roblox](https://github.com/Geekeh/Phone-Notification-For-Roblox) | 1 | A module that makes it really easy to send notis to your phone or any device using push over |
+| [GIH-LOL/GIH_LOL-roblox-gui](https://github.com/GIH-LOL/GIH_LOL-roblox-gui) | 1 | (geen omschrijving op GitHub) for fun |
 | [GOJOSTRONG/CpE-314-Project](https://github.com/GOJOSTRONG/CpE-314-Project) | 1 | A CpE314 Software Design project showcasing a Roblox-inspired system for trading virtual pets and items. Features include secure trading, bidding, chat, and ... |
 | [grand-hawk/ui-components](https://github.com/grand-hawk/ui-components) | 1 | Roblox-TS UI component library |
 | [GrimReaper69/Synergia](https://github.com/GrimReaper69/Synergia) | 1 | Synergia is a powerful Lua library designed to simplify the creation of user interfaces (UIs) for Roblox games. It provides a range of functions and classes ... |
 | [grosstofu9487s/Roblox-FoundItemGuiSystem](https://github.com/grosstofu9487s/Roblox-FoundItemGuiSystem) | 1 | A Gui system which will show the item's name and the pic of the object you found. |
+| [GRYurv/Lib-GUI-Roblox](https://github.com/GRYurv/Lib-GUI-Roblox) | 1 | (geen omschrijving op GitHub) |
 | [h-harder/CommunicationRBLX](https://github.com/h-harder/CommunicationRBLX) | 1 | Custom Roblox chat system. |
 | [hayden-droid/TopbarPlus](https://github.com/hayden-droid/TopbarPlus) | 1 | A Roblox-TS port of ForeverHD's Topbar+ module. |
 | [Heliodex/rml](https://github.com/Heliodex/rml) | 1 | Tag-based markup and indentation-based styling languages for Roblox instance UI |
+| [Heliodex/TypingTester](https://github.com/Heliodex/TypingTester) | 1 | (geen omschrijving op GitHub) Typing Tester game |
 | [Henry887/Roblox-GUI-Loading-Idea](https://github.com/Henry887/Roblox-GUI-Loading-Idea) | 1 | I just played around a little bit and ended up making this, feel free to use it however u like :) |
 | [HiMyNamesSeb/roblox-rouge-like-game](https://github.com/HiMyNamesSeb/roblox-rouge-like-game) | 1 | This very crude and unfinished project introduced me to how OOP couldve helped so much. It also introduced me to simple GUI aspects and how to communicate be... |
 | [hoanglonggg79/RobloxVersionDownloader](https://github.com/hoanglonggg79/RobloxVersionDownloader) | 1 | A comprehensive tool to download and install Roblox Player directly from the official CDN — supporting custom version selection, smart caching, and an intuit... |
@@ -438,13 +447,16 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [irlng/FileExplorerLibrary](https://github.com/irlng/FileExplorerLibrary) | 1 | Ui Library that copies File Explorer on Roblox |
 | [itsluacoding/Nask-Library](https://github.com/itsluacoding/Nask-Library) | 1 | The Nask Roblox interface library Github page. |
 | [Itz-Capy/minesweeper-gui-4-roblox](https://github.com/Itz-Capy/minesweeper-gui-4-roblox) | 1 | Full interactible minesweeper gui for roblox. Coded in LuaU. This code was principally made for learning but i felt like it to post it on GitHub. I would be ... |
+| [Itzzavi335/Kairo-Ui-Library](https://github.com/Itzzavi335/Kairo-Ui-Library) | 1 | (geen omschrijving op GitHub) |
 | [jacksonier/Ro-_menu-Reworked-](https://github.com/jacksonier/Ro-_menu-Reworked-) | 1 | the OG Ro menu mod for roblox revamped and reworked for newer versions |
 | [jan-balatro/GraceBalatro](https://github.com/jan-balatro/GraceBalatro) | 1 | A small mod that contains Jokers and Consumables themed after the Roblox game "Grace". Made with Joker Forge. |
+| [jcydienz/react-roblox-example](https://github.com/jcydienz/react-roblox-example) | 1 | (geen omschrijving op GitHub) |
 | [Jermartyno/Vanilla-Icons-Installer](https://github.com/Jermartyno/Vanilla-Icons-Installer) | 1 | Install Vanilla Roblox Studio Icons in one click! App by Jermartynojm, Icons by Elttob. |
 | [jgamestaken/uniUI](https://github.com/jgamestaken/uniUI) | 1 | A simple-to-use UI library for Roblox. |
 | [Joystickplays/Glider](https://github.com/Joystickplays/Glider) | 1 | Roblox UI library. I have a problem. |
 | [julionabor/lendasdoroblox](https://github.com/julionabor/lendasdoroblox) | 1 | Legends players about Roblox game. |
 | [JustBorgar/KeyBinder](https://github.com/JustBorgar/KeyBinder) | 1 | ContextActionService wrapper with strict typing, automatic button positioning and multi-function/rebinding support. |
+| [kambing-62826/Yuvi-UI-Libs-Roblox](https://github.com/kambing-62826/Yuvi-UI-Libs-Roblox) | 1 | (geen omschrijving op GitHub) |
 | [kasurarykerion/HTMLToRoblox](https://github.com/kasurarykerion/HTMLToRoblox) | 1 | HTML to Roblox is a Roblox module that allows you to place HTML code into the module, and have it convert the contents of that HTML into a Roblox Gui. |
 | [kena006/RBX2017](https://github.com/kena006/RBX2017) | 1 | An unofficial roblox website extension that brings back the 2017 layout and theme. |
 | [Kenzau/Roblox-Searchers](https://github.com/Kenzau/Roblox-Searchers) | 1 | Search for a user's game on Roblox! Blazingly fast Roblox server searcher. Join anyone's server with an easy to use GUI! |
@@ -487,6 +499,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [PanviPro/FlowUi](https://github.com/PanviPro/FlowUi) | 1 | Roblox Interface System Inspired By Liquid Glass |
 | [PanviPro/QuickPause](https://github.com/PanviPro/QuickPause) | 1 | Free and Open-Source Roblox Pause Menu |
 | [Pedr1ch/Roblox-Dexer](https://github.com/Pedr1ch/Roblox-Dexer) | 1 | An UI Dexer made for roblox studio lua-u API. |
+| [PlasmaLMAO/Flux-UI-Library](https://github.com/PlasmaLMAO/Flux-UI-Library) | 1 | (geen omschrijving op GitHub) |
 | [Player788/Exec-Panel](https://github.com/Player788/Exec-Panel) | 1 | A small configurable UI Library for Roblox |
 | [Podaxa/roglass](https://github.com/Podaxa/roglass) | 1 | adds a glass like theme to roblox |
 | [PogoDigitalism/FlyRichText](https://github.com/PogoDigitalism/FlyRichText) | 1 | Easy-to-apply chat to rich text formatting in Roblox |
@@ -497,6 +510,8 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Quamatic/rbx-react-redux](https://github.com/Quamatic/rbx-react-redux) | 1 | React bindings for Roblox Redux |
 | [reddernoon/roact-live-sync](https://github.com/reddernoon/roact-live-sync) | 1 | Experiment on a live sync for Roblox Roact through Rojo |
 | [RedstoneSC/Roblox2016Icons](https://github.com/RedstoneSC/Roblox2016Icons) | 1 | Roblox 2016 icons rework, malware removal + tutorial rework. Manual setup included! By the way, do not go to the original one. I forked this just to help pla... |
+| [RemnantsOfSiren/CardinalComponents](https://github.com/RemnantsOfSiren/CardinalComponents) | 1 | (geen omschrijving op GitHub) |
+| [Renniej/Roblox_Coup_TS_Start_Menu](https://github.com/Renniej/Roblox_Coup_TS_Start_Menu) | 1 | (geen omschrijving op GitHub) |
 | [revvy02/miu](https://github.com/revvy02/miu) | 1 | elegant immediate mode ui on roblox |
 | [riddance-club/ui](https://github.com/riddance-club/ui) | 1 | extremely customisable (shit) ui library for roblox games |
 | [RJDev-RBX/notify](https://github.com/RJDev-RBX/notify) | 1 | A simple module to send notifications to users. |
@@ -508,6 +523,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Sabooo4/RandomSpawnSystem](https://github.com/Sabooo4/RandomSpawnSystem) | 1 | This is a simple spawn system using rarities, implementing gui on each object,spawns till a limit , can easily extend it since its scalable by zones and rari... |
 | [samudithTharindaka/Expandable-Game-menu](https://github.com/samudithTharindaka/Expandable-Game-menu) | 1 | the roblox game menu that can expand and de-expand so it can help the players to see the screen without much details |
 | [scotdotwtf/darkrooms](https://github.com/scotdotwtf/darkrooms) | 1 | theme roblox however you want |
+| [ScribbleDevelopment/ui-library-Scribster](https://github.com/ScribbleDevelopment/ui-library-Scribster) | 1 | (geen omschrijving op GitHub) |
 | [scriptsploit/C00lLib](https://github.com/scriptsploit/C00lLib) | 1 | A UI library based on the C00lGui. |
 | [sczwazaxd-cpu/HerGui](https://github.com/sczwazaxd-cpu/HerGui) | 1 | Script GUI para Roblox con TP, FUN y KillTp |
 | [Senko3141/delayed_notifications_roblox](https://github.com/Senko3141/delayed_notifications_roblox) | 1 | Simple notifications system made with SetCore("SendNotification"). Scripted on the ROBLOX platform. |
@@ -558,6 +574,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [waledsobhyt4-ui/AmberAlert-GUI](https://github.com/waledsobhyt4-ui/AmberAlert-GUI) | 1 | Mit krassen script für amber alert ⚠️ roblox game |
 | [WaviestBalloon/Bloxtivity](https://github.com/WaviestBalloon/Bloxtivity) | 1 | Get OS live notifications about your friend's activity on Roblox! Works on Windows and Linux. |
 | [weskinthewest/TextGradientGen](https://github.com/weskinthewest/TextGradientGen) | 1 | A Text Gradient Generator for Roblox Rich Text |
+| [weszin1/Notification-plus](https://github.com/weszin1/Notification-plus) | 1 | (geen omschrijving op GitHub) Roblox notification custom |
 | [wiggle1000/RBLX-Tilemap-System](https://github.com/wiggle1000/RBLX-Tilemap-System) | 1 | Part of a 2D engine implemented using Roblox UI objects |
 | [wssilxo/BE2GUI](https://github.com/wssilxo/BE2GUI) | 1 | Blood Engine 2 GUI - ROBLOX |
 | [x6nny/MarketplaceService-Wrapper](https://github.com/x6nny/MarketplaceService-Wrapper) | 1 | A typed Lua module for Roblox Studio that provides a clean, reliable interface for interacting with the MarketplaceService. |
@@ -584,6 +601,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [40xtr0t/OwOify](https://github.com/40xtr0t/OwOify) | 0 | OwO your roblox chat! |
 | [44h7v8sfy9-cmyk/Scripting-on-roblox](https://github.com/44h7v8sfy9-cmyk/Scripting-on-roblox) | 0 | I made multiple scripts with a round systems and ui |
 | [4m53/Striked-Laucher](https://github.com/4m53/Striked-Laucher) | 0 | Roblox Striked Laucher lua script gui is from ezhub/ez laucher |
+| [4vamp6/roblox-gui-epic](https://github.com/4vamp6/roblox-gui-epic) | 0 | (geen omschrijving op GitHub) |
 | [673r/OracleUI](https://github.com/673r/OracleUI) | 0 | Oracle of Roblox GUI library |
 | [67801/Chat](https://github.com/67801/Chat) | 0 | Assets to chat in Roblox |
 | [7-Nyx/roblox--systems](https://github.com/7-Nyx/roblox--systems) | 0 | Open-source Roblox systems (UI, data handling, and reusable modules) |
@@ -597,16 +615,21 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [ACEtheSOLID/Roblox-UI-Libs](https://github.com/ACEtheSOLID/Roblox-UI-Libs) | 0 | Used/Archived Roblox UI Libraries |
 | [ActuallyHex/RobloxFontReplacer](https://github.com/ActuallyHex/RobloxFontReplacer) | 0 | A small program that replaces some of the default fonts in Roblox. |
 | [acxxfxvdxa-commits/zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz](https://github.com/acxxfxvdxa-commits/zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz) | 0 | Modern, modular and improved Venyx UI Library for Roblox/Luau with custom logo support |
+| [AdamRaichu/rbxts-rbx-gui-library](https://github.com/AdamRaichu/rbxts-rbx-gui-library) | 0 | (geen omschrijving op GitHub) |
 | [adamv3141/RobloxBan_Gui_beta](https://github.com/adamv3141/RobloxBan_Gui_beta) | 0 | This is the beta version the full version is still on working |
+| [administer-org/ui-components](https://github.com/administer-org/ui-components) | 0 | The UI components used to build Administer |
 | [Advantage-in-Search/Iris-Dear-ImGui](https://github.com/Advantage-in-Search/Iris-Dear-ImGui) | 0 | Iris is an Immediate mode GUI Library for Roblox, Based on Dear ImGui |
 | [Aerodos12/input-component](https://github.com/Aerodos12/input-component) | 0 | Rodblogan Warfare's InputComponent Library realized in TypeScript. |
 | [afrxo/compulse](https://github.com/afrxo/compulse) | 0 | Component-based classes for Roblox |
 | [AgentChubby/bsx](https://github.com/AgentChubby/bsx) | 0 | this is a GUI made by chub211 (for bsx roblox) |
 | [aidarkunakbaev2/AkiriUiLibrary](https://github.com/aidarkunakbaev2/AkiriUiLibrary) | 0 | old akiri. ui roblox |
+| [AjaxTiba/Roblox-RichText-gradient-generator](https://github.com/AjaxTiba/Roblox-RichText-gradient-generator) | 0 | An application programmed in python to generate gradient text with Roblox RichText formatting |
 | [akdo3/kailex](https://github.com/akdo3/kailex) | 0 | Modern GUI Library For Roblox |
 | [AkiyamaKira2003/KiraUI](https://github.com/AkiyamaKira2003/KiraUI) | 0 | Roblox Lua UI library |
 | [akubutuhikan/roblox-website](https://github.com/akubutuhikan/roblox-website) | 0 | This project is a simple website showcasing the latest news and updates about Roblox. It features a user-friendly interface, news notifications, and links to... |
 | [AlexanderTheWorst/Kairo](https://github.com/AlexanderTheWorst/Kairo) | 0 | A sleek, modern and easy-to-use Roblox UI library for script kiddies. |
+| [alialialiali05/roblox-foundation-colors](https://github.com/alialialiali05/roblox-foundation-colors) | 0 | scuffed css theme to bring the roblox app's experimental blue "foundation colors" theme to the roblox website. |
+| [AlienBG/roblox-freezing-tool](https://github.com/AlienBG/roblox-freezing-tool) | 0 | stimulate the freezing bug by holding certain key made easier to use than holding X button |
 | [alperalp808/Spectrum-UI-Library](https://github.com/alperalp808/Spectrum-UI-Library) | 0 | Spectrum UI Library is a free and comprehensive Roblox menu library built with Lua native scripting for every developer; it can be customized and used for ea... |
 | [amgelo581/roblox-death-note-system](https://github.com/amgelo581/roblox-death-note-system) | 0 | Sistema Death Note para Roblox com menu flutuante, ataque cardíaco e animações de morte |
 | [amusementstory503-cloud/SamidianGUI](https://github.com/amusementstory503-cloud/SamidianGUI) | 0 | An unique GUI module for Roblox |
@@ -618,12 +641,14 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [AnonymousUserUnknown/Roblox-Star-Wars-GUI](https://github.com/AnonymousUserUnknown/Roblox-Star-Wars-GUI) | 0 | Use this script in any roblox star wars game including Jedi Temple on Ilumn 2 New Updates will soon be added |
 | [AntIsBadAtCoding/Ant-UI-Updated](https://github.com/AntIsBadAtCoding/Ant-UI-Updated) | 0 | A roblox gui library. Will not update that much |
 | [AntIsBadAtCoding/AntGUI](https://github.com/AntIsBadAtCoding/AntGUI) | 0 | A roblox gui library. probably wont update that much since i work on other things |
+| [anvilcoding/roblox-studio-gui-arayuz-egitimi](https://github.com/anvilcoding/roblox-studio-gui-arayuz-egitimi) | 0 | Roblo Studio GUI (Arayüz) Tasarımı ve Kodlaması |
 | [Applehollyday7/Roblox-Apple_GUI-Free-](https://github.com/Applehollyday7/Roblox-Apple_GUI-Free-) | 0 | Roblox Prison life Best script |
 | [arakoDev/MrDialogue](https://github.com/arakoDev/MrDialogue) | 0 | A dialogue package for Roblox. |
 | [archadiumm/UInteract](https://github.com/archadiumm/UInteract) | 0 | A quick roblox library that can detect UI interactions. |
 | [ArchiveLib/Archive](https://github.com/ArchiveLib/Archive) | 0 | Archive UI Library for Roblox Scripting. |
 | [arcsDC/roblox-quest-progress-tracker](https://github.com/arcsDC/roblox-quest-progress-tracker) | 0 | A reusable Roblox gameplay system that tracks quest completion states and emits progress events for UI binding. |
 | [areshaistg/roblox-game-example](https://github.com/areshaistg/roblox-game-example) | 0 | roblox game that uses matter and roact with rodux |
+| [ari-party/rbxts-react-template](https://github.com/ari-party/rbxts-react-template) | 0 | (geen omschrijving op GitHub) |
 | [ArtexRBLX/SylonXNew](https://github.com/ArtexRBLX/SylonXNew) | 0 | The best gui in roblox executors |
 | [arthurix27-tech/Crucible](https://github.com/arthurix27-tech/Crucible) | 0 | Crucible is a game agnostic UI library that is essentially react-roblox but with less functions and made from scratch. |
 | [arthurnardi12345-code/roblox-inventory-key-script](https://github.com/arthurnardi12345-code/roblox-inventory-key-script) | 0 | Roblox Lua script that opens inventory with a key press |
@@ -634,6 +659,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [AsynchronousAI/StudioComponents](https://github.com/AsynchronousAI/StudioComponents) | 0 | Re-upload of roblox-ts bindings, since NPM version is corrupted. |
 | [AtAltitude/BlurryGuiBackground](https://github.com/AtAltitude/BlurryGuiBackground) | 0 | Monolithic module to handle the creation of blurry GUI backgrounds on Roblox |
 | [atxmediauk-create/Roblox-LiquidGlassUI](https://github.com/atxmediauk-create/Roblox-LiquidGlassUI) | 0 | Apple inspired liquid glass UI library for Roblox lua. |
+| [autohotkeyscripts/CustomFont](https://github.com/autohotkeyscripts/CustomFont) | 0 | custom font for roblox without bloxstrap |
 | [Awij022/oldrobloxfont](https://github.com/Awij022/oldrobloxfont) | 0 | Reverts the Roblox 2024 font update |
 | [axzaxzz/baimless](https://github.com/axzaxzz/baimless) | 0 | Baimless-style UI Library for Roblox - CS2-inspired modern interface |
 | [ayvacs/chat-message-service](https://github.com/ayvacs/chat-message-service) | 0 | Interface for sending messages to clients via Roblox's default chat |
@@ -644,6 +670,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [b-risk/Roblox-Chat](https://github.com/b-risk/Roblox-Chat) | 0 | Please give me credit if you use this. |
 | [b4-st/Fake-Chat](https://github.com/b4-st/Fake-Chat) | 0 | Roblox fake chat script. |
 | [baboribo/roblox-base-ui](https://github.com/baboribo/roblox-base-ui) | 0 | AI로 재미삼아 만든 거. |
+| [Bahsuradam/Roblox-Troll-Gui](https://github.com/Bahsuradam/Roblox-Troll-Gui) | 0 | (geen omschrijving op GitHub) |
 | [BakedAleska/Toolblox](https://github.com/BakedAleska/Toolblox) | 0 | A local-first Windows app for managing and launching Roblox accounts. Download Toolblox-Setup.exe from the latest release. |
 | [BandStar123/RobloxChatSpy](https://github.com/BandStar123/RobloxChatSpy) | 0 | This App is for checking roblox chats and spy using roblox webhook conections you can now chat spy in your own roblox game |
 | [barabulya70137100-coder/roblox-chat-scripts](https://github.com/barabulya70137100-coder/roblox-chat-scripts) | 0 | Custom chat system for Roblox |
@@ -691,16 +718,20 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [calledwyz/Roblox-UI-Library](https://github.com/calledwyz/Roblox-UI-Library) | 0 | My Roblox UI Libraries |
 | [camren-m/rbxts-component](https://github.com/camren-m/rbxts-component) | 0 | A simple tag-based component library for Roblox TS. |
 | [CapAce2/ModernGUI](https://github.com/CapAce2/ModernGUI) | 0 | A modern Roblox GUI library |
+| [CapedBojji/Matter-React-Roblox-Ts-Template](https://github.com/CapedBojji/Matter-React-Roblox-Ts-Template) | 0 | (geen omschrijving op GitHub) |
 | [Caplini/RobloxMacroGUI](https://github.com/Caplini/RobloxMacroGUI) | 0 | Full GUI for making scripts for Roblox games |
 | [catteched/notif](https://github.com/catteched/notif) | 0 | Notification library for Roblox |
+| [Cauze/awesome-roblox-uis](https://github.com/Cauze/awesome-roblox-uis) | 0 | (geen omschrijving op GitHub) |
 | [cazamir/Pulsive](https://github.com/cazamir/Pulsive) | 0 | Modern UI library built specifically for Roblox and Luau. |
 | [cbozeyboy199/chat](https://github.com/cbozeyboy199/chat) | 0 | this is all the roblox mod links i use enjoy :) |
+| [CDRedstone/robloxplaygreentoblue](https://github.com/CDRedstone/robloxplaygreentoblue) | 0 | Tampermonkey script to turn the roblox play buttons back to green. Rip your freedom from the jaws of the mighty! |
 | [cens6r/solaris-ui-lib](https://github.com/cens6r/solaris-ui-lib) | 0 | Solaris UI Library for Roblox |
 | [ChaoticArray516/roblox-gui-maker-online](https://github.com/ChaoticArray516/roblox-gui-maker-online) | 0 | Lowercase, hyphen-separated, matches the product name and aligns with the production domain `roblox-ui.com`. This is the primary choice. |
 | [charleskimbac/roblox-check-old-usernames](https://github.com/charleskimbac/roblox-check-old-usernames) | 0 | Submit Roblox username(s) into the text field to see their previous usernames. |
 | [ChatStuffBox/Roblox-Custom-Chat-System](https://github.com/ChatStuffBox/Roblox-Custom-Chat-System) | 0 | read "README" to know how to set up |
 | [ChilliBuddy/GuiButtonScript](https://github.com/ChilliBuddy/GuiButtonScript) | 0 | the gui button script in roblox studio |
 | [chris12902/RiptideCount](https://github.com/chris12902/RiptideCount) | 0 | This is a modified version of OwnerCount that returns statistics representing the amount of people that obtained an item on a certain date for Roblox items (... |
+| [christiangonza1/GuiRojo](https://github.com/christiangonza1/GuiRojo) | 0 | (geen omschrijving op GitHub) gui rojo |
 | [christine-sun/catalog-gui](https://github.com/christine-sun/catalog-gui) | 0 | Catalog GUI implemented in Roblox Studio for game development |
 | [chteau/studio-demo](https://github.com/chteau/studio-demo) | 0 | A simple landing page for a Roblox game studio, built with React and Vite. |
 | [cilachan67/Download-roblox-studio](https://github.com/cilachan67/Download-roblox-studio) | 0 | download-roblox-studio │ ├── index.html ├── style.css ├── roblox-icon.png └── RobloxStudio.1.6.0.1115.NesabaMedia.exe |
@@ -708,6 +739,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [cjlfilms/DiscordEmojisRoblox](https://github.com/cjlfilms/DiscordEmojisRoblox) | 0 | put emojis in chat |
 | [claylittlehorse/apollo-11](https://github.com/claylittlehorse/apollo-11) | 0 | Luau interface to full-moon for use in Roblox Studio |
 | [clgtmm/IDK-Lib](https://github.com/clgtmm/IDK-Lib) | 0 | Roblox UI/ Roblox Lib |
+| [closebridge/roblox-miside-text-demo](https://github.com/closebridge/roblox-miside-text-demo) | 0 | Recreation of MiSide's Text display system under Roblox Lua |
 | [CluelessD3v/Relay](https://github.com/CluelessD3v/Relay) | 0 | A small unified interface for Roblox signals, RemoteEvents, UnreliableRemoteEvents, and RemoteFunctions. |
 | [codd3r/udlib](https://github.com/codd3r/udlib) | 0 | Simple UI for Roblox |
 | [coderofthenextgen/swift-ui](https://github.com/coderofthenextgen/swift-ui) | 0 | Swift UI - Lightweight Roblox UI Library (Obsidian-dark boxy style) |
@@ -716,6 +748,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [codexvsberserkerxylo/femboy-ware](https://github.com/codexvsberserkerxylo/femboy-ware) | 0 | roblox ui library bc im bored |
 | [compscitwilight/RblxButtons](https://github.com/compscitwilight/RblxButtons) | 0 | Chrome extension that allows you to add custom topbar buttons to the Roblox website. |
 | [Conmmander/toms-component-system](https://github.com/Conmmander/toms-component-system) | 0 | Toms-component-system, Rewritten in lua for Roblox. |
+| [coolgamerkid332/vc-unban-gui](https://github.com/coolgamerkid332/vc-unban-gui) | 0 | roblox vc unban script legit 2029 no virus!! |
 | [coolguy-icey/roblox-get-privateinventory-rap](https://github.com/coolguy-icey/roblox-get-privateinventory-rap) | 0 | Gets the RAP / value of any roblox user, even if they have private inventory |
 | [CoolKid52321/MonoxideLib](https://github.com/CoolKid52321/MonoxideLib) | 0 | UI lib for Roblox scripting. |
 | [cowpillar/dialogue-system](https://github.com/cowpillar/dialogue-system) | 0 | A dialogue system in Roblox, triggered either by ProximityPrompt (holding E) or by Touch (when a player physically interacts with a part or union). |
@@ -727,6 +760,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [CuteCata/Ui-library](https://github.com/CuteCata/Ui-library) | 0 | Lightweight Roblox UI Library |
 | [CyanLtd/FluxLib](https://github.com/CyanLtd/FluxLib) | 0 | An upload of the ROBLOX venyx UI Library. |
 | [cyberkeyzone/VotasUI-Roblox](https://github.com/cyberkeyzone/VotasUI-Roblox) | 0 | UI Library Roblox Profesional & Modern |
+| [Cynacol/RobloxPrisonLife-FE-GUI](https://github.com/Cynacol/RobloxPrisonLife-FE-GUI) | 0 | (geen omschrijving op GitHub) |
 | [cytrixgt/GUI-Template](https://github.com/cytrixgt/GUI-Template) | 0 | A simple gui template so you can start making Roblox GUI's. |
 | [Daemon6109/mozking-ui-learning](https://github.com/Daemon6109/mozking-ui-learning) | 0 | Training repo for JavaScript, TypeScript, Bun tests, and roblox-ts/Vide UI basics |
 | [Dafakecat/ShattyHub](https://github.com/Dafakecat/ShattyHub) | 0 | Roblox GUI library made by ShattyHub |
@@ -742,11 +776,13 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [DareRBLX/textUpl](https://github.com/DareRBLX/textUpl) | 0 | A simple Roblox module for uploading text and retrieving text from text hosting services. |
 | [darkspireb6/Roblox-verify-chat](https://github.com/darkspireb6/Roblox-verify-chat) | 0 | Roblox verify chat emoji |
 | [Darsh-Sosa/Roblox-Global-Chat-System](https://github.com/Darsh-Sosa/Roblox-Global-Chat-System) | 0 | Roblox Global Chat System |
+| [DarthCobra/chat-thing-for-roblox](https://github.com/DarthCobra/chat-thing-for-roblox) | 0 | yes the name is the thing |
 | [DaTrollMoon/YouNAye](https://github.com/DaTrollMoon/YouNAye) | 0 | A modern un-detectable UI library for Roblox. |
 | [Deadflagx/Roblox-Font-Changer](https://github.com/Deadflagx/Roblox-Font-Changer) | 0 | Change fonts in Roblox |
 | [defrizletov/crosshair_roblox](https://github.com/defrizletov/crosshair_roblox) | 0 | Crosshair GUI for Roblox. |
 | [Defy-cloud/Nexus-UI](https://github.com/Defy-cloud/Nexus-UI) | 0 | A modern, minimal Roblox UI Library inspired by Rayfield. Free & Lightweight of Use. |
 | [Defy-cloud/Vaunt-UI](https://github.com/Defy-cloud/Vaunt-UI) | 0 | A modern, minimal Roblox UI Library. Free & Lightweight of Use. |
+| [DELETIONSs/KNotifications](https://github.com/DELETIONSs/KNotifications) | 0 | "KNotifications" is a ROBLOX notification tool.(Notification System). |
 | [DemiPlaysRetro/Roblox-Cursor-GUI](https://github.com/DemiPlaysRetro/Roblox-Cursor-GUI) | 0 | Quick windows forms gui I made to easily change Roblox's default cursor images! |
 | [demons5-sys/Luau](https://github.com/demons5-sys/Luau) | 0 | Gui module that handle ui |
 | [DenysSoloshenko/photo-to-roblox](https://github.com/DenysSoloshenko/photo-to-roblox) | 0 | Photo-to-editable-Roblox prototype with Rails, React, Three.js and deterministic RBXLX export |
@@ -755,25 +791,31 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [DestinyKubbyP/Universal-Orbit](https://github.com/DestinyKubbyP/Universal-Orbit) | 0 | Universal Orbit is a open-source ROBLOX Hud with inclusive tools you can include in your projects. This script will have universal features(non game targeted... |
 | [dev-jhon-yo/rbx-react-ts](https://github.com/dev-jhon-yo/rbx-react-ts) | 0 | Example project for React in Roblox TypeScript! |
 | [DevChpL/roblox-horror-main-menu](https://github.com/DevChpL/roblox-horror-main-menu) | 0 | This repository contains a fully functional main menu system for a horror game built in Roblox Studio. The menu is designed to captivate players with its eer... |
+| [devdoroz/blox.lua](https://github.com/devdoroz/blox.lua) | 0 | Lua wrapper for handling chat commands in Roblox |
 | [DevEclipse1/gamezens-library](https://github.com/DevEclipse1/gamezens-library) | 0 | Roblox drawing library inspired by the well known gamesense menu, strictly for educational purposes |
 | [develephant/ColorTheme-Roblox-Module](https://github.com/develephant/ColorTheme-Roblox-Module) | 0 | A color palette module with some helper methods for ColorSequence. |
 | [DeveloperBacon1/Roblox-UI-librarys](https://github.com/DeveloperBacon1/Roblox-UI-librarys) | 0 | UI librarys for roblox |
+| [DeveloperK-AI/WindUI-optimized](https://github.com/DeveloperK-AI/WindUI-optimized) | 0 | (geen omschrijving op GitHub) GUI for Roblox |
 | [DevNestDeveloper/Inventory-System](https://github.com/DevNestDeveloper/Inventory-System) | 0 | Inventory System for roblox games, past work/old work files. Check for it. |
 | [DEVQPAL/DevDev](https://github.com/DEVQPAL/DevDev) | 0 | Dev UI Library For Roblox |
 | [DexTheExplorer/rblx-player-notifs](https://github.com/DexTheExplorer/rblx-player-notifs) | 0 | A script that is put into autoexecute to automatically show people joining and leaving the Roblox game instance as a notification. |
 | [dhluigi/roblox-gui-helpful-links](https://github.com/dhluigi/roblox-gui-helpful-links) | 0 | A collection of links and posts that I have found helpful while creating GUIs on Roblox |
 | [digidal/TCS-disguised-as-Legacy-Chat](https://github.com/digidal/TCS-disguised-as-Legacy-Chat) | 0 | TextChatService disguised as Legacy Chat |
+| [DigitalTheDemon/Digital-Ui-Library-Roblox](https://github.com/DigitalTheDemon/Digital-Ui-Library-Roblox) | 0 | (geen omschrijving op GitHub) |
 | [Dika2964/Library](https://github.com/Dika2964/Library) | 0 | UI Library for Roblox |
 | [Diogo-S-Oliveira/Roblox-Inventory-System](https://github.com/Diogo-S-Oliveira/Roblox-Inventory-System) | 0 | A roblox modular inventory system |
 | [Distendo/UUI](https://github.com/Distendo/UUI) | 0 | UUI - Roblox UI Library |
 | [DIVINENIL/Roblox-Basic-Inventory-System](https://github.com/DIVINENIL/Roblox-Basic-Inventory-System) | 0 | A Basic Inventory system for training |
 | [division4/taurus-ui](https://github.com/division4/taurus-ui) | 0 | The Taurus UI Library for Roblox |
+| [Divon32/text-transfer-tracker](https://github.com/Divon32/text-transfer-tracker) | 0 | (geen omschrijving op GitHub) Roblox-Communities |
 | [DizzyUSER69/NovaLibrary](https://github.com/DizzyUSER69/NovaLibrary) | 0 | Lekka i wydajna biblioteka GUI dla Roblox (100% UNC) w stylu Potassium. |
 | [dobriyqq11/PulseUI](https://github.com/dobriyqq11/PulseUI) | 0 | A Roblox library for easy GUI menus! |
 | [drcreatordev/CatherFI-UI](https://github.com/drcreatordev/CatherFI-UI) | 0 | CatherFI UI - Roblox UI Library Premium / Glassmorphism 60fps / Professional |
 | [Droidlol/Vape](https://github.com/Droidlol/Vape) | 0 | Vape Roblox UI Libarary |
+| [drumui/WeareScripters](https://github.com/drumui/WeareScripters) | 0 | Official roblox ui libary |
 | [Ducking-Entertainment/Asrielify-Roblox](https://github.com/Ducking-Entertainment/Asrielify-Roblox) | 0 | An (almost) accurate remake of two Undertale font systems. |
 | [Ducksneedhelp/Message-Server-GUI](https://github.com/Ducksneedhelp/Message-Server-GUI) | 0 | This is a ROBLOX open source project where you can send a message to all players in a server. |
+| [DuckyCashy/Vanilla-Library](https://github.com/DuckyCashy/Vanilla-Library) | 0 | (geen omschrijving op GitHub) Roblox UI Library |
 | [Duduzutus/roblox-custom-spawn-system](https://github.com/Duduzutus/roblox-custom-spawn-system) | 0 | Sistema de spawn customizável com interface profissional para Roblox |
 | [Duduzutus/roblox-spawn-system](https://github.com/Duduzutus/roblox-spawn-system) | 0 | Sistema completo de Spawn personalizado para Roblox com UI moderna e profissional |
 | [dvyctqwerty/VechHub](https://github.com/dvyctqwerty/VechHub) | 0 | a roblox UI library which 100% isnt the rayfield library but purple |
@@ -781,14 +823,17 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Dylan2408R2/Roblox-pro](https://github.com/Dylan2408R2/Roblox-pro) | 0 | mejora la ui de roblox |
 | [e1iot77OFFICIAL/LegacyUI](https://github.com/e1iot77OFFICIAL/LegacyUI) | 0 | My UI Library for Roblox Called "Legacy" |
 | [edenDeden/ROBLOX-Custom-GUI-Core](https://github.com/edenDeden/ROBLOX-Custom-GUI-Core) | 0 | A kit with a bunch of custom core GUIs |
+| [EduardoBispoSS/React-native-Roblox](https://github.com/EduardoBispoSS/React-native-Roblox) | 0 | (geen omschrijving op GitHub) |
 | [eduardodossantosdevieira67-collab/roblox-teleport-gui](https://github.com/eduardodossantosdevieira67-collab/roblox-teleport-gui) | 0 | Sistema de Teleporte com GUI para Roblox em TypeScript |
 | [effmereality/Open-Close-Gui](https://github.com/effmereality/Open-Close-Gui) | 0 | A script that makes your Roblox Gui Open and close!!!1 (WOW SO EPIC OMG POGGERS!) |
 | [Egor00f/Drop-Down-List](https://github.com/Egor00f/Drop-Down-List) | 0 | drop-down list for roblox |
 | [Egor00f/tabslib](https://github.com/Egor00f/tabslib) | 0 | library for creating UI tabs |
 | [egsfnxp14/roblox-aurakill-system](https://github.com/egsfnxp14/roblox-aurakill-system) | 0 | Sistema AuraKill avançado para Roblox com detecção de alvos, UI moderna e sistema de dano validado |
 | [ehenry344/CustomListLayout](https://github.com/ehenry344/CustomListLayout) | 0 | Improvement over standard roblox UIListLayouts |
+| [eiei114/im-rbxts-react-sample](https://github.com/eiei114/im-rbxts-react-sample) | 0 | (geen omschrijving op GitHub) |
 | [ejayheretape/Foxil-Library](https://github.com/ejayheretape/Foxil-Library) | 0 | A Roblox Gui Library Script |
 | [elfcodes808/EclipseUI](https://github.com/elfcodes808/EclipseUI) | 0 | EclipseUI is a roblox ui library made by kadenelf |
+| [EN9876/roblox-auto-chat-bot](https://github.com/EN9876/roblox-auto-chat-bot) | 0 | 🤖 Un bot automatizado para enviar mensajes en Roblox (Pls Donate) y evitar la inactividad. Utiliza Python, CustomTkinter, pydirectinput y psutil para gestion... |
 | [enc0ded/RobloxAutoUIScaler](https://github.com/enc0ded/RobloxAutoUIScaler) | 0 | Automatic UI scaling system for Roblox UIs that makes your game's interface work perfectly across all devices and screen sizes - no manual adjustments needed. |
 | [enesserper9-stack/KittenHub](https://github.com/enesserper9-stack/KittenHub) | 0 | Monochrome Roblox UI library with tabs, controls, notifications, flags, and responsive scaling. |
 | [Epicinver/RblxRoundedCorners](https://github.com/Epicinver/RblxRoundedCorners) | 0 | Roblox rounded corners for GUI's |
@@ -823,6 +868,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Froggyman1524/Roblox-TrollGui](https://github.com/Froggyman1524/Roblox-TrollGui) | 0 | The GUI wouldn't be ready till next month. |
 | [FrostX-Official/FAME-Library](https://github.com/FrostX-Official/FAME-Library) | 0 | An UI library written on Luau for Roblox |
 | [frrazer/learning-robloxts](https://github.com/frrazer/learning-robloxts) | 0 | My own personal project for learning how to use React & TypeScript together in Roblox |
+| [fruitmonkey01/RobloxInventoryMenuLuaScript](https://github.com/fruitmonkey01/RobloxInventoryMenuLuaScript) | 0 | (geen omschrijving op GitHub) |
 | [FyyWannaFly/FyyUI](https://github.com/FyyWannaFly/FyyUI) | 0 | Roblox UI Library - Single-file UI library for Roblox |
 | [G1shler/novachat-roblox](https://github.com/G1shler/novachat-roblox) | 0 | NovaChat is a fully custom chat system that replaces the default Roblox chat. |
 | [GabeMillikan/RbxTextInfo](https://github.com/GabeMillikan/RbxTextInfo) | 0 | Get positional information about text in roblox, including every word's position and size. |
@@ -830,8 +876,10 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [GameChangers77777/ROBLOX-WEBSITE-CHAT](https://github.com/GameChangers77777/ROBLOX-WEBSITE-CHAT) | 0 | I AM VERY HAPPY |
 | [Gamer23car/font-changer](https://github.com/Gamer23car/font-changer) | 0 | A userscript for changing the font on (primarily roblox) or any other websites added with //@.match. |
 | [GamesFameYT/topbarPlus](https://github.com/GamesFameYT/topbarPlus) | 0 | You know the TopbarPlus in roblox? That model made by Nanoblox? I converted it into a script. |
+| [garance25/project-overlords](https://github.com/garance25/project-overlords) | 0 | a tower defence game on the theme of WW2 on roblox |
 | [Gatorro/UI-Library-Button](https://github.com/Gatorro/UI-Library-Button) | 0 | A Roblox UI Library writed in Lua that makes a CUSTOM Button. |
 | [GE-24/Roblox-Material-Pickup](https://github.com/GE-24/Roblox-Material-Pickup) | 0 | Server-side material pickup and inventory limit system for Roblox games |
+| [Germanized/RMac-OS](https://github.com/Germanized/RMac-OS) | 0 | Roblox UI lib That tries to Mimic Mac-OS same features as Rayfield but Mac-OS |
 | [GermanTortoise/Console-Minesweeper-module](https://github.com/GermanTortoise/Console-Minesweeper-module) | 0 | Roblox module for generating a text based n-dimensional minesweeper board. |
 | [GetConsist/Consist-UI-Library](https://github.com/GetConsist/Consist-UI-Library) | 0 | Reusable Roblox UI library for Consist |
 | [GGG792/RetroUI](https://github.com/GGG792/RetroUI) | 0 | Early Roblox Style Script UI Library |
@@ -843,6 +891,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [gitwab/Lithium](https://github.com/gitwab/Lithium) | 0 | Lithium UI is a modern open source UI library for Roblox. |
 | [glearflame/sistema-de-pets-roblox](https://github.com/glearflame/sistema-de-pets-roblox) | 0 | Sistema de pets pro Roblox com inventário, XP, HUD e pets seguindo o jogador. |
 | [GlorifiedAce/Roblox-Bedwars-Assets](https://github.com/GlorifiedAce/Roblox-Bedwars-Assets) | 0 | A static asset gallery for Roblox Bedwars creators, styled like a Minecraft inventory. |
+| [GOASUPPORT/RobloxInventoryProxy](https://github.com/GOASUPPORT/RobloxInventoryProxy) | 0 | (geen omschrijving op GitHub) |
 | [goffol/VIOLENT-LIBS](https://github.com/goffol/VIOLENT-LIBS) | 0 | this is a roblox lua UI Library inspired by GTA 5 Mods called MENYOO |
 | [gogakon/modularuilib](https://github.com/gogakon/modularuilib) | 0 | A fully responsive, OOP based UI component library for Roblox. |
 | [Gokselgnujd/NRTSG-LolGui](https://github.com/Gokselgnujd/NRTSG-LolGui) | 0 | This is a gui specificly made for normal real time strategy game on roblox |
@@ -854,7 +903,9 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [gss6506507-pixel/Roblox-GrossHub-Library](https://github.com/gss6506507-pixel/Roblox-GrossHub-Library) | 0 | Uma biblioteca modular para criar interfaces de usuário (UI) no Roblox. |
 | [Guest5432/My-Gui-Bad-](https://github.com/Guest5432/My-Gui-Bad-) | 0 | This gui only has 2 buttons (for roblox) |
 | [Guff05/robloxeapaytotalkscrip](https://github.com/Guff05/robloxeapaytotalkscrip) | 0 | This is the most evil thing you can put in your roblox game it makes in where you have to pay to talk in roblox chat or you get kick |
+| [h087dwsqg0v7wq/Roblox-CoreGui-RobloxGui-Modules](https://github.com/h087dwsqg0v7wq/Roblox-CoreGui-RobloxGui-Modules) | 0 | (geen omschrijving op GitHub) Chat |
 | [hackerman123456712313123123123123123/roblox-gui-wip-](https://github.com/hackerman123456712313123123123123123/roblox-gui-wip-) | 0 | lua funny roblox (wip) |
+| [hammadrdev001-source/Roblox-Inventory-System-1](https://github.com/hammadrdev001-source/Roblox-Inventory-System-1) | 0 | (geen omschrijving op GitHub) |
 | [hanlinlibrary-gif/hanlin-ui-library](https://github.com/hanlinlibrary-gif/hanlin-ui-library) | 0 | this is a lua roblox ui library protected by wearedeveloprs v1 |
 | [HappyLight1/BloxGamesGui](https://github.com/HappyLight1/BloxGamesGui) | 0 | BloxGamesGui means roblox games gui's |
 | [harihar-nautiyal/rbxtsx-react-router](https://github.com/harihar-nautiyal/rbxtsx-react-router) | 0 | React Router for Roblox-Ts |
@@ -867,6 +918,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [HebraX/xLib](https://github.com/HebraX/xLib) | 0 | This Libary is a UI Libary for roblox. More details soon. |
 | [heheheha301/Frippy-Roblox-Chat-System](https://github.com/heheheha301/Frippy-Roblox-Chat-System) | 0 | This is a chat kit meant to help with the Roblox chat update |
 | [hellowrold594-ux/Scorpion-System](https://github.com/hellowrold594-ux/Scorpion-System) | 0 | Scorpion System - Roblox UI |
+| [Herograme/onedark-pro-roblox-theme](https://github.com/Herograme/onedark-pro-roblox-theme) | 0 | (geen omschrijving op GitHub) |
 | [Hexcede/roblox-vanilla-icons](https://github.com/Hexcede/roblox-vanilla-icons) | 0 | Roblox Vanilla Icon Pack |
 | [hkschannel762-code/kiki-hubb](https://github.com/hkschannel762-code/kiki-hubb) | 0 | Roblox Studio Custom UI Script. |
 | [holymode/rover-roblox](https://github.com/holymode/rover-roblox) | 0 | An asynchronous Python wrapper for the RoVer API, designed to simplify interactions with RoVers services, perfectly integrates with a discord bot. This wrapp... |
@@ -885,8 +937,10 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [ihateapples/cogui-lua](https://github.com/ihateapples/cogui-lua) | 0 | minimal gui library in lua (roblox) |
 | [ilikepineapples11111/PineappleLib](https://github.com/ilikepineapples11111/PineappleLib) | 0 | Fricking bad fricking roblox fricking ui lib |
 | [imazituwe0174-gif/Xeno-Lua-Engine-APK-Windows-](https://github.com/imazituwe0174-gif/Xeno-Lua-Engine-APK-Windows-) | 0 | A lightweight and powerful **Lua runtime environment** available for both **Android (APK)** and **Windows**. Load and run custom Lua modules with fast perfor... |
+| [ImFirstPlace/revert-new-roblox-font](https://github.com/ImFirstPlace/revert-new-roblox-font) | 0 | (geen omschrijving op GitHub) |
 | [imightknoiw/chat-troll](https://github.com/imightknoiw/chat-troll) | 0 | Troll in Roblox chat using special characters |
 | [ImJustAUser999/roblox-teleport-system](https://github.com/ImJustAUser999/roblox-teleport-system) | 0 | Teleport system dengan 3 part dan GUI |
+| [ImpathosCV/RobloxPrivateInventoryInspector](https://github.com/ImpathosCV/RobloxPrivateInventoryInspector) | 0 | (geen omschrijving op GitHub) |
 | [Impulseceo/zap](https://github.com/Impulseceo/zap) | 0 | A roblox LUA GUI |
 | [Index472/RobloxVanguardNotification](https://github.com/Index472/RobloxVanguardNotification) | 0 | Look Like Valorant Vanguard. Its work as client (you can change if u can) |
 | [infinitescripts-cloud/astraUI](https://github.com/infinitescripts-cloud/astraUI) | 0 | A Roblox UI Library. |
@@ -894,6 +948,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [InfinitiveDev/InfiniteChat](https://github.com/InfinitiveDev/InfiniteChat) | 0 | Infinite chat for Roblox |
 | [Insention/ui-lib](https://github.com/Insention/ui-lib) | 0 | ui library for roblox |
 | [isepicworthful/roblox-gui-design](https://github.com/isepicworthful/roblox-gui-design) | 0 | Guis with rotating UIGradient script |
+| [ishensarabia/roblox-inventory-system](https://github.com/ishensarabia/roblox-inventory-system) | 0 | (geen omschrijving op GitHub) |
 | [iSkizr/DefaultNotification-Lib](https://github.com/iSkizr/DefaultNotification-Lib) | 0 | Simple library to make Notification on Roblox |
 | [ismailjoiner122/PlayerInventory](https://github.com/ismailjoiner122/PlayerInventory) | 0 | Custom Roblox player management and inventory UI |
 | [itsmeblocky/blocky](https://github.com/itsmeblocky/blocky) | 0 | a roblox gui library. |
@@ -912,10 +967,12 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Jamster707/Roblox-UI](https://github.com/Jamster707/Roblox-UI) | 0 | Some shitty Roblox UI i decided to make cuz i'm bored. |
 | [jennsun/Roblox](https://github.com/jennsun/Roblox) | 0 | Deploying Avatar Catalog GUI in any Roblox Lua Game |
 | [jesiisehi/Roblox-tracka](https://github.com/jesiisehi/Roblox-tracka) | 0 | Made by fusion don’t sell this if u see anyone selling this contact me in discord fusion.dat |
+| [jfjdjdndhh-ux/Ui-library-gamesense-ROBLOX](https://github.com/jfjdjdndhh-ux/Ui-library-gamesense-ROBLOX) | 0 | (geen omschrijving op GitHub) |
 | [Jiwmastered/RUImodule](https://github.com/Jiwmastered/RUImodule) | 0 | my roblox UI module |
 | [jj123llol/Anti-chat-logger](https://github.com/jj123llol/Anti-chat-logger) | 0 | Roblox wont ban u for stuff you say |
 | [JLRH7/AschormouSV_v1](https://github.com/JLRH7/AschormouSV_v1) | 0 | This script is the first version of a modification to a module that allows you to download Roblox director maps, with a little more information in an interface. |
 | [JoaopedrooXD17/JMenuLibraries](https://github.com/JoaopedrooXD17/JMenuLibraries) | 0 | This is a library of my Roblox Menus... |
+| [joefire7/Pokemon_Dialog_NPCTrainer_Roblox](https://github.com/joefire7/Pokemon_Dialog_NPCTrainer_Roblox) | 0 | (geen omschrijving op GitHub) |
 | [johnstacks/RobloxSitButton](https://github.com/johnstacks/RobloxSitButton) | 0 | A simply made sit button for Roblox Studio |
 | [Jonbobro/LavaLampBG](https://github.com/Jonbobro/LavaLampBG) | 0 | A module for a weird lavalamp style gui background I made in roblox. |
 | [Jonbobro/Roblox-Toast-System](https://github.com/Jonbobro/Roblox-Toast-System) | 0 | A bare bones simple toast/notification system for roblox. also allows makes it easy to tweak how the notifications appear. |
@@ -924,10 +981,12 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [jotslo/translationservice](https://github.com/jotslo/translationservice) | 0 | TranslationService is a simple wrapper module that allows Roblox developers to translate text easily with multiple translation API services. |
 | [joustingmatch/zedlib](https://github.com/joustingmatch/zedlib) | 0 | Roblox UI library with tabs, controls, themes, and config persistence. |
 | [juliocesarsouzrfernandes989-max/roblox-gamepass-system](https://github.com/juliocesarsouzrfernandes989-max/roblox-gamepass-system) | 0 | Complete Roblox Gamepass system with modern UI, server validation, and real-time updates |
+| [juztripper/roblox-icon-tool](https://github.com/juztripper/roblox-icon-tool) | 0 | (geen omschrijving op GitHub) |
 | [KadenWare/OrionHoneyRemake](https://github.com/KadenWare/OrionHoneyRemake) | 0 | A Honey Color Theme remake of orion library (LUAU ROBLOX UI LIBRARY) |
 | [KadeTheExploiter/Machina](https://github.com/KadeTheExploiter/Machina) | 0 | Fluent, Open Source, Mac-OS themed Gui Library for Roblox. |
 | [kagehana/seoul](https://github.com/kagehana/seoul) | 0 | A Roblox UI library. |
 | [Kaisorius/BreezeUI](https://github.com/Kaisorius/BreezeUI) | 0 | BreezeUI is a lightweight Roblox Luau UI library built with its own uniqueness and love |
+| [KaitoNekox/C00lKIDD-GUI](https://github.com/KaitoNekox/C00lKIDD-GUI) | 0 | Visual c00kidd script for Roblox |
 | [kakavpopee/KaolinLib](https://github.com/kakavpopee/KaolinLib) | 0 | Mobile-optimized Roblox UI library. |
 | [kakavpopee/NeonVibes-Mobile-UI](https://github.com/kakavpopee/NeonVibes-Mobile-UI) | 0 | Mobile-optimized Roblox UI library with neon vibes. |
 | [Kaleb-kougl/roblox-css](https://github.com/Kaleb-kougl/roblox-css) | 0 | A CSS-to-Roblox UI translation middleware for roblox-ts. Write familiar web-style style props and get native Roblox engine primitives (UDim2, UICorner, UILis... |
@@ -939,10 +998,12 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [kevinwalt8080-del/robloxchat.github.io](https://github.com/kevinwalt8080-del/robloxchat.github.io) | 0 | a chat maker for roblox chats |
 | [kieranz/roblox-original-clothes-website](https://github.com/kieranz/roblox-original-clothes-website) | 0 | A simple React/Hapi app that allows for a user to view original roblox clothes. |
 | [KIKISQQ/Milenium-Library](https://github.com/KIKISQQ/Milenium-Library) | 0 | A Roblox UI library originally made by @finobe, modified by me |
+| [kingdudely/Roblox-Tools-Old](https://github.com/kingdudely/Roblox-Tools-Old) | 0 | A chrome extension that lets you do multiple ROBLOX tasks in a single interface |
 | [KingTIM3R/soloUi_A3](https://github.com/KingTIM3R/soloUi_A3) | 0 | attempt 3 of making a solo leveling ui roblox library |
 | [kkaan4632-cloud/Kory-UI](https://github.com/kkaan4632-cloud/Kory-UI) | 0 | Kory Dark UI Suite - Advanced Roblox UI Library |
 | [Kleitnick/Iris-X](https://github.com/Kleitnick/Iris-X) | 0 | ImGui-style UI library for Roblox executors |
 | [KLN7/KLN-Premium-Gui](https://github.com/KLN7/KLN-Premium-Gui) | 0 | The Official KLN Premium Gui For Roblox |
+| [knewclosure/Glass-UI-Library](https://github.com/knewclosure/Glass-UI-Library) | 0 | (geen omschrijving op GitHub) UI for roblox |
 | [KnullXDgt/Orvion-UI-Library](https://github.com/KnullXDgt/Orvion-UI-Library) | 0 | Professional Roblox UI Library - Beautiful, Fast, Feature-Rich |
 | [KoalaGuyy/Koala-Library](https://github.com/KoalaGuyy/Koala-Library) | 0 | A UI Library for easy user interaction for lua specifically for roblox. |
 | [KOSLART/RobloxLuaScriptMenu](https://github.com/KOSLART/RobloxLuaScriptMenu) | 0 | Roblox lua script menu. |
@@ -958,10 +1019,12 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [lakeviewprojects/TopBar](https://github.com/lakeviewprojects/TopBar) | 0 | Roblox fusion top bar submodule |
 | [larpbaseinate-stack/Fake-chat-for-roblox](https://github.com/larpbaseinate-stack/Fake-chat-for-roblox) | 0 | FAKE CHAT ADMIN ROBLOX |
 | [LateralLines/delete-rbx-uieditor](https://github.com/LateralLines/delete-rbx-uieditor) | 0 | Delete the built-in Roblox UI Editor from Studio! |
+| [leakediz/regui-depo](https://github.com/leakediz/regui-depo) | 0 | a ui for roblox ! |
 | [Lecca/rbx-groups-plus](https://github.com/Lecca/rbx-groups-plus) | 0 | ROBLOX group notification extension for Firefox. |
 | [leftball/demoRobloxUIs](https://github.com/leftball/demoRobloxUIs) | 0 | Some examples of Roblox user interfaces that I have created. This is not my best work, but a collection of the work I am allowed to show. |
 | [legalgal380/TPSLib](https://github.com/legalgal380/TPSLib) | 0 | TPSLib is a ui library for Roblox hubs |
 | [Legends09m/Luau-Roblox](https://github.com/Legends09m/Luau-Roblox) | 0 | Feito por Legends09m um script de Painel simples com GUI automática para utilizar em seu jogo com sistema de verificação em id de seus administradores |
+| [leviiexesc/Lunar-UI-Library-Roblox](https://github.com/leviiexesc/Lunar-UI-Library-Roblox) | 0 | (geen omschrijving op GitHub) |
 | [lhuyghe1/devforum-redesign](https://github.com/lhuyghe1/devforum-redesign) | 0 | [Archived] Mirror moved to github.rbx.com/lhuyghe/devforum-redesign |
 | [Lil-plumpy/Roblox-coding-menu-buttons](https://github.com/Lil-plumpy/Roblox-coding-menu-buttons) | 0 | this will make a menu for your roblox game (WINDOWS/MAC) 32-BIT |
 | [Limbo7009/Demon-s-Legends](https://github.com/Limbo7009/Demon-s-Legends) | 0 | Demon's Legends is a brand new cool Roblox game in development with a Demon's Slayer theme |
@@ -972,6 +1035,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [logixism/foundament](https://github.com/logixism/foundament) | 0 | a roblox theme inspired by the new experiment "foundation colors" |
 | [Logorkill/Floppy-Menu](https://github.com/Logorkill/Floppy-Menu) | 0 | Floppy's playtime menu on roblox |
 | [loguelegendstartnow-code/RobloxUILibrary](https://github.com/loguelegendstartnow-code/RobloxUILibrary) | 0 | A comprehensive UI library for Roblox game development with customizable components |
+| [Lorg-Love/Roblox-NoticeSystem](https://github.com/Lorg-Love/Roblox-NoticeSystem) | 0 | (geen omschrijving op GitHub) A notification system |
 | [lsaques/Chat-Translator-BR-](https://github.com/lsaques/Chat-Translator-BR-) | 0 | Um Script Para Roblox que vai traduzir qualquer linguagem |
 | [lsmo11/lsmo-stub-logger](https://github.com/lsmo11/lsmo-stub-logger) | 0 | roblox stub logger creater, easy gui |
 | [lua-ware/robloxuilibraries](https://github.com/lua-ware/robloxuilibraries) | 0 | A trash heap full of Roblox UI libraries and their sources. |
@@ -979,20 +1043,27 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [lui2s-rgb/roblox-inventory-proxy](https://github.com/lui2s-rgb/roblox-inventory-proxy) | 0 | Proxy para inventário Roblox |
 | [Luisgamercool231/Auto-Vanilla-Import](https://github.com/Luisgamercool231/Auto-Vanilla-Import) | 0 | Import's Ettob's Vanilla icons inside Roblox Studio for you. |
 | [Lunar-Orbit1/Roblox-Darkblue](https://github.com/Lunar-Orbit1/Roblox-Darkblue) | 0 | A free theme for Roblox, in css |
+| [Lunariz7109/Roblox-menu-templates](https://github.com/Lunariz7109/Roblox-menu-templates) | 0 | (geen omschrijving op GitHub) |
 | [Luqpic/CrimeLifeRoblox](https://github.com/Luqpic/CrimeLifeRoblox) | 0 | Game Development Project, featuring a Robbery Themed Tycoon |
 | [luukbrons/roblox-popit-trading](https://github.com/luukbrons/roblox-popit-trading) | 0 | A Roblox Pop It trading script with player interaction and inventory management |
 | [LuukOriginal/next-router](https://github.com/LuukOriginal/next-router) | 0 | A nextjs-like file based router for @rbxts/react |
+| [lynx2005s-jpg/Gui-Library](https://github.com/lynx2005s-jpg/Gui-Library) | 0 | (geen omschrijving op GitHub) for Roblox gui |
+| [lynx2005s-jpg/NexuGUI](https://github.com/lynx2005s-jpg/NexuGUI) | 0 | (geen omschrijving op GitHub) for Roblox gui |
+| [LytexWZ/AzureUtils](https://github.com/LytexWZ/AzureUtils) | 0 | A web that helps you track your progress in azure mines! Check your game completion percentage, the value of your trade and more! |
 | [lyyluca/-bloxmeta-](https://github.com/lyyluca/-bloxmeta-) | 0 | Free Roblox anime game codes, tier lists, and guides — updated daily. https://bloxmeta.gg |
 | [LzIP251/dark-ui](https://github.com/LzIP251/dark-ui) | 0 | A Roblox UI Library |
 | [m0nkes/Galaxy](https://github.com/m0nkes/Galaxy) | 0 | A open-source roblox scripting utility user interface using WRD API |
 | [M1dnight-ofcl/egg.sh](https://github.com/M1dnight-ofcl/egg.sh) | 0 | Adding CSS-like styling to roblox gui for easy ui scripting |
 | [MadeByBlue-UI/Blue-UI](https://github.com/MadeByBlue-UI/Blue-UI) | 0 | A clean, themeable UI component library for Roblox |
+| [MaksiuKozak96/roblox-button-color-changer-V1](https://github.com/MaksiuKozak96/roblox-button-color-changer-V1) | 0 | thats all I guess |
 | [mangowxlf/roblox-material](https://github.com/mangowxlf/roblox-material) | 0 | This is just a ROBLOX material theme. |
 | [marcinpl500/DialogueModule](https://github.com/marcinpl500/DialogueModule) | 0 | A module made to create dialogues in a form of tables with nodes, rather than manually with countless lines of code. Made in LUA for roblox. |
 | [mario12451/Friend-Online-Notifier-for-Roblox-with-Twilio](https://github.com/mario12451/Friend-Online-Notifier-for-Roblox-with-Twilio) | 0 | This is a python script that wil send you a notification when a specific friend is online on roblox. |
 | [MarioChao/backpack-ui](https://github.com/MarioChao/backpack-ui) | 0 | Customized backpack UI with inventory sorting and item stacking. |
+| [mariuslohoho/StudBloxUI](https://github.com/mariuslohoho/StudBloxUI) | 0 | The Online Interface Design Tool for Roblox |
 | [Markjisus/CometUiLibrary](https://github.com/Markjisus/CometUiLibrary) | 0 | Comet Is a Ui Library For Roblox |
 | [mastedore/Pretty](https://github.com/mastedore/Pretty) | 0 | Pretty UI library for Roblox, Attribute based |
+| [mastermonk84/roblox-fusion-zoo](https://github.com/mastermonk84/roblox-fusion-zoo) | 0 | (geen omschrijving op GitHub) |
 | [MATTYLOI2009/LAG-BOMB-WASTE-OF-SPACE-ROBLOX](https://github.com/MATTYLOI2009/LAG-BOMB-WASTE-OF-SPACE-ROBLOX) | 0 | 20:33:24.804 [["AAAAAAAAAAAAAABgo4E1wAAAAAAAAADAAAAAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAAAHEAAAAAAAADwPwAAAAAAAAhAY19iZmZm","Ir... |
 | [maumaumaumaumaumau/roblox-icons](https://github.com/maumaumaumaumaumau/roblox-icons) | 0 | class icons for studio |
 | [mawesome4ever/RobloxDevDarkTheme](https://github.com/mawesome4ever/RobloxDevDarkTheme) | 0 | Dark theme for the Developer docs on Roblox |
@@ -1001,6 +1072,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [MetaReq/SimpleTopbar](https://github.com/MetaReq/SimpleTopbar) | 0 | Roblox module for simple topbar buttons |
 | [mfm14/Timings](https://github.com/mfm14/Timings) | 0 | Time your farms in a popular Roblox™️ game named called "Theme park tycoon 2" |
 | [Micalel31/THE-MORE-SLOTS-INVENTORY](https://github.com/Micalel31/THE-MORE-SLOTS-INVENTORY) | 0 | This script will give them the blessing of having six slots in Roblox. BELIEVE IN DETERMINATION |
+| [midit/SCR_DSHelper](https://github.com/midit/SCR_DSHelper) | 0 | (geen omschrijving op GitHub) |
 | [miguelcanosantana/RobloxWebPage](https://github.com/miguelcanosantana/RobloxWebPage) | 0 | A Webpage with a Roblox theme. |
 | [migule228-cmd/NexusLib](https://github.com/migule228-cmd/NexusLib) | 0 | LuaU Roblox Ui Library |
 | [MindedDev/Roblox-Main-Menu-script](https://github.com/MindedDev/Roblox-Main-Menu-script) | 0 | Includes 1.play 2. Credits (Can also add other gui) |
@@ -1012,23 +1084,29 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [MixeroTN/rbxts-react-template](https://github.com/MixeroTN/rbxts-react-template) | 0 | roblox-ts react template (incomplete) |
 | [mixgroup/fusion-lite](https://github.com/mixgroup/fusion-lite) | 0 | Roblox Cafe POS by Mix |
 | [mizcanscripts/FlowUI](https://github.com/mizcanscripts/FlowUI) | 0 | FlowUI — is a component library open source for Roblox executors, single file build, generated from src/ by build.mjs |
+| [mjames0010-oss/roblox-inventory-api](https://github.com/mjames0010-oss/roblox-inventory-api) | 0 | (geen omschrijving op GitHub) |
+| [mlnitoon2/rolibwaita](https://github.com/mlnitoon2/rolibwaita) | 0 | A Roblox user interface libary that looks like gnome. |
 | [mobius-development/maple-design](https://github.com/mobius-development/maple-design) | 0 | 💼 The repository for documenting upcoming implementations in future releases of Maple. |
 | [ModCode123123/Plasma-UI](https://github.com/ModCode123123/Plasma-UI) | 0 | A W.I.P UI library Codename: Plasma. For Lua (Roblox) |
 | [MoonyMaxx/Moon-UI-Survival-Odyssey-Script](https://github.com/MoonyMaxx/Moon-UI-Survival-Odyssey-Script) | 0 | A Script made for Olympia [NEWS] in Roblox. |
 | [MorrogDevasio/MorrogGuis](https://github.com/MorrogDevasio/MorrogGuis) | 0 | This Gui is made for roblox Lucky Block. |
+| [morthatalis/Rblx-themes](https://github.com/morthatalis/Rblx-themes) | 0 | roblox themes and stuff using stylus |
 | [MrGlowHack/Lil-Lab](https://github.com/MrGlowHack/Lil-Lab) | 0 | This a Roblox ui library |
 | [MrGlowHack/Ui](https://github.com/MrGlowHack/Ui) | 0 | This a Roblox ui library |
 | [mrh0lden/text-roblox-in-batch](https://github.com/mrh0lden/text-roblox-in-batch) | 0 | just a little side project |
 | [Mriskiali/bloxboxd](https://github.com/Mriskiali/bloxboxd) | 0 | Social logging, tracking, review & discovery platform for Roblox experiences (TypeScript, Roblox API, Turso/LibSQL) |
 | [MrMalfume/reptillion-ui-assets](https://github.com/MrMalfume/reptillion-ui-assets) | 0 | Icon assets + loader example for the Reptillion Roblox UI library |
 | [Mrpopcatfrombupge/kill-gu-iv1.5](https://github.com/Mrpopcatfrombupge/kill-gu-iv1.5) | 0 | Kill gui made by mr pop cat / roblox username S2017i nametag beluga |
+| [mryamz/roblox-counter-react](https://github.com/mryamz/roblox-counter-react) | 0 | (geen omschrijving op GitHub) |
 | [msb/roblox-push](https://github.com/msb/roblox-push) | 0 | Web Push Notifications For Roblox Events |
 | [mumya1god/nexus](https://github.com/mumya1god/nexus) | 0 | ROBLOX UI LIBRARY #1 |
 | [mwanu-bit/CustomInventorySystem](https://github.com/mwanu-bit/CustomInventorySystem) | 0 | System handles a custom Inventory made for Roblox |
+| [Mxshy/UI-Library-Backups-Roblox](https://github.com/Mxshy/UI-Library-Backups-Roblox) | 0 | (geen omschrijving op GitHub) |
 | [mxxme-dev/gui-plug-lib](https://github.com/mxxme-dev/gui-plug-lib) | 0 | Roblox gui library for keys |
 | [MythicalSouls/BasicUILibrary](https://github.com/MythicalSouls/BasicUILibrary) | 0 | The basic UI library for roblox debuggers. |
 | [n2projects/UI-Libraries](https://github.com/n2projects/UI-Libraries) | 0 | A collection of ROBLOX UI libraries I have found. |
 | [napHiwka/Kvant](https://github.com/napHiwka/Kvant) | 0 | A GUI library for Roblox |
+| [Naymmmm/shadcn-rbx](https://github.com/Naymmmm/shadcn-rbx) | 0 | shadcn/ui ported to roblox |
 | [NekoLolis/Roblox-TP-GUI](https://github.com/NekoLolis/Roblox-TP-GUI) | 0 | Simple roblox TP you to a player GUI |
 | [NekoLolis/RobloxNotificationLibrary](https://github.com/NekoLolis/RobloxNotificationLibrary) | 0 | A Simple Library For Displaying Custom Notifications On Screen |
 | [nekoramuza/Roblox-UI-Enhancements](https://github.com/nekoramuza/Roblox-UI-Enhancements) | 0 | Changes the Roblox UI to make it look better |
@@ -1037,6 +1115,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [nenavizuroditelskijkontrol-byte/rubz-library](https://github.com/nenavizuroditelskijkontrol-byte/rubz-library) | 0 | rubz library for roblox gui |
 | [Neohertz/react-crate](https://github.com/Neohertz/react-crate) | 0 | React hooks for @rbxts/crate. |
 | [newsanbro658/NSW-Roblox-GUI](https://github.com/newsanbro658/NSW-Roblox-GUI) | 0 | SEED , PET SPAWNER |
+| [NextPr0gram/ROBLOX-Text-or-die-script](https://github.com/NextPr0gram/ROBLOX-Text-or-die-script) | 0 | (geen omschrijving op GitHub) |
 | [NickBoiireal/RobloxChatMirror](https://github.com/NickBoiireal/RobloxChatMirror) | 0 | A tool to help you simulate the hidden Roblox chat bar |
 | [NICKISBAD/RGD-Killer](https://github.com/NICKISBAD/RGD-Killer) | 0 | This is a simple gui made to kill droids in the roblox game: Randomly Generated Droids |
 | [NightCraft666/NightLibrary](https://github.com/NightCraft666/NightLibrary) | 0 | New roblox gui library! |
@@ -1055,6 +1134,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [NobleAmythysT/Dialogue-Module-Roblox](https://github.com/NobleAmythysT/Dialogue-Module-Roblox) | 0 | another quick module made in roblox |
 | [not-dlyrr/aurora-lib](https://github.com/not-dlyrr/aurora-lib) | 0 | Single-file Roblox Luau UI library — glassmorphic, Rayfield-compatible API, live theming, Inter |
 | [notPMANO/DinoHub](https://github.com/notPMANO/DinoHub) | 0 | Roblox GUI library for Luau scripts |
+| [nottirb/Roblox-User-Inventory](https://github.com/nottirb/Roblox-User-Inventory) | 0 | (geen omschrijving op GitHub) |
 | [NovaXOTTIC/Zyrix-Interface](https://github.com/NovaXOTTIC/Zyrix-Interface) | 0 | and interface for roblox scripting |
 | [NovusTheory/roblox-dark-themes](https://github.com/NovusTheory/roblox-dark-themes) | 0 | Dark themes for Roblox with several other changes |
 | [nPuBATHOCTb/Neverlose-style-UI-library-for-Roblox-interface-only](https://github.com/nPuBATHOCTb/Neverlose-style-UI-library-for-Roblox-interface-only) | 0 | Neverlose ui for roblox i made two days (im russian, but i dont know for what you need this information) |
@@ -1062,13 +1142,17 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [nS-GUI/nS-GUI](https://github.com/nS-GUI/nS-GUI) | 0 | nS-GUI e um Script para Roblox que ele serve como um atalho para outros scirpts. |
 | [Nuzis123/RobloxMIlkUpGui](https://github.com/Nuzis123/RobloxMIlkUpGui) | 0 | Roblox Milkup Gui Gem dupe and huge pet dupe |
 | [nxq1337/open-gui](https://github.com/nxq1337/open-gui) | 0 | Open GUI from a brick for roblox studio. |
+| [nytrox-bw/Roblox-Account-Logger](https://github.com/nytrox-bw/Roblox-Account-Logger) | 0 | The best way to log roblox accounts via a gui builder |
 | [ocbwoy3/ocbwoy3-chan-blox](https://github.com/ocbwoy3/ocbwoy3-chan-blox) | 0 | probably a roblox ui in react |
 | [Ocipa/Minesweeper](https://github.com/Ocipa/Minesweeper) | 0 | Minesweeper using Roact and accord, nothing more, nothing less. |
+| [octtou/Roblox-UI-Shop-System](https://github.com/octtou/Roblox-UI-Shop-System) | 0 | (geen omschrijving op GitHub) |
 | [official-brucewayne/LUAUINTERFACE](https://github.com/official-brucewayne/LUAUINTERFACE) | 0 | A LuaU Roblox Interface Made Using Monaco. |
 | [oh-yazumi/rainbow-text](https://github.com/oh-yazumi/rainbow-text) | 0 | This program generates HTML code that displays rainbow text. This is meant to be used for sign text in the roblox game PLS DONATE. |
 | [ojg1/Hellos-Button-Simulator-Kit](https://github.com/ojg1/Hellos-Button-Simulator-Kit) | 0 | Fast button simulator kit for incremental games on Roblox. |
 | [okame7x/ghost-pepper-ui](https://github.com/okame7x/ghost-pepper-ui) | 0 | Ghost Pepper Roblox UI library |
 | [olefson/Roblox-Item-Sorter](https://github.com/olefson/Roblox-Item-Sorter) | 0 | An inventory sorter for the roblox site |
+| [onealadylan-sketch/roblox-inventory-api](https://github.com/onealadylan-sketch/roblox-inventory-api) | 0 | (geen omschrijving op GitHub) |
+| [only1mf/Lua-Gui](https://github.com/only1mf/Lua-Gui) | 0 | An lua made Gui, mostly ment for roblox |
 | [oonqt/roblox-account-worth-calculator](https://github.com/oonqt/roblox-account-worth-calculator) | 0 | Open-source full stack site that adds up the value of all items in a player's inventory and displays it |
 | [OpacityB/Roblox-Dialogue-System](https://github.com/OpacityB/Roblox-Dialogue-System) | 0 | Dynamic dialogue system with config |
 | [oppthegoof/commandprompt-ui-lib](https://github.com/oppthegoof/commandprompt-ui-lib) | 0 | very simple command prompt ui library for roblox luau |
@@ -1087,23 +1171,29 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [paulogarithm/RobloxStyledText](https://github.com/paulogarithm/RobloxStyledText) | 0 | Style your text at runtime on roblox studio with this module ! |
 | [paulohtmedeiros-lang/Lumina-UI](https://github.com/paulohtmedeiros-lang/Lumina-UI) | 0 | A minimalist and accessible UI library for Roblox developers, focused on performance and clean aesthetics. |
 | [pea4c/Roblox-Birthday-Autofill](https://github.com/pea4c/Roblox-Birthday-Autofill) | 0 | Roblox birthday autofill Chrome extension. Handles React forms via native HTMLSelectElement setter & event dispatching. |
+| [PedroRossettoCosta/vision-based-ui-bot](https://github.com/PedroRossettoCosta/vision-based-ui-bot) | 0 | Este projeto utiliza visão computacional e automação com Python para detectar, clicar e tomar decisões automáticas em jogos do Roblox com mecânicas de "gacha... |
 | [perfectusmim1/FluidUI-Roblox](https://github.com/perfectusmim1/FluidUI-Roblox) | 0 | A modern, fluid UI library for Roblox inspired by Fluent UI design principles |
 | [pernova8D/LEGECY-ROLEVEN](https://github.com/pernova8D/LEGECY-ROLEVEN) | 0 | a Roblokis theme of the 2011 roblox style with the same layout |
 | [pessoamarcilene838-create8/projeto-luau.](https://github.com/pessoamarcilene838-create8/projeto-luau.) | 0 | "Repositório dedicado ao estudo da linguagem Luau e desenvolvimento de interfaces e scripts para jogos." |
 | [phantomforgeofficial/roblox](https://github.com/phantomforgeofficial/roblox) | 0 | a GUI made by/for phantom forge |
 | [PhantomShift/roact-with-style](https://github.com/PhantomShift/roact-with-style) | 0 | Provides a simple way to implement styles with Roact |
 | [phasenull/rbxts-react-query](https://github.com/phasenull/rbxts-react-query) | 0 | Simple implementation for react query |
+| [PizzaLvr49/Roblox-RPG-Inventory-System](https://github.com/PizzaLvr49/Roblox-RPG-Inventory-System) | 0 | (geen omschrijving op GitHub) |
 | [PlayDanikPlay/FocusLibrary](https://github.com/PlayDanikPlay/FocusLibrary) | 0 | This is Focus Library for Roblox UI |
 | [PlayerZN-Gaming/PlayerZN----Roblox-UI-Libraries](https://github.com/PlayerZN-Gaming/PlayerZN----Roblox-UI-Libraries) | 0 | UI Libraries -- Roblox |
 | [plovik69-beep/dns-changer](https://github.com/plovik69-beep/dns-changer) | 0 | This is suitable for Roblox and other applications; it has been tested only in Roblox. Features: loading icons of places, items, players, and much more in Ro... |
 | [plusbyminuss/epicstrafe](https://github.com/plusbyminuss/epicstrafe) | 0 | Improvements to the original StrafesNET website by fiveman1 |
+| [pointcastle/roblox-safechat-overlay](https://github.com/pointcastle/roblox-safechat-overlay) | 0 | A lightweight, always-on-top classic chat overlay for Roblox, built with wxPython. |
 | [PoisonnHub/Aero](https://github.com/PoisonnHub/Aero) | 0 | A good paid roblox GUI that includes GUI's for multiple games. |
 | [pollerhubfummm/roblox-teleport-gui](https://github.com/pollerhubfummm/roblox-teleport-gui) | 0 | Professionelles Roblox Teleport-System mit erweiterter GUI für Position-Management |
 | [pooiod/RobloxCharacterSelector](https://github.com/pooiod/RobloxCharacterSelector) | 0 | A firefox extension that opens a window with a simple ui to select from one of your roblox characters. |
 | [Poopyuser69/Roblox-by-pass-chat-script-](https://github.com/Poopyuser69/Roblox-by-pass-chat-script-) | 0 | ⚠️we dont have anti ban so if u get banned u get banned⚠️ |
+| [popmanpop/roblox_lox_bat](https://github.com/popmanpop/roblox_lox_bat) | 0 | lox bat script with icon |
 | [Porxiai/Vanta](https://github.com/Porxiai/Vanta) | 0 | **NytrixLib, a Roblox UI Library full of features** |
+| [pr-poehali-dev/roblox-gui-generator](https://github.com/pr-poehali-dev/roblox-gui-generator) | 0 | (geen omschrijving op GitHub) |
 | [preacher-online/Chat-system](https://github.com/preacher-online/Chat-system) | 0 | Simple, elegant, lightweight chat system for Roblox. |
 | [Pro-Robloxian/Notification](https://github.com/Pro-Robloxian/Notification) | 0 | Just a basic Custom Roblox Notification Code. |
+| [ProfDrOsman/ROBLOX-AUTOMATIC-OVERHEAD-GUI-SYSTEM](https://github.com/ProfDrOsman/ROBLOX-AUTOMATIC-OVERHEAD-GUI-SYSTEM) | 0 | (geen omschrijving op GitHub) DESCRİPTİON |
 | [ProFoxyfy/imgui-for-roblox](https://github.com/ProFoxyfy/imgui-for-roblox) | 0 | ImGui style Luau UI library for all your quick debugging needs! (unfinished at the moment) |
 | [PROHUBDEV/PROHUB-FE-V3-NEW-UI-](https://github.com/PROHUBDEV/PROHUB-FE-V3-NEW-UI-) | 0 | new update for my gui for roblox |
 | [prooheckcp/LearningRoact](https://github.com/prooheckcp/LearningRoact) | 0 | Making this project with the sole purpose of learning how to use Roact in Roblox |
@@ -1114,6 +1204,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [pyrokek420/ROBLOXAPI](https://github.com/pyrokek420/ROBLOXAPI) | 0 | A basic python tool which will allow you to interface with the Roblox website in ways such as creating accounts, and performing actions on accounts. |
 | [Qazzman987/Custom-roblox-theme-tampermonkey-](https://github.com/Qazzman987/Custom-roblox-theme-tampermonkey-) | 0 | A custom theme for the roblox website using tampermonkey |
 | [qborder/Serenium](https://github.com/qborder/Serenium) | 0 | A modern, sleek, and customizable Roblox UI library built for clarity and flow. |
+| [QM80/APEX-UI-LIB](https://github.com/QM80/APEX-UI-LIB) | 0 | (geen omschrijving op GitHub) Roblox ui library |
 | [Qquaded/Lynx](https://github.com/Qquaded/Lynx) | 0 | Lynx is a roblox gui library. |
 | [Quamatic/virtua](https://github.com/Quamatic/virtua) | 0 | An easy way create virtualized UI for Roblox. |
 | [QweenKim/Toji-library](https://github.com/QweenKim/Toji-library) | 0 | # Toji library Is a Roblox ui documents. |
@@ -1124,6 +1215,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Radpugguy/Roblox-game-ui-database](https://github.com/Radpugguy/Roblox-game-ui-database) | 0 | Roblox copy of the game ui database |
 | [raii-dev/raii.lib](https://github.com/raii-dev/raii.lib) | 0 | UI Library for ROBLOX |
 | [raimlworks1-art/RSolV2](https://github.com/raimlworks1-art/RSolV2) | 0 | A smooth and Clean roblox Gui library |
+| [RaIna-17/HorizonV3](https://github.com/RaIna-17/HorizonV3) | 0 | Fixed a script list bug Renamed "Form1.cs" (basically the main Neoblox file) to "Neoblox.cs" The multi API selection drop down looks more modern The "Kill Ro... |
 | [RainCreatorHub/Librarys](https://github.com/RainCreatorHub/Librarys) | 0 | Roblox ui Librarys my lib and others ui libs not mine |
 | [raiven4ever/fission](https://github.com/raiven4ever/fission) | 0 | Fission is a typed design-token and component layer for building Roblox interfaces with Fusion. |
 | [rajabjaber24-glitch/CelestiaUi](https://github.com/rajabjaber24-glitch/CelestiaUi) | 0 | Celestia UI Library for Roblox |
@@ -1139,22 +1231,30 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [RealTroyDex/notification-library](https://github.com/RealTroyDex/notification-library) | 0 | Simple roblox notification UI |
 | [Reapimus/phantasm](https://github.com/Reapimus/phantasm) | 0 | Phantasm is a UI engine for Roblox that simplifies the creation of interfaces and makes it easier to handle them. |
 | [Redon-Tech/Discord-Logging-System-Chat-Version-](https://github.com/Redon-Tech/Discord-Logging-System-Chat-Version-) | 0 | A Discord Logging system built for Roblox without the use of webhooks to keep your Discord account safe. |
+| [reimakesgames/inventory-test-rbxts](https://github.com/reimakesgames/inventory-test-rbxts) | 0 | (geen omschrijving op GitHub) |
 | [rejecten/CHURCH-simple-GUI](https://github.com/rejecten/CHURCH-simple-GUI) | 0 | Simple GUI for https://www.roblox.com/games/1068523756/Church |
+| [Reload-astro/roblox-menu-lib](https://github.com/Reload-astro/roblox-menu-lib) | 0 | (geen omschrijving op GitHub) |
 | [remenixdevelopment/Open-Source-Roblox-Inventory-Logger](https://github.com/remenixdevelopment/Open-Source-Roblox-Inventory-Logger) | 0 | Logs roblox account inventories that are public |
 | [renderbase-studios/RobloxTS-Icons](https://github.com/renderbase-studios/RobloxTS-Icons) | 0 | File icons that match the style of Roblox Studio made for RobloxTS with Vanilla 3 icons. |
+| [repositoryrepos/Roblox-ui-menu-website](https://github.com/repositoryrepos/Roblox-ui-menu-website) | 0 | lil roblox ui remake :) |
 | [RequiredModule/ContextFrame](https://github.com/RequiredModule/ContextFrame) | 0 | A module that helps with coding Roblox UI's |
 | [RetroGamesAlt/a09Api-](https://github.com/RetroGamesAlt/a09Api-) | 0 | This a09Api is for my Roblox Gui projects |
 | [revampedbyvamp/devamped-Lib](https://github.com/revampedbyvamp/devamped-Lib) | 0 | Roblox UI library for All Executors |
+| [Rixklinn/ShinraHUb](https://github.com/Rixklinn/ShinraHUb) | 0 | HUD com scripts para Roblox |
 | [rkpkpkjpojpoo/Roblox-Clone](https://github.com/rkpkpkjpojpoo/Roblox-Clone) | 0 | The Clone pack of roblox is fake roblox but designed as same roblox. Paste this codings in your project. to Make a fake roblox. NOTE: The Buttons don't work.... |
 | [Ro-Themes/dark](https://github.com/Ro-Themes/dark) | 0 | Dark Theme for Roblox |
 | [roblox-2283/SecureLoader](https://github.com/roblox-2283/SecureLoader) | 0 | A secure way of running scripts on roblox remotely, allowing user interfaces and applications. |
 | [roblox-tools-hub/roblox-username-to-userid](https://github.com/roblox-tools-hub/roblox-username-to-userid) | 0 | Converte usernames do Roblox em userIDs via API oficial — menu com copiar todos / copiar um |
 | [roblox928/Lemne-gui](https://github.com/roblox928/Lemne-gui) | 0 | Main de scripts roblox diferent |
+| [robxthegoat/devilkings-profio](https://github.com/robxthegoat/devilkings-profio) | 0 | this is my roblox ui profilo |
 | [roger2620/Oil-warfare-GUI](https://github.com/roger2620/Oil-warfare-GUI) | 0 | Oil warfare gui roblox |
+| [rohanperumalla/roblox-chat-color](https://github.com/rohanperumalla/roblox-chat-color) | 0 | (geen omschrijving op GitHub) |
 | [RoStormCreations/Vulsor](https://github.com/RoStormCreations/Vulsor) | 0 | Vulsor - A Simple Roblox UI Library |
 | [royhanantariksaaa/weave-rbx](https://github.com/royhanantariksaaa/weave-rbx) | 0 | A UI library for Roblox inspired by SolidJS and Flutter that is somewhat lightweight. |
 | [royhanantariksaaa/weavekit-rbx](https://github.com/royhanantariksaaa/weavekit-rbx) | 0 | Gui Kit utilising the Weave Roblox Library. |
 | [Ruedyias/Iris-ImGui](https://github.com/Ruedyias/Iris-ImGui) | 0 | Uİ library for roblox |
+| [russianchannel590-lab/RCL-Server](https://github.com/russianchannel590-lab/RCL-Server) | 0 | (geen omschrijving op GitHub) Roblox Chat |
+| [rxpamce/FallenH](https://github.com/rxpamce/FallenH) | 0 | FallenHub - GUI for Roblox |
 | [S2kh/prism](https://github.com/S2kh/prism) | 0 | PRISM — a script menu library for Roblox |
 | [saan1ty/customizable-roblox-33kk-archive](https://github.com/saan1ty/customizable-roblox-33kk-archive) | 0 | A text file of the code used to make the Customizable Roblox theme for UserStyles/Stylish (a Google Chrome extension.) archived from an install of the theme. |
 | [sadia4ek/Neverlose-REUPLOAD-4lpaca](https://github.com/sadia4ek/Neverlose-REUPLOAD-4lpaca) | 0 | Reupload neverlose gui library for roblox, in case of blocking |
@@ -1179,7 +1279,9 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Seco53/YeTechGuiV2](https://github.com/Seco53/YeTechGuiV2) | 0 | My Upgraded Gui for roblox. |
 | [SecoDevYT/Library](https://github.com/SecoDevYT/Library) | 0 | roblox UI Library test |
 | [Seven903/App_Roblox](https://github.com/Seven903/App_Roblox) | 0 | Aplicativo React Native temático Roblox com autenticação JWT e backend Express |
+| [Severitysvc/Overlay-Library](https://github.com/Severitysvc/Overlay-Library) | 0 | (geen omschrijving op GitHub) Roblox User Interface |
 | [Sezei/yafn-UIOverhaul](https://github.com/Sezei/yafn-UIOverhaul) | 0 | An overhaul for the YAFN UI. Game: https://www.roblox.com/games/6946711722/Yet-Another-Funkin-Night-Beta |
+| [Shadercloud/rbxts-react-pie-chart](https://github.com/Shadercloud/rbxts-react-pie-chart) | 0 | (geen omschrijving op GitHub) |
 | [shadowocto/ROverlay](https://github.com/shadowocto/ROverlay) | 0 | Roblox HUD overlay made for Criminality and similar games. |
 | [shahgeee123/Roblox-Scripting-Portfolio](https://github.com/shahgeee123/Roblox-Scripting-Portfolio) | 0 | Vault's Roblox scripting portfolio placement, tycoon, data, inventory, and UI systems built with Luau. |
 | [Shardwielder/InterfaceUtils-rbx](https://github.com/Shardwielder/InterfaceUtils-rbx) | 0 | A collection of reusable modules, elements, util functions and basic images by me that I've found useful for making quality UI in Roblox games. |
@@ -1198,6 +1300,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [SodiumBenjahmin420/Notifications](https://github.com/SodiumBenjahmin420/Notifications) | 0 | Roblox Utils Notification System for Roblox Utils |
 | [solomigg0-debug/noctaer-ui](https://github.com/solomigg0-debug/noctaer-ui) | 0 | Clean and modular Roblox UI library |
 | [Soluna-Development/Library](https://github.com/Soluna-Development/Library) | 0 | An edited version of Fluent Renewed, a Roblox UI Library. This fixes various Bugs that were in the original Version and also gets updated frequently with new... |
+| [sonic671/Blockminecraft](https://github.com/sonic671/Blockminecraft) | 0 | "Script para colocar bloques en Roblox con una GUI estilo Minecraft |
 | [SoNotClose/PhantomOverlay](https://github.com/SoNotClose/PhantomOverlay) | 0 | PhantomOverlay is a UI Library for roblox featuring a modern ui and many features |
 | [Soulstish/SampleRobloxGuiDocs](https://github.com/Soulstish/SampleRobloxGuiDocs) | 0 | A GUI template for Roblox Games |
 | [spade1345/winters-end-v2](https://github.com/spade1345/winters-end-v2) | 0 | A Python text adventure based on ROBLOX game Decaying Winter |
@@ -1212,7 +1315,9 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Sratique/InterfaceWorks-RBX](https://github.com/Sratique/InterfaceWorks-RBX) | 0 | Easy to use reactive UI library for Roblox |
 | [SSickCodes/Teleport_GUI](https://github.com/SSickCodes/Teleport_GUI) | 0 | This is a simple teleport GUI for roblox. |
 | [sslknumcompensa2-boop/eclipse-keys-system](https://github.com/sslknumcompensa2-boop/eclipse-keys-system) | 0 | Sistema de keys para Eclipse Menu - Roblox |
+| [StealPro101/roblox-inventory-proxy](https://github.com/StealPro101/roblox-inventory-proxy) | 0 | (geen omschrijving op GitHub) |
 | [Stebulous/solaris-ui-lib](https://github.com/Stebulous/solaris-ui-lib) | 0 | Solaris UI Library for Roblox |
+| [Steve6546/Roblox-GUI-Translator](https://github.com/Steve6546/Roblox-GUI-Translator) | 0 | (geen omschrijving op GitHub) Repository for https://replit.com/@nkhghug/Roblox-GUI-Translator |
 | [stilkwashere/donation-website-For-roblox](https://github.com/stilkwashere/donation-website-For-roblox) | 0 | CHANGE THE IMAGE TO YOUR AVATAR AND THE BUTTONS TO YOUR LINKS TO ITEMS |
 | [STKnight19185/roblox-inventory-system](https://github.com/STKnight19185/roblox-inventory-system) | 0 | Advanced Roblox Inventory & Drop System with Drag-Drop, Hotkeys, and Item Management |
 | [stormmaster9090/Chat-Commands-Suite-Roblox](https://github.com/stormmaster9090/Chat-Commands-Suite-Roblox) | 0 | Need some easily creatable or pre-made chat commands? Use my module to easily create and use 3 different pre-made chat commands. |
@@ -1224,10 +1329,13 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [StrutinskiiEvheny/print-HelloWorld-](https://github.com/StrutinskiiEvheny/print-HelloWorld-) | 0 | Roblox Creation In Roact First Roblox Game Creation Experience. |
 | [StyearX/CoreUi](https://github.com/StyearX/CoreUi) | 0 | Ui Library which is in the Roblox hubs settings |
 | [Styx-ui/Styx-ui](https://github.com/Styx-ui/Styx-ui) | 0 | StyxUi is a sleek, lightweight, and fully customizable Luau UI library for Roblox |
+| [Suit-Up-Games/roblox-roact-boilerplate](https://github.com/Suit-Up-Games/roblox-roact-boilerplate) | 0 | (geen omschrijving op GitHub) |
 | [SUNGMYEONGGI/roblox-button](https://github.com/SUNGMYEONGGI/roblox-button) | 0 | ✅2022 한이음 로블록스 기능부✅ |
 | [SuperHackerYT/AxionUI](https://github.com/SuperHackerYT/AxionUI) | 0 | Roblox UI Library for executors ig |
+| [superninja1020/roblox-inventory-proxy](https://github.com/superninja1020/roblox-inventory-proxy) | 0 | (geen omschrijving op GitHub) idek |
 | [SweetyHush/PopItCalc](https://github.com/SweetyHush/PopItCalc) | 0 | Simplistic inventory calculator for the Roblox game Pop It Trading. |
 | [Syed930s/SpammX](https://github.com/Syed930s/SpammX) | 0 | spams in roblox chat |
+| [Synaap/idfk-roblox-exector-UI](https://github.com/Synaap/idfk-roblox-exector-UI) | 0 | (geen omschrijving op GitHub) |
 | [SyncOfficialSpec/Rayfield_Gen_2_fanmade](https://github.com/SyncOfficialSpec/Rayfield_Gen_2_fanmade) | 0 | Fan made reimagining of the Rayfield UI library for Roblox Luau |
 | [SyncOfficialSpec/Rayfield_Gen_3_Concept](https://github.com/SyncOfficialSpec/Rayfield_Gen_3_Concept) | 0 | Concept reimagining of the Rayfield UI library for Roblox Luau. Gen 3 [Concept], starting from the Gen 2 fanmade build. |
 | [SyncOfficialSpec/ui-ui-ui-sirius-lib-lib-lib](https://github.com/SyncOfficialSpec/ui-ui-ui-sirius-lib-lib-lib) | 0 | Menu library for Roblox executors, dock and floating panels styled after the Sirius menu. Fanmade. |
@@ -1236,16 +1344,19 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [TeamNunchaku/FusionInterface](https://github.com/TeamNunchaku/FusionInterface) | 0 | A CoreGUI Replacement for ROBLOX. Previously called ProCore. |
 | [TechHog8984/roblox_pack.luau](https://github.com/TechHog8984/roblox_pack.luau) | 0 | a library for converting Roblox data types to and from text |
 | [TechOZero/Random-menu-roblox](https://github.com/TechOZero/Random-menu-roblox) | 0 | Like i said random menu roblox |
+| [techs-sus/better-roblox-chat](https://github.com/techs-sus/better-roblox-chat) | 0 | (geen omschrijving op GitHub) |
 | [TegaBC/rblx-portfolio](https://github.com/TegaBC/rblx-portfolio) | 0 | A portfolio site built for my Roblox development, originally it was a theme built wordpress site but it is now ported to react. |
 | [Tempouemomentum/roblox-modes](https://github.com/Tempouemomentum/roblox-modes) | 0 | Roblox Modes / A localized utility designed to modify and enhance game-world environments across custom experiences. It allows users to execute specialized s... |
 | [TerabyteGames/SystemChatRoblox](https://github.com/TerabyteGames/SystemChatRoblox) | 0 | Sistema de chat do roblox |
 | [teribu/Hirimi-Library](https://github.com/teribu/Hirimi-Library) | 0 | A Roblox UI library built with Luau and designed for modern scripting utilities. |
+| [testing2122/ModernRobloxIDE](https://github.com/testing2122/ModernRobloxIDE) | 0 | A modern UI code editor for Roblox with advanced features |
 | [testing2122/Simple-UI-Roblox](https://github.com/testing2122/Simple-UI-Roblox) | 0 | A clean and simple UI library for Roblox |
 | [Texan-Programmer/stop-reset-roblox](https://github.com/Texan-Programmer/stop-reset-roblox) | 0 | blocks the reset button |
 | [ThatOneKidNamedHod/Roblox-GUI-Menu-button-script](https://github.com/ThatOneKidNamedHod/Roblox-GUI-Menu-button-script) | 0 | Local script on a UI BUTTON. |
 | [The-Hexploiter/RainbowFriends](https://github.com/The-Hexploiter/RainbowFriends) | 0 | The #1 Rainbow Friends GUI Roblox |
 | [theafternetworkprojects/VisualRBXL](https://github.com/theafternetworkprojects/VisualRBXL) | 0 | A custom editor for Roblox that doesn't require any text based coding or hassle! |
 | [TheAimMeister/ChangeRobloxFont](https://github.com/TheAimMeister/ChangeRobloxFont) | 0 | A little script that I wrote in python 3.7.4 that runs a code which replaces Roblox font when ran. |
+| [thecorporation-starscape/starscape-archives](https://github.com/thecorporation-starscape/starscape-archives) | 0 | The txt. file based archives for any written material related to the Roblox space-themed MMO game, Starscape. |
 | [thedagonx10/Inventory-system](https://github.com/thedagonx10/Inventory-system) | 0 | A minecraft like inventory system but in roblox |
 | [TheDudeOnCrack/project-script-booga-hybird](https://github.com/TheDudeOnCrack/project-script-booga-hybird) | 0 | a part of a script gui for a roblox game called booga booga hybird |
 | [thejudge1488/Prim-Ui-lib](https://github.com/thejudge1488/Prim-Ui-lib) | 0 | Primordial.dev ui lib roblox |
@@ -1256,17 +1367,22 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Thuy2y2c/library-junks](https://github.com/Thuy2y2c/library-junks) | 0 | unbelievable looking ui libraries in the Blox Fruits, Roblox community getting collected by Thuy2y2c (wtf) |
 | [TIMOTHY1498/project-rocord](https://github.com/TIMOTHY1498/project-rocord) | 0 | Connects your Roblox game chat into your discord server! |
 | [TinyGamesCoding/Roblox-Safechat-Extension](https://github.com/TinyGamesCoding/Roblox-Safechat-Extension) | 0 | A Google Chrome extension that brings the roblox safechat to (mostly) all text boxes, by right clicking. |
+| [titaniumestar/RobloxInventorySystem](https://github.com/titaniumestar/RobloxInventorySystem) | 0 | (geen omschrijving op GitHub) Luau Script |
 | [tomatotxt/Flooded](https://github.com/tomatotxt/Flooded) | 0 | my roblox flood escape classic gui |
 | [TonySxx/GSWare](https://github.com/TonySxx/GSWare) | 0 | GSWare future GUI for roblox |
+| [TR00LLGUY/Dox-Roblox-GUI](https://github.com/TR00LLGUY/Dox-Roblox-GUI) | 0 | Te permite ver el pais y la hora de los demas jugadores en el server |
 | [Tr4c3rz/TraceUI](https://github.com/Tr4c3rz/TraceUI) | 0 | A lightweight and modular UI library for Roblox. |
+| [TRHeliad/topbarplus-rbxts](https://github.com/TRHeliad/topbarplus-rbxts) | 0 | (geen omschrijving op GitHub) |
 | [triplekarim/triplemantaweb](https://github.com/triplekarim/triplemantaweb) | 0 | Modern React Slop Website for my roblox company (I'm not kidding) |
 | [TROLLERMASTERH/atOm-library](https://github.com/TROLLERMASTERH/atOm-library) | 0 | Gui library for roblox |
 | [tropical-vr/GS-GUI](https://github.com/tropical-vr/GS-GUI) | 0 | Simple Roblox In Game GUI |
 | [troycla/dominal-v](https://github.com/troycla/dominal-v) | 0 | is a roblox gui ment for destroying game's |
+| [truelynemi/Roblox-GUI](https://github.com/truelynemi/Roblox-GUI) | 0 | Roblox UI with my own random changes. |
 | [TsugaRBLX/Roblox-Core-Kit](https://github.com/TsugaRBLX/Roblox-Core-Kit) | 0 | A roblox core kit for the ROBLOX Open-Source Library. This kit includes: A core model, temperature screens, heat and cool buttons and a meltdown. All you nee... |
 | [Tsuveri/CJGui](https://github.com/Tsuveri/CJGui) | 0 | Roblox portable GUI Library |
 | [ttatt-dev/Development-UI-Library](https://github.com/ttatt-dev/Development-UI-Library) | 0 | Used for Roblox Studio development. |
 | [TweakinsStuff/ZephyrForRobloxGui](https://github.com/TweakinsStuff/ZephyrForRobloxGui) | 0 | a repository for my gui made by max and me |
+| [Tygrugt/rblxanalyzer](https://github.com/Tygrugt/rblxanalyzer) | 0 | Python application with a GUI for analyzing and storing information about Roblox games. |
 | [u24208941-hash/Roblox-shop-system](https://github.com/u24208941-hash/Roblox-shop-system) | 0 | A Roblox shop GUI system! |
 | [UmbralTeam/Vortex-UI-Library](https://github.com/UmbralTeam/Vortex-UI-Library) | 0 | A modern and dark-themed UI Library for Roblox |
 | [UnknownDev125/Nexus-Library](https://github.com/UnknownDev125/Nexus-Library) | 0 | Modern, Sleek, Neat, Ui Library For Roblox. |
@@ -1274,6 +1390,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [UntitledFile/.exe](https://github.com/UntitledFile/.exe) | 0 | Its my own gui i made for Roblox |
 | [Urdons/UI](https://github.com/Urdons/UI) | 0 | A solution for making UI in Roblox |
 | [v-champion/vanilla3-icons](https://github.com/v-champion/vanilla3-icons) | 0 | Port of Vanilla3 Icons to VSCode originally created by Eltobb for Roblox Studio. |
+| [v-oidd/chat-tracker](https://github.com/v-oidd/chat-tracker) | 0 | Real‑time Roblox chat logger |
 | [v3lvics/rbx-rolling-gui-sys](https://github.com/v3lvics/rbx-rolling-gui-sys) | 0 | A Free roblox rolling system, with GUI or UI or however you call it. |
 | [valdora46-source/Ui-Library](https://github.com/valdora46-source/Ui-Library) | 0 | ROBLOX Open Source Ui |
 | [Veemoworks/RobloxAPI](https://github.com/Veemoworks/RobloxAPI) | 0 | An open-source GUI App that allows you to interact with Roblox's API freely! |
@@ -1281,6 +1398,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [velez1337fn/trash-library-roblox](https://github.com/velez1337fn/trash-library-roblox) | 0 | thats an UI library for your scripts in roblox! Full open-source |
 | [vervoortkobe/RobloxGameApi](https://github.com/vervoortkobe/RobloxGameApi) | 0 | A backend api for Nxen's game, with dashboard GUI connected to a SQLite Database! |
 | [VG-Xezo/Inventory-Opening-System](https://github.com/VG-Xezo/Inventory-Opening-System) | 0 | A couple of scripts that create an inventory and opening system for Roblox games |
+| [viografiko/roblox-chat-bot](https://github.com/viografiko/roblox-chat-bot) | 0 | (geen omschrijving op GitHub) |
 | [virtualyjunior-ops/aporiaff2](https://github.com/virtualyjunior-ops/aporiaff2) | 0 | Roblox Football Fusion 3 Script. |
 | [vision-core-dev/roblox-kyrylo-ui](https://github.com/vision-core-dev/roblox-kyrylo-ui) | 0 | Fast and easy for creating UI design. |
 | [Vitor13344/Rolox](https://github.com/Vitor13344/Rolox) | 0 | A roblox ui test |
@@ -1293,6 +1411,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [VXR4/UILib](https://github.com/VXR4/UILib) | 0 | Here I share the Roblox UI libraries that I know or have found. |
 | [vyborll/rbxstats](https://github.com/vyborll/rbxstats) | 0 | Search a ROBLOX player's inventory easily. |
 | [vyvegroup/RayfieldModal](https://github.com/vyvegroup/RayfieldModal) | 0 | Rayfield Modal UI Library - Notifications, Console, Confirm Dialogs for Roblox |
+| [walkingsunflower/Classic-Emojis-V1.0-RBLX](https://github.com/walkingsunflower/Classic-Emojis-V1.0-RBLX) | 0 | Roblox Legacy chat mod that allows you to type emojis like in TextChatService |
 | [walterz1111/megahack-ui-library](https://github.com/walterz1111/megahack-ui-library) | 0 | vibecoded megahack ui library on roblox |
 | [watameln/OpenLib](https://github.com/watameln/OpenLib) | 0 | Small library for text completion and chat completion in roblox lua |
 | [whierror/Nsc-TSB-UI](https://github.com/whierror/Nsc-TSB-UI) | 0 | its difficult to switch between executors and roblox so i made this |
@@ -1317,13 +1436,19 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [xSwezan/Optima](https://github.com/xSwezan/Optima) | 0 | Lightweight UI Library for roblox |
 | [Xusnain/RobloxInventorySystem](https://github.com/Xusnain/RobloxInventorySystem) | 0 | Basic roblox inventory System |
 | [xyba1337/Mowing-Masters-GUI](https://github.com/xyba1337/Mowing-Masters-GUI) | 0 | A simple GUI for the roblox game Mowing Masters |
+| [XylonScripts/XylonChatDrawer](https://github.com/XylonScripts/XylonChatDrawer) | 0 | A script that draws images in the roblox chat. |
+| [XyraExe/Roblox-Discord-Ui-Library](https://github.com/XyraExe/Roblox-Discord-Ui-Library) | 0 | (geen omschrijving op GitHub) |
 | [XyzApi/Linoria-UI](https://github.com/XyzApi/Linoria-UI) | 0 | Linoria UI Lib for roblox (NOT MINE) |
 | [Y90G7IYO0987/ThrowSystem](https://github.com/Y90G7IYO0987/ThrowSystem) | 0 | 🎮 Roblox Throw System A complete item throw, equip, and sell system for Roblox with data persistence and UI integration. |
+| [YelAq/Roblox_InventoryPlaceDemo](https://github.com/YelAq/Roblox_InventoryPlaceDemo) | 0 | (geen omschrijving op GitHub) |
+| [Yellernet/2019ifyNOTEAMS](https://github.com/Yellernet/2019ifyNOTEAMS) | 0 | Just a Roblox 2019 Core-Gui* Script without any Teams :( Gui = Graphical User Interface |
 | [yerbowanie/Librarys](https://github.com/yerbowanie/Librarys) | 0 | UI Librarys for roblox, i dont know if shit work or not so dont ask me ok thx |
 | [YoseMX/XSXRecode](https://github.com/YoseMX/XSXRecode) | 0 | Patches and fixes for the roblox gui library XSX for it to work better |
 | [youngboyfan/ApexUI](https://github.com/youngboyfan/ApexUI) | 0 | The Ultimate Roblox UI Library — Fluent Design meets Material You. Premium themes, glass-morphism, and a comprehensive API. |
 | [yPyetroXP/iridiumlibrary](https://github.com/yPyetroXP/iridiumlibrary) | 0 | A Professional UI Library for Roblox. |
 | [zap66/Roblox-UI-Libraries](https://github.com/zap66/Roblox-UI-Libraries) | 0 | Old UI Libraries made by me. |
+| [Zartoooo/roblox-uis](https://github.com/Zartoooo/roblox-uis) | 0 | a collection of roblox ui libs, made by me |
+| [zebraKat/Zed-Blox-ColorScheme](https://github.com/zebraKat/Zed-Blox-ColorScheme) | 0 | Monochrome color theme for Zed. Inspired by Roblox studio's colors. |
 | [zenixhub08/fiber](https://github.com/zenixhub08/fiber) | 0 | An open-source Roblox manager app built with Tauri, React, and TypeScript. |
 | [zentred/roblox-ugc-check-inventory](https://github.com/zentred/roblox-ugc-check-inventory) | 0 | checks your inventory to see what ugc items you own |
 | [Zerrissen/traansuapi](https://github.com/Zerrissen/traansuapi) | 0 | Personal ROBLOX Lua GUI creation API. |

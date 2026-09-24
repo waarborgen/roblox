@@ -30,7 +30,7 @@ Chassis, suspensie, hover, raketten, drijfvermogen en treinen.
 | [cassicoder/boat-game](https://github.com/cassicoder/boat-game) | 0 | Boot-game: Matter ECS + Gerstner-oceaan + drijfvermogen + vissen |
 | [HassanJN66/roblox-vehicle-framework](https://github.com/HassanJN66/roblox-vehicle-framework) | 0 | Raycast-wielen + soft physics body, FWD/RWD/AWD |
 
-## Uitgebreide index (159)
+## Uitgebreide index (177)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -83,7 +83,12 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [vatssavvya/ROBLOX-Obby-Showdown](https://github.com/vatssavvya/ROBLOX-Obby-Showdown) | 1 | A competitive, fast-paced multiplayer obstacle-course racing game built in Roblox. Features skill-based movement mechanics, real-time queues, voting, strateg... |
 | [woody-willis/british-railway-auto-drive](https://github.com/woody-willis/british-railway-auto-drive) | 1 | A Python script that automatically drives the class 170 in British Railway on Roblox. |
 | [WormDude/AeroCraftle](https://github.com/WormDude/AeroCraftle) | 1 | A game for aircraft in the ROBLOX game Aeronautica |
+| [Yusubin/roblox_tronRacing](https://github.com/Yusubin/roblox_tronRacing) | 1 | (geen omschrijving op GitHub) |
+| [0cyrexx/Roblox-Race-car](https://github.com/0cyrexx/Roblox-Race-car) | 0 | (geen omschrijving op GitHub) all speed |
+| [102KIRA/KerbalYT-BABFT-Gui](https://github.com/102KIRA/KerbalYT-BABFT-Gui) | 0 | A gui for Build a boat for treasure in roblox - For executors |
 | [404NotFoundIndonesia/roblox-kang-parkir](https://github.com/404NotFoundIndonesia/roblox-kang-parkir) | 0 | Overcooked meets street brawling. Players take on the role of hyper-competitive street parking attendants ("Tukang Parkir") in a bustling, localized urban en... |
+| [ActionStudiosTM/Drive-a-Car-2-LOVE2D-Edition](https://github.com/ActionStudiosTM/Drive-a-Car-2-LOVE2D-Edition) | 0 | Another edition from Drive a Car 2, Drive a Car 2 LOVE2d is a Pocket Code Game made by Action Studios TM that got Remade for diferent versions including: LOV... |
+| [Admin-Keycc/PRC-Moderator-Vehicle](https://github.com/Admin-Keycc/PRC-Moderator-Vehicle) | 0 | (geen omschrijving op GitHub) Roblox LUA script |
 | [AirBusFG15172/Roblox---HongKong-Train-Simulator](https://github.com/AirBusFG15172/Roblox---HongKong-Train-Simulator) | 0 | Data for HongKong Train Simulator |
 | [Alienduck/tracing_luau](https://github.com/Alienduck/tracing_luau) | 0 | Free library for roblox developers. Based on tracing for Rust, you can create logs easily and debug much faster you're system/game |
 | [amiho-dev/scr-autopilot](https://github.com/amiho-dev/scr-autopilot) | 0 | Welcome to the all-new SCR-Autopilot! This autopilot is for the Roblox game "Stepford County Railway". |
@@ -102,6 +107,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Dahbix/ptfs-plane-randomizer](https://github.com/Dahbix/ptfs-plane-randomizer) | 0 | A plane randomizer for the Roblox game PTFS |
 | [DamnitKvvin/DamnitKvvin.github.io](https://github.com/DamnitKvvin/DamnitKvvin.github.io) | 0 | Kvvin: ROBLOX Developer and Designer. Dive into my portfolio displaying expertise in emergency vehicle outfitting and dynamic lighting within ROBLOX Studio. |
 | [danarsjow/RBLX_Virtual_RefuelorPit_System](https://github.com/danarsjow/RBLX_Virtual_RefuelorPit_System) | 0 | Virtual Refuel or Pit System for Roblox A-Chassis (Use as child of KapKing47's Fuel System\FuelEvent) |
+| [DaveInchy/RobloxVehicleSimulation](https://github.com/DaveInchy/RobloxVehicleSimulation) | 0 | (geen omschrijving op GitHub) |
 | [DevAuthority/DevAuthorityArts](https://github.com/DevAuthority/DevAuthorityArts) | 0 | ROBLOX Developer / UI / GFX / BUILD / SCRIPTS / CAR DEV |
 | [Dew2118/Dispatcher_Guide](https://github.com/Dew2118/Dispatcher_Guide) | 0 | The Dispatching Guide is for the Stepford County Railway in Roblox |
 | [Drexen-Zikauni/RobloxGalaxyPlayerInventorySearch](https://github.com/Drexen-Zikauni/RobloxGalaxyPlayerInventorySearch) | 0 | Uses Github Pages to easily query the Galaxy player ship inventory database. |
@@ -118,14 +124,20 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [hunthunt1212/Roblox-Multicrew-Tank-Comdat-artillery-solver](https://github.com/hunthunt1212/Roblox-Multicrew-Tank-Comdat-artillery-solver) | 0 | This is a side project I am working on to calculate fire of gun and where it will land. |
 | [Hypurrnating/hot-slot-inserter](https://github.com/Hypurrnating/hot-slot-inserter) | 0 | A Roblox GUI which allows players to insert and manage their own slots |
 | [iamrykerpierce-art/Luabu](https://github.com/iamrykerpierce-art/Luabu) | 0 | The fast, flexible Luau runtime built for Roblox developers who want to ship small and medium games without the scaffolding overhead of heavier frameworks. |
+| [imacodr/Flightpath](https://github.com/imacodr/Flightpath) | 0 | Play and manage Jetstream videos on Roblox |
+| [IMBENJI-NET/RobloxTrainChassis](https://github.com/IMBENJI-NET/RobloxTrainChassis) | 0 | (geen omschrijving op GitHub) |
+| [incognitobot-official/roblox-game](https://github.com/incognitobot-official/roblox-game) | 0 | for shipping to cafe |
 | [intriguition/achassis](https://github.com/intriguition/achassis) | 0 | A-Chassis re-script for Roblox |
 | [j75588864-create/c00lkid-roblox-game](https://github.com/j75588864-create/c00lkid-roblox-game) | 0 | A cool Roblox game with flight mechanics, dual weapons (guns and melee), and a destructible map that regenerates |
 | [JawBroke/Waste-of-Space-roblox-game-Ships](https://github.com/JawBroke/Waste-of-Space-roblox-game-Ships) | 0 | collection of codes for ships made in roblox studio, to be imported into Waste of Space |
 | [johnesecat/vandrift](https://github.com/johnesecat/vandrift) | 0 | vandrift gui(beside each file name is a roblox file type(example; {name of object} ClassType; {roblox studio class types})) |
 | [JonathanJosephShokry/SelfDrivingCarInRoblox](https://github.com/JonathanJosephShokry/SelfDrivingCarInRoblox) | 0 | Module script for a self driving car |
 | [kab00038/Fix-It-Up-Fitment-Tracker](https://github.com/kab00038/Fix-It-Up-Fitment-Tracker) | 0 | web app built using pandas and streamlit libraries to easily lookup wheel sizes for cars in the Roblox game Fix It Up |
+| [KallumS/Car-Dressup-Roblox](https://github.com/KallumS/Car-Dressup-Roblox) | 0 | (geen omschrijving op GitHub) |
 | [KeeratP/car-models-roblox](https://github.com/KeeratP/car-models-roblox) | 0 | Car models on roblox consisting of police cars and more. |
 | [kiya0908/ghostdriver](https://github.com/kiya0908/ghostdriver) | 0 | An unofficial, fan-made Ghost Driver Wiki for Roblox — featuring code tracking, vehicle data, tier lists, beginner guides, updates, and SSR-first SEO. |
+| [kymuella/Sell-a-car](https://github.com/kymuella/Sell-a-car) | 0 | (geen omschrijving op GitHub) Roblox game |
+| [LanUAriesEchos/BloxModelchassis](https://github.com/LanUAriesEchos/BloxModelchassis) | 0 | (geen omschrijving op GitHub) Roblox bloxmodel chassis(Bus) |
 | [LeKea/airfrancewebsite](https://github.com/LeKea/airfrancewebsite) | 0 | Official Air France Website for Roblox - A modern and interactive website designed for the Air France virtual experience on Roblox. Featuring flight booking,... |
 | [Luc-JSL/Roblox-Pet-Mutation-Simulator](https://github.com/Luc-JSL/Roblox-Pet-Mutation-Simulator) | 0 | Evolve, mutate, and become the ultimate mutant! Train your character, unlock powerful mutations, battle enemies and bosses, explore mysterious zones, and col... |
 | [LucidPoly/Gamma](https://github.com/LucidPoly/Gamma) | 0 | Gamma is a super simple raytracing library for roblox made with lua. |
@@ -135,7 +147,9 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [maragnus/DeadCamp](https://github.com/maragnus/DeadCamp) | 0 | A co-op Roblox survival road-trip game where players escape a zombie outbreak in an RV, scavenging campsites, gas stations, ranger stations, farms, and aband... |
 | [matheuscr7omelhor-ctrl/roblox-dlss5-graphics](https://github.com/matheuscr7omelhor-ctrl/roblox-dlss5-graphics) | 0 | DLSS5 Advanced Graphics Engine for Roblox - Upscaling, ray tracing simulation, and visual enhancement |
 | [Metatable-Games/metaels](https://github.com/Metatable-Games/metaels) | 0 | A modern 2025 Roblox Vehicle Emergency Lighting System (ELS) written in Luau. |
+| [Metrix223/ray-tracing-to-roblox](https://github.com/Metrix223/ray-tracing-to-roblox) | 0 | (geen omschrijving op GitHub) |
 | [mikenappi/Project-Racer](https://github.com/mikenappi/Project-Racer) | 0 | Roblox Racing Game :) |
+| [MiltonCarWashAdministrator/Milton-Car-Wash](https://github.com/MiltonCarWashAdministrator/Milton-Car-Wash) | 0 | Welcome to, Milton Car Wash : Milton Car Wash is a famous car wash on Roblox Platform! The owner, uhV_kx") He has created multiple rank bots just like this o... |
 | [mistergamev2-eng/cartycoon-](https://github.com/mistergamev2-eng/cartycoon-) | 0 | A car manufacturing tycoon game for Roblox |
 | [mowglii577/roblox-jetski](https://github.com/mowglii577/roblox-jetski) | 0 | A fully functional Jetski vehicle system for Roblox with physics, controls, and effects |
 | [MoziDuarte/Roblox-Car-Game-Lobby](https://github.com/MoziDuarte/Roblox-Car-Game-Lobby) | 0 | Lobby for car game with garage system, cutscene showcase, categories and interactive UI |
@@ -148,6 +162,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [NutMaster828/Trey-Portfolio](https://github.com/NutMaster828/Trey-Portfolio) | 0 | 👋 Hi there! I’m Trey, a Roblox developer and game designer. - 🧱 Experienced in **low & mid-poly building**, **terrain design**, and **car modeling** - 🎮 Focu... |
 | [OffedulDev/autonomous-car-driving](https://github.com/OffedulDev/autonomous-car-driving) | 0 | Roblox Autonomous Car Driving System, to learn more visit the devforum. |
 | [olafier/Roblox-Emergency-Situations-on-Plane](https://github.com/olafier/Roblox-Emergency-Situations-on-Plane) | 0 | Educational Roblox simulation teaching in-flight emergency procedures through hands-on practice, with built-in pre-test/post-test scoring · SP344 Software En... |
+| [OyunStudioTR/Oyunstudiotr](https://github.com/OyunStudioTR/Oyunstudiotr) | 0 | Car Spawnler GUI Roblox Studio https://create.roblox.com/store/asset/120181885238708/Spawn-Car-OyunstudioTr https://www.youtube.com/watch?v=CQK5hL1rYQc&ab_ch... |
 | [pacn3t/robloxracingsim](https://github.com/pacn3t/robloxracingsim) | 0 | Portfolio: Roblox Racing Sim (Mario Kart Inspired) |
 | [pedjoslav-skibidi/Roadscrap](https://github.com/pedjoslav-skibidi/Roadscrap) | 0 | Roblox open-world modular vehicle building and scavenging game |
 | [pinkfloydfan/openwings](https://github.com/pinkfloydfan/openwings) | 0 | roblox's best aircraft system |
@@ -161,6 +176,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [raisethosehorns/raisethosehorns](https://github.com/raisethosehorns/raisethosehorns) | 0 | partybeetle shippers DNI reagan/reggie rivethead selfshipper idk how to use this website roblox username: shockfightfist |
 | [Random751/MTC-direct-fire-calc](https://github.com/Random751/MTC-direct-fire-calc) | 0 | direct fire arty calc for multi tank crew combat on Roblox (17.81 m/s used for gravity) |
 | [Rbloxhaxek/GrabHelicopter](https://github.com/Rbloxhaxek/GrabHelicopter) | 0 | Grabs a helicopter in jailbreak Roblox. |
+| [RbxTheNightByte/Mix-Ware](https://github.com/RbxTheNightByte/Mix-Ware) | 0 | The Mix ware is the best - free - first script on the roblox game "Building Boats" |
 | [redy96705-png/E-O](https://github.com/redy96705-png/E-O) | 0 | Roblox Vehicle Menu UI - ขุดดิน ขึ้นลง สร้างฐาน |
 | [renasonas/AlienEscapeDemo](https://github.com/renasonas/AlienEscapeDemo) | 0 | First Roblox game. A hide and seek experience with aliens hunting humans on a space ship. |
 | [REVIPED/Roshade-ROBLOX-Shaders](https://github.com/REVIPED/Roshade-ROBLOX-Shaders) | 0 | Raytracing like shaders for ROBLOX. |
@@ -172,6 +188,8 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [ShyCape/MTC-Trainer](https://github.com/ShyCape/MTC-Trainer) | 0 | Demonstration of how to play the online roblox game "MTC" multicrew tank combat |
 | [Soskoify/Vstop](https://github.com/Soskoify/Vstop) | 0 | Stop car in Roblox |
 | [SSkirt/American-Airlines.roblox](https://github.com/SSkirt/American-Airlines.roblox) | 0 | An roblox airline made to simulate a flight with Airline named American Airlines |
+| [swishzez/Roblox-VC-anti-suspension](https://github.com/swishzez/Roblox-VC-anti-suspension) | 0 | no more suspensions :)))))) |
+| [TanguyComent/rbxts-car-test](https://github.com/TanguyComent/rbxts-car-test) | 0 | (geen omschrijving op GitHub) |
 | [TANK679/Tank-Roblox-Virus-](https://github.com/TANK679/Tank-Roblox-Virus-) | 0 | Please read the READ ME. |
 | [tatudobenkenee/roblox-flight-system](https://github.com/tatudobenkenee/roblox-flight-system) | 0 | Sistema de voo para Roblox - Script Lua do zero |
 | [tdavidxc/ATCAR](https://github.com/tdavidxc/ATCAR) | 0 | Air Traffic Controller Radar (or ATCAR for short) is a real-time aviation monitoring platform using Python FastAPI, WebSockets, React and PostgreSQL, process... |
