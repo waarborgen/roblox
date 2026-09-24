@@ -99,7 +99,7 @@ Handige plugins voor bouwen, terrain, UI en workflow.
 | [Dekkonot/camera-light-plugin](https://github.com/Dekkonot/camera-light-plugin) | 0 | Plugin die een lamp aan de Studio-camera hangt |
 | [Mystifine/ModelLens](https://github.com/Mystifine/ModelLens) | 0 | Render en exporteer PNG-thumbnails van modellen in Studio (transparant, batch) |
 
-## Uitgebreide index (374)
+## Uitgebreide index (375)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -383,6 +383,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [MrGenie151/ViroProtect](https://github.com/MrGenie151/ViroProtect) | 0 | The first actually GOOD antivirus plugin for Roblox! |
 | [mygonia/RobloxPlugins](https://github.com/mygonia/RobloxPlugins) | 0 | A bunch of plugins I've made |
 | [narsendeavor/plugin](https://github.com/narsendeavor/plugin) | 0 | Roblox Studio Lite utility suite for development, building, scripting, and productivity. |
+| [NathanLithia/RobloxMassAssetComponentExtractor](https://github.com/NathanLithia/RobloxMassAssetComponentExtractor) | 0 | Extract Roblox models as individual OBJ's instead of one big one. |
 | [Neohertz/luau-type-gen](https://github.com/Neohertz/luau-type-gen) | 0 | A simple plugin that generates types for roblox instances. Written with comet v2.0. |
 | [NikolaGluh/RBXTracker](https://github.com/NikolaGluh/RBXTracker) | 0 | Roblox plugin to join players in games easily |
 | [Nimblz/group-as-folder](https://github.com/Nimblz/group-as-folder) | 0 | roblox plugin that allows you to group instances under a folder instance, rather than a model. |

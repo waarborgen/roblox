@@ -24,7 +24,7 @@
 | [DebianCatt/Dynamic-Footsteps-for-Roblox](https://github.com/DebianCatt/Dynamic-Footsteps-for-Roblox) | 0 | Dynamische voetstappen per materiaal |
 | [danijayvv/Erika](https://github.com/danijayvv/Erika) | 0 | Audio-visualizer library |
 
-## Uitgebreide index (240)
+## Uitgebreide index (265)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -147,16 +147,23 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [xLeviadeer/Pressure-Extra-Voicelines](https://github.com/xLeviadeer/Pressure-Extra-Voicelines) | 1 | Adds extra voiceslines to Roblox Pressure when certain events occur |
 | [50ksubsnovideoslol-wq/Roblox-Audio-Downloader](https://github.com/50ksubsnovideoslol-wq/Roblox-Audio-Downloader) | 0 | still in the works but should work soon |
 | [akivab/MIDIPlayerRobloxPlugin](https://github.com/akivab/MIDIPlayerRobloxPlugin) | 0 | Music player in Roblox |
+| [anochj/client-voice-to-text](https://github.com/anochj/client-voice-to-text) | 0 | Connecting Roblox and other clients to be able retrieve user microphone information. |
 | [Applehollyday7/Roblox-Audio-logger](https://github.com/Applehollyday7/Roblox-Audio-logger) | 0 | This is logging in game sound |
 | [ArchLand64/SoundManager](https://github.com/ArchLand64/SoundManager) | 0 | An example of how to prevent overlapping sound playback from overlapping and organizing sound instances in a Roblox Luau module. |
 | [Archtelic/Roblox-Midi](https://github.com/Archtelic/Roblox-Midi) | 0 | Midi to qwerty convertor |
 | [ArrayNone/Roblox-Audio-Codes-Repository](https://github.com/ArrayNone/Roblox-Audio-Codes-Repository) | 0 | A huge list of Roblox Audio IDs collected before the incident (be warned some of these may be copyrighted, and 96% of the audios here doesn't work anyway so...) |
+| [AruissiRAR/RivalShootsounds](https://github.com/AruissiRAR/RivalShootsounds) | 0 | roblox game "rivals" shoot sounds haha |
 | [AustinnK/RBXassetDL](https://github.com/AustinnK/RBXassetDL) | 0 | Tool used for downloading audios off of roblox |
 | [Avocution/Noob-Mod-FNF-Remastered](https://github.com/Avocution/Noob-Mod-FNF-Remastered) | 0 | Thanks to J-Bug cause i take some his songs and remaked them game is beta version but free to play also its week 3 (Pico) Character will be replaced to roblo... |
 | [Awire9966/RobloxSoundArchive](https://github.com/Awire9966/RobloxSoundArchive) | 0 | Just In case any other fuckheads wana come out about their audio being stolen |
+| [AxmNHUB/A-boy-playing-piano-in-the-dark-Roblox-GFX-](https://github.com/AxmNHUB/A-boy-playing-piano-in-the-dark-Roblox-GFX-) | 0 | Hey! This is my first Project on Blender3D, i hope you like it!! |
+| [BenPHays/Roblox-MIDI-PlayerPY](https://github.com/BenPHays/Roblox-MIDI-PlayerPY) | 0 | This is the Python step to the Roblox Game called MIDI Player I created |
+| [BenShapley/roblox-spotify-profile](https://github.com/BenShapley/roblox-spotify-profile) | 0 | Creating a Spotify Profile for your Robloxian |
 | [bibilabu783/LyricsModule](https://github.com/bibilabu783/LyricsModule) | 0 | LyricsModule - Apple Music–style animated song lyrics display 🎵 (for Roblox Studio) |
 | [BlackJackiee/Bumble-Music-Player](https://github.com/BlackJackiee/Bumble-Music-Player) | 0 | Simple roblox music player. Mostly made so I can try out fusion even more >;3 |
+| [blackmany/Beeker](https://github.com/blackmany/Beeker) | 0 | Best-Upcoming Roblox Universal Music App/Tool. |
 | [bloodbonnieking/Roblox-Asset-Dictionary](https://github.com/bloodbonnieking/Roblox-Asset-Dictionary) | 0 | Loops through an Instance and returns a dictionary containing arrays of every asset it found. By assets, I am referring to assets that the engine has to down... |
+| [BlueDragon7327/roblox-oof-sound](https://github.com/BlueDragon7327/roblox-oof-sound) | 0 | this is a download of the roblox oof sound and you can use this to change the roblox oof sound to whatever you want :D |
 | [bombtomblo-wq/Music1.](https://github.com/bombtomblo-wq/Music1.) | 0 | Music sound github for roblox |
 | [Bomsai1/Roblox-Chat-to-Voice-system](https://github.com/Bomsai1/Roblox-Chat-to-Voice-system) | 0 | Self-explanatory: you write something in chat, and it uploads to an audio almost instantly |
 | [brapstu/oof-replacer](https://github.com/brapstu/oof-replacer) | 0 | replace the oof sound in roblox |
@@ -164,6 +171,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [caepris/roblox-graph-editor-prototype](https://github.com/caepris/roblox-graph-editor-prototype) | 0 | Concept prototype for a unified Roblox graph editor (Model, Decorator, Material, Animation, Audio) with a live 3D preview and guided tour. |
 | [Camille-Leon/rblx-audio](https://github.com/Camille-Leon/rblx-audio) | 0 | Very easy to use system for playing audio along with animations in roblox. |
 | [cheezburger69420/Roblox-oof-sound](https://github.com/cheezburger69420/Roblox-oof-sound) | 0 | The code of the Roblox oof sound |
+| [Chichuhei/XUFAW-finder](https://github.com/Chichuhei/XUFAW-finder) | 0 | a program that finds private audio ids in roblox data, and in private inventories. |
 | [ChrisRFlips/Easy-Roblox-Verification-](https://github.com/ChrisRFlips/Easy-Roblox-Verification-) | 0 | <div id="FunCaptcha"><iframe frameborder="0" scrolling="no" id="fc-iframe-wrap" class="fc-iframe-wrap" aria-label=" " title="Please solve this puzzle so we k... |
 | [clonedsource/ROBLOX-Death-Sound-Customizer](https://github.com/clonedsource/ROBLOX-Death-Sound-Customizer) | 0 | A Death Sound Customizer for ROBLOX made entirely in Rust. |
 | [clonedsource/ROBLOX-Death-Sound-Customizer-SOURCE](https://github.com/clonedsource/ROBLOX-Death-Sound-Customizer-SOURCE) | 0 | Just the source code. |
@@ -174,6 +182,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Creaco2/rbxoofreplacer](https://github.com/Creaco2/rbxoofreplacer) | 0 | Brings back the oof sound |
 | [CrispyDesires/Revert-Roblox-Death-Sound](https://github.com/CrispyDesires/Revert-Roblox-Death-Sound) | 0 | A simple Batch script that quickly changes the Roblox death sound |
 | [DaniLecx/OofMusicPlayer](https://github.com/DaniLecx/OofMusicPlayer) | 0 | Oof Music Player is an Android app for listening to popular songs remixed with the Oof sound from Roblox |
+| [DanPianoAuto/DANPANGIT](https://github.com/DanPianoAuto/DANPANGIT) | 0 | Automatic piano player on Roblox |
 | [David-T08/RBX_Spot-Plugin](https://github.com/David-T08/RBX_Spot-Plugin) | 0 | My plugin to interact with Spotify made specifically for Roblox Studio |
 | [Deptr-softwares/Roblox-SFX-library](https://github.com/Deptr-softwares/Roblox-SFX-library) | 0 | This is a library/resources page for skill builders or Roblox development in general. You sort through this library using tags or search here, You're welcome |
 | [Dhinman278/Roblox_Game](https://github.com/Dhinman278/Roblox_Game) | 0 | Permadeath RPG inspired by the popular Japanese animation, My Hero Academia. I am focusing on various aspects of the project, including design—encompassing c... |
@@ -190,17 +199,23 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [gtetteetefad/Auto-Sheet-Music-Player-Roblox](https://github.com/gtetteetefad/Auto-Sheet-Music-Player-Roblox) | 0 | Makes you better at roblox sheet music |
 | [HairBaconGamming/SigmaMIDI-Player](https://github.com/HairBaconGamming/SigmaMIDI-Player) | 0 | The ultimate Roblox Piano Pro: Play any MIDI perfectly with stunning visual effects, smart auto-transpose, and cloud library access. |
 | [Hollower233/UIToolkit](https://github.com/Hollower233/UIToolkit) | 0 | Cross-project reusable client UI utilities for Roblox: click sound, device auto-adapt, generic UI module manager scaffold. |
+| [IgosProjects/Wofer](https://github.com/IgosProjects/Wofer) | 0 | A good roblox sound lib |
 | [InvisibleCrusher/miditoroblox](https://github.com/InvisibleCrusher/miditoroblox) | 0 | A rust program that plays the roblox piano using midi files! |
 | [Ishmum-Nawar-Breehi/Observed_LumosLabs](https://github.com/Ishmum-Nawar-Breehi/Observed_LumosLabs) | 0 | A time-sensitive interactive game developed in Roblox Studio featuring branching narratives and multiple endings based on player choices. Includes puzzle mec... |
 | [ItsEodum/EodumArtzz](https://github.com/ItsEodum/EodumArtzz) | 0 | Hi! My name is Elizabeth most call me Eodum! You may already know me from Youtube but if you don't, I am an artist youtuber, a roblox game developer and a mu... |
 | [ItsSnowia/RobloxPlayerBeta.github.io](https://github.com/ItsSnowia/RobloxPlayerBeta.github.io) | 0 | A github containing some assets for mp3s that I'd use for MP3 Urls example: Garry's Mod - 3D Streams Radio Systems |
 | [ivlake72/RobloxDeathSoundChanger](https://github.com/ivlake72/RobloxDeathSoundChanger) | 0 | simple roblox death sound chager using c# |
+| [JosCorpreal/auto-piano](https://github.com/JosCorpreal/auto-piano) | 0 | Auto piano script for joscorp script roblox talent |
+| [JuriaanGregor/Orchestra](https://github.com/JuriaanGregor/Orchestra) | 0 | Audio SDK for ROBLOX |
+| [kanameQuick/roblox-self-playing-piano](https://github.com/kanameQuick/roblox-self-playing-piano) | 0 | A script that automatically plays notes from a music sheet. |
 | [kelvinsia1201-dot/dee-music-player](https://github.com/kelvinsia1201-dot/dee-music-player) | 0 | roblox bass boost mp3 n roblox audio ids |
 | [kevhuang34/Roblox-melee-combat-system](https://github.com/kevhuang34/Roblox-melee-combat-system) | 0 | A Roblox combat system with server-sided hit detection, custom attack animations, and a special attack with visual and sound effects. |
 | [kilijohann/AutoPiano](https://github.com/kilijohann/AutoPiano) | 0 | play automatic roblox piano with mid |
 | [L3m0n-Cao/old-oof](https://github.com/L3m0n-Cao/old-oof) | 0 | file to replace the new "ouch.ogg" sound in roblox. |
 | [leebenz23009/PalengGwapo](https://github.com/leebenz23009/PalengGwapo) | 0 | Auto Piano Roblox nyahahahhhahahahahaha |
+| [lolxdaaa1/jxkels-midi-pack](https://github.com/lolxdaaa1/jxkels-midi-pack) | 0 | a github repo that I will be releasing midi packs (discord jxkel#2653) (roblox: speed92846) |
 | [Malcomputer/Roblox-oof](https://github.com/Malcomputer/Roblox-oof) | 0 | This was a requested application by a friend in highschool. All it does is play a sound after pressing a button. Uses p5js libraries |
+| [MariDaScripter/TestRepo](https://github.com/MariDaScripter/TestRepo) | 0 | I testing if can put external filé like music in Roblox, idk |
 | [MarioChao/music-player-plugin](https://github.com/MarioChao/music-player-plugin) | 0 | Add sounds to a playlist and play them in Studio! |
 | [MatiDebugging/voiceChat.EN](https://github.com/MatiDebugging/voiceChat.EN) | 0 | voiceChat.EN - A free way of enabling roblox voice chat. |
 | [maxsspeaker/roblox_download_Music](https://github.com/maxsspeaker/roblox_download_Music) | 0 | скрипт чтобы скачивать звуки из roblox |
@@ -219,15 +234,18 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [monespoiryorbana-hub/roblox-melee-combat](https://github.com/monespoiryorbana-hub/roblox-melee-combat) | 0 | A complete beginner-friendly melee combat system for Roblox with animations, damage, cooldowns, health bars, and sound effects |
 | [MrMeowzz/roblox-oof-replacer](https://github.com/MrMeowzz/roblox-oof-replacer) | 0 | Replaces the oof sound (death sound) in Roblox with the old one when you provide your Roblox shortcut! Just run this everytime Roblox updates and you should ... |
 | [MrRos3/Velora](https://github.com/MrRos3/Velora) | 0 | A modular Roblox piano player and GitHub-powered song library. |
+| [NaWoDM99/Custom-Playlist-roblox](https://github.com/NaWoDM99/Custom-Playlist-roblox) | 0 | Custom playlist para Roblox Studio creado por Wheez |
 | [nbitzz/bulk-rbx-sound-dl](https://github.com/nbitzz/bulk-rbx-sound-dl) | 0 | basic bulk roblox sound downloader |
 | [neilbusque/brainblox](https://github.com/neilbusque/brainblox) | 0 | Roblox-style 3D learning obby for kids: jump, answer questions, play with friends over voice. Three.js + Vite. |
 | [NEOMystic/Dawn-of-Doors-Steam-Deck-Music](https://github.com/NEOMystic/Dawn-of-Doors-Steam-Deck-Music) | 0 | Lobby music from Roblox Doors as music pack for Steam Deck AudioLoader |
+| [noahlimadev/Ouch-Roblox](https://github.com/noahlimadev/Ouch-Roblox) | 0 | This stupid program is just a button that you push and make the roblox death sound |
 | [NoRobux/robloxmusic](https://github.com/NoRobux/robloxmusic) | 0 | Sample DatoCMS website built with GatsbyJS |
 | [NotCJSBirdie/FlappyBirdUdemy](https://github.com/NotCJSBirdie/FlappyBirdUdemy) | 0 | If you have played Flappy Bird before and wanted to create your own version of it, then this class is for you! Carl has spent most of his teenage years devel... |
 | [NSXC/RBX-Presence](https://github.com/NSXC/RBX-Presence) | 0 | Display what you are current listening to on Spotify on your Roblox profile |
 | [Nytrix-Dev/NYTRIXPRIME-FREE-NEEDOH-SCRIPTS](https://github.com/Nytrix-Dev/NYTRIXPRIME-FREE-NEEDOH-SCRIPTS) | 0 | A collection of interactive Roblox Studio props with built-in scripts, animations, and sound effects-ready to drag and drop into your game. |
 | [OctaNebula/return-oof-sound](https://github.com/OctaNebula/return-oof-sound) | 0 | A simple program coded in python that returns the iconic "ouch.ogg" sound effect to Roblox. |
 | [PanchoPantera2k/Roblox-Modular-Gun-System](https://github.com/PanchoPantera2k/Roblox-Modular-Gun-System) | 0 | A Modular Open Source Gun System, Easily Add Guns And Change Data. To Add Guns, Duplicate The Assault Rifle, Change Sounds, Change Model, And Welds. When Ref... |
+| [perikIis20M/RobloxPiano](https://github.com/perikIis20M/RobloxPiano) | 0 | Music Player GUI is a Python application that allows users to play music notes through a user-friendly interface. It features note input, adjustable playback... |
 | [phbyte/Roblox-Reset-Sound-Changer](https://github.com/phbyte/Roblox-Reset-Sound-Changer) | 0 | Made with Visual Studio 2022. It just changes the "ouch" sound to whatever you want. |
 | [pitzachef/SpotifyApiLib](https://github.com/pitzachef/SpotifyApiLib) | 0 | a spotify api library for roblox |
 | [plainenglishh/luausdr](https://github.com/plainenglishh/luausdr) | 0 | An experimental pure-Luau Software Defined Radio DSP library. |
@@ -244,6 +262,8 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [schoeneBiene/roblox-death-sound-replacer](https://github.com/schoeneBiene/roblox-death-sound-replacer) | 0 | Replaces the roblox death sound with a custom sound! |
 | [ShadowLiveDiscord/GravityBot](https://github.com/ShadowLiveDiscord/GravityBot) | 0 | Bot Discord pour Gravity Voice - Jeu Roblox |
 | [ShipmasterKyle/Roblox-Music-Association](https://github.com/ShipmasterKyle/Roblox-Music-Association) | 0 | The Website for the Roblox Music Association |
+| [sled45/BringBackTheOof](https://github.com/sled45/BringBackTheOof) | 0 | A easy way to change the Roblox death sound back to the OOF! we all know and love. |
+| [softmodded/spotify-roblox](https://github.com/softmodded/spotify-roblox) | 0 | display your spotify on your roblox profile - silly little prototype |
 | [SomeNiceTables/Roblox-OOF-Changer](https://github.com/SomeNiceTables/Roblox-OOF-Changer) | 0 | Changes the new roblox oof (death) sound with the old one for people who need it. |
 | [Spirit-Wo1f/SoundSpace-Maps-for-Roblox](https://github.com/Spirit-Wo1f/SoundSpace-Maps-for-Roblox) | 0 | i started this project the 7/10/2021 cause i see a lot of pepole playng Sound Space so i make maps every day for coping it on roblox just take all the crappy... |
 | [sprunkiscrunkly/incredibox-kats](https://github.com/sprunkiscrunkly/incredibox-kats) | 0 | Incredibox KATS merges feline-inspired beats with Roblox Studio KATS, enabling interactive music creation in Roblox. A fusion of rhythm and gameplay for imme... |
@@ -258,6 +278,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Synapse512/rbxl-audio-engine](https://github.com/Synapse512/rbxl-audio-engine) | 0 | Module for auto configuration of Roblox audio objects |
 | [tanhongjun666/MIDI](https://github.com/tanhongjun666/MIDI) | 0 | Roblox The Wild West custom MIDIs |
 | [TheEpicFace007/roblox-piano-midi-player](https://github.com/TheEpicFace007/roblox-piano-midi-player) | 0 | midi player for roblox piano games |
+| [TheKitXD/Radio](https://github.com/TheKitXD/Radio) | 0 | radio system i made for a roblox roleplay game |
 | [tonybolivar/lastfm-luau](https://github.com/tonybolivar/lastfm-luau) | 0 | Typed, async API client for Luau (Roblox + Lune). |
 | [UmbreonPlays64/My-Sound-Space-Maps](https://github.com/UmbreonPlays64/My-Sound-Space-Maps) | 0 | You'll need the Sound Space Editor to modify the files properly. |
 | [un1xr00t/GameVoiceGuard](https://github.com/un1xr00t/GameVoiceGuard) | 0 | 🔇 Network-level parental controls for game voice chat. Block voice in Fortnite, Roblox, and Vivox-based games while keeping gameplay working. Protect kids fr... |
@@ -266,9 +287,13 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Wanderer1838/Ro-Voice-Updater](https://github.com/Wanderer1838/Ro-Voice-Updater) | 0 | Just Run as administrator and disable your anti virus because It edits the microphone drivers when roblox launches |
 | [weebweeb/SimpleVisualizer.rbxl](https://github.com/weebweeb/SimpleVisualizer.rbxl) | 0 | A simple music visualizer intended for use on the roblox platform |
 | [WhiteCZ1/API_Audio](https://github.com/WhiteCZ1/API_Audio) | 0 | Roblox API audio importing |
+| [wikiepeidia/ROBLOX-AUDIOS](https://github.com/wikiepeidia/ROBLOX-AUDIOS) | 0 | Repository for messing around with a batch of ROBLOX audios, especially after the Privacy update |
+| [WildWestRoblox/Wild-West-Roblox-MIDI-Files](https://github.com/WildWestRoblox/Wild-West-Roblox-MIDI-Files) | 0 | MIDI files for instruments on the Roblox game The Wild West by Starboard Studios |
+| [WorkSquash/RobloxDeathSounds](https://github.com/WorkSquash/RobloxDeathSounds) | 0 | A repository of funny roblox death sounds... |
 | [xelnae-r/Sound-Manager-Docs](https://github.com/xelnae-r/Sound-Manager-Docs) | 0 | Documentation website for @rbxts/sound-manager |
 | [xxFoxy/foxybot](https://github.com/xxFoxy/foxybot) | 0 | Foxybot is a discord bot created by foxy gaming kid and help by WolfyDaUnknown. It help you to play roblox and sometimes it play music on the server |
 | [YellowPant/Play-function-Roblox-Lua](https://github.com/YellowPant/Play-function-Roblox-Lua) | 0 | This is a simple play function used for sounds or music in Roblox Lua |
 | [ZakiTheDev/SwordSystemRobloxStudio](https://github.com/ZakiTheDev/SwordSystemRobloxStudio) | 0 | Roblox Studio Sword System with very precise damage and sounds |
+| [zL4mpY/NoCH.BB](https://github.com/zL4mpY/NoCH.BB) | 0 | A program that allows you to use any song in game called Beat Bounce in Roblox. |
 
 [← Terug naar overzicht](../README.md)

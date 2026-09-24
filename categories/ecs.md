@@ -86,7 +86,7 @@ Entity Component Systems en frameworks voorbij Knit.
 | [zblox164/Scrypt](https://github.com/zblox164/Scrypt) | 1 | Scrypt-framework |
 | [ZacharyVanier/VZNCore-Template](https://github.com/ZacharyVanier/VZNCore-Template) | 0 | Batteries-included ECS-framework template |
 
-## Uitgebreide index (355)
+## Uitgebreide index (357)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -246,6 +246,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [AlexeyLegasov63/TinyFrameworkRbx](https://github.com/AlexeyLegasov63/TinyFrameworkRbx) | 0 | Tiny Roblox Framework would be the best solution for fast start. |
 | [alexmercier25/Enoria-VSCode-Snippets](https://github.com/alexmercier25/Enoria-VSCode-Snippets) | 0 | Nice Enoria Roblox Lua GUI Framework snippets to save you time. |
 | [alexzinyew/sauce2](https://github.com/alexzinyew/sauce2) | 0 | Command framework for roblox |
+| [andrewens/example-roblox-architecture](https://github.com/andrewens/example-roblox-architecture) | 0 | This project demonstrates how I build a test-driven architecture for a ROBLOX game |
 | [andrewens/joist](https://github.com/andrewens/joist) | 0 | testing framework for roblox game development |
 | [AngelAvilesSil/roblox-ts-starter-kit](https://github.com/AngelAvilesSil/roblox-ts-starter-kit) | 0 | Reusable Roblox TypeScript starter kit built with roblox-ts. Provides server/client structure, lifecycle services/controllers, typed RemoteEvent helpers, reu... |
 | [ANormalDude14/Jorex](https://github.com/ANormalDude14/Jorex) | 0 | roblox framework ive developed |
@@ -369,6 +370,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [prooheckcp/Unit](https://github.com/prooheckcp/Unit) | 0 | This is a full Roblox game framework that has been inspired in the Unity platform. It allows the user to organize his Instances the same way he would organiz... |
 | [Qquaded/LuaCSS-Roblox-Reactive-UI-Framework](https://github.com/Qquaded/LuaCSS-Roblox-Reactive-UI-Framework) | 0 | LuaCSS is a roblox UI Framework that imitates css, But in Roblox. |
 | [R-unic/componentize](https://github.com/R-unic/componentize) | 0 | A component system for Roblox, optionally using tags |
+| [R-unic/flamework-instance-pooling](https://github.com/R-unic/flamework-instance-pooling) | 0 | Classes to pool Roblox instances, UIPool and PartPool included |
 | [rabbitcode981-byte/Lovarip-Framework---Roblox-2D-Graphical-Libary](https://github.com/rabbitcode981-byte/Lovarip-Framework---Roblox-2D-Graphical-Libary) | 0 | A perfect way to rapid prototyping with LOVE2D-like Syntax on roblox studio,NOTHING IS IMPOSSIBLE |
 | [RAMPAGELLC/knight.ts](https://github.com/RAMPAGELLC/knight.ts) | 0 | The Knight Framework for Roblox.ts |
 | [Razorboot/rb-zones](https://github.com/Razorboot/rb-zones) | 0 | Interactive 3D documentation and implementation guide for an Instance-backed Roblox zone framework. |

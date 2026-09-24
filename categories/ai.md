@@ -42,7 +42,7 @@ Neurale netwerken, behavior trees, pathfinding, boids en LLM-NPC's.
 | [sebastianboscan/roblox-ai-npc](https://github.com/sebastianboscan/roblox-ai-npc) | 0 | NPC's die natuurlijke taal via TextGenerator omzetten in acties |
 | [Murned/roblox-boid-flocking](https://github.com/Murned/roblox-boid-flocking) | 0 | Drone-zwerm met Reynolds' boids + spatial grid |
 
-## Uitgebreide index (108)
+## Uitgebreide index (111)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -99,6 +99,8 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Dyverblox/Sistema-de-di-logos-NPC-Roblox-Studio](https://github.com/Dyverblox/Sistema-de-di-logos-NPC-Roblox-Studio) | 0 | Scripts correspondientes al video tutorial |
 | [eralijan008-lgtm/roblox-bear-script](https://github.com/eralijan008-lgtm/roblox-bear-script) | 0 | Roblox aggressive bear NPC с анимациями атак (лапа, укус), системой здоровья и механикой отвлечения медом |
 | [eyvanlol/Roblox-NPC](https://github.com/eyvanlol/Roblox-NPC) | 0 | This is my project on Roblox interactive and non-interactive NPC |
+| [FlowAshley/Priority](https://github.com/FlowAshley/Priority) | 0 | Priority based state machine for Roblox |
+| [FlowAshley/Priority4](https://github.com/FlowAshley/Priority4) | 0 | Priority based state machine for Roblox |
 | [g0ofycat/rl_framework](https://github.com/g0ofycat/rl_framework) | 0 | Reinforcement Learning Framework for small models in Roblox |
 | [Gabzouul/npc-game](https://github.com/Gabzouul/npc-game) | 0 | Roblox multiplayer NPC deception game |
 | [GandalfWisdom/PathBuddy](https://github.com/GandalfWisdom/PathBuddy) | 0 | A basic pathfinding Humanoid mover for Roblox. |
@@ -141,6 +143,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [sean-mullens/Roblox-AStar](https://github.com/sean-mullens/Roblox-AStar) | 0 | Simple 3D pathfinding alg I made |
 | [SilviaTormo/aura-farm](https://github.com/SilviaTormo/aura-farm) | 0 | Aura Farm: Roblox aura-farming game pilot (poses, duels, judged training, NPC crowd) |
 | [Stiexeno/roblox-csharp-state-management](https://github.com/Stiexeno/roblox-csharp-state-management) | 0 | C# state machine plugin for roblox-csharp. Pure C# states with optional lifecycle markers (IEnter/IExecutable/...) driven by RunService and resolved through DI. |
+| [SUMER9999dev/Neural-Link-LUAU](https://github.com/SUMER9999dev/Neural-Link-LUAU) | 0 | Nice Neural Link for Roblox |
 | [techs-sus/net](https://github.com/techs-sus/net) | 0 | neural network for roblox, and some scripts about it! |
 | [teckuxa/Roblox-Wandering-NPC-name-with-random-chat-messages](https://github.com/teckuxa/Roblox-Wandering-NPC-name-with-random-chat-messages) | 0 | Script that will turn you into wandering npc that will type random pre-made messages in chat! Only works in Roblox because of chat scripts |
 | [TJagain/Pathfinding-Testing](https://github.com/TJagain/Pathfinding-Testing) | 0 | Attempted implementation of the 3D Field D* pathfinding algorithm into Roblox Studio using Lua |
