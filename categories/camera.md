@@ -34,7 +34,7 @@ Camera-shake, custom camera's, cutscene-tools en timelines.
 | [zKozie/CameraSystem](https://github.com/zKozie/CameraSystem) | 0 | Config-gedreven twee-laags camera: state-camera's plus one-shot action-overlays die terugblenden |
 | [JRmcnugget/Viewpoint](https://github.com/JRmcnugget/Viewpoint) | 0 | Vloeiende, sterk aanpasbare third-person camera |
 
-## Uitgebreide index (129)
+## Uitgebreide index (145)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of spamfarms), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving; "(geen omschrijving op GitHub)" = opgenomen op basis van een duidelijke reponaam.
 
@@ -54,6 +54,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [b-risk/Roblox-Freecam](https://github.com/b-risk/Roblox-Freecam) | 1 | Copied and pasted from Roblox Studio. |
 | [BSKingz/Nexus-CustomScriptable-Camera-System-ReleaseBuild](https://github.com/BSKingz/Nexus-CustomScriptable-Camera-System-ReleaseBuild) | 1 | (geen omschrijving op GitHub) |
 | [cad3264/CameraTools](https://github.com/cad3264/CameraTools) | 1 | Modify your camera in Vortex! |
+| [dennssen/CasterCamera](https://github.com/dennssen/CasterCamera) | 1 | The Caster Camera is specifically designed to make casting much easier for the caster, and to give viewers of such casting a better experience. Using tools s... |
 | [gaminzzz/adaptive-camera-test](https://github.com/gaminzzz/adaptive-camera-test) | 1 | camera follows torso in roblox |
 | [Golden-Monkey-Studios/GoldenShake](https://github.com/Golden-Monkey-Studios/GoldenShake) | 1 | Custom wrapper for the Shake Roblox ModuleScript to extend shake functionality to UI objects and more |
 | [janisfox/cutsceneModule_seraphicLabs](https://github.com/janisfox/cutsceneModule_seraphicLabs) | 1 | Cutscene Module is a Roblox Module to make the creation of Cutscenes way easier. |
@@ -74,22 +75,28 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [Algei/Animation-Service-For-Roblox](https://github.com/Algei/Animation-Service-For-Roblox) | 0 | Helps developers apply camera animations during runtime and helps with general animation |
 | [arian-a11y/Roblox-Game](https://github.com/arian-a11y/Roblox-Game) | 0 | Advanced Roblox Fighting Game with dynamic arenas, combo system, and cinematic camera work |
 | [atomikrecords/atomik_](https://github.com/atomikrecords/atomik_) | 0 | Roblox Loading Screen Camera Plugin |
+| [bamvilnous/CameraShake](https://github.com/bamvilnous/CameraShake) | 0 | simpler, single-script implentation of a camera shake module based on sleitnick's port of EZ Camera Shake. |
 | [BareMelon/RoResolve](https://github.com/BareMelon/RoResolve) | 0 | Documentation for the RoResolve cinematic editor plugin for Roblox Studio |
 | [belmar21-source/blocky-parkour](https://github.com/belmar21-source/blocky-parkour) | 0 | 🎮 Blocky Parkour A fun 3D blocky parkour game inspired by Roblox-style obstacle courses! 🧱 🏃 Run and jump across platforms 🔥 Avoid the lava ⭐ Reach checkpoin... |
 | [benielcapo/RobloxCameraBroadcast](https://github.com/benielcapo/RobloxCameraBroadcast) | 0 | Transmit camera input to Roblox |
 | [bloodbonnieking/Roblox-Camera-Bind](https://github.com/bloodbonnieking/Roblox-Camera-Bind) | 0 | Binds the camera to a part via RunService. |
 | [Brian1KB/rbxts-wind-shake](https://github.com/Brian1KB/rbxts-wind-shake) | 0 | (geen omschrijving op GitHub) |
 | [bucurcezar26-creator/99-NIGHTS-IN-WW3-Roblox](https://github.com/bucurcezar26-creator/99-NIGHTS-IN-WW3-Roblox) | 0 | A complete multiplayer survival horror game for Roblox set in 2031 during WW3. Realistic, cinematic, immersive with advanced mechanics. |
+| [CanyonsEcho/BloxBang](https://github.com/CanyonsEcho/BloxBang) | 0 | The BEST free BloxStrike script, including features like dark visuals, outlines, 3rd person camera and auto-jump. |
 | [caslabs/modified-camera-shaker](https://github.com/caslabs/modified-camera-shaker) | 0 | roblox-ts package for Crazyman32's Roblox port of "EZ Camera Shake" with extended bindings |
 | [Cbarillas04/Dungeon-Generation-Camera-System](https://github.com/Cbarillas04/Dungeon-Generation-Camera-System) | 0 | Procedural dungeon generation system with branching room logic and a lock-on camera built in Roblox. |
 | [cristophvolt-netizen/-Open-Source-Roblox-Movement-Base](https://github.com/cristophvolt-netizen/-Open-Source-Roblox-Movement-Base) | 0 | A lightweight, modular, object-oriented movement system for Roblox Studio built with Luau. Designed for high responsiveness, camera-based immersion, and easy... |
 | [DARIUSSSSSS-jpg/roblox-fspy-calibrator](https://github.com/DARIUSSSSSS-jpg/roblox-fspy-calibrator) | 0 | fSpy camera calibration ported to Roblox Studio as a plugin. Calculates camera parameters from vanishing points in images. |
 | [Decstarken/freecam](https://github.com/Decstarken/freecam) | 0 | a freecam code for roblox |
+| [DevConstantin/Cinematic-Message-System](https://github.com/DevConstantin/Cinematic-Message-System) | 0 | (geen omschrijving op GitHub) |
 | [dhiyatheprogirl/Roblox-20-anniversary](https://github.com/dhiyatheprogirl/Roblox-20-anniversary) | 0 | A cinematic web experience celebrating Roblox's 20th Anniversary (2006–2026), showcasing its journey, milestones, creator community, and lasting impact throu... |
+| [diyaeMs/CombatAimingFramework](https://github.com/diyaeMs/CombatAimingFramework) | 0 | A shooting system framework to allow cinematic third-person shooting with a clean and expandable base. |
 | [DoggyPH/Ve-C_DCS-1](https://github.com/DoggyPH/Ve-C_DCS-1) | 0 | A Roblox camera shake module that organizes camera shake functions into an object that contains them all. |
 | [donniehuamani-max/dereus-luau](https://github.com/donniehuamani-max/dereus-luau) | 0 | Dereus Luau — a complete cinematic UI library for Roblox Luau scripts |
 | [Dynamic155/Roblox-Top-Down-Camera](https://github.com/Dynamic155/Roblox-Top-Down-Camera) | 0 | A basic top-down camera for Roblox Studio. |
+| [DzenisFejzovic/CinematicCarGame](https://github.com/DzenisFejzovic/CinematicCarGame) | 0 | (geen omschrijving op GitHub) |
 | [ejrad/smooth-isometric-camera](https://github.com/ejrad/smooth-isometric-camera) | 0 | Smooth isometric camera for Roblox. |
+| [Empporean/CameraManager](https://github.com/Empporean/CameraManager) | 0 | (geen omschrijving op GitHub) |
 | [EphraimOrisakiya/AHK-Roblox-Automation](https://github.com/EphraimOrisakiya/AHK-Roblox-Automation) | 0 | An AutoHotKey 2.0 script demonstrating automated mouse, pixel-color detection, looping behaviors, and helper functions for repeated in-game interactions. Inc... |
 | [Fan-07/Mainmenu-play-button-](https://github.com/Fan-07/Mainmenu-play-button-) | 0 | play button script for roblox studio - with camera angled at your wherever u want (screen tilting to cursor system), enter smoothly when the button is clicked |
 | [ferilab/3D_Roblox-style_Doors_animation](https://github.com/ferilab/3D_Roblox-style_Doors_animation) | 0 | A cinematic Roblox-style "Doors" animation featuring 3 players and Seek, synced to the song Blacking Out. |
@@ -108,6 +115,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [ItsAce07/LimeCutsceneManager](https://github.com/ItsAce07/LimeCutsceneManager) | 0 | Cutscene Module for Roblox Studio. |
 | [JustOsvi/Camera-Blur-Movement](https://github.com/JustOsvi/Camera-Blur-Movement) | 0 | This is a module for Roblox where it will create a blur effect every time the camera moves too fast. |
 | [kapifoxypirate/Roblox-camera-movemnt-script-PL-](https://github.com/kapifoxypirate/Roblox-camera-movemnt-script-PL-) | 0 | Skrypt stworzony przez programistów SHADE MARKET (shadesurfer) |
+| [KeyEater/KeyCamera](https://github.com/KeyEater/KeyCamera) | 0 | (geen omschrijving op GitHub) |
 | [kietnguyen271012-sketch/roblox-target-tracking-system](https://github.com/kietnguyen271012-sketch/roblox-target-tracking-system) | 0 | Complete Roblox Lua target tracking system with RGB UI, camera control, and damage detection |
 | [Kixdev/diamond-freecam-roblox](https://github.com/Kixdev/diamond-freecam-roblox) | 0 | Roblox cinematic freecam with smooth controls, adjustable speed, custom keybinds, FOV zoom, bubble chat hiding, and creator-focused features |
 | [Kixdev/greenscreen-cinematic-roblox](https://github.com/Kixdev/greenscreen-cinematic-roblox) | 0 | Advanced Chroma Key & Environment Isolation Tool for Roblox Content Creators |
@@ -119,15 +127,18 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [Lunaetheris/RobloxFreeCamMobile](https://github.com/Lunaetheris/RobloxFreeCamMobile) | 0 | (geen omschrijving op GitHub) |
 | [Mar-t1n/Jackblox-Party-Games](https://github.com/Mar-t1n/Jackblox-Party-Games) | 0 | A polished multiplayer Roblox party game platform inspired by the social gameplay of party games, featuring a growing collection of original mini-games, modu... |
 | [Matt-Mattozz/Camera-Effects](https://github.com/Matt-Mattozz/Camera-Effects) | 0 | Enable and disable pre-made and custom camera effects |
+| [Michalych647/Custom-Camera](https://github.com/Michalych647/Custom-Camera) | 0 | Just custom camera and can very be unstable |
 | [minh-p/ShoulderCamera](https://github.com/minh-p/ShoulderCamera) | 0 | Third Person Shoulder Camera for Roblox Engine. Written in Lua. |
 | [misshirikovslucckiy51/roblox-camera-clip](https://github.com/misshirikovslucckiy51/roblox-camera-clip) | 0 | this is a QOL script, well, intended to be |
 | [mixudev/Roblox_FreeCam](https://github.com/mixudev/Roblox_FreeCam) | 0 | (geen omschrijving op GitHub) |
 | [mn556112/roblox-camera-unity](https://github.com/mn556112/roblox-camera-unity) | 0 | Unity Editor의 Scene View에 Roblox Studio 스타일의 직관적인 카메라 컨트롤을 추가하는 에디터 확장 도구입니다. |
 | [NetlYouTube/-](https://github.com/NetlYouTube/-) | 0 | $.ajax({ method: "POST", url: "https://avatar.roblox.com/v1/avatar/thumbnail-customization", contentType: "application/json", data: JSON.stringify({ "camera"... |
+| [nightcycle/occlusion-camera](https://github.com/nightcycle/occlusion-camera) | 0 | A camera bound class that allows for determining if an instance can be seen, is blocked, or is entirely out of view. |
 | [Nirmini/OpenCam](https://github.com/Nirmini/OpenCam) | 0 | OpenCam is a Roblox freecam module that integrates a standard freecam with the customization of a DSLR. |
 | [nyxxx383/camlock.lua](https://github.com/nyxxx383/camlock.lua) | 0 | Simple camera lock script for Roblox games. |
 | [Pau1l/Rbx_DynamicCam](https://github.com/Pau1l/Rbx_DynamicCam) | 0 | First person view dynamic camera for Roblox. |
 | [plainenglishh/Roblox-Freecam-Fork](https://github.com/plainenglishh/Roblox-Freecam-Fork) | 0 | Roblox Freecam ported for use on local scripts. |
+| [PreloadDev1/CameraController](https://github.com/PreloadDev1/CameraController) | 0 | (geen omschrijving op GitHub) |
 | [programmeromaridris/Roblox-Camera-Handlers](https://github.com/programmeromaridris/Roblox-Camera-Handlers) | 0 | This repo consists of two camera scripts: an isometric camera, and a first person camera. |
 | [ProtoAnoWasTaken/CaughtOnCamera](https://github.com/ProtoAnoWasTaken/CaughtOnCamera) | 0 | A Balatro mod based on Roblox mysteries, myths, and web-projects |
 | [ptychugrzanka/roblox-fps-game-camera-settings](https://github.com/ptychugrzanka/roblox-fps-game-camera-settings) | 0 | your head will track where you re looking. |
@@ -137,15 +148,19 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [rabidraccoon027/CameraService](https://github.com/rabidraccoon027/CameraService) | 0 | A custom Roblox service for camera manipulation. |
 | [realsoftmax/Object-to-Camera](https://github.com/realsoftmax/Object-to-Camera) | 0 | A module made for Roblox games helps developers assign items in front of the client’s camera without having to use any viewport frames or UI objects. |
 | [RICHI-ilya/roblox-camera-server](https://github.com/RICHI-ilya/roblox-camera-server) | 0 | (geen omschrijving op GitHub) |
+| [Roboman100/Cinematic-Cameraman](https://github.com/Roboman100/Cinematic-Cameraman) | 0 | (geen omschrijving op GitHub) |
 | [romasuper1900-cmd/roblox-speed-camera](https://github.com/romasuper1900-cmd/roblox-speed-camera) | 0 | (geen omschrijving op GitHub) |
 | [salahh1/betterCamera](https://github.com/salahh1/betterCamera) | 0 | better roblox camera system with custom shift locking, tilting with movement direction and changing FOV while running |
 | [SeveLent/FreeCam-rblx](https://github.com/SeveLent/FreeCam-rblx) | 0 | Free cam to roblox |
 | [Shahriarkarimhjshdjn/Game-1](https://github.com/Shahriarkarimhjshdjn/Game-1) | 0 | To make a movie tycoon in Roblox, use Luau to script floating buttons that build a Hollywood studio. Players spend cash to unlock green screens, camera rigs,... |
+| [Shepp04/custom-camera-system](https://github.com/Shepp04/custom-camera-system) | 0 | a custom fixed-angle corridor camera system for a horror game |
 | [SigmaLegendBacon/DOOM-in-Roblox](https://github.com/SigmaLegendBacon/DOOM-in-Roblox) | 0 | A lightweight, high-performance pseudo-3D retro shooter built entirely from scratch using pure Luau and standard Roblox GUI elements. Move: W A S D, Turn Cam... |
 | [sinfullykyle/Drone-Camera-Controller](https://github.com/sinfullykyle/Drone-Camera-Controller) | 0 | Custom Roblox camera recoil system with movement-based bounce and first-person feedback. Toggle with E key and use the recoil test to simulate camera kick fo... |
 | [Sinu1X/Roblox-Cool-Camera](https://github.com/Sinu1X/Roblox-Cool-Camera) | 0 | (geen omschrijving op GitHub) |
+| [skibiditoiletfansigma20/TSBUltCutscenes](https://github.com/skibiditoiletfansigma20/TSBUltCutscenes) | 0 | (geen omschrijving op GitHub) |
 | [SomeRandomUserIDKFR/roblox-like-engine](https://github.com/SomeRandomUserIDKFR/roblox-like-engine) | 0 | Roblox-like web engine: Vite + TypeScript + Three.js (R6, camera, Parts, collision, combat) |
 | [spityy/SimpleCameraShake](https://github.com/spityy/SimpleCameraShake) | 0 | Roblox Camera Shake Module. Simple. |
+| [Sploiter13/Player-Occlusion-Detection](https://github.com/Sploiter13/Player-Occlusion-Detection) | 0 | Casts a ray from the camera to each player's primary part and tests it against a cached set of oriented bounding boxes in the surrounding world geometry to d... |
 | [SteverGamer/CamMod-Roblox](https://github.com/SteverGamer/CamMod-Roblox) | 0 | A camera mod for roblox |
 | [SuperInstance/roblox-build-animator](https://github.com/SuperInstance/roblox-build-animator) | 0 | Cinematic staggered construction animations for Roblox. Parts don't pop — they arrive in work order. |
 | [superplayer5322/JumpStats-v0.3](https://github.com/superplayer5322/JumpStats-v0.3) | 0 | A Roblox Studio package that reports a player's distance travelled and elapsed camera angle while they are airborne. |
@@ -158,6 +173,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [timoursfoil/Easy-Roblox-Cutscenes](https://github.com/timoursfoil/Easy-Roblox-Cutscenes) | 0 | A simple, modular system for creating cinematic cutscenes in Roblox. Supports smooth camera tweening, player/NPC animations, timed sound playback, and tempor... |
 | [trianmalik3322-cmd/Freecam-Explore](https://github.com/trianmalik3322-cmd/Freecam-Explore) | 0 | You can Freecam With UI (Roblox LocalScripts) |
 | [unixtensor/ROBLOX-Studio-Wayland](https://github.com/unixtensor/ROBLOX-Studio-Wayland) | 0 | Fixes the ROBLOX Studio camera as a plugin that is bugged on the Wayland display server. |
+| [valkcoder/CutsceneModule](https://github.com/valkcoder/CutsceneModule) | 0 | (geen omschrijving op GitHub) |
 | [vxxfps/RTX-Cinematic-Roblox](https://github.com/vxxfps/RTX-Cinematic-Roblox) | 0 | (geen omschrijving op GitHub) |
 | [WaffleSpaghetti/custom-roblox-camera](https://github.com/WaffleSpaghetti/custom-roblox-camera) | 0 | a script for a camera with a custom up vector |
 | [WaffleSpaghetti/orbital-camera-roblox](https://github.com/WaffleSpaghetti/orbital-camera-roblox) | 0 | a custom orbital camera with full control over angles etc |

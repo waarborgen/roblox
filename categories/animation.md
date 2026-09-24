@@ -78,7 +78,7 @@ Animatie-solvers, IK, Blender/Mixamo-pipelines, procedurele animatie en springs.
 | [realllityyt/myanimator](https://github.com/realllityyt/myanimator) | 0 | Animaties per ledemaat mixen: crossfade, additive layers, events |
 | [purpulhq/character-tilt](https://github.com/purpulhq/character-tilt) | 0 | Kantelt het character mee met de kijkrichting van de camera |
 
-## Uitgebreide index (420)
+## Uitgebreide index (446)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of spamfarms), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving; "(geen omschrijving op GitHub)" = opgenomen op basis van een duidelijke reponaam.
 
@@ -165,6 +165,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [YatoVoid/Blender](https://github.com/YatoVoid/Blender) | 1 | Blender practice files: a table with its UV layout, a lamp and a Roblox style ground |
 | [0bl1v/Solix](https://github.com/0bl1v/Solix) | 0 | Modern, smooth UI library for Roblox with beautiful animations and professional components. |
 | [67564564643/Blender-FBX-Armature-Manager](https://github.com/67564564643/Blender-FBX-Armature-Manager) | 0 | Add-on for blender to export all the animations/actions of a selected armature/rig in one click as an FBX file. Mainly to be used for custom rigs made in ble... |
+| [8ch32bit/AntiMaliciousAnimsTemplate](https://github.com/8ch32bit/AntiMaliciousAnimsTemplate) | 0 | A template script that will kill/kick players who play a detected inappropriate animation. There are 2 IDs there already but you will have to add more yourself |
 | [aaaaakif1/eight-ball-knockout-game](https://github.com/aaaaakif1/eight-ball-knockout-game) | 0 | Multiplayer Roblox arena game featuring Lua gameplay systems, custom user interfaces, animations, minigames and 3D environments. |
 | [abcmateusz/Npc-Animation-Script](https://github.com/abcmateusz/Npc-Animation-Script) | 0 | Simplified Roblox Npc Animation Script |
 | [abisht-14/avatar-viewer](https://github.com/abisht-14/avatar-viewer) | 0 | Browser-based 3D viewer for Roblox avatar rigs, layered clothing, and cage deformers with performance profiling. Built with Three.js. |
@@ -191,17 +192,21 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [avuleee/How-To-Create-A-Roblox-GFX](https://github.com/avuleee/How-To-Create-A-Roblox-GFX) | 0 | this github will show u how to make a roblox gfx. blender roblox gfxs are a little better than roblox-studio-made ones. |
 | [AYNDroid/EmotePanelGUI](https://github.com/AYNDroid/EmotePanelGUI) | 0 | Emote panel for Roblox |
 | [aziz8235/roblox-luau-game-framework](https://github.com/aziz8235/roblox-luau-game-framework) | 0 | Open-source Roblox/Luau framework for reusable multiplayer systems, combat architecture, client/server logic, UI state, animation timing, debugging, and test... |
+| [AzmXYZ/Sun-Animator-Source-Code](https://github.com/AzmXYZ/Sun-Animator-Source-Code) | 0 | Use for analysis on how to build Eclipse Animator. |
 | [b-risk/Roblox-Emotes](https://github.com/b-risk/Roblox-Emotes) | 0 | Please give me credit if you use this. |
 | [BaconPizzazz/haybale-gamers](https://github.com/BaconPizzazz/haybale-gamers) | 0 | storage for my models and animations for a small collab project w my friends on roblox |
 | [BadXyz/Emote](https://github.com/BadXyz/Emote) | 0 | Emote GUI for Roblox |
 | [Banman455/BanmanWiki](https://github.com/Banman455/BanmanWiki) | 0 | We are a Roblox studio that produces high quality content for affordable prices. We have the highest quality builders, scripters, animators and graphic desig... |
 | [bbeezy1999-byte/hood-rp-animations](https://github.com/bbeezy1999-byte/hood-rp-animations) | 0 | Custom walking and running animations for Roblox hood RP game |
+| [bdidk235/FunctionTween](https://github.com/bdidk235/FunctionTween) | 0 | Tween whatever you want, however you want. |
 | [Bhoomi-Pandey/WebDev-Animation-Project](https://github.com/Bhoomi-Pandey/WebDev-Animation-Project) | 0 | Roblox Logo Animation Project |
+| [bhr1stt/Boingo](https://github.com/bhr1stt/Boingo) | 0 | The new and improved spring module for all use cases! |
 | [Bikzmal/Roblox-Combat-Demo](https://github.com/Bikzmal/Roblox-Combat-Demo) | 0 | A Roblox combat framework I built featuring abilities, hitboxes, cooldowns, knockback, animations, and movement based attacks. |
 | [biotoxin495/GradientKit](https://github.com/biotoxin495/GradientKit) | 0 | A standalone UIGradient creation and animation utility for Roblox UI. |
 | [biotoxin495/LoadingSpinner](https://github.com/biotoxin495/LoadingSpinner) | 0 | A small, dependency-free Roblox utility for displaying animated loading spinners over UI elements. |
 | [biotoxin495/PurchaseLoadingOverlay](https://github.com/biotoxin495/PurchaseLoadingOverlay) | 0 | Animated Roblox UI purchase loading overlay |
 | [biotoxin495/PurchaseResultModal](https://github.com/biotoxin495/PurchaseResultModal) | 0 | Animated Roblox UI purchase result modal |
+| [BloxinStud10/Azurion-Animator](https://github.com/BloxinStud10/Azurion-Animator) | 0 | Required Assets/Modules needed for the Keyframe animator to function |
 | [bogusdip/Roblox-FPS-Custom-Characters-Physics-Based-Combat-Procedural-Animation](https://github.com/bogusdip/Roblox-FPS-Custom-Characters-Physics-Based-Combat-Procedural-Animation) | 0 | A solo Roblox FPS with fully custom characters, server-verified physics-based combat, and spring-driven procedural animation, no baked animation clips or def... |
 | [BonjourMadam/viewport-roblox-character](https://github.com/BonjourMadam/viewport-roblox-character) | 0 | This basically shows your character in a viewport. It has animations and everything. I do have a longer one i personally use. But this is a very basic one th... |
 | [cafardises/ExplosiveRobloxBow](https://github.com/cafardises/ExplosiveRobloxBow) | 0 | Animated bow that throws bullet that explodes on player and knockback them .. |
@@ -213,12 +218,15 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [christianJames24/animator](https://github.com/christianJames24/animator) | 0 | small and easy to use ui animation library for roblox |
 | [chrisxjo/roblox-live-interactive](https://github.com/chrisxjo/roblox-live-interactive) | 0 | Interactive TikTok LIVE application that spawns and animates Roblox avatars in response to viewer comments and gifts. |
 | [chroma-hade/AnimController](https://github.com/chroma-hade/AnimController) | 0 | Sync, Manage For Roblox Rig Objects |
+| [chroma-hade/CleanTween](https://github.com/chroma-hade/CleanTween) | 0 | The tween module that automatic remove instance itself after played. |
 | [codesenseAye/Animation-Node-Editor](https://github.com/codesenseAye/Animation-Node-Editor) | 0 | A node editor app meant to make creating animations for UI easier on Roblox |
 | [codesenseAye/Transfer-Animations](https://github.com/codesenseAye/Transfer-Animations) | 0 | Automatically copy animation objects within roblox studio , transfer them to a different group, and set the animation object ids to the new ids. |
 | [CollinVM4/BlenderGame](https://github.com/CollinVM4/BlenderGame) | 0 | Roblox Studio housing for Be a Blender! |
 | [ComoEsteban/Tween-Wrapper](https://github.com/ComoEsteban/Tween-Wrapper) | 0 | This is a wrapper for tweening in roblox. This a much more simpler approach to creating tweens. When tweening multiple things at once, you won't need to do a... |
 | [ComoEsteban/Tween-Wrapper-v1](https://github.com/ComoEsteban/Tween-Wrapper-v1) | 0 | A much simpler approach to creating Tweens in Roblox. |
 | [CondrusArsen/roblox-feature-pack](https://github.com/CondrusArsen/roblox-feature-pack) | 0 | Roblox gameplay systems pack with checkpoints, kill blocks, GUI/server logic, DataStore saves, and TweenService animation. |
+| [Conikku/RBXAnimateEmoteRevamp](https://github.com/Conikku/RBXAnimateEmoteRevamp) | 0 | A fork of MaximumADHD's animate script to add support for emote wheel and revamped system for emotes |
+| [crayt-1/Animations](https://github.com/crayt-1/Animations) | 0 | simple library for animation handling |
 | [cxrclis/bubbly-animation-command](https://github.com/cxrclis/bubbly-animation-command) | 0 | in your roblox game type in the chat /barbie to add the barbie animation to your avatar. |
 | [Cynmorphic/rbx-simplequests](https://github.com/Cynmorphic/rbx-simplequests) | 0 | A lightweight, type-safe quest system for Roblox. Features persistent data storage with DataStore2, animated UI feedback, flexible quest types, real-time pro... |
 | [d3leet3d/BlendMats](https://github.com/d3leet3d/BlendMats) | 0 | The blender plugin part of the Roblox |
@@ -229,6 +237,8 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [Destroyer562/Civ-Wars](https://github.com/Destroyer562/Civ-Wars) | 0 | Civ Wars By Brilfist Studios ( A Roblox Game) The Code hear represents the Avatar Animations, (The Environmental Animations will be added later) |
 | [DestroyerCam1/Physics-Tween-Service](https://github.com/DestroyerCam1/Physics-Tween-Service) | 0 | A physics based tween module made for Roblox |
 | [dev-kas/roblox-animation-cloner](https://github.com/dev-kas/roblox-animation-cloner) | 0 | clone any game animation in seconds |
+| [Develfish-Studio/lorry.project-spring](https://github.com/Develfish-Studio/lorry.project-spring) | 0 | (geen omschrijving op GitHub) |
+| [DeveloperStatic/TweenWave](https://github.com/DeveloperStatic/TweenWave) | 0 | A Better Version of TweenService(not useable) |
 | [DevTurtleOfc/Roblox-UI-Helpers](https://github.com/DevTurtleOfc/Roblox-UI-Helpers) | 0 | multiple module scripts that handle UI being animated (no documentation yet for it) |
 | [dgalarza/roblox-rivals-random-loadout](https://github.com/dgalarza/roblox-rivals-random-loadout) | 0 | Random loadout generator + tier list + weapons reference for Roblox Rivals. Next.js 16, slot-machine roll animation, luck system, light-mode design. |
 | [Ditzzy-W-Rizz/T.A.S-Script-Roblox](https://github.com/Ditzzy-W-Rizz/T.A.S-Script-Roblox) | 0 | No walking/running animation but it has great movement, tho its a little buggy. |
@@ -242,6 +252,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [emcow/practice-animate](https://github.com/emcow/practice-animate) | 0 | A demonstration of a simple roblox-like character. |
 | [Emigamer576/La-putiza-del-a-o](https://github.com/Emigamer576/La-putiza-del-a-o) | 0 | Website just for an animation roblox |
 | [emirluau/ZER0Wheel](https://github.com/emirluau/ZER0Wheel) | 0 | This module allows you to emulate and modify Roblox's default Emote Wheel. |
+| [emmaoluga-sketch/UI-Framework](https://github.com/emmaoluga-sketch/UI-Framework) | 0 | Modular UI system with reusable components, smooth animations, and responsive layouts. Built for scalability and easy customization. |
 | [engapmahc/ps99-roblox](https://github.com/engapmahc/ps99-roblox) | 0 | Ps99 Roblox Game (Scripts,Animations,pets,ui,shop and much more |
 | [eoidk16/ROBLOX_2D_EYERIG_V4.0](https://github.com/eoidk16/ROBLOX_2D_EYERIG_V4.0) | 0 | simple eye rig, inspired by Xoaterz Eye Rig, but i did it myself. |
 | [Equinoxtic/AdvancedTween.lua](https://github.com/Equinoxtic/AdvancedTween.lua) | 0 | A module I made for a ROBLOX game, based off on HaxeFlixel's FlxTween (https://api.haxeflixel.com/flixel/tweens/FlxTween.html) |
@@ -269,6 +280,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [GladlyAshley/BetterTween](https://github.com/GladlyAshley/BetterTween) | 0 | Allows you to easily tween models and parts under one roof! |
 | [glolglol/Roblox-animation](https://github.com/glolglol/Roblox-animation) | 0 | I make this animation for fun |
 | [goldenstein64/Animate2](https://github.com/goldenstein64/Animate2) | 0 | Roblox's Animate script rewritten into a library-loaded structure |
+| [gopnikjovana/animations-tables](https://github.com/gopnikjovana/animations-tables) | 0 | (geen omschrijving op GitHub) |
 | [grider588/artic-animation-pack](https://github.com/grider588/artic-animation-pack) | 0 | 2025's Hottest Roblox Artic Scripts for Windows 🌟 |
 | [GusFringsLeftToeNail/viable-emotes](https://github.com/GusFringsLeftToeNail/viable-emotes) | 0 | emotes for the hit children game roblox |
 | [gyutedy/ANIMA-MECHANICUS](https://github.com/gyutedy/ANIMA-MECHANICUS) | 0 | Pipeline de Motion Capture vidéo → FBX Roblox R15 / Warhammer 40K inspired |
@@ -309,6 +321,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [kraminox/BombIt](https://github.com/kraminox/BombIt) | 0 | Roblox Bomberman-style game with custom characters and animations |
 | [Kuro0975/Vanta-UI](https://github.com/Kuro0975/Vanta-UI) | 0 | Vanta is a modern Roblox UI library featuring fluid animations, dynamic theming, global search, and a massive collection of handcrafted components. |
 | [Kyotaah/lucidui](https://github.com/Kyotaah/lucidui) | 0 | LucidUI — a modern, glass-morphism interface library for Roblox. Features smooth animations, a live custom theme editor, config slots, notification system, b... |
+| [L-u-a-u/customAnimate](https://github.com/L-u-a-u/customAnimate) | 0 | it use math n shit to animate dont expect code to be good |
 | [lakeviewprojects/StateAnimator](https://github.com/lakeviewprojects/StateAnimator) | 0 | Roblox animation controller object for states. |
 | [Lanred-Dev/Fluid](https://github.com/Lanred-Dev/Fluid) | 0 | Alternative to Roblox's TweenService. |
 | [leandromuzzupappa/roblox-animation-library](https://github.com/leandromuzzupappa/roblox-animation-library) | 0 | A mini animation library GSAP-like I made for a Roblox Studio project |
@@ -334,6 +347,8 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [manasi-create/auto-rigger](https://github.com/manasi-create/auto-rigger) | 0 | this will automaticly rig groups in second with 0 inperfication perfect for fravtur rigging for roblox anims |
 | [marchware/Roblox-Spin-Wheel](https://github.com/marchware/Roblox-Spin-Wheel) | 0 | Roblox spin wheel system that includes the animation |
 | [Marcus990/Wall-Rush](https://github.com/Marcus990/Wall-Rush) | 0 | Interactive Game Application coded in Lua playable on the Roblox platform with advanced features such as a built-in Datastore, monetized in-game shop, quest ... |
+| [matthew-engi/Spring](https://github.com/matthew-engi/Spring) | 0 | Spring implementation in Luau |
+| [mattiyee/avatar-the-lost-twin](https://github.com/mattiyee/avatar-the-lost-twin) | 0 | Our project utilizes Luau and Blender elements to create a story-based RPG combat game revolving around the show Avatar: The Last Airbender. The user follows... |
 | [mauriciodebido-boop/RobloxSEEDS-Generator](https://github.com/mauriciodebido-boop/RobloxSEEDS-Generator) | 0 | 🚀 Generate Roblox-style seeds instantly with a fast, elegant web app. Featuring multiple complexity levels, animated UI, one-click copy, batch generation, an... |
 | [mckenziii/emotes](https://github.com/mckenziii/emotes) | 0 | NOT MINE, HERE IS SOURCE CODE TO ORIGINAL CREATOR: https://github.com/Roblox/creator-docs/blob/main/content/en-us/characters/emotes.md |
 | [mckreathjayquan6-ai/roblox-dice-roller-system](https://github.com/mckreathjayquan6-ai/roblox-dice-roller-system) | 0 | A complete dice rolling system with UI animations for Roblox games |
@@ -357,22 +372,27 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [neozone465-spec/Projet-de-jeu-Roblox-](https://github.com/neozone465-spec/Projet-de-jeu-Roblox-) | 0 | Je cherche des animateurs motivés pour m'aider a monter un projet de jeu Roblox nous sommes déjà une petite équipe (ce projet est temporairement du bénévolat... |
 | [nexercore/Roblox-Dev-Portfolio](https://github.com/nexercore/Roblox-Dev-Portfolio) | 0 | Roblox developer experienced in scripting gameplay systems, creating functional UI, implementing animations, and fixing broken scripts or projects. I focus o... |
 | [Nicenerd83/Moon-Animator-For-free](https://github.com/Nicenerd83/Moon-Animator-For-free) | 0 | 🎬 Moon Animator Free Resource Free Moon Animator resources for Roblox Studio! Create smooth and professional animations for your Roblox games with useful too... |
+| [nightcycle/inverse-kinematics-util](https://github.com/nightcycle/inverse-kinematics-util) | 0 | useful code for doing inverse kinematics |
 | [Nirmini/OpenTween](https://github.com/Nirmini/OpenTween) | 0 | OpenTween is a custom library created to create tweens in Roblox in a way that's generally easier and more performant. Client-Side tweens are based off of As... |
 | [Nolan-O/rFrameAnimator](https://github.com/Nolan-O/rFrameAnimator) | 0 | A git version of the latest rFrameAnimator file from roblox |
 | [noname464/Animation](https://github.com/noname464/Animation) | 0 | Animation script for roblox |
 | [noname464/script](https://github.com/noname464/script) | 0 | Animation script for roblox!! |
 | [NotKisoMomo/Ink](https://github.com/NotKisoMomo/Ink) | 0 | Ink is a reactive UI library for Roblox that combines the best ideas from Fusion, Vide, Roact, and Roblox React -- then goes further. One require. One API. F... |
+| [NotXz3l/AnimationModule](https://github.com/NotXz3l/AnimationModule) | 0 | (geen omschrijving op GitHub) |
 | [noun5x/QuickTween](https://github.com/noun5x/QuickTween) | 0 | A lightweight and type-safe TweenService wrapper for Roblox that simplifies tween creation with a cleaner API, string-based easing styles, and tween grouping... |
+| [ntr1x/ggcode-repo-spring](https://github.com/ntr1x/ggcode-repo-spring) | 0 | (geen omschrijving op GitHub) |
 | [Nuptayy/Pet-sim](https://github.com/Nuptayy/Pet-sim) | 0 | Dev of a Pet simulator-like out of roblox, fully made in godot and blender |
 | [nyxryuuna/SprintScript](https://github.com/nyxryuuna/SprintScript) | 0 | A simple ROBLOX Lua script that allows the player to sprint when SHIFT is held down. This works better with modern ROBLOX using TweenFOV for a clean transiti... |
 | [OGY1241/Roblox-Studio-Portfolio](https://github.com/OGY1241/Roblox-Studio-Portfolio) | 0 | This is a space where i will publish all my models, scripts for studio and animations. Im using it to hopefully use to get a degree in game development in un... |
 | [Okisli/R15-UGC-EMOTES-SCRIPT-ROBLOX](https://github.com/Okisli/R15-UGC-EMOTES-SCRIPT-ROBLOX) | 0 | (geen omschrijving op GitHub) |
 | [OminousVibes/rbxts-animation](https://github.com/OminousVibes/rbxts-animation) | 0 | (geen omschrijving op GitHub) |
+| [onedps/easing_library](https://github.com/onedps/easing_library) | 0 | Animation library that can replace default tweenservice. |
 | [oneshot2122/ANIMATION-SCRIPT](https://github.com/oneshot2122/ANIMATION-SCRIPT) | 0 | OP ANIMATION SCRIPT ROBLOX (R6 AVATAR ONLY) |
 | [onlyzex/Simple-Roblox-Dance-Emote-Menu-Script](https://github.com/onlyzex/Simple-Roblox-Dance-Emote-Menu-Script) | 0 | Simple Script Roblox Dance Emote Menu Include GUI for Beginners. Easy To Use and Simple UI Made By Ibra |
 | [oogwaaay/robloxgui-animation-tools](https://github.com/oogwaaay/robloxgui-animation-tools) | 0 | A collection of free Roblox GUI animation scripts and tools |
 | [oortsnow/rojo-spring](https://github.com/oortsnow/rojo-spring) | 0 | (geen omschrijving op GitHub) |
 | [orangeapple121501-dev/roblox-gui](https://github.com/orangeapple121501-dev/roblox-gui) | 0 | -- ============================================================================== -- 极致科技感系统面板 GUI (千亿级发布会质感 / 全息漂浮 / 动态流光) -- ==============================... |
+| [overworded/Luau-Animator](https://github.com/overworded/Luau-Animator) | 0 | Animator class to make handling animations more convenient |
 | [palachpalach18-tech/roblox-frames](https://github.com/palachpalach18-tech/roblox-frames) | 0 | Roblox frame animation assets |
 | [PanchitoXDD/rOTInAsciiAnimated](https://github.com/PanchitoXDD/rOTInAsciiAnimated) | 0 | idk, its just a clip from the submode "rOT" from the game "Grace" in roblox |
 | [PanviDev/RobloxBlender](https://github.com/PanviDev/RobloxBlender) | 0 | This Is How You Can Impost Blender Models Into Roblox Studio |
@@ -385,6 +405,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [PingouinD-ange/rbxts-animator2D](https://github.com/PingouinD-ange/rbxts-animator2D) | 0 | A useful tool for frame management |
 | [Plazewithfire/VexusLibrar](https://github.com/Plazewithfire/VexusLibrar) | 0 | A modern Roblox UI library with beautiful animations. |
 | [pokpong007/tween](https://github.com/pokpong007/tween) | 0 | gulid how to use tween in roblox |
+| [polill00/FixAnimationForModifiedCharacterBoneStructure](https://github.com/polill00/FixAnimationForModifiedCharacterBoneStructure) | 0 | (geen omschrijving op GitHub) |
 | [pooloopo/Crusherfire-Spring-Module](https://github.com/pooloopo/Crusherfire-Spring-Module) | 0 | straight from his roblox model modulescript I found on his yt video |
 | [PostoFisso/Roblox-Ability-Combat-Framework](https://github.com/PostoFisso/Roblox-Ability-Combat-Framework) | 0 | A generic, reusable system: abilities as modules cooldown manager hitbox system damage pipeline animation controller client/server separation |
 | [potatomanty-stack/PremiumUILib](https://github.com/potatomanty-stack/PremiumUILib) | 0 | A premium Roblox UI Library featuring buttons, toggles, optional scrolling, title bar controls, and smooth animations. Designed for modern Roblox games and t... |
@@ -407,6 +428,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [requireSirius/Global-Leaderboard](https://github.com/requireSirius/Global-Leaderboard) | 0 | Global leaderboard made in Roblox. It displays the ranks of the players from 1 - 100, with 1st, 2nd and 3rd having a different color frame. It also displays ... |
 | [respendiant/CANimator](https://github.com/respendiant/CANimator) | 0 | A crappy alternative to Roblox's stock animator script. |
 | [Respledent/AnimationsFE](https://github.com/Respledent/AnimationsFE) | 0 | This script for Roblox is still in Development, Call it fixing if you want. |
+| [revvy02/retarget-r15-to-r6](https://github.com/revvy02/retarget-r15-to-r6) | 0 | convert r15 animation to r6 animations |
 | [RichardMampilly/BossRealm-TheAwakening](https://github.com/RichardMampilly/BossRealm-TheAwakening) | 0 | A Roblox game with progressive levels, boss fights, grinding system, shop, animations and more |
 | [Ridalon/CustomRigNav](https://github.com/Ridalon/CustomRigNav) | 0 | A modular, physics-based pathfinding framework for custom NPC rigs (no Humanoid) on Roblox. |
 | [rig-community/rig-linktree](https://github.com/rig-community/rig-linktree) | 0 | Linktree resmi komunitas Muslim di Roblox — RIG (Roblox Islamic Generation) |
@@ -415,6 +437,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [Robloxedit/Edit-roblox](https://github.com/Robloxedit/Edit-roblox) | 0 | Ik ga een roblox game maken |
 | [RobloxModules/RoModules-TweenLib](https://github.com/RobloxModules/RoModules-TweenLib) | 0 | A Roblox Module that provides advanced controls to Tween GUI and other elements. |
 | [RocketB0ii/TextAnimationModule](https://github.com/RocketB0ii/TextAnimationModule) | 0 | TextAnimationModule is a module that you can easily animates a text in your Roblox ga- experience. |
+| [Rozakgd/TweenLikeLib](https://github.com/Rozakgd/TweenLikeLib) | 0 | Lightweight tween/easing animation library for Like2D Game Framework. Animate position, scale, rotation, color, and more with 10+ easing functions. |
 | [RuneUrDaY/Animation-Controller-HWDE-](https://github.com/RuneUrDaY/Animation-Controller-HWDE-) | 0 | This is a TypeScript plugin for an animation controller in Meta's Horizon Worlds Desktop Editor. Why does Roblox Studio have an animation controller and anim... |
 | [SafiMomen/DefaultTween](https://github.com/SafiMomen/DefaultTween) | 0 | Basic Roblox tween for Blend. |
 | [samudithTharindaka/Roblox-Gui-Animation-library](https://github.com/samudithTharindaka/Roblox-Gui-Animation-library) | 0 | A roblox module script that will help for any roblox developer to do any kind of gui animations |
@@ -450,6 +473,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [testing2122/roblox-pink-ui-lib](https://github.com/testing2122/roblox-pink-ui-lib) | 0 | A sleek black, grey and pink themed UI library for Roblox with reactive animations, tabs, and smooth transitions |
 | [ThatKyan/Roblox-Blender-R6-IK-FK-Tool-Appender](https://github.com/ThatKyan/Roblox-Blender-R6-IK-FK-Tool-Appender) | 0 | (geen omschrijving op GitHub) |
 | [ThatOneBacon2/Tweenify](https://github.com/ThatOneBacon2/Tweenify) | 0 | Tweenify is a free Roblox plugin that animates UI elements without actually having to constantly playtest after changing a script |
+| [thehehfocus/EasySpring](https://github.com/thehehfocus/EasySpring) | 0 | Small dynamic spring module. |
 | [thejudge1488/AnimatedCrosshair-](https://github.com/thejudge1488/AnimatedCrosshair-) | 0 | Roblox Animated Crosshair Source code |
 | [TheNextElectron/advanced-classic-clothing](https://github.com/TheNextElectron/advanced-classic-clothing) | 0 | A Roblox module which adds improvements and overdue features to classic 2D clothing for both R6 and R15 rigs. |
 | [thenullcore/naglus664.github.io](https://github.com/thenullcore/naglus664.github.io) | 0 | Roblox Animator specializing in fluid, readable animations for gameplay and characters. Experienced with combat, movement, emotes, and in-game animation syst... |
@@ -473,6 +497,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [Virtual3D/roblox-npc-motion](https://github.com/Virtual3D/roblox-npc-motion) | 0 | Procedural idle motion for Roblox R15 NPCs - breathing, weight shifts, gaze and gestures driven by Motor6D C0 writes instead of animation tracks. |
 | [Vitouliss/Animation-Functions](https://github.com/Vitouliss/Animation-Functions) | 0 | Animation functions I developed to help you to do ROBLOX animations. |
 | [vitrajdm/Button-Animation](https://github.com/vitrajdm/Button-Animation) | 0 | Roblox Studio'da, oluşturulmuş bir butona LocalScript yolu ile eklenen animasyon kodu.. |
+| [VO1D3V/ActionAnimator](https://github.com/VO1D3V/ActionAnimator) | 0 | It lets you load animations from a specified folder and then play them easily. Its :Destroy() method stops all the animations at once, so it’s super simple t... |
 | [voidxz9999/roblox-shuriken-skill-system](https://github.com/voidxz9999/roblox-shuriken-skill-system) | 0 | A complete skill system for Roblox using Luau scripting. Demonstrates advanced use of CFrame math, physics, tweens, remote communication, cooldowns, and modu... |
 | [VoRaf-cmd/Portifolio](https://github.com/VoRaf-cmd/Portifolio) | 0 | Modern personal portfolio showcasing Rafael Carlesso, a young designer and developer focused on minimal, interactive web experiences. Features smooth animati... |
 | [VVCoder12/Roblox-Animated-Page](https://github.com/VVCoder12/Roblox-Animated-Page) | 0 | Make you're Roblox page look animated with you're custom GIF |
@@ -503,6 +528,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [ZevRobloxDoors2/moon-animator.github.io](https://github.com/ZevRobloxDoors2/moon-animator.github.io) | 0 | Moon Animator is a Roblox Animating Simulation App, You can animate a R6 rig including R15. |
 | [Zidiam/anim-forge-plugin](https://github.com/Zidiam/anim-forge-plugin) | 0 | Anim Forge - the Roblox Studio plugin that turns a sentence into a real animation. Full source, published so you can read it before you install it. |
 | [ZingoChan/Monarch](https://github.com/ZingoChan/Monarch) | 0 | A (not so) professional Roblox R6 NPC Builder for advanced use on R6 Rigs 🌈✨ |
+| [zserxue/RichText](https://github.com/zserxue/RichText) | 0 | Rich Text for dialogue animations |
 | [zxca144A/Animation-Portfolio](https://github.com/zxca144A/Animation-Portfolio) | 0 | I am a roblox animator this a portfolio showcase of my work if u want to hire me |
 
 [← Terug naar overzicht](../README.md)

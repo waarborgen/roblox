@@ -42,7 +42,7 @@ Neurale netwerken, behavior trees, pathfinding, boids en LLM-NPC's.
 | [sebastianboscan/roblox-ai-npc](https://github.com/sebastianboscan/roblox-ai-npc) | 0 | NPC's die natuurlijke taal via TextGenerator omzetten in acties |
 | [Murned/roblox-boid-flocking](https://github.com/Murned/roblox-boid-flocking) | 0 | Drone-zwerm met Reynolds' boids + spatial grid |
 
-## Uitgebreide index (148)
+## Uitgebreide index (167)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of spamfarms), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving; "(geen omschrijving op GitHub)" = opgenomen op basis van een duidelijke reponaam.
 
@@ -96,6 +96,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [AvinMaulana24/roblox-npc-backend](https://github.com/AvinMaulana24/roblox-npc-backend) | 0 | (geen omschrijving op GitHub) |
 | [BetiDev677/EOM_Game](https://github.com/BetiDev677/EOM_Game) | 0 | Luau script for a Roblox studio plot placement system (object placement and toggling, grid snapping, deletion, saving with DataStore API and rotations) as we... |
 | [blxckhunter908/roblox-npc-pathfinding](https://github.com/blxckhunter908/roblox-npc-pathfinding) | 0 | Roblox NPC pathfinding system. |
+| [Brawldude2/StateMachine](https://github.com/Brawldude2/StateMachine) | 0 | StateMachine - Minimalistic state machine implementation with lifecycle management |
 | [Ca-mil0/Pathfinding-Roblox-Comparison-Camillo-AP](https://github.com/Ca-mil0/Pathfinding-Roblox-Comparison-Camillo-AP) | 0 | (geen omschrijving op GitHub) |
 | [calyredyyyyyt-glitch/Working-Pathfinding-Monster-For-Roblox-Studio](https://github.com/calyredyyyyyt-glitch/Working-Pathfinding-Monster-For-Roblox-Studio) | 0 | This is a fully scripted and fully working pathfinding monster for your horror game. Made by Calyredyyyy. |
 | [CapedBojji/miniature-octo-invention](https://github.com/CapedBojji/miniature-octo-invention) | 0 | A custom Roblox pathfinding library |
@@ -107,29 +108,41 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [daohps-coder/Roblox-game-infamy-Auto-spawn-NPC](https://github.com/daohps-coder/Roblox-game-infamy-Auto-spawn-NPC) | 0 | (geen omschrijving op GitHub) |
 | [Darsh-Sosa/AIPathfindingRoblox](https://github.com/Darsh-Sosa/AIPathfindingRoblox) | 0 | pathfinding script using a patrol point system inside roblox |
 | [DarthPxg/A-Star-Pathfinding-Roblox](https://github.com/DarthPxg/A-Star-Pathfinding-Roblox) | 0 | (geen omschrijving op GitHub) |
+| [Davidlagos929/Neural-Network](https://github.com/Davidlagos929/Neural-Network) | 0 | (geen omschrijving op GitHub) |
 | [denispionicul/RobloxStateMachine](https://github.com/denispionicul/RobloxStateMachine) | 0 | (geen omschrijving op GitHub) |
 | [dev-alexdevilish/Stealth-Phantom-Roblox](https://github.com/dev-alexdevilish/Stealth-Phantom-Roblox) | 0 | a highly optimized Stealth System with NPC path finding and detection system |
 | [DISRUPTORY/FNABS](https://github.com/DISRUPTORY/FNABS) | 0 | Source code for Five NPCs Are Becoming Smart |
+| [draktovus/btrees5](https://github.com/draktovus/btrees5) | 0 | A fork of BehaviorTreeV5 with added typings |
 | [Dsnon/Roblox-Dynamic-NPC-Emotion-System](https://github.com/Dsnon/Roblox-Dynamic-NPC-Emotion-System) | 0 | NPCs react emotionally based on players' actions. |
 | [Dyverblox/Sistema-de-di-logos-NPC-Roblox-Studio](https://github.com/Dyverblox/Sistema-de-di-logos-NPC-Roblox-Studio) | 0 | Scripts correspondientes al video tutorial |
 | [EeyoreNN/roblox-scp-rl-bot](https://github.com/EeyoreNN/roblox-scp-rl-bot) | 0 | Reinforcement Learning bot that learns to play Roblox SCP Site Roleplay from scratch |
+| [Elentium/PathfindingPlus](https://github.com/Elentium/PathfindingPlus) | 0 | (geen omschrijving op GitHub) |
+| [Empporean/StateMachineRBX](https://github.com/Empporean/StateMachineRBX) | 0 | (geen omschrijving op GitHub) teve_ee |
 | [eralijan008-lgtm/roblox-bear-script](https://github.com/eralijan008-lgtm/roblox-bear-script) | 0 | Roblox aggressive bear NPC с анимациями атак (лапа, укус), системой здоровья и механикой отвлечения медом |
 | [eyvanlol/Roblox-NPC](https://github.com/eyvanlol/Roblox-NPC) | 0 | This is my project on Roblox interactive and non-interactive NPC |
+| [felixsidzed/porch](https://github.com/felixsidzed/porch) | 0 | Reinforcement learning in Luau |
 | [g0ofycat/rl_framework](https://github.com/g0ofycat/rl_framework) | 0 | Reinforcement Learning Framework for small models in Roblox |
 | [Gabzouul/npc-game](https://github.com/Gabzouul/npc-game) | 0 | Roblox multiplayer NPC deception game |
 | [GandalfWisdom/PathBuddy](https://github.com/GandalfWisdom/PathBuddy) | 0 | A basic pathfinding Humanoid mover for Roblox. |
 | [GandalfWisdom/StateBuddy](https://github.com/GandalfWisdom/StateBuddy) | 0 | A standard state machine class for Roblox |
 | [gcaptn/NNL](https://github.com/gcaptn/NNL) | 0 | A practice Lua Neural Network Library |
+| [GHSNerd/Luau-application](https://github.com/GHSNerd/Luau-application) | 0 | Pathfinding (<- Mainly) and 2D grid system |
+| [GIassWindows/State-Machine-Implementation](https://github.com/GIassWindows/State-Machine-Implementation) | 0 | (geen omschrijving op GitHub) path: src/shared/StateMachine.luau |
 | [GimmyFimmy/FlagUtil](https://github.com/GimmyFimmy/FlagUtil) | 0 | Small, type-safe boolean state machine for Roblox |
+| [Git-art-byte/NPC-Controller-v2](https://github.com/Git-art-byte/NPC-Controller-v2) | 0 | (geen omschrijving op GitHub) |
 | [hardersdean-lang/Hamburg-botsss](https://github.com/hardersdean-lang/Hamburg-botsss) | 0 | Ein einfaches Skript, um NPCs in Roblox zu erstellen |
 | [Hinikaa/luau-statemachine](https://github.com/Hinikaa/luau-statemachine) | 0 | Small finite state machine with guards and transitions, Luau |
 | [HmmmThinking/-Lua-Npc-teleporter](https://github.com/HmmmThinking/-Lua-Npc-teleporter) | 0 | TPS to npcs in roblox |
+| [Homie-GreenSheep/machine-learning](https://github.com/Homie-GreenSheep/machine-learning) | 0 | (geen omschrijving op GitHub) |
 | [hotdog9955/Roblox_Learn](https://github.com/hotdog9955/Roblox_Learn) | 0 | roblox machine learning library |
 | [i-steal-code/tower-battles-RL-model](https://github.com/i-steal-code/tower-battles-RL-model) | 0 | beating a dead roblox game using math and reinforcement learning |
 | [i3Crk/DialogService](https://github.com/i3Crk/DialogService) | 0 | A service to aid Roblox developers in standardizing dialog handlers for their games' NPC interactions. |
 | [IanLiggett/roblox-boids](https://github.com/IanLiggett/roblox-boids) | 0 | A repo of my boid project that I'll try to keep relatively up to date |
+| [iKryptonic/RBXStateMachine](https://github.com/iKryptonic/RBXStateMachine) | 0 | (geen omschrijving op GitHub) |
 | [IsaganiI/RBLX-Website-](https://github.com/IsaganiI/RBLX-Website-) | 0 | Roblox machine learning model host. |
 | [iscode0/NanoRBX](https://github.com/iscode0/NanoRBX) | 0 | Nano (or NanoRBX) is a machine learning/deep learning/reinforcement learning library for Roblox studio |
+| [ItsScriptFoundry/NPC-Core](https://github.com/ItsScriptFoundry/NPC-Core) | 0 | (geen omschrijving op GitHub) |
+| [ItsScriptFoundry/StateMachine](https://github.com/ItsScriptFoundry/StateMachine) | 0 | (geen omschrijving op GitHub) |
 | [JayJay648/roblox-restaurant-system](https://github.com/JayJay648/roblox-restaurant-system) | 0 | A Roblox restaurant system with ID management for NPCs, items, and locations |
 | [jdaviddg077/roblox-npc-proxy](https://github.com/jdaviddg077/roblox-npc-proxy) | 0 | (geen omschrijving op GitHub) |
 | [jndewey/Roblot](https://github.com/jndewey/Roblot) | 0 | Training ML models to play Roblox. |
@@ -137,14 +150,17 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [Jxl-s/nn-roblox](https://github.com/Jxl-s/nn-roblox) | 0 | Basic implementation of a neural network in Roblox |
 | [kamilwwwo90/NPC-pathfinding-system](https://github.com/kamilwwwo90/NPC-pathfinding-system) | 0 | A modular NPC pathfinding system for Roblox with four behaviour states. |
 | [kaxx1/Stated](https://github.com/kaxx1/Stated) | 0 | A finite state machine for Roblox |
+| [kingvonlover/entitie-script-matcha](https://github.com/kingvonlover/entitie-script-matcha) | 0 | adds all entities to the npc config for you |
 | [KishaMarisma/Roblox-New-Mestapota](https://github.com/KishaMarisma/Roblox-New-Mestapota) | 0 | A Project working on a new set of NPCS! Hope you enjoy work in progress |
 | [kozuidev/PathForge](https://github.com/kozuidev/PathForge) | 0 | A custom grid-based pathfinding module made for Roblox, powered by A* search. Supports walls, clearance checks, and dynamic obstacles. |
 | [LadyCelastia/Pathfinder](https://github.com/LadyCelastia/Pathfinder) | 0 | roblox luau pathfind library (all scripts are modules) |
+| [Larsen-dev/stateMachine](https://github.com/Larsen-dev/stateMachine) | 0 | Simple and flexible finite state machine implementation in Luau for game development. |
 | [ldortiol-cmd/Sage](https://github.com/ldortiol-cmd/Sage) | 0 | I want to use it for playing in ML, COD and Roblox So that I can get a high rank |
 | [LeMeeXalFan/jeu-roblox-npc-poursuivants](https://github.com/LeMeeXalFan/jeu-roblox-npc-poursuivants) | 0 | Un jeu Roblox où des NPCs te poursuivent pour te tuer |
 | [LeoStormer/Boids-Project-Demo](https://github.com/LeoStormer/Boids-Project-Demo) | 0 | A client-sided boid simulation making use of Parallel Luau on Roblox. |
 | [lil-ds/Roblox_ML_Modeling](https://github.com/lil-ds/Roblox_ML_Modeling) | 0 | This is a repository dedicated to applying different ML models to Roblox game data. |
 | [liminalsq/HOSTERS-FR-ASTAR](https://github.com/liminalsq/HOSTERS-FR-ASTAR) | 0 | Roblox pathfindings big rival fr fr |
+| [LucasW962/StateMachine](https://github.com/LucasW962/StateMachine) | 0 | (geen omschrijving op GitHub) |
 | [luckydev7/DecorativeNPC-Roblox](https://github.com/luckydev7/DecorativeNPC-Roblox) | 0 | A simple lib for creating decorative client-sided npcs in roblox |
 | [Made4Mischief/Click-To-Move-NPC-RobloxStudio-](https://github.com/Made4Mischief/Click-To-Move-NPC-RobloxStudio-) | 0 | The NPC moves to the position where the player clicks |
 | [mezz-source/KNDataAPI](https://github.com/mezz-source/KNDataAPI) | 0 | Data API used to run KILL NPCS's data. Uses in-game instances to quickly update data without sending datastore calls, with multiple store types loadable. You... |
@@ -161,11 +177,14 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [OfficalIDontCode/roblox-healthbar-poc](https://github.com/OfficalIDontCode/roblox-healthbar-poc) | 0 | Roblox boss/NPC health bar + item drop feed (roblox-ts, Flamework, React) |
 | [OverlineJunior/rbxts-state-machine](https://github.com/OverlineJunior/rbxts-state-machine) | 0 | (geen omschrijving op GitHub) |
 | [owenomg8/roblox-npc-proxy](https://github.com/owenomg8/roblox-npc-proxy) | 0 | (geen omschrijving op GitHub) |
+| [PPeter2/NPC-Engine](https://github.com/PPeter2/NPC-Engine) | 0 | (geen omschrijving op GitHub) |
 | [ProgrammerBrxken/PathModule](https://github.com/ProgrammerBrxken/PathModule) | 0 | This a Roblox Program. About A PathFindingModule |
 | [R-unic/hierarchal-state-machine](https://github.com/R-unic/hierarchal-state-machine) | 0 | Hierarchal state machine class for roblox-ts |
 | [ramdonguyxddd3/Roblox-Studio-Lua-](https://github.com/ramdonguyxddd3/Roblox-Studio-Lua-) | 0 | basic base of pathfinding npc |
+| [resoIutee/card_fsm](https://github.com/resoIutee/card_fsm) | 0 | fsm for my card game |
 | [restauranttycoon3/restaurant-tycoon-3](https://github.com/restauranttycoon3/restaurant-tycoon-3) | 0 | An open-source automation utility for Roblox Restaurant Tycoon 3. Features optimized NPC pathfinding, instant layout building, auto cash collection, and cust... |
 | [retrozinh-cmyk/r6-npc-katana-script](https://github.com/retrozinh-cmyk/r6-npc-katana-script) | 0 | Script de NPC R6 com ataque de katana no Roblox |
+| [Reuvi/Dialogue-Quest-NPC](https://github.com/Reuvi/Dialogue-Quest-NPC) | 0 | (geen omschrijving op GitHub) |
 | [rexmagnusdavid/roblox-ts-pathfinding](https://github.com/rexmagnusdavid/roblox-ts-pathfinding) | 0 | An A* pathfinding module for Roblox geometry. Written in TypeScript and utilizes roblox-ts. |
 | [RyderDoesRandomStuff/Roblox-Npc-s](https://github.com/RyderDoesRandomStuff/Roblox-Npc-s) | 0 | a collection of random npc stuff |
 | [SALLYPEMDAS/NOOBTOPIA](https://github.com/SALLYPEMDAS/NOOBTOPIA) | 0 | simple autonomous NPC script for roblox |
