@@ -16,6 +16,9 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 CURATED = ROOT / "data" / "repos.tsv"
+SUMMARIES = ROOT / "data" / "readme_summaries.tsv"
+README_BLOCKED = ROOT / "data" / "readme_blocked.txt"
+SIGNALS = ROOT / "data" / "signals.tsv"
 OUT = ROOT / "data" / "extra.tsv"
 
 # Moet over Roblox/Luau gaan
@@ -130,6 +133,17 @@ def main(pool_path):
     pool = json.load(open(pool_path, encoding="utf-8"))
     with CURATED.open(encoding="utf-8") as f:
         curated = {r["repo"].lower() for r in csv.DictReader(f, delimiter="\t", quoting=csv.QUOTE_NONE)}
+    # Omschrijvingen uit README's (scripts/summarize_readmes.py) voor repos zonder GitHub-omschrijving
+    summaries = {}
+    if SUMMARIES.exists():
+        with SUMMARIES.open(encoding="utf-8") as f:
+            next(f)
+            for line in f:
+                repo, _, summary = line.rstrip("\n").partition("\t")
+                summaries[repo.lower()] = summary
+    readme_blocked = set()
+    if README_BLOCKED.exists():
+        readme_blocked = {ln.strip().lower() for ln in README_BLOCKED.open(encoding="utf-8") if ln.strip()}
     rows, reasons = [], {}
     # Dubbele omschrijvingen: klonen/spamfarms. Houd per omschrijving alleen het beste origineel
     # (meeste sterren, daarna oudste); 10+ kopieën = spamfarm, dan valt de hele groep af.
@@ -151,6 +165,8 @@ def main(pool_path):
             skip("officieel"); continue
         if it.get("fork"):
             skip("fork"); continue
+        if key in readme_blocked:
+            skip("exploit/cheat volgens README"); continue
         owner, rname = it["repo"].split("/")
         if rname.lower() == owner.lower() or re.search(r"[-_][0-9a-f]{8,}$", rname):
             skip("profiel/spam-naam"); continue
@@ -164,6 +180,10 @@ def main(pool_path):
         name = it["repo"].split("/")[1]
         text = f"{name.replace('-', ' ').replace('_', ' ')} {desc} {topics}"
         no_desc = len(desc) < 12 or (len(desc.split()) < 4 and int(it.get("stars") or 0) < 5)
+        from_readme = no_desc and key in summaries
+        if from_readme:
+            desc, no_desc = summaries[key], False
+            text = f"{name.replace('-', ' ').replace('_', ' ')} {desc} {topics}"
         if no_desc and not descriptive_name(it, name, text):
             skip("geen/te korte omschrijving"); continue
         # "rojo" is ook Spaans ("rood"): alleen meenemen met duidelijke Roblox-dev-context
@@ -183,7 +203,7 @@ def main(pool_path):
             skip("seo-spam"); continue
         if re.search(r"\b(best|top|ultimate)\b.{0,40}\b2026\b|\b2026\b.{0,20}\b(best|guide|free)\b", text, re.I):
             skip("seo-spam"); continue
-        note = clean(desc) if not no_desc else "(geen omschrijving op GitHub)" + (f" {clean(desc)}" if desc.strip() else "")
+        note = f"(uit README) {clean(desc)}" if from_readme else clean(desc) if not no_desc else "(geen omschrijving op GitHub)" + (f" {clean(desc)}" if desc.strip() else "")
         rows.append((categorize(text), it["repo"], int(it.get("stars") or 0), note))
     rows.sort(key=lambda r: (r[0], -r[2], r[1].lower()))
     with OUT.open("w", encoding="utf-8") as f:
@@ -191,6 +211,15 @@ def main(pool_path):
         for r in rows:
             f.write("\t".join(map(str, r)) + "\n")
     print(f"{len(rows)} repos naar {OUT.relative_to(ROOT)}")
+    # Extra signalen (forks, laatste push, taal, licentie) voor de lijst met belangrijkste repos
+    wanted = curated | {r[1].lower() for r in rows}
+    with SIGNALS.open("w", encoding="utf-8") as f:
+        f.write("repo\tstars\tforks\tcreated\tpushed\tlang\tlicense\n")
+        for key in sorted(wanted):
+            it = pool.get(key)
+            if it:
+                f.write(f"{it['repo']}\t{it.get('stars', 0)}\t{it.get('forks', 0)}\t{it.get('created', '')}\t{it.get('pushed', '')}\t"
+                        f"{it.get('lang', '')}\t{it.get('license', '')}\n")
     for k, v in sorted(reasons.items(), key=lambda x: -x[1]):
         print(f"  overgeslagen ({k}): {v}")
     counts = {}

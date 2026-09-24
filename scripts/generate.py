@@ -5,11 +5,13 @@ Gebruik:  python3 scripts/generate.py
 Nieuwe repo toevoegen: voeg een regel toe aan data/repos.tsv en draai dit script opnieuw.
 """
 import csv
+import math
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data" / "repos.tsv"
 EXTRA = ROOT / "data" / "extra.tsv"
+SIGNALS = ROOT / "data" / "signals.tsv"
 OUT_DIR = ROOT / "categories"
 
 # Volgorde en titels van de categorieën
@@ -59,6 +61,67 @@ def table(rows):
     return "\n".join(lines)
 
 
+def load_signals():
+    if not SIGNALS.exists():
+        return {}
+    with SIGNALS.open(encoding="utf-8") as f:
+        return {r["repo"].lower(): r for r in csv.DictReader(f, delimiter="\t", quoting=csv.QUOTE_NONE)}
+
+
+def score(r, sig, curated):
+    """Hoe belangrijk een repo is: sterren wegen het zwaarst, dan forks, recente activiteit en handcuratie."""
+    s = sig.get(r["repo"].lower(), {})
+    forks = int(s.get("forks") or 0)
+    pushed = s.get("pushed") or ""
+    v = 3 * math.log10(r["stars"] + 1) + 1.2 * math.log10(forks + 1)
+    v += 1.0 if pushed >= "2025-09" else 0.5 if pushed >= "2024-09" else 0
+    v += 2.0 if r["repo"].lower() in curated else 0
+    v += 0.3 if s.get("license") and s.get("license") != "NOASSERTION" else 0
+    return v
+
+
+def top_table(rows, sig, curated, n):
+    lines = ["| # | Repo | ⭐ | 🍴 | Laatst actief | Wat het doet |", "|---:|---|---:|---:|---|---|"]
+    ranked = sorted(rows, key=lambda r: -score(r, sig, curated))[:n]
+    for i, r in enumerate(ranked, 1):
+        s = sig.get(r["repo"].lower(), {})
+        mark = " ✋" if r["repo"].lower() in curated else ""
+        lines.append(f"| {i} | [{r['repo']}](https://github.com/{r['repo']}){mark} | {r['stars']} | "
+                     f"{s.get('forks', '?')} | {(s.get('pushed') or '?')[:7]} | {r['note']} |")
+    return "\n".join(lines)
+
+
+def write_highlights(rows, extra, index):
+    """BELANGRIJKSTE.md: de belangrijkste repos uit de hele collectie (gecureerd + index)."""
+    sig = load_signals()
+    curated = {r["repo"].lower() for r in rows}
+    everything = rows + extra
+    fresh = [r for r in everything
+             if (sig.get(r["repo"].lower(), {}).get("created") or "") >= "2025-09"
+             and (sig.get(r["repo"].lower(), {}).get("pushed") or "") >= "2026-03"]
+    page = [
+        "# Belangrijkste Roblox-repos ⭐",
+        "",
+        f"De belangrijkste projecten uit alle **{len(everything)}** repos van deze collectie, gerangschikt op belang:",
+        "sterren wegen het zwaarst, daarna forks (🍴), recente activiteit, een open-source licentie en of de repo",
+        "handgecureerd is (✋ = handgecureerd, met Nederlandse uitleg).",
+        "",
+        "- [Top 150 overall](#top-150-overall)",
+        "- [Nieuw en actief (sinds sept. 2025)](#nieuw-en-actief-sinds-sept-2025)",
+    ]
+    page += [f"- [{title}](#{anchor(title)})" for key, title, *_ in index]
+    page += ["", "## Top 150 overall", "", top_table(everything, sig, curated, 150), ""]
+    page += ["## Nieuw en actief (sinds sept. 2025)", "",
+             "Projecten die in het afgelopen jaar zijn gestart en het afgelopen halfjaar nog zijn bijgewerkt.", "",
+             top_table(fresh, sig, curated, 100), ""]
+    for key, title, blurb, cat_rows, cat_extra in index:
+        page += [f"## {title}", "", f"{blurb} Top 30 van {len(cat_rows) + len(cat_extra)} "
+                 f"([alles in deze categorie](categories/{key}.md)).", "",
+                 top_table(cat_rows + cat_extra, sig, curated, 30), ""]
+    page += ["[← Terug naar overzicht](README.md)", ""]
+    (ROOT / "BELANGRIJKSTE.md").write_text("\n".join(page), encoding="utf-8")
+
+
 def anchor(title):
     """GitHub-stijl anchor voor een kopje."""
     a = title.lower()
@@ -83,6 +146,7 @@ def main():
                 f"\n## Uitgebreide index ({len(cat_extra)})\n\n"
                 "Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of spamfarms), "
                 "categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving; "
+                "\"(uit README)\" = eerste alinea van de README (repo had geen omschrijving); "
                 "\"(geen omschrijving op GitHub)\" = opgenomen op basis van een duidelijke reponaam.\n\n"
                 f"{table(cat_extra)}\n"
             )
@@ -98,6 +162,8 @@ def main():
         "",
         "**Bewust níet opgenomen:** standaard Roblox-functionaliteit, de bekende basics die iedereen al gebruikt,",
         "exploits/cheats/executors/spoofers, obfuscators, account-tools en SEO-spamrepos.",
+        "",
+        "👉 **[De belangrijkste repos](BELANGRIJKSTE.md)**: top 150, nieuwe actieve projecten en de top 30 per categorie.",
         "",
         "Tip: ⭐ zegt weinig bij nieuwe projecten, veel pareltjes hebben (nog) bijna geen sterren.",
         "",
@@ -123,11 +189,13 @@ def main():
         "1. Voeg een regel toe aan [`data/repos.tsv`](data/repos.tsv) (`categorie<TAB>eigenaar/repo<TAB>sterren<TAB>omschrijving`).",
         "2. Draai `python3 scripts/generate.py` — README en categoriepagina's worden opnieuw gegenereerd.",
         "3. De uitgebreide index (`data/extra.tsv`) wordt gebouwd met `python3 scripts/build_extra.py <pool.json>` uit opgeslagen zoekresultaten.",
+        "4. Omschrijvingen uit README's (voor repos zonder GitHub-omschrijving) komen uit `python3 scripts/summarize_readmes.py <pool.json> <readme-map>`; repos waarvan de README een exploit/cheat blijkt, staan in `data/readme_blocked.txt` en worden overgeslagen.",
         "",
         "> Let op: controleer altijd de licentie van een repo voordat je code in je eigen game gebruikt.",
         "",
     ]
     (ROOT / "README.md").write_text("\n".join(readme), encoding="utf-8")
+    write_highlights(rows, extra, index)
     print(f"{len(rows)} gecureerd + {len(extra)} index = {len(rows) + len(extra)} repos, {len(index)} categorieën gegenereerd")
 
 

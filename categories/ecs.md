@@ -86,16 +86,16 @@ Entity Component Systems en frameworks voorbij Knit.
 | [zblox164/Scrypt](https://github.com/zblox164/Scrypt) | 1 | Scrypt-framework |
 | [ZacharyVanier/VZNCore-Template](https://github.com/ZacharyVanier/VZNCore-Template) | 0 | Batteries-included ECS-framework template |
 
-## Uitgebreide index (496)
+## Uitgebreide index (581)
 
-Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of spamfarms), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving; "(geen omschrijving op GitHub)" = opgenomen op basis van een duidelijke reponaam.
+Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of spamfarms), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving; "(uit README)" = eerste alinea van de README (repo had geen omschrijving); "(geen omschrijving op GitHub)" = opgenomen op basis van een duidelijke reponaam.
 
 | Repo | ⭐ | Wat het doet |
 |---|---:|---|
 | [Sleitnick/Knit](https://github.com/Sleitnick/Knit) | 630 | Lightweight game framework for Roblox |
 | [nidorx/ecs-lua](https://github.com/nidorx/ecs-lua) | 234 | ECS Lua is a fast and easy to use ECS (Entity Component System) engine for game development. |
 | [Sleitnick/AeroGameFramework](https://github.com/Sleitnick/AeroGameFramework) | 223 | AeroGameFramework is a Roblox game framework that makes development easy and fun. The framework is designed to simplify the communication between modules and... |
-| [osyrisrblx/rbxts-knit](https://github.com/osyrisrblx/rbxts-knit) | 20 | (geen omschrijving op GitHub) |
+| [osyrisrblx/rbxts-knit](https://github.com/osyrisrblx/rbxts-knit) | 20 | (uit README) A roblox-ts package for Sleitnick's Knit framework. |
 | [phishontop/karus](https://github.com/phishontop/karus) | 18 | Swiss army knife of OSINT, with a custom website |
 | [Floral-Abyss/recs](https://github.com/Floral-Abyss/recs) | 17 | Roblox ECS implementation |
 | [R-unic/flamework-template](https://github.com/R-unic/flamework-template) | 15 | my flamework template |
@@ -121,8 +121,10 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [iSophes/Nuclear](https://github.com/iSophes/Nuclear) | 3 | Nuclear is an Open-Sourced Framework for Roblox without the unnecessary bloat that Knit provides |
 | [jiwonz/rbx-koact](https://github.com/jiwonz/rbx-koact) | 3 | React-like UI Framework for Roblox |
 | [Nimblz/pizzaalpaca](https://github.com/Nimblz/pizzaalpaca) | 3 | lightweight module loading framework for roblox development |
+| [TheSquirrel/Roblox-Application-Development-Interface](https://github.com/TheSquirrel/Roblox-Application-Development-Interface) | 3 | (uit README) Introduction Each department will have a sub-directory here. At present we have two departments, Framework Development and App Development. |
 | [Twin1Twin2/Roblox-ECS-Framework](https://github.com/Twin1Twin2/Roblox-ECS-Framework) | 3 | [DEPRECATED] Entity-Component-System framework for use in Roblox games |
 | [VanPotent/Or2Field](https://github.com/VanPotent/Or2Field) | 3 | Or2Field is a lightweight Python tool that converts Orion-based Luau UI code to the Rayfield UI library framework. It preserves all functionality and callbac... |
+| [AmuDevz/LuaUnit](https://github.com/AmuDevz/LuaUnit) | 2 | (uit README) You can just straight up copy the LuaUnit "Folder" and paste it into ur own project. This framework is also on the Roblox Creator Marketplace. View here |
 | [Anaminus/13lgs](https://github.com/Anaminus/13lgs) | 2 | 13lgs framework for the Roblox engine, based around rbxmk. |
 | [baxoplenty/quebec-rojo-setup](https://github.com/baxoplenty/quebec-rojo-setup) | 2 | An example Rojo setup for the Quebec game framework |
 | [chocolate-bar2410/cinnamon-3D-UI](https://github.com/chocolate-bar2410/cinnamon-3D-UI) | 2 | A 3d UI framework for roblox games |
@@ -133,10 +135,12 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [Fractware/TimeScaleFramework](https://github.com/Fractware/TimeScaleFramework) | 2 | Framework to change the speed of time on Roblox. |
 | [fuzzy-bit/Litework](https://github.com/fuzzy-bit/Litework) | 2 | Modular & Lightweight Roblox Framework |
 | [Hazurii/NoxBehavior](https://github.com/Hazurii/NoxBehavior) | 2 | A nifty Roblox game framework designed to make life just a tad bit easier. Instead of wasting your time organizing your scripts and assets, use NoxBehavior r... |
+| [hero-ku/jecs-template](https://github.com/hero-ku/jecs-template) | 2 | (uit README) Template for a Roblox game created with the Jecs ecs library. Uses Planck as a scheduler and Jabby as a debugger. Uses MatterHooks for hooks. |
 | [idandrutz-MrRandom/UniFramework-AnythingFramework](https://github.com/idandrutz-MrRandom/UniFramework-AnythingFramework) | 2 | Just a really juiced up easy to use framework |
 | [iitssuper/current](https://github.com/iitssuper/current) | 2 | A Knit inspired modular loading project |
 | [iliasHDZ/Carbon](https://github.com/iliasHDZ/Carbon) | 2 | A UI Framework for ComputerCraft that uses a Roblox type hierachy system. |
 | [jun-ro/Synth](https://github.com/jun-ro/Synth) | 2 | A Powerful Yet Easy to Learn Roblox Framework. |
+| [Kvil-git/Lune-Luau-Web-Test-Runner](https://github.com/Kvil-git/Lune-Luau-Web-Test-Runner) | 2 | (uit README) A testing framework for Luau (Roblox's scripting language) with a real-time web dashboard and headless/CI mode. Includes shared mock libraries for Roblox dat... |
 | [Midnightific/BlackbirdEngine](https://github.com/Midnightific/BlackbirdEngine) | 2 | A quick and easy library/module loader intended to speed up game development on Roblox! |
 | [mirror12k/lua-rbx-elements-framework](https://github.com/mirror12k/lua-rbx-elements-framework) | 2 | a lua framework for creating roblox places |
 | [NightLapse-Studios/LazyModules](https://github.com/NightLapse-Studios/LazyModules) | 2 | Framework for roblox games |
@@ -164,6 +168,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [catsnax1/ECS-RELOAD](https://github.com/catsnax1/ECS-RELOAD) | 1 | The ROBLOX+ for ECS:R! |
 | [CenturionCodes/PludECS](https://github.com/CenturionCodes/PludECS) | 1 | Consistent and Fast ECS designed for Roblox |
 | [Chillable/Mew](https://github.com/Chillable/Mew) | 1 | A game framework for Roblox |
+| [constcrypt/roblox-ts-boilerplate](https://github.com/constcrypt/roblox-ts-boilerplate) | 1 | (uit README) This is my own pre-configured template you can use for your Roblox TypeScript projects that use Flamework. |
 | [crazyRBLX11/Atom-Framework](https://github.com/crazyRBLX11/Atom-Framework) | 1 | The Atom Framework is an open-source framework that encourages modular coding on Roblox. |
 | [cutehamster290-tech/InstaPlugins](https://github.com/cutehamster290-tech/InstaPlugins) | 1 | a new Roblox Scalable Framework |
 | [D-M-dev/Czech-Realm-Framework](https://github.com/D-M-dev/Czech-Realm-Framework) | 1 | Lightweight framework introduced in Czech Realm RP - https://www.roblox.com/games/16897965419/Czech-Realm-RP |
@@ -172,9 +177,10 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [darkceius/luwy](https://github.com/darkceius/luwy) | 1 | Luau web framework for Lute/Lune |
 | [dig1t/UIKit](https://github.com/dig1t/UIKit) | 1 | UI Framework for use with Roblox |
 | [dnurkkala/classic-engine](https://github.com/dnurkkala/classic-engine) | 1 | A Lua library for creating Roblox projects with a lightweight and extensible OOP framework. |
+| [ds84182/roblox-sbx](https://github.com/ds84182/roblox-sbx) | 1 | (uit README) ScriptBuilderX uses Cure for library and game management. NOTE: The LISCENCE file is only for my code, not the Cure Framework. |
+| [egecetinkaya/roblox-minigame](https://github.com/egecetinkaya/roblox-minigame) | 1 | (uit README) Welcome to the Pulse Minigames Framework! This is a highly modular, scalable, and optimized minigame engine built for Roblox using Luau. |
 | [EliyaFarhat/BluugRBLXFramework](https://github.com/EliyaFarhat/BluugRBLXFramework) | 1 | A general framework for creating Roblox experiences the right way. |
 | [fenrave/rayluau-framework](https://github.com/fenrave/rayluau-framework) | 1 | (geen omschrijving op GitHub) |
-| [Floating-Point-Studios/CardinalEngine](https://github.com/Floating-Point-Studios/CardinalEngine) | 1 | (geen omschrijving op GitHub) |
 | [Frieda-VI/Aviation](https://github.com/Frieda-VI/Aviation) | 1 | This is the Aviation Framework for Roblox which helps to keep communication between client and server and vice versa organised and well maintained. |
 | [Frieda-VI/horizon](https://github.com/Frieda-VI/horizon) | 1 | A simple but elegant entity component system for Roblox. |
 | [gluGPU/ToyboxFramework](https://github.com/gluGPU/ToyboxFramework) | 1 | Roblox game framework for my personal projects. |
@@ -196,34 +202,43 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [memothelemo-archive/AGF-ts](https://github.com/memothelemo-archive/AGF-ts) | 1 | My own version of AeroGameFramework typings in rbxts with interaction support |
 | [Moonlight-HQ/Moonlight-Framework](https://github.com/Moonlight-HQ/Moonlight-Framework) | 1 | The Moonlight Framework is a Roblox Framework/Library made in Luau the programming language of Roblox providing developers with helpful functions and tools. |
 | [mothball16/39th-framework](https://github.com/mothball16/39th-framework) | 1 | The spaghetti bowl holding together west noobian games |
-| [Mt1Fox/BlueBerry-Framework](https://github.com/Mt1Fox/BlueBerry-Framework) | 1 | (geen omschrijving op GitHub) |
+| [MrMidnightOfficial/Crystal](https://github.com/MrMidnightOfficial/Crystal) | 1 | (uit README) Crystal is a lightweight framework for Roblox that simplifies communication between core parts of your game and seamlessly bridges the gap between the server... |
+| [Mt1Fox/BlueBerry-Framework](https://github.com/Mt1Fox/BlueBerry-Framework) | 1 | (uit README) [BlueBerry] Is a lightweight module loader framework for Roblox - Created for my games used inside Vulpes Studios. Created by: @Mt1Fox / Vulpes Studios Versi... |
 | [NATACHIYENSE/PGNS](https://github.com/NATACHIYENSE/PGNS) | 1 | A frontend notification system framework for Roblox |
 | [NormalDuck/rbxts-multiplace-template](https://github.com/NormalDuck/rbxts-multiplace-template) | 1 | flamework, react, charm, matter (probably) will be used |
 | [nottirb/Flow](https://github.com/nottirb/Flow) | 1 | A Fusion and Roact inspired declarative UI framework for Roblox. |
 | [PenguinDevs/PetBattles](https://github.com/PenguinDevs/PetBattles) | 1 | Roblox Game built with Sleitnick's Knit Framework amassing over 7 million plays |
 | [peterron03/OverWork](https://github.com/peterron03/OverWork) | 1 | A framework for services and controllers, heavily inspired by Knit. |
-| [PlasmaLMAO/Starlight-Framework](https://github.com/PlasmaLMAO/Starlight-Framework) | 1 | (geen omschrijving op GitHub) |
+| [PlasmaLMAO/Starlight-Framework](https://github.com/PlasmaLMAO/Starlight-Framework) | 1 | (uit README) A lightweight framework around the Starlight UI Library. Instead of writing full Starlight table syntax every time, this framework gives you short one-line c... |
 | [PolyVectors/Silicon](https://github.com/PolyVectors/Silicon) | 1 | A Fusion, Flamework, and Knit inspired modern game framework designed for use in Roblox. |
 | [PraetorScion/ROBLOX-Project-Template](https://github.com/PraetorScion/ROBLOX-Project-Template) | 1 | Single Script Architecture setup complete with utility packages for fast game development |
 | [ProCode-Software/Forge](https://github.com/ProCode-Software/Forge) | 1 | A Roblox UI framework |
 | [r-iva9/Antera](https://github.com/r-iva9/Antera) | 1 | Declarative Reactive UI Framework focused on comfort |
+| [rbx-stem/stem](https://github.com/rbx-stem/stem) | 1 | (uit README) An unstyled component system for the Roblox ecosystem, designed to work across many UI frameworks (currently supports Fusion, Vide and React). |
 | [RDBLabs/robloxlabs.internal-ecs-robloxlabs](https://github.com/RDBLabs/robloxlabs.internal-ecs-robloxlabs) | 1 | This is the Public Repository for Assets for robloxlabs ECS Internal System For Roblox |
+| [re-sync-dev/Lagoon](https://github.com/re-sync-dev/Lagoon) | 1 | (uit README) Lagoon is a barebones framework that can be implemented anywhere with low integration requirements. Example usages can be downloaded from here. |
 | [REALEncryptal/Boil](https://github.com/REALEncryptal/Boil) | 1 | Boil — private Roblox framework (feature-selectable scaffold evolution of BoilFramework) |
 | [REALEncryptal/CitoTemplate](https://github.com/REALEncryptal/CitoTemplate) | 1 | A powerful, lightweight module loader for Roblox games with priority-based initialization, dependency resolution, and built-in signal management. Simplify yo... |
+| [redmonkye/glue](https://github.com/redmonkye/glue) | 1 | (uit README) A lightweight composition framework for Luau Type-safe Luau API Zero dependencies Minimal boilerplate |
 | [reold/redDot](https://github.com/reold/redDot) | 1 | RedDot is a roblox ui framework for creating beautiful uis. |
 | [ReturnedTrue/ecr-ts](https://github.com/ReturnedTrue/ecr-ts) | 1 | A sparse-set based ECS library for Luau, now with TS types. |
 | [Reverse-Entertainment/Mediterranean](https://github.com/Reverse-Entertainment/Mediterranean) | 1 | A Roblox Action-Based UI Framework. |
+| [Ritaverse/RobloxSuperPower](https://github.com/Ritaverse/RobloxSuperPower) | 1 | (uit README) A client-neutral workflow framework for building and testing Roblox games directly inside an open Roblox Studio place. |
 | [RobloxLabs/web-core-databases](https://github.com/RobloxLabs/web-core-databases) | 1 | Assembly containing base classes for Roblox.EntityFrameworkCore |
+| [RohitDasoji/Lightweight-DependencyLoader-ROBLOX-LUAU](https://github.com/RohitDasoji/Lightweight-DependencyLoader-ROBLOX-LUAU) | 1 | (uit README) Other scripts related to the dependency loader inside Lightweight-DependencyLoader-ROBLOX-LUAU/src can be unstable. Recommended just to use the ModuleLoader ... |
+| [roscriptdevv/roblox-ui-library](https://github.com/roscriptdevv/roblox-ui-library) | 1 | (uit README) A lightweight, reusable, and fully customizable UI framework for Roblox. Build professional-looking user interfaces without any game-specific features or bloat. |
 | [RoyallyFlushed/Nebula](https://github.com/RoyallyFlushed/Nebula) | 1 | A Simple, lightweight framework for Roblox |
 | [s-ray9/rainfall](https://github.com/s-ray9/rainfall) | 1 | A lightweight Roblox framework. |
 | [SatiXXGG/Vela](https://github.com/SatiXXGG/Vela) | 1 | A simple to learn roblox framework |
 | [sbi-n/startup](https://github.com/sbi-n/startup) | 1 | A simple knit-like Startup |
+| [scandaloux/swift](https://github.com/scandaloux/swift) | 1 | (uit README) Swift is a minimal and extremely easy to use http framework for Lune. It's based on NodeJS libraries such as Express and Fastify. |
 | [Scottts/Kelux](https://github.com/Scottts/Kelux) | 1 | A high-performance Roblox runtime framework designed for modular system development, structured across the two tiers: "Lite" and "Full". The framework curren... |
 | [seanbud/Bloxero](https://github.com/seanbud/Bloxero) | 1 | Experimental game project using the Knit framework in Roblox. Recreates Archero or Vampire Survivals style mechanics, focused on structured development using... |
 | [SecondNewtonLaw/FEngine](https://github.com/SecondNewtonLaw/FEngine) | 1 | InDev Roblox Game Development Framework |
 | [ShouxTech/roblox-knit-demo](https://github.com/ShouxTech/roblox-knit-demo) | 1 | Roblox Knit framework demo. Game is called Apple Capture (https://www.roblox.com/games/6409395645/Apple-Capture) |
 | [shysolocup/aepl](https://github.com/shysolocup/aepl) | 1 | A Node.JS multi-layered class creation package with built-in parenting systems that let you get info from classes above as well as better function and proper... |
 | [SixthAtom/JECS-Game-Template](https://github.com/SixthAtom/JECS-Game-Template) | 1 | JECS-powered Roblox game template with modular ECS architecture for Luau development |
+| [SolomonGM/VEngine-KendenDev](https://github.com/SolomonGM/VEngine-KendenDev) | 1 | (uit README) VEngine is a framework built around easy-to-use modules. It does this by providing some pre-implemented modules, and their types. |
 | [Spirast/Virex](https://github.com/Spirast/Virex) | 1 | Lightweight ECS for roblox-ts. |
 | [Spritess197/OnyxUi](https://github.com/Spritess197/OnyxUi) | 1 | Roblox Ui library (framework) |
 | [sqzee1/template-ts](https://github.com/sqzee1/template-ts) | 1 | My roblox-ts flamework template |
@@ -233,6 +248,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [StevenDahFish/fish](https://github.com/StevenDahFish/fish) | 1 | An experiential typed framework for Roblox |
 | [StormDirus/DirusEngine](https://github.com/StormDirus/DirusEngine) | 1 | A roblox module loader (WIP) |
 | [Stormqen/Vixxel](https://github.com/Stormqen/Vixxel) | 1 | VIXXEL — Next-Generation UGC Game Creation Platform. Vulkan-powered Roblox alternative with GPU compute, ECS architecture, and scalable multiplayer worlds. |
+| [suit-up-repos/roblox-boilerplate](https://github.com/suit-up-repos/roblox-boilerplate) | 1 | (uit README) This boilerplate should serve as a solid basis for starting a new project. It has the latest version of Knit established, as well as core Controllers and Ser... |
 | [Super-Studio-Foundation/Like2D](https://github.com/Super-Studio-Foundation/Like2D) | 1 | A lightweight 2D game framework built with SDL3 and Luau scripting |
 | [Supercolbat/RoBot](https://github.com/Supercolbat/RoBot) | 1 | A framework for making chat-controlled Roblox bots. |
 | [synpixel/fusion-jecs](https://github.com/synpixel/fusion-jecs) | 1 | A library which bridges the gap between your ECS and your UI |
@@ -241,7 +257,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [thebangobingo/roblox-flamework-template](https://github.com/thebangobingo/roblox-flamework-template) | 1 | My Personalized Flamework Template |
 | [thecogumeta/rbx-specium](https://github.com/thecogumeta/rbx-specium) | 1 | A simple and flexible testing framework for Roblox |
 | [timoursfoil/ModuleLoader](https://github.com/timoursfoil/ModuleLoader) | 1 | A lightweight and safe module management script for Roblox games. It loads and requires ModuleScripts, using protected calls (pcall) to handle errors gracefu... |
-| [Twin1Twin2/roblox-control_bindings_framework](https://github.com/Twin1Twin2/roblox-control_bindings_framework) | 1 | (geen omschrijving op GitHub) |
+| [Twin1Twin2/roblox-control_bindings_framework](https://github.com/Twin1Twin2/roblox-control_bindings_framework) | 1 | (uit README) A framework that makes binding multiple inputs to an action easier. |
 | [Twin1Twin2/roblox-ecs-framework-2019](https://github.com/Twin1Twin2/roblox-ecs-framework-2019) | 1 | Another attempt at making an ECS for Roblox. DO NOT USE FOR PROJECTS |
 | [Twin1Twin2/Roblox-ECS-Framework-v4](https://github.com/Twin1Twin2/Roblox-ECS-Framework-v4) | 1 | Entity-Component-System framework for use in Roblox games |
 | [V1ruzzz1-0/riscblox-32](https://github.com/V1ruzzz1-0/riscblox-32) | 1 | A modular RISC-V inspired virtual computer platform running inside Roblox. |
@@ -253,22 +269,28 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [xprgroupcorporation/MASFramework](https://github.com/xprgroupcorporation/MASFramework) | 1 | Production-ready modular framework for scalable Roblox game development, with multi-place support, clean client/server architecture, and integrated Studio to... |
 | [Yomydev/Starfall-Systems](https://github.com/Yomydev/Starfall-Systems) | 1 | Centralized development repository for Starfall Studios. Contains custom Luau frameworks, Python automation utilities, and server infrastructure configuratio... |
 | [Yuzkkj/framework](https://github.com/Yuzkkj/framework) | 1 | A lightweight module loader for Roblox. |
+| [0xJWLabs/luauexpress](https://github.com/0xJWLabs/luauexpress) | 0 | (uit README) LuauExpress is a simple and fast Luau web framework for Lune. LuauExpress is inspired by Hono and shares a similar API. |
+| [0xJWLabs/luauhono](https://github.com/0xJWLabs/luauhono) | 0 | (uit README) LuauHono is a small, simple and fast web framework for Lune. It is inspired by Hono and shares a similar API. |
 | [0xsteak/nova-ui](https://github.com/0xsteak/nova-ui) | 0 | An advanced component-based UI framework for Roblox. |
 | [1Humza/evolve-framework](https://github.com/1Humza/evolve-framework) | 0 | ROBLOX Luau custom framework object oriented in nature featuring classes and inheritance. |
 | [22aispro/DidliECS](https://github.com/22aispro/DidliECS) | 0 | Tuff ahh ECS ☠️☠️☠️ |
 | [3xp0x3d/Horus](https://github.com/3xp0x3d/Horus) | 0 | An all-in-one framework for Roblox development |
 | [6721207049-sys/roblox-ghost-hunting-game](https://github.com/6721207049-sys/roblox-ghost-hunting-game) | 0 | Roblox Survival Horror Ghost Hunting Game - Complete System Architecture |
 | [abdulsenlik/roblox-game-factory](https://github.com/abdulsenlik/roblox-game-factory) | 0 | Roblox Game Factory — autonomous GDD-to-game pipeline architecture flowchart |
+| [absolutezeroo/plant-vs-zombie](https://github.com/absolutezeroo/plant-vs-zombie) | 0 | (uit README) A mobile-first tower defense game built on Roblox using Matter ECS architecture. |
 | [adi33333333334/lua-genapi-framework-onemodule](https://github.com/adi33333333334/lua-genapi-framework-onemodule) | 0 | original by @larpedd just made it into a single module for a script i'm making |
 | [Adr1z/Adr1z_PokemonFW](https://github.com/Adr1z/Adr1z_PokemonFW) | 0 | Pokemon FrameWork for Roblox made by Adr1z |
 | [akashswarnkar012-glitch/sparky-portfolio](https://github.com/akashswarnkar012-glitch/sparky-portfolio) | 0 | SPARKY — Roblox builder & map designer portfolio. Pure HTML/CSS/JS, no frameworks. |
+| [akirme/ROBLOX](https://github.com/akirme/ROBLOX) | 0 | (uit README) 本仓库为 MaaFramework 所提供的项目模板，开发者可基于此模板直接创建自己的 MaaXXX 项目。 |
 | [AlexeyLegasov63/TinyFrameworkRbx](https://github.com/AlexeyLegasov63/TinyFrameworkRbx) | 0 | Tiny Roblox Framework would be the best solution for fast start. |
 | [alexmercier25/Enoria-VSCode-Snippets](https://github.com/alexmercier25/Enoria-VSCode-Snippets) | 0 | Nice Enoria Roblox Lua GUI Framework snippets to save you time. |
 | [alexzinyew/sauce2](https://github.com/alexzinyew/sauce2) | 0 | Command framework for roblox |
+| [AlexzOnYT/InfinityFramework](https://github.com/AlexzOnYT/InfinityFramework) | 0 | (uit README) Infinity is a LuaU game framework designed for the Roblox Engine! Infinity's purpose as a game framework is to speed up the development of your Roblox-Experi... |
 | [Alienduck/SimpleViewportCard](https://github.com/Alienduck/SimpleViewportCard) | 0 | A cool simple adjustable framework for visualise a model in GUI with title and description |
 | [andrewens/example-roblox-architecture](https://github.com/andrewens/example-roblox-architecture) | 0 | This project demonstrates how I build a test-driven architecture for a ROBLOX game |
 | [andrewens/joist](https://github.com/andrewens/joist) | 0 | testing framework for roblox game development |
 | [AngelAvilesSil/roblox-ts-starter-kit](https://github.com/AngelAvilesSil/roblox-ts-starter-kit) | 0 | Reusable Roblox TypeScript starter kit built with roblox-ts. Provides server/client structure, lifecycle services/controllers, typed RemoteEvent helpers, reu... |
+| [anjufehno/Roblox-programeerimine](https://github.com/anjufehno/Roblox-programeerimine) | 0 | (uit README) Multilingual frontend website for a Roblox Studio coding school for children aged 6–15. Built with vanilla HTML, CSS and JavaScript to keep the project light... |
 | [ANormalDude14/Jorex](https://github.com/ANormalDude14/Jorex) | 0 | roblox framework ive developed |
 | [AntiMobq/ModuleLoader](https://github.com/AntiMobq/ModuleLoader) | 0 | Roblox horrible module loader, with some optimizations |
 | [anzordatunasvhili-beep/Roblox_Key_Knit](https://github.com/anzordatunasvhili-beep/Roblox_Key_Knit) | 0 | (geen omschrijving op GitHub) |
@@ -280,51 +302,67 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [ausidev/roblox-backend-datamanager](https://github.com/ausidev/roblox-backend-datamanager) | 0 | Modular DataManager using Knit Framework |
 | [averyark/craftsman-lifecycle](https://github.com/averyark/craftsman-lifecycle) | 0 | The Craftsman module loader: dependency-ordered Init, Start and Stop for singleton modules. |
 | [AwakeSL/Beef](https://github.com/AwakeSL/Beef) | 0 | a Buffered ECS and Entity Framework |
+| [Azuuu/roblox-virtual-scroll-list](https://github.com/Azuuu/roblox-virtual-scroll-list) | 0 | (uit README) A lightweight, framework-free virtual scrolling grid for Roblox. Supports large datasets (10,000+ items) without creating one Instance per item. |
 | [Azzla/roblox_game](https://github.com/Azzla/roblox_game) | 0 | roblox game framework (inactive) |
 | [BananaSupermacy/Labb](https://github.com/BananaSupermacy/Labb) | 0 | Roblox studio scripting framework |
+| [BarbasOyun/Roblox-TestLab](https://github.com/BarbasOyun/Roblox-TestLab) | 0 | (uit README) 1] Setup a clean Roblox Project using : -Rojo -Knit -Roact -Rodux |
 | [Biasaemail/SC999-Framework](https://github.com/Biasaemail/SC999-Framework) | 0 | Modular Roblox Lua framework with iOS glassmorphism GUI - SC999 |
 | [BiIinear/Fusebox-Legacy](https://github.com/BiIinear/Fusebox-Legacy) | 0 | A legacy version of a Roblox command-line framework |
 | [Bikzmal/Roblox-Portfolio](https://github.com/Bikzmal/Roblox-Portfolio) | 0 | A collection of Roblox systems and frameworks I've built. |
 | [biotoxin495/PopupKit](https://github.com/biotoxin495/PopupKit) | 0 | A small, dependency-free Roblox module for contextual UI popups - hover cards, inventory details, pinned item panels, cursor-following tooltips, anchored pan... |
+| [BlackWh1te/Roblox](https://github.com/BlackWh1te/Roblox) | 0 | (uit README) A production-ready Tower Defense game template for Roblox, built with clean architecture and scalable systems. |
 | [blobfish63/framework](https://github.com/blobfish63/framework) | 0 | Default framework for a Roblox (lua) game |
 | [BonC-Dev/nightshift-ui](https://github.com/BonC-Dev/nightshift-ui) | 0 | Retained-mode UI framework for Roblox |
+| [bravo-livid/Revy](https://github.com/bravo-livid/Revy) | 0 | (uit README) Revy is an ECS framework inspired by the Rust game Engine Bevy. It allows for really scalable code while not compromising performance. |
 | [buntudu/bonemeal](https://github.com/buntudu/bonemeal) | 0 | A Roblox framework for use in Build Engine-esc games |
 | [c0balt60/multi-framework-template](https://github.com/c0balt60/multi-framework-template) | 0 | (geen omschrijving op GitHub) |
+| [c0balt60/robloxts-template](https://github.com/c0balt60/robloxts-template) | 0 | (uit README) This is my personal template for roblox typescript development This template is designed for single place game architecture |
 | [c0balt60/simple-framework-template](https://github.com/c0balt60/simple-framework-template) | 0 | (geen omschrijving op GitHub) |
 | [C0mplexity0/roblox-ts-template](https://github.com/C0mplexity0/roblox-ts-template) | 0 | Multiplace template for Roblox TS, featuring Flamework and React |
+| [c1-phr/Rue](https://github.com/c1-phr/Rue) | 0 | (uit README) An modular framework created for Roblox LuaU by fone (@autogostupid) |
 | [c4sioog/nextron-framework](https://github.com/c4sioog/nextron-framework) | 0 | Moderní framework pro Roblox inspirovaný ox_lib/ox_target z FiveM |
 | [CalebLol22/Roblox-Shop-Framework](https://github.com/CalebLol22/Roblox-Shop-Framework) | 0 | A Shop Framework made for Roblox, should be easy to use |
+| [cameronpcampbell/aurum](https://github.com/cameronpcampbell/aurum) | 0 | (uit README) An experiment of what a future Luau web framework could look like with the new type solver. |
+| [camren-m/rbxts-bind](https://github.com/camren-m/rbxts-bind) | 0 | (uit README) Utilities for binding functions to RBXScriptSignals (or similar) with a simple decorator, similar to @rbxts/proton's @Lifecycle decorator. |
 | [camren-m/rbxts-loader](https://github.com/camren-m/rbxts-loader) | 0 | A simple module loader for Roblox-TS |
 | [CapedBojji/egooe](https://github.com/CapedBojji/egooe) | 0 | A immediate mode UI framework for roblox |
 | [CapedBojji/TopDownEngine](https://github.com/CapedBojji/TopDownEngine) | 0 | My top down roblox game framework |
 | [Caylies/appii](https://github.com/Caylies/appii) | 0 | Feature-driven architecture brought to Roblox Studio, inspired by the Django Python package. |
+| [cb12438/Operator](https://github.com/cb12438/Operator) | 0 | (uit README) A command console and admin framework for Roblox, in pure Luau. |
 | [chaej4gyeong/AlcantaraRP-Core-](https://github.com/chaej4gyeong/AlcantaraRP-Core-) | 0 | Modular Roblox roleplay framework powered by chaejagyeong |
 | [chess123mate/Luau-ECS](https://github.com/chess123mate/Luau-ECS) | 0 | Luau based ECS inspired by JECS |
+| [chillinturt/JoJoSteelBallCrusaders](https://github.com/chillinturt/JoJoSteelBallCrusaders) | 0 | (uit README) Multiplayer, real-time game systems project demonstrating distributed systems, client–server architecture, and production-style software ownership |
 | [christopher-buss/nucleus](https://github.com/christopher-buss/nucleus) | 0 | A high-performance roblox-ts ECS. |
 | [claudiuscapqs-hub/Flow](https://github.com/claudiuscapqs-hub/Flow) | 0 | Flow is a lightweight, developer-friendly execution framework for Roblox that helps structure, name, debug, and manage complex logic through clean and reusab... |
 | [CoffeeShoes/SalamanderFramework](https://github.com/CoffeeShoes/SalamanderFramework) | 0 | (geen omschrijving op GitHub) |
+| [comek41/comeks-roblox-systems](https://github.com/comek41/comeks-roblox-systems) | 0 | (uit README) A collection of systems built in Luau using the Knit framework. |
 | [conariumsoft/lovecraft.github.io](https://github.com/conariumsoft/lovecraft.github.io) | 0 | API Reference for the LovecraftVR ROBLOX framework. |
 | [coolbulldj/Obby-Framework](https://github.com/coolbulldj/Obby-Framework) | 0 | (geen omschrijving op GitHub) |
 | [CoolShank8/Entity-Component-System](https://github.com/CoolShank8/Entity-Component-System) | 0 | (geen omschrijving op GitHub) |
 | [CornerChicken/SpellBlade](https://github.com/CornerChicken/SpellBlade) | 0 | Roblox game project featuring ECS |
+| [CornerYes/LuauECS](https://github.com/CornerYes/LuauECS) | 0 | (uit README) A Simple ECS module for Roblox Studio use with sparse list for fast queries of entities |
 | [craftedleah/leahframeworks](https://github.com/craftedleah/leahframeworks) | 0 | just a bunch of shit i use that i keep around |
 | [crayt-1/ModuleLoader](https://github.com/crayt-1/ModuleLoader) | 0 | module loader for mvc |
 | [CrescentCorp/CrescTest](https://github.com/CrescentCorp/CrescTest) | 0 | A powerful, runtime-agnostic luau unit testing framework. |
 | [cresmarmat-an/roblox-cleaner](https://github.com/cresmarmat-an/roblox-cleaner) | 0 | Cleaner is a resource management and lifecycle cleanup utility for Roblox. |
+| [cruzeht915/roblox-ui-component-library](https://github.com/cruzeht915/roblox-ui-component-library) | 0 | (uit README) This project is a modular and reusable UI component library for Roblox built in Luau using the Roact framework. |
 | [cuberootmctoasted/rbxts-ecs-ultimate-template](https://github.com/cuberootmctoasted/rbxts-ecs-ultimate-template) | 0 | (geen omschrijving op GitHub) |
+| [cyberahree/GeneralWater](https://github.com/cyberahree/GeneralWater) | 0 | (uit README) A monolithic Roblox Luau utility repository the provides the core building blocks for game systems; scoped lifecycles and disposables. |
 | [D-M-dev/Actor-based-system](https://github.com/D-M-dev/Actor-based-system) | 0 | trict-typed actor-based backend framework for Roblox with mailboxes, supervision, worker pools and async request/response. |
 | [D0OMSPIRE/TESTER](https://github.com/D0OMSPIRE/TESTER) | 0 | TESTER is a testing framework for testing your code, similar to Google's GTest. |
 | [dacodpla/frmwork](https://github.com/dacodpla/frmwork) | 0 | modular roblox dialogue framework code: Rendezvous |
+| [daireb/TagBehaviorService](https://github.com/daireb/TagBehaviorService) | 0 | (uit README) A lightweight, standalone lifecycle manager for CollectionService-tagged instances in Roblox. |
 | [danameisnothing/Roblox-DeveloperConsole](https://github.com/danameisnothing/Roblox-DeveloperConsole) | 0 | A simple framework for adding console commands |
 | [DanelRucci/DanelSignal](https://github.com/DanelRucci/DanelSignal) | 0 | Rich Signal API for big Roblox frameworks. |
 | [DarkageMast3r/TycoonFramework](https://github.com/DarkageMast3r/TycoonFramework) | 0 | (geen omschrijving op GitHub) |
 | [DaveInchy/NebulaUI](https://github.com/DaveInchy/NebulaUI) | 0 | Roblox CSS-like fluent React-Lua or Roact Styling framework. it offers components that use your own designed style sheet. |
 | [denispionicul/engine-next](https://github.com/denispionicul/engine-next) | 0 | idiotic roblox game framework (not idiocratic) |
+| [Dev-Equip/Luau-Frameworks](https://github.com/Dev-Equip/Luau-Frameworks) | 0 | (uit README) Dev Equip proudly presents Luau-Frameworks for developers that want to boost their productivity with pre-made frameworks. |
 | [DeveloperColton/NexusFramework](https://github.com/DeveloperColton/NexusFramework) | 0 | A game framework for the Roblox platform. |
-| [devrobloxm/My-Owner-FrameWork](https://github.com/devrobloxm/My-Owner-FrameWork) | 0 | (geen omschrijving op GitHub) |
+| [devrobloxm/My-Owner-FrameWork](https://github.com/devrobloxm/My-Owner-FrameWork) | 0 | (uit README) A lightweight modular framework for Roblox, inspired by Knit and Current. |
 | [Diabetoss/NotificationSystem](https://github.com/Diabetoss/NotificationSystem) | 0 | An advanced notification framework with a customizable interface and powerful features. |
 | [dieromlo/luauScriptingCore](https://github.com/dieromlo/luauScriptingCore) | 0 | a modular Roblox project focused on avatar systems, UI architecture and reusable gameplay modules |
-| [Diogo-Boeno/Mirage-Framework](https://github.com/Diogo-Boeno/Mirage-Framework) | 0 | (geen omschrijving op GitHub) |
+| [Diogo-Boeno/Mirage-Framework](https://github.com/Diogo-Boeno/Mirage-Framework) | 0 | (uit README) The framework where worlds exist as data, not objects. |
 | [DMoiPenn/Roblox-Framework](https://github.com/DMoiPenn/Roblox-Framework) | 0 | fully modular and reusable settings framework for Roblox games |
 | [dnbhung/RBLX1](https://github.com/dnbhung/RBLX1) | 0 | My first attempt to use rojo and knit framework |
 | [DominoBreaker/BLOXPC](https://github.com/DominoBreaker/BLOXPC) | 0 | PC emulator for Roblox with extendable architecture. |
@@ -332,10 +370,14 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [DontRevealMe/Framework](https://github.com/DontRevealMe/Framework) | 0 | Personal framework I use. |
 | [double0and7n7/n4noware](https://github.com/double0and7n7/n4noware) | 0 | A modular UI framework for Roblox. |
 | [dr4wn/currents](https://github.com/dr4wn/currents) | 0 | An original connection-puzzle game for Roblox: drag pipes between matching endpoints so every pair is joined and every cell is covered. |
+| [dwatts1772/roblox-cheops-chess](https://github.com/dwatts1772/roblox-cheops-chess) | 0 | (uit README) A 2-player multiplayer strategy board game for Roblox, inspired by Dune's "pyramid chess." Built with roblox-ts + Flamework. |
 | [E-Witz/RoScript.js](https://github.com/E-Witz/RoScript.js) | 0 | Easy to use frameworking for Roblox! |
-| [eferrabelo1114/SkoobiFramework](https://github.com/eferrabelo1114/SkoobiFramework) | 0 | (geen omschrijving op GitHub) |
+| [eferrabelo1114/SkoobiFramework](https://github.com/eferrabelo1114/SkoobiFramework) | 0 | (uit README) This is the beginning of a long prosperous journey I'll be taking on the platform Roblox.com |
+| [eferrabelo1114/SkoobUI](https://github.com/eferrabelo1114/SkoobUI) | 0 | (uit README) A lightweight, portable React-lua + Charm UI framework for Roblox. |
+| [ElWapoteDev/Clases](https://github.com/ElWapoteDev/Clases) | 0 | (uit README) Clases es una libreria pequena y estricta para crear clases en Luau/Roblox con lifecycle real: herencia, super, Destroy, cleanup LIFO, mixins, introspeccion ... |
 | [EnumEnv/GameX](https://github.com/EnumEnv/GameX) | 0 | GameX is a advanced game development framework made for roblox, also including in-game management with UI fitting the roblox's CoreGUI style to make you real... |
 | [EricApostal/roblox-lava-rising](https://github.com/EricApostal/roblox-lava-rising) | 0 | Lava Rising Roblox game using Flamework / React |
+| [ernisto/attr](https://github.com/ernisto/attr) | 0 | (uit README) attr is a small and flexible Entity Component (EC) library for the Luau/Roblox ecosystem, focused on performance, simplicity, and extensibility. |
 | [erturkgnc/roblox-scripting-showcase](https://github.com/erturkgnc/roblox-scripting-showcase) | 0 | Selected Roblox Luau code samples showcasing gameplay systems, client/server logic, and system architecture. |
 | [EvanTheHuman/StoryTeller](https://github.com/EvanTheHuman/StoryTeller) | 0 | Open source RPG/Text Adventure framework for ROBLOX |
 | [FableRBX/seed](https://github.com/FableRBX/seed) | 0 | Seed framework for Roblox games |
@@ -345,25 +387,27 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [FIHHHH2/Fih-Menu](https://github.com/FIHHHH2/Fih-Menu) | 0 | Fih Menu — Modular Cubed-Style Universal GUI Architecture for Roblox |
 | [fishguy100/RBXGamework-NotRoleplaying](https://github.com/fishguy100/RBXGamework-NotRoleplaying) | 0 | Roblox RPG framework-engine idk |
 | [fishtank-co/fishPluginFramework](https://github.com/fishtank-co/fishPluginFramework) | 0 | Framework for Roblox Plugins. |
-| [Floating-Point-Studios/DeusFramework](https://github.com/Floating-Point-Studios/DeusFramework) | 0 | (geen omschrijving op GitHub) |
 | [FloofyPlasma/lumin-ui](https://github.com/FloofyPlasma/lumin-ui) | 0 | A light, fast, and efficient UI framework that has a small learning curve. |
 | [fnstart/Roblox-LuaU-Framework-Example](https://github.com/fnstart/Roblox-LuaU-Framework-Example) | 0 | Simple Roblox Lua Framework Example |
-| [foecakes/TriggerMythFramework](https://github.com/foecakes/TriggerMythFramework) | 0 | (geen omschrijving op GitHub) |
+| [foecakes/TriggerMythFramework](https://github.com/foecakes/TriggerMythFramework) | 0 | (uit README) Trigger Myth Framework is a Roblox framework built on Knit that lets you set up trigger-based events to reveal hidden Models and Folders in your game. |
 | [FORGOTTENJAKEY/Nex-UI](https://github.com/FORGOTTENJAKEY/Nex-UI) | 0 | A modular roblox linear interface framework. |
 | [fove-dev/fove](https://github.com/fove-dev/fove) | 0 | A reactive UI framework for Luau. |
 | [frameworks-engineering/forgeblox](https://github.com/frameworks-engineering/forgeblox) | 0 | FORGEBLOX is a web open-source ROBLOX emulator based in June 2005. |
+| [fredgig/dfine](https://github.com/fredgig/dfine) | 0 | (uit README) A testing ground for the Dfine framework — a small entity/component-style layer over Roblox Instances with inheritance, default values, and shared/server/cli... |
 | [frizzysx/RobloxRoundFramework](https://github.com/frizzysx/RobloxRoundFramework) | 0 | vA modular Roblox round-management framework built with Luau. It provides a clean foundation for multiplayer experiences with configurable intermissions, rou... |
-| [FuFiFurry/Vulpes_Framework](https://github.com/FuFiFurry/Vulpes_Framework) | 0 | (geen omschrijving op GitHub) |
+| [GeorgeAlex-M/Robot-Framework---Roblox](https://github.com/GeorgeAlex-M/Robot-Framework---Roblox) | 0 | (uit README) // // Copyright 2022 UNREAL SOFTWARE ORG. // // The corresponding source code is free: you can redistribute it and/or modify // it under the terms of the GNU... |
 | [German-rod/RoundKit](https://github.com/German-rod/RoundKit) | 0 | Framework for building round-based game modes on Roblox. |
+| [GlitchiPitch/inventory_system](https://github.com/GlitchiPitch/inventory_system) | 0 | (uit README) A comprehensive inventory and equipment management system for Roblox games, built with Clean Architecture principles. |
 | [gostrafx/Roblox-starter](https://github.com/gostrafx/Roblox-starter) | 0 | Roblox starter with the framework knit Rojo, Argon |
 | [greenviper126/AnachronousFramework](https://github.com/greenviper126/AnachronousFramework) | 0 | (geen omschrijving op GitHub) |
+| [Guilhermefonseca2021/Roblox_Guide](https://github.com/Guilhermefonseca2021/Roblox_Guide) | 0 | (uit README) 🛠️ Roblox Professional Architecture Guide Este README serve como um guia de referência para estruturar projetos de alta performance, garantindo que o jogo se... |
 | [HalilAlper/KnitProjectTemplate](https://github.com/HalilAlper/KnitProjectTemplate) | 0 | Knit Project Template to swiftly start developing a roblox game |
 | [HappySunChild/ReactFusion](https://github.com/HappySunChild/ReactFusion) | 0 | A UI framework based off of Fusion and Roact (not react-lua). Not meant to be used for production or actual genuine use. |
 | [hashimnaim/Strara2](https://github.com/hashimnaim/Strara2) | 0 | Blazing fast module loader. |
 | [hatedbysomeone/RemoteGuard](https://github.com/hatedbysomeone/RemoteGuard) | 0 | This is a module I recently wrote for my portfolio. I WILL NOT BE UPDATING IT! YOU ARE BETTER OFF USING ROBLOX-TS ALONG WITH FLAMEWORK! |
 | [henryrem/secLITE](https://github.com/henryrem/secLITE) | 0 | A revolutionary all-in-one experience framework for Roblox in the LuaU language. A deep dive in the read me is required for use and modification. |
 | [hexium-softworks/InteractionService](https://github.com/hexium-softworks/InteractionService) | 0 | A game-agnostic ProximityPrompt interaction framework for NevermoreEngine projects. |
-| [Horman69/Template_Knit_UI](https://github.com/Horman69/Template_Knit_UI) | 0 | (geen omschrijving op GitHub) |
+| [Horman69/Template_Knit_UI](https://github.com/Horman69/Template_Knit_UI) | 0 | (uit README) Базовый шаблон для Roblox проекта с использованием Knit framework. |
 | [horsenuggets/testable](https://github.com/horsenuggets/testable) | 0 | A Luau testing framework based off of TestEZ. |
 | [hypurh/foundry-rbx](https://github.com/hypurh/foundry-rbx) | 0 | This is essentially a module loader factory. |
 | [Hysomni/Hyalogue](https://github.com/Hysomni/Hyalogue) | 0 | A dialogue DSL framework made for Hysomni designed to be as simplistic as possible. |
@@ -378,19 +422,23 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [ImNotDario/windux](https://github.com/ImNotDario/windux) | 0 | Windows Looking Ahh ui/ux framework for roblox |
 | [inkku4284-ui/Roblox-Systems](https://github.com/inkku4284-ui/Roblox-Systems) | 0 | Collection of Roblox systems, frameworks and scripting experiments. |
 | [Iron-Stag-Games/Useful-Modules](https://github.com/Iron-Stag-Games/Useful-Modules) | 0 | A collection of useful modules compatible with the Pronghorn Framework: https://github.com/Iron-Stag-Games/Pronghorn |
+| [ishensarabia/roblox-inventory-system](https://github.com/ishensarabia/roblox-inventory-system) | 0 | (uit README) A lightweight, robust, and modern inventory system built for Roblox using the Knit framework. It features a dark-themed UI, dynamic item management, and cros... |
+| [ItipatS/RankMatchMakingDemo](https://github.com/ItipatS/RankMatchMakingDemo) | 0 | (uit README) A production-ready ranked matchmaking system built on Roblox MemoryStore, demonstrated entirely with mock data. No live game required to evaluate the archite... |
 | [J1ck/FrameworkTemplate](https://github.com/J1ck/FrameworkTemplate) | 0 | (geen omschrijving op GitHub) |
 | [JanBerktold/roblox-choner](https://github.com/JanBerktold/roblox-choner) | 0 | Some modules for my ROBLOX framework. |
 | [jaudadel/Framework-RBX](https://github.com/jaudadel/Framework-RBX) | 0 | Lightweight, modular and beginner-friendly Roblox framework. |
 | [jhmitchell/grid-placement-framework](https://github.com/jhmitchell/grid-placement-framework) | 0 | A grid placement framework designed for use in ROBLOX tycoon/idle games |
 | [JogEcosystem/Jog](https://github.com/JogEcosystem/Jog) | 0 | Jog, the modular game-development framework for Roblox. |
 | [joshwakelin/backbone](https://github.com/joshwakelin/backbone) | 0 | Luau function management framework |
+| [JSquinatoa/TarejetasRobloxBack](https://github.com/JSquinatoa/TarejetasRobloxBack) | 0 | (uit README) This project uses Quarkus, the Supersonic Subatomic Java Framework. |
 | [Judash399/Comet](https://github.com/Judash399/Comet) | 0 | A lightweight, luau native, component based framework. |
 | [jun-ro/Coral](https://github.com/jun-ro/Coral) | 0 | A web game engine designed for making 2D games. Its design is based off of Roblox's game engine and share a lot of similarities. Written entirely in JS, no u... |
 | [junkiejoe/VTest](https://github.com/junkiejoe/VTest) | 0 | Framework for creating and visualizing tests in Roblox. |
 | [Just3itx/Quartz](https://github.com/Just3itx/Quartz) | 0 | A comprehensive testing and polyfill framework for Roblox Executors |
-| [Jutiinian/FrameworkTemplate](https://github.com/Jutiinian/FrameworkTemplate) | 0 | (geen omschrijving op GitHub) |
+| [Jutiinian/FrameworkTemplate](https://github.com/Jutiinian/FrameworkTemplate) | 0 | (uit README) This is the Roblox framework base I use for myself and the projects I work on. The main goal is to keep projects maintainable as they grow, with reusable inf... |
 | [keeptheluck/Roblox-Game-Development-Framework](https://github.com/keeptheluck/Roblox-Game-Development-Framework) | 0 | (geen omschrijving op GitHub) |
 | [KercX/AyoChip](https://github.com/KercX/AyoChip) | 0 | customframe and framework to roblox studio |
+| [KercX/Cmda](https://github.com/KercX/Cmda) | 0 | (uit README) Cmda is a modern, lightweight, and highly extensible command framework for Roblox, written in Luau. |
 | [keyrexdevelopment/Keyware-UI](https://github.com/keyrexdevelopment/Keyware-UI) | 0 | High-Performance Modern Luau UI Framework for Roblox |
 | [KingColton1/ValeriaOS](https://github.com/KingColton1/ValeriaOS) | 0 | ValeriaOS is a modular engine designed to be used as a framework and foundation for your Roblox game. |
 | [kinjakitanzawi-wq/CoreForge-Roblox-Framework](https://github.com/kinjakitanzawi-wq/CoreForge-Roblox-Framework) | 0 | (geen omschrijving op GitHub) |
@@ -410,32 +458,38 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [LindoDeveloper/DragScripting](https://github.com/LindoDeveloper/DragScripting) | 0 | DragScripting - pseudo-framework, which transforms block code to luau. |
 | [Lipaanek/Oddysey-Framework](https://github.com/Lipaanek/Oddysey-Framework) | 0 | Oddysey, alias RLWQF (Roblox Light Weight Quest Framework), is a Quest Framework made for roblox. |
 | [LiquifyCD/No-Comment-Framework](https://github.com/LiquifyCD/No-Comment-Framework) | 0 | A modern, modular Roblox UI framework built entirely with LocalScripts. |
+| [lisachandra/rbxts](https://github.com/lisachandra/rbxts) | 0 | (uit README) Shared Roblox TypeScript packages for gameplay, ECS, UI, and platform integrations |
 | [lnconcinnity/Flare](https://github.com/lnconcinnity/Flare) | 0 | Fast, robust and advanced roblox framework! |
+| [Loner1536/Roblox-ECS-Monorepo](https://github.com/Loner1536/Roblox-ECS-Monorepo) | 0 | (uit README) A production-grade Roblox TypeScript game template built on a fully custom ECS architecture. |
 | [loveworksoftware/lovework](https://github.com/loveworksoftware/lovework) | 0 | Simple framework for LÖVE2D games using Kaledis. |
 | [Lucid-Games-Studio/BackendTemplate](https://github.com/Lucid-Games-Studio/BackendTemplate) | 0 | This is a template for backend architecture, actually, the best in my opinion, using new systems that are fully maintain |
 | [lurk-dev/ecs-template](https://github.com/lurk-dev/ecs-template) | 0 | (geen omschrijving op GitHub) |
-| [MarcSpectrum/MarcSpectrum.Framework](https://github.com/MarcSpectrum/MarcSpectrum.Framework) | 0 | (geen omschrijving op GitHub) |
+| [malloyuki6-design/IrisUi-lib](https://github.com/malloyuki6-design/IrisUi-lib) | 0 | (uit README) IrisHub is an open-source universal Roblox/Luau UI framework focused on polished interfaces, consistent component APIs, responsive controls, runtime theming,... |
+| [malydevs/ModuleLoader](https://github.com/malydevs/ModuleLoader) | 0 | (uit README) This goes for both the client and the server - |
 | [MarioChao/dreamers-dialog-system-framework](https://github.com/MarioChao/dreamers-dialog-system-framework) | 0 | Easily create dialog sequences using Dreamer's Dialog System. |
-| [MartinezMathematics/luau-systems-architecture](https://github.com/MartinezMathematics/luau-systems-architecture) | 0 | (geen omschrijving op GitHub) |
 | [master3395/TeamCrazyGameFramework](https://github.com/master3395/TeamCrazyGameFramework) | 0 | Team Crazy Game Framework for ROBLOX |
+| [matthewmcroberts/RobloxUtility](https://github.com/matthewmcroberts/RobloxUtility) | 0 | (uit README) A collection of reusable Roblox systems, utilities, and gameplay templates designed to speed up development and promote clean, modular architecture. |
 | [Mawyxx/MawyxxHub](https://github.com/Mawyxx/MawyxxHub) | 0 | Roblox GUI framework: Tab → Group → Controls |
 | [Mazatec2045/Aria-Pastel-Goth-3D-Roblox](https://github.com/Mazatec2045/Aria-Pastel-Goth-3D-Roblox) | 0 | Interactive 3D Roblox Pastel Goth showcase with persistent WebGL background, Lenis smooth scrolling, and Oryzo-inspired teardown architecture |
+| [mbrownpan-star/dropoff-roblox-sdk](https://github.com/mbrownpan-star/dropoff-roblox-sdk) | 0 | (uit README) A lightweight, high-performance analytics SDK for tracking player session lifecycle events in Roblox games. Designed to measure session abandonment and provi... |
 | [MEH-Studios-Incorporated/MSFramework](https://github.com/MEH-Studios-Incorporated/MSFramework) | 0 | A powerful Framework for different kinds of Roblox Games |
+| [melinicovyra-cell/new-Luau-code](https://github.com/melinicovyra-cell/new-Luau-code) | 0 | (uit README) A starter architecture for a custom scripting language built in Luau. |
+| [michael-diaz-0/robloxSite](https://github.com/michael-diaz-0/robloxSite) | 0 | (uit README) a quick fan site using vercel as a static host, built with a modified React framework "next.js" using javascript, html, css |
 | [microsoftslaw/moduleloader](https://github.com/microsoftslaw/moduleloader) | 0 | module loader i use for roblox studio |
 | [microwave3000/TOASTERFRAMEWORKdemo](https://github.com/microwave3000/TOASTERFRAMEWORKdemo) | 0 | A very unfinished short demo of the 2013 version of ROBLOX. |
 | [mineblue5/-FrameworkName-](https://github.com/mineblue5/-FrameworkName-) | 0 | A Roblox Framework that adds lifecycle, I guess... |
 | [mkl48/Karet](https://github.com/mkl48/Karet) | 0 | An in-game command framework and terminal for Roblox. Typed arguments validated on both realms · a real shell grammar · one Neovim-style theme through the wh... |
-| [MobiusCraftFlip/rbxts-transformer-knit](https://github.com/MobiusCraftFlip/rbxts-transformer-knit) | 0 | (geen omschrijving op GitHub) |
+| [MobiusCraftFlip/rbxts-transformer-knit](https://github.com/MobiusCraftFlip/rbxts-transformer-knit) | 0 | (uit README) This is a simple template framework that simplifies creating transformers. It allows you to transform code in stages, as well as communicate to past and futu... |
 | [MonoCodesGH/Initializer](https://github.com/MonoCodesGH/Initializer) | 0 | Lightweight Roblox module loader with automatic discovery, priority-based initialization, and fault-tolerant startup. |
 | [MonoPolygon-Inc/Poly-Framework](https://github.com/MonoPolygon-Inc/Poly-Framework) | 0 | framework of Monopolygon games |
 | [MoonlitXtreme/moonlitxtreme.github.io](https://github.com/MoonlitXtreme/moonlitxtreme.github.io) | 0 | Explore the essentials of Roblox Studio's programming framework in this wiki. |
 | [MorezellaUwU/SkillTree](https://github.com/MorezellaUwU/SkillTree) | 0 | Module Loader for easy and consistent Roblox Executing. |
-| [moritztenbrink/xmo-framework](https://github.com/moritztenbrink/xmo-framework) | 0 | (geen omschrijving op GitHub) Xmo Framework |
 | [MrMcMelon/Hyper-Framework](https://github.com/MrMcMelon/Hyper-Framework) | 0 | (geen omschrijving op GitHub) |
 | [MrPineappleMan/CFramework](https://github.com/MrPineappleMan/CFramework) | 0 | Basic Roblox Game Framework |
 | [N1biru/NOS](https://github.com/N1biru/NOS) | 0 | All in one OS (Advanced framework per say) for Roblox game development. |
+| [napHiwka/plink](https://github.com/napHiwka/plink) | 0 | (uit README) Plink is a sparse-set ECS library. It is not yet recommended for production use because it has not been thoroughly tested and its API contract may still change. |
 | [NightKillerYT-DEV/NightReload-Framework](https://github.com/NightKillerYT-DEV/NightReload-Framework) | 0 | 💡 A Roblox hot-update framework that lets you add, remove, or replace game content live — without shutting down servers. Easy to integrate, supports protecte... |
-| [NightmarePog/Flamework-Hotbar](https://github.com/NightmarePog/Flamework-Hotbar) | 0 | (geen omschrijving op GitHub) simple roblox project |
+| [NightmarePog/Flamework-Hotbar](https://github.com/NightmarePog/Flamework-Hotbar) | 0 | (uit README) An unfinished inventory and hotbar UI prototype for Roblox, built with roblox-ts, Flamework, and React. The project was extracted from a larger game to explo... |
 | [Nirleka-Studio/dasar](https://github.com/Nirleka-Studio/dasar) | 0 | Dasar is a framework for the Roblox engine. |
 | [Nivalis9/CommandLibrary](https://github.com/Nivalis9/CommandLibrary) | 0 | A command-based framework that handles scheduling, resource management, and task priority. Built for ROBLOX. |
 | [NoahIsADeveloper/Slate](https://github.com/NoahIsADeveloper/Slate) | 0 | my best attempt at a ui framework |
@@ -447,14 +501,20 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [notebookhuawei93-maker/Alexei-Framework](https://github.com/notebookhuawei93-maker/Alexei-Framework) | 0 | Beautiful UI Library for Roblox |
 | [notlbock/frameworkRunner](https://github.com/notlbock/frameworkRunner) | 0 | luau framework runner (roblox) |
 | [Notyouorme2000/peaceful-framework](https://github.com/Notyouorme2000/peaceful-framework) | 0 | Small Roblox service/controller framework |
+| [NovaRbxDev/Technical-Showcase](https://github.com/NovaRbxDev/Technical-Showcase) | 0 | (uit README) A high-performance technical demonstration developed in less than 6 hours to showcase clean architecture, Luau strict typing, and advanced service-controller... |
 | [NyanDevModding/hybrid-ecs](https://github.com/NyanDevModding/hybrid-ecs) | 0 | oop ecs THIS ISNT THE CONCEPT OF AN ECS but yea |
+| [o-poliakh/modal-system](https://github.com/o-poliakh/modal-system) | 0 | (uit README) A modern, reusable boilerplate for Roblox development built with Luau, featuring a comprehensive design system and modular architecture. |
+| [Odobesku/RobloxRPG](https://github.com/Odobesku/RobloxRPG) | 0 | (uit README) Architecture & Research Repository for Roblox Studio (Luau) > > Цей репозиторій містить нейтральну архітектурну специфікацію та механічну модель для створенн... |
 | [okay-Alex/DifferentialFramework](https://github.com/okay-Alex/DifferentialFramework) | 0 | Service-Based Roblox game framework // Latest Public Stable Build: v2.13a |
 | [OliverHensworth/ro-int](https://github.com/OliverHensworth/ro-int) | 0 | Ro-int is a Roblox Framework that connects to features usually you cannot get to, but Ro-int solves that. ~~Ro-int means Roblox Interaction~~ |
 | [OMouta/flare](https://github.com/OMouta/flare) | 0 | A fast, plugin-first HTTP framework for Lute. |
+| [osabased/diegeticUi](https://github.com/osabased/diegeticUi) | 0 | (uit README) A Roblox project using Rojo and canonical Single Script Architecture (SSA). |
 | [ouw2204/Faye](https://github.com/ouw2204/Faye) | 0 | Roblox reactive UI framework. |
 | [Pacriptct/Odyssey](https://github.com/Pacriptct/Odyssey) | 0 | Main Framework for starting any new project |
 | [pagedcomic-design/bitchbot-ui](https://github.com/pagedcomic-design/bitchbot-ui) | 0 | BitchBot UI framework (stripped, no built-in features) |
 | [PaleHazeGuy/Framework-Template-Rojo](https://github.com/PaleHazeGuy/Framework-Template-Rojo) | 0 | (geen omschrijving op GitHub) |
+| [Pedro-Caixa/kitty](https://github.com/Pedro-Caixa/kitty) | 0 | (uit README) A lifecycle-managed game framework for Roblox that helps you organize server logic, client logic, and game components in a clean, scalable way. |
+| [phasenull/rbxts-common-template](https://github.com/phasenull/rbxts-common-template) | 0 | (uit README) common library for developing roblox games with proper structure. Uses roblox-ts, flamework, react for core stuff. |
 | [Phoenix-Framework/Framework](https://github.com/Phoenix-Framework/Framework) | 0 | A modular, feature-rich framework to help the ease of development for Roblox games. |
 | [phonaputer/cmpgen](https://github.com/phonaputer/cmpgen) | 0 | Tool to generate C++ and Luau ECS components from a configuration file. |
 | [pietro787/Zombie-Attack](https://github.com/pietro787/Zombie-Attack) | 0 | Criando meu framework e tentando fazer zombie |
@@ -463,31 +523,38 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [PraxPrix-Studios/Branch-Framework](https://github.com/PraxPrix-Studios/Branch-Framework) | 0 | This is the official release repository of Branch framework. |
 | [primiti-ve/bot-framework](https://github.com/primiti-ve/bot-framework) | 0 | a discord luau bot framework |
 | [PRMS-magnet/LARP-ECS](https://github.com/PRMS-magnet/LARP-ECS) | 0 | Public luau mirror of LARP-ECS (formerly known as PRMS-ECS) |
+| [programadorroblox/fullflowers-test](https://github.com/programadorroblox/fullflowers-test) | 0 | (uit README) The project follows a feature-based architecture under src/, with a Core/ layer for shared utilities and a Features/ layer for game systems. |
 | [prooheckcp/Unit](https://github.com/prooheckcp/Unit) | 0 | This is a full Roblox game framework that has been inspired in the Unity platform. It allows the user to organize his Instances the same way he would organiz... |
-| [pseudo-glicerine/framework-core-modules](https://github.com/pseudo-glicerine/framework-core-modules) | 0 | (geen omschrijving op GitHub) |
+| [pseudo-glicerine/framework-core-modules](https://github.com/pseudo-glicerine/framework-core-modules) | 0 | (uit README) This repository contains a collection of modules designed for my personal framework |
+| [Psychocat1323/TechnicalExamSoaringEagle](https://github.com/Psychocat1323/TechnicalExamSoaringEagle) | 0 | (uit README) I used the Knit framework to maintain a clean and modular architecture, eliminating the need for direct RemoteEvent handling. |
 | [puka-21/PlaytimeWatcher](https://github.com/puka-21/PlaytimeWatcher) | 0 | Extensible C# playtime tracker with modular architecture: core time engine, async app providers (Roblox/Steam), and flexible outputs (Discord Webhook/Console). |
-| [PyreX09/AetherSystems-Framework](https://github.com/PyreX09/AetherSystems-Framework) | 0 | (geen omschrijving op GitHub) |
+| [PyreX09/AetherSystems-Framework](https://github.com/PyreX09/AetherSystems-Framework) | 0 | (uit README) It loads your modules in dependency order and gets out of the way. |
+| [qbcore-roblox/qbcore-rp](https://github.com/qbcore-roblox/qbcore-rp) | 0 | (uit README) QBCore-inspired roleplay framework for Roblox, developed with Roblox Studio's native Script Sync. |
 | [Qquaded/LuaCSS-Roblox-Reactive-UI-Framework](https://github.com/Qquaded/LuaCSS-Roblox-Reactive-UI-Framework) | 0 | LuaCSS is a roblox UI Framework that imitates css, But in Roblox. |
 | [R-unic/componentize](https://github.com/R-unic/componentize) | 0 | A component system for Roblox, optionally using tags |
 | [R-unic/flamework-instance-pooling](https://github.com/R-unic/flamework-instance-pooling) | 0 | Classes to pool Roblox instances, UIPool and PartPool included |
 | [r0rnor/ECS-Roblox-TS-Rogen-Template](https://github.com/r0rnor/ECS-Roblox-TS-Rogen-Template) | 0 | (geen omschrijving op GitHub) |
 | [rabbitcode981-byte/Lovarip-Framework---Roblox-2D-Graphical-Libary](https://github.com/rabbitcode981-byte/Lovarip-Framework---Roblox-2D-Graphical-Libary) | 0 | A perfect way to rapid prototyping with LOVE2D-like Syntax on roblox studio,NOTHING IS IMPOSSIBLE |
+| [rafamaced/roblox-game](https://github.com/rafamaced/roblox-game) | 0 | (uit README) A deep-sea fishing and exploration game for Roblox, built with Rojo and Knit. |
+| [RaiymbekKokteubay/Lyra](https://github.com/RaiymbekKokteubay/Lyra) | 0 | (uit README) A reactive framework for Roblox built in Luau. Provides composable primitives for building complex, maintainable experiences. |
 | [RAMPAGELLC/knight.ts](https://github.com/RAMPAGELLC/knight.ts) | 0 | The Knight Framework for Roblox.ts |
-| [Ranw1/game-framework-roblox-licenses](https://github.com/Ranw1/game-framework-roblox-licenses) | 0 | (geen omschrijving op GitHub) |
+| [Ranw1/game-framework-roblox-licenses](https://github.com/Ranw1/game-framework-roblox-licenses) | 0 | (uit README) Public records for Ranu's Framework. Source code and game assets are maintained separately in a private repository. Registry format version: 1.1. |
 | [Raposo-Founders/Roblox-RaposoClanning](https://github.com/Raposo-Founders/Roblox-RaposoClanning) | 0 | (geen omschrijving op GitHub) An Roblox-TS framework |
+| [ratplier/nit](https://github.com/ratplier/nit) | 0 | (uit README) inspired by ohmyprvd (v0.1) and flamework goal is to be flamework but for luau so far partially there |
 | [Razorboot/rb-zones](https://github.com/Razorboot/rb-zones) | 0 | Interactive 3D documentation and implementation guide for an Instance-backed Roblox zone framework. |
-| [REALEncryptal/BoilFramework](https://github.com/REALEncryptal/BoilFramework) | 0 | (geen omschrijving op GitHub) |
+| [REALEncryptal/AnimeBattleGrounds](https://github.com/REALEncryptal/AnimeBattleGrounds) | 0 | (uit README) A powerful, lightweight module loader for Roblox game development |
+| [REALEncryptal/BasicTycoonOopTest](https://github.com/REALEncryptal/BasicTycoonOopTest) | 0 | (uit README) A powerful, lightweight module loader for Roblox game development |
 | [RebisterLog/Crane-Framework](https://github.com/RebisterLog/Crane-Framework) | 0 | (geen omschrijving op GitHub) |
 | [RecktVR/Bones-Stuff-Sdk](https://github.com/RecktVR/Bones-Stuff-Sdk) | 0 | A developer-oriented framework for standardized mod creation on Roblox. Streamlines asset packaging and metadata handling through manifests. |
-| [redbloxian1212/Forge-Framework-v2](https://github.com/redbloxian1212/Forge-Framework-v2) | 0 | (geen omschrijving op GitHub) |
 | [redbloxian1212/Some-Framework](https://github.com/redbloxian1212/Some-Framework) | 0 | (geen omschrijving op GitHub) |
 | [RektByMeEasily/Crescent-Frameworks-Engine-Project-CFE](https://github.com/RektByMeEasily/Crescent-Frameworks-Engine-Project-CFE) | 0 | A engine/Project within the roblox platform - To make realism better. |
 | [RelkzzRebranded/Alcos-Barebones-RBXTS-Template-JECS-Version](https://github.com/RelkzzRebranded/Alcos-Barebones-RBXTS-Template-JECS-Version) | 0 | jecs version (i dont like using flamework anymore) |
 | [RetroGalacticGamer/Rodaptive-Framework](https://github.com/RetroGalacticGamer/Rodaptive-Framework) | 0 | A versatile and portable framework for any Roblox game. |
 | [ReturnedTrue/gorp-ts](https://github.com/ReturnedTrue/gorp-ts) | 0 | A hacky ECS debugger, for Roblox-ts |
-| [ReturnedTrue/NebulaFramework](https://github.com/ReturnedTrue/NebulaFramework) | 0 | (geen omschrijving op GitHub) Shelved framework |
+| [Rift-Creations-Inc/framework](https://github.com/Rift-Creations-Inc/framework) | 0 | (uit README) A game framework started by two goofballs... |
 | [Rift-Creations-Inc/rblx_oop](https://github.com/Rift-Creations-Inc/rblx_oop) | 0 | an oop framework thing i made with a debug screen |
 | [RKG-01/REE_Engine](https://github.com/RKG-01/REE_Engine) | 0 | A Game Framework for Roblox. |
+| [RockyRocks1/rotate-and-roll](https://github.com/RockyRocks1/rotate-and-roll) | 0 | (uit README) My attempt at creating an ECS-based Roblox game. |
 | [roguerousseau/Nord-0](https://github.com/roguerousseau/Nord-0) | 0 | A roblox ui framework that feels premium and is powerful and easy for developers to use |
 | [Roleplay-Utilities/RobloxRoleplayFramework](https://github.com/Roleplay-Utilities/RobloxRoleplayFramework) | 0 | A Roblox Framework for Roleplay Games |
 | [Roll-It0/Golden-Age](https://github.com/Roll-It0/Golden-Age) | 0 | Tools + Frameworks + Other Utilities All Bought To You By Rollo/Roll It |
@@ -495,25 +562,30 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [Rozakgd/like2d-game](https://github.com/Rozakgd/like2d-game) | 0 | Official playable demos and community games built using the Like2D framework. Experience what's possible with SDL3 and Luau scripting! 🕹️🚀 |
 | [RsMan-Dev/rbxts-signals](https://github.com/RsMan-Dev/rbxts-signals) | 0 | A reactive signals library ready to use in any framework |
 | [rxjoe/Nemesis-Framework](https://github.com/rxjoe/Nemesis-Framework) | 0 | A powerful Roblox lua framework |
+| [S-ntineDevelopment/ranker-application](https://github.com/S-ntineDevelopment/ranker-application) | 0 | (uit README) S_nEngine runtime UI mounting and prompt routing Client minigame resolver/session architecture Server minigame Begin/Submit registry Player-facing minigame c... |
 | [savruun/chief-template](https://github.com/savruun/chief-template) | 0 | A template built for Chief, a Roblox game framework. |
 | [savruun/rbxts-flamework-template](https://github.com/savruun/rbxts-flamework-template) | 0 | An RBXTS Flamework Template. |
 | [Sealflux/Roblox-Systems-Portfolio](https://github.com/Sealflux/Roblox-Systems-Portfolio) | 0 | Portfolio showcasing Knit modularization |
 | [Seindor/Hybrid_ECS](https://github.com/Seindor/Hybrid_ECS) | 0 | (geen omschrijving op GitHub) |
 | [Shadow-Devlper/zaux-loader](https://github.com/Shadow-Devlper/zaux-loader) | 0 | module loader for roblox. |
 | [Shadow12267/Luna](https://github.com/Shadow12267/Luna) | 0 | Luna: The Best Roblox Execution Framework |
+| [shamster-dev/roblox-games](https://github.com/shamster-dev/roblox-games) | 0 | (uit README) These games are not finished but the framework is there in case you want to add more levels |
 | [shaunezzz/ecs-lab](https://github.com/shaunezzz/ecs-lab) | 0 | (geen omschrijving op GitHub) |
 | [shisisan/revitalize-camp](https://github.com/shisisan/revitalize-camp) | 0 | Just my roblox project using roblox-ts framework |
+| [shiven0407/Entity-Component-System](https://github.com/shiven0407/Entity-Component-System) | 0 | (uit README) This project implements a lightweight Entity Component System (ECS) in Lua, designed for real-time, server–client game environments. |
+| [shv4n/Ardent](https://github.com/shv4n/Ardent) | 0 | (uit README) Personal development tracker, architecture notes, and roadmap. |
 | [shyguyhatestoad/RiskLink-Lite](https://github.com/shyguyhatestoad/RiskLink-Lite) | 0 | Lightweight account risk intelligence framework for Roblox |
 | [Si-SenorTN/Scarlet](https://github.com/Si-SenorTN/Scarlet) | 0 | Object event utility framework |
-| [sillyval/rojo-knit-example](https://github.com/sillyval/rojo-knit-example) | 0 | (geen omschrijving op GitHub) |
 | [SingularVortex/connectFramework](https://github.com/SingularVortex/connectFramework) | 0 | A roblox framework designed to make developing easier. |
-| [SirBepy/a_cxnfusing_framework](https://github.com/SirBepy/a_cxnfusing_framework) | 0 | (geen omschrijving op GitHub) |
+| [SirBepy/a_cxnfusing_framework](https://github.com/SirBepy/a_cxnfusing_framework) | 0 | (uit README) A batteries-included Roblox Luau framework for beginners and senior devs alike. |
 | [skeithnight/TowerFramework](https://github.com/skeithnight/TowerFramework) | 0 | roblox studio tower kebangkitan |
 | [skiddingisback/Weave](https://github.com/skiddingisback/Weave) | 0 | Weave is a modern application framework for Roblox. |
+| [sleazynx/Frameworks---Roblox](https://github.com/sleazynx/Frameworks---Roblox) | 0 | (uit README) A lightweight, scalable, and decoupled game framework for Roblox Studio designed to optimize game infrastructure. |
 | [snarkden/sharkfin-framework](https://github.com/snarkden/sharkfin-framework) | 0 | A modding framework for sharkfin and Roblox Native |
 | [sofwanalfariz/SC999-Framework](https://github.com/sofwanalfariz/SC999-Framework) | 0 | SC999 Framework v2.0 - Tab-Based iOS 27 Glassmorphism GUI for Roblox |
 | [Some-Dev-Team/EssentialsFramework](https://github.com/Some-Dev-Team/EssentialsFramework) | 0 | (geen omschrijving op GitHub) |
 | [sonnguyen9800/roblox-knit-demo](https://github.com/sonnguyen9800/roblox-knit-demo) | 0 | Simple test on knit-framework (Roblox & Lua) |
+| [SOPH-a-CAT/Soph-a-Cats_RobloxAdvertisment](https://github.com/SOPH-a-CAT/Soph-a-Cats_RobloxAdvertisment) | 0 | (uit README) A responsive promotional website built with plain HTML, CSS, and JavaScript. No frameworks or build step required. |
 | [sp4rtan-dev/Roblox-System-Architecture](https://github.com/sp4rtan-dev/Roblox-System-Architecture) | 0 | Frameworks de segurança e infraestrutura para Roblox “Luau”.. |
 | [Spad1964/roblox-ts-Game-Framework](https://github.com/Spad1964/roblox-ts-Game-Framework) | 0 | roblox-ts game framework: modular components, systems, and utilities for Roblox in TypeScript. |
 | [Spelkington/DanceFloor](https://github.com/Spelkington/DanceFloor) | 0 | Test driving RBXTS & Knit game engine development |
@@ -522,6 +594,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [spyrochess07-afk/Tycoon-Framework](https://github.com/spyrochess07-afk/Tycoon-Framework) | 0 | (geen omschrijving op GitHub) |
 | [Starstruck-Studios-Developers/framer](https://github.com/Starstruck-Studios-Developers/framer) | 0 | A lightweight UI framework for Roblox's LuaU |
 | [stelluminthegreat-netizen/Framework_Template](https://github.com/stelluminthegreat-netizen/Framework_Template) | 0 | (geen omschrijving op GitHub) |
+| [StemZ-DEV/AtlasLoader](https://github.com/StemZ-DEV/AtlasLoader) | 0 | (uit README) A drop-in module loader for Rojo-managed Roblox projects. Load modules by name instead of brittle paths, get clear errors instead of silent nils, and let ser... |
 | [stephen-sparkman/roblox-server-core](https://github.com/stephen-sparkman/roblox-server-core) | 0 | Server-side framework for Roblox experiences. Handles data saving, developer product safety, and compliance with Roblox publishing requirements. |
 | [Stiexeno/roblox-csharp-entities](https://github.com/Stiexeno/roblox-csharp-entities) | 0 | Entitas-style ECS for Roblox, packaged as a roblox-csharp plugin. Frozen-feast-style [Game] components, fluent matchers, system lifecycle. Alpha. |
 | [stinkymuscleman/Fusion](https://github.com/stinkymuscleman/Fusion) | 0 | Easy and customizable scripting framework for Roblox |
@@ -530,10 +603,14 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [sulfu3r/Studio-Projects](https://github.com/sulfu3r/Studio-Projects) | 0 | Place to view my studio frameworks and whatnot |
 | [sunkenball/Unify-Framework](https://github.com/sunkenball/Unify-Framework) | 0 | (geen omschrijving op GitHub) |
 | [SuperInstance/roblox-game-build-framework](https://github.com/SuperInstance/roblox-game-build-framework) | 0 | Tooling for automated Roblox game building with t-minus-event synchronized simulation framework |
+| [SuperInstance/roblox-testkit](https://github.com/SuperInstance/roblox-testkit) | 0 | (uit README) A standalone, headless test framework for Roblox Lua modules that runs outside of Roblox Studio. |
 | [Sw1ssDeveloper/Future-Made-Studios-Framework](https://github.com/Sw1ssDeveloper/Future-Made-Studios-Framework) | 0 | Frozen Roblox framework template (Future Made Studios). See TEMPLATE_PROMPT.md |
 | [SyncOfficialSpec/Axil](https://github.com/SyncOfficialSpec/Axil) | 0 | Axil - a framework-y Roblox/Luau UI library |
 | [tachy0n-z/core](https://github.com/tachy0n-z/core) | 0 | A Roblox Luau project framework. |
+| [Tamanada/ROBLOX-FMF](https://github.com/Tamanada/ROBLOX-FMF) | 0 | (uit README) Tycoon Roblox — Koh Phangan. docs/BLUEPRINT.md est le document contraignant : architecture §10, règles serveur-autoritaire §10.3, économie §3–§4. Aucune dévi... |
 | [TarryRBX/Maid](https://github.com/TarryRBX/Maid) | 0 | A minimal lifecycle manager for Roblox. |
+| [TbeyazT/RobloxTemplate](https://github.com/TbeyazT/RobloxTemplate) | 0 | (uit README) converted ui framework to react instad of instance based overall improved paths and stuff organized a little |
+| [TDEV-T/Roblox-FrameworkTemplate](https://github.com/TDEV-T/Roblox-FrameworkTemplate) | 0 | (uit README) Base Template Roblox Service-Controller and Fusion UI |
 | [Tekleed/TECS](https://github.com/Tekleed/TECS) | 0 | my own entity component system implementation using python (it was originally in luau) |
 | [ten4z/luau-framework](https://github.com/ten4z/luau-framework) | 0 | Um framework que facilita a criação de projetos para o PlayStation Vita |
 | [thatonescripter-afk/Quantum-Core-Roblox](https://github.com/thatonescripter-afk/Quantum-Core-Roblox) | 0 | A high-performance style game framework for the Roblox game engine |
@@ -550,21 +627,26 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [TTXsuper/bottle-charge-system](https://github.com/TTXsuper/bottle-charge-system) | 0 | Professional Roblox bottle charge mechanic system with modular architecture |
 | [UltimisRBX/RyuFramework](https://github.com/UltimisRBX/RyuFramework) | 0 | (geen omschrijving op GitHub) |
 | [Unfamiliar49/TaskStore](https://github.com/Unfamiliar49/TaskStore) | 0 | An upgraded, asynchronous pcall & task runner framework for Roblox |
-| [UnknownReality1337/Viornix-Framework](https://github.com/UnknownReality1337/Viornix-Framework) | 0 | (geen omschrijving op GitHub) |
 | [unpronounceable-ordersphenisciformes466/unpronounceable-ordersphenisciformes466.github.io](https://github.com/unpronounceable-ordersphenisciformes466/unpronounceable-ordersphenisciformes466.github.io) | 0 | Implement a framework-agnostic coding standard to write secure, efficient, and clean code for Roblox and Luau development. |
 | [UntitledProtocol/Antares-Framework](https://github.com/UntitledProtocol/Antares-Framework) | 0 | A simple framework for Roblox Games |
 | [uravitomskij-glitch/roblox-economy-framework](https://github.com/uravitomskij-glitch/roblox-economy-framework) | 0 | Modular Economy and Job System for Roblox RP games |
 | [urban-arts/madrid](https://github.com/urban-arts/madrid) | 0 | MADRID is an open-source game framework currently in development for DESERT STEEL. |
+| [uxnknwn/jecs-util](https://github.com/uxnknwn/jecs-util) | 0 | (uit README) Small utilities for Jecs 0.11.0 and Roblox ECS projects. |
 | [ValeriansBox/flameworktemplate](https://github.com/ValeriansBox/flameworktemplate) | 0 | just a template for flamework roblox-ts for quickly starting projects |
 | [Vel136/Fluix](https://github.com/Vel136/Fluix) | 0 | Fluix is a per-instance generic object pool for Roblox Luau. It tracks acquisition demand with an exponential moving average, pre-warms and gradually shrinks... |
 | [verify-stack/aurora-core](https://github.com/verify-stack/aurora-core) | 0 | a barebones framework for legacy corescripts |
 | [veternitzz/LuminLight](https://github.com/veternitzz/LuminLight) | 0 | Lumin Light is a package framework for Roblox. Inspired by Lumin Framework by the Lumin Team: https://github.com/lumin-dev/LuminFramework?tab=readme-ov-file |
 | [vexedaa/Blast](https://github.com/vexedaa/Blast) | 0 | A simple, easy-to-integrate plugin lifecycle springboard. |
+| [victorcarmo2003/ModuxTemplate](https://github.com/victorcarmo2003/ModuxTemplate) | 0 | (uit README) Ponto de partida para projetos em Roblox com o Modux V3: o framework, a rede já ligada e cinco sistemas base funcionando. |
+| [victorcarmo2003/ModuxV3](https://github.com/victorcarmo2003/ModuxV3) | 0 | (uit README) Framework com tipagem automática para Roblox que potencializa os seus types e te incentiva a manter sempre boas práticas. |
 | [victorcarmo2003/ModuxWatcher](https://github.com/victorcarmo2003/ModuxWatcher) | 0 | Gerador de tipos do framework Modux para Roblox |
+| [victorcarmo2003/ShotgunFarmers](https://github.com/victorcarmo2003/ShotgunFarmers) | 0 | (uit README) Ponto de partida para projetos em Roblox com o Modux V3: o framework, a rede já ligada e cinco sistemas base funcionando. |
 | [Virtualdesign0/VirtualHit](https://github.com/Virtualdesign0/VirtualHit) | 0 | A typical hit framework |
 | [VoidConstDev/Void-Systems](https://github.com/VoidConstDev/Void-Systems) | 0 | Official website for Void Systems — Roblox development, production-ready systems, frameworks, commissions, and licensed developer tools. |
+| [VoidSynnull/Roblox-Boiler-Plate](https://github.com/VoidSynnull/Roblox-Boiler-Plate) | 0 | (uit README) This boilerplate should serve as a solid basis for starting a new project. It has the latest version of Knit established, as well as core Controllers and Ser... |
 | [vyronax/ECS_System](https://github.com/vyronax/ECS_System) | 0 | ECS system I made. |
 | [VyronRBLX/RBXModuleLoader](https://github.com/VyronRBLX/RBXModuleLoader) | 0 | An Advanced Module Loader |
+| [WaelPRG/zz](https://github.com/WaelPRG/zz) | 0 | (uit README) A modular technical foundation for a Roblox simulator game. This project serves as a showcase of advanced Roblox development workflows and clean architecture... |
 | [Waynely6262/Roblox-Framework](https://github.com/Waynely6262/Roblox-Framework) | 0 | Framework components for Roblox Development |
 | [Wharkk/Breath](https://github.com/Wharkk/Breath) | 0 | Require-and-go framework for Roblox |
 | [WhiteDragonRoblox/roblox-ts-matter-minimum](https://github.com/WhiteDragonRoblox/roblox-ts-matter-minimum) | 0 | A minimal Roblox TypeScript project using Matter ECS |
@@ -577,15 +659,18 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [xayanide/rbxmoduleloadermodule](https://github.com/xayanide/rbxmoduleloadermodule) | 0 | yet another very lightweight module loader that just does one thing. |
 | [XiaoJeanRen/Resource-RPG-Template](https://github.com/XiaoJeanRen/Resource-RPG-Template) | 0 | Clean Rojo Roblox project template with Knit, player data, responsive UI, and monetization foundations |
 | [xizones/lubrew](https://github.com/xizones/lubrew) | 0 | A simple, lightweight ui framework |
+| [xnldev/blinknet](https://github.com/xnldev/blinknet) | 0 | (uit README) Experimental distributed compute framework for Roblox. |
 | [xSwezan/Heart](https://github.com/xSwezan/Heart) | 0 | A Roblox-style Love2D framework |
 | [xvryn1/A7OMIC-SellLemons](https://github.com/xvryn1/A7OMIC-SellLemons) | 0 | A modular SellLemons project featuring a modern WindUI interface, organized architecture, and maintainable Luau code. |
 | [xyvnz05/roblox-framework](https://github.com/xyvnz05/roblox-framework) | 0 | [ROBLOX] Framework for the systems |
 | [yann-lephay/roblox-game-architect](https://github.com/yann-lephay/roblox-game-architect) | 0 | Framework pour architecturer un jeu Roblox de A à Z avant d'écrire une seule ligne de code. 5 phases, 13 PRD de game design, scoring Oracle. |
 | [yasharik13/Luna-New](https://github.com/yasharik13/Luna-New) | 0 | Luna: New Quantum-Grade Roblox Execution Framework |
 | [YoeChii/scopeplus-docs](https://github.com/YoeChii/scopeplus-docs) | 0 | ScopePlus documentation - Advanced lifecycle & resource management for Roblox |
+| [Ysm0308/Roblox-Framework](https://github.com/Ysm0308/Roblox-Framework) | 0 | (uit README) A lightweight Roblox project framework built around Rojo, shared modules, and a simple module lifecycle. |
 | [z13ak/BrickAPI](https://github.com/z13ak/BrickAPI) | 0 | Zero-config Roblox/Luau backend framework: auto-loading services for player data, currencies, inventory, pets, quests, gacha RNG, shop, and boosts. |
 | [ZacharyVanier/VZNCore-ECS-Lite](https://github.com/ZacharyVanier/VZNCore-ECS-Lite) | 0 | (geen omschrijving op GitHub) |
 | [zayddd666/ShellUI](https://github.com/zayddd666/ShellUI) | 0 | A UI Framework in roblox |
+| [Zero-Ideas/systems](https://github.com/Zero-Ideas/systems) | 0 | (uit README) A lightweight, fast game-loop framework for Roblox built around a custom heartbeat that every other system connects to. |
 | [zyilet/Roblox-TS-Flamework-Template](https://github.com/zyilet/Roblox-TS-Flamework-Template) | 0 | (geen omschrijving op GitHub) |
 | [Zypnp/zypnp-portfolio](https://github.com/Zypnp/zypnp-portfolio) | 0 | Official portfolio website for Zyp_np — High-quality Roblox Studio environments, realistic architecture, and immersive world-building. |
 
