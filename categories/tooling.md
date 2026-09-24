@@ -394,7 +394,7 @@ Runtimes, sync-tools, package managers, asset-pipelines, CI en docs.
 | [nrbx-ts/rbxts-glob](https://github.com/nrbx-ts/rbxts-glob) | 0 | Vite-achtige glob-imports voor roblox-ts at runtime |
 | [theprofessionalatthings576/roblox-colour-by-number](https://github.com/theprofessionalatthings576/roblox-colour-by-number) | 0 | Kleur-op-nummer-systeem: afbeeldingen tonen zonder EditableImage-ID-verificatie |
 
-## Uitgebreide index (859)
+## Uitgebreide index (998)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -402,6 +402,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 |---|---:|---|
 | [rojo-rbx/rojo](https://github.com/rojo-rbx/rojo) | 1749 | Rojo enables Roblox developers to use professional-grade software engineering tools |
 | [roblox-ts/roblox-ts](https://github.com/roblox-ts/roblox-ts) | 1306 | A TypeScript-to-Luau Compiler for Roblox |
+| [JohnnyMorganz/luau-lsp](https://github.com/JohnnyMorganz/luau-lsp) | 538 | Language Server Implementation for Luau |
 | [UpliftGames/wally](https://github.com/UpliftGames/wally) | 497 | Wally is a modern package manager for Roblox projects inspired by Cargo |
 | [rojo-rbx/rokit](https://github.com/rojo-rbx/rokit) | 457 | Next-generation toolchain manager for Roblox projects |
 | [NightrainsRbx/RobloxLsp](https://github.com/NightrainsRbx/RobloxLsp) | 237 | Roblox Luau Language Server based on Lua by sumneko. |
@@ -412,6 +413,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Supercoolkayy/voxbridge](https://github.com/Supercoolkayy/voxbridge) | 78 | VoxBridge: convert VoxEdit glTF/GLB assets to engine-ready files for Unity and Roblox |
 | [christopher-buss/roblox-ts-project-template](https://github.com/christopher-buss/roblox-ts-project-template) | 72 | My personalized template for starting roblox-ts projects. |
 | [quiloos39/Roblox](https://github.com/quiloos39/Roblox) | 48 | Some of mine and other people's old codes that we used to run them in Script Builder. |
+| [Standard-2/Myriad](https://github.com/Standard-2/Myriad) | 47 | An open-source standardization, functionality, and mitigation testing suite for executors. |
 | [phishontop/bloxsint](https://github.com/phishontop/bloxsint) | 46 | ✨Roblox osint tool which finds information or data on a roblox account |
 | [MaximumADHD/Roblox-2008-Client](https://github.com/MaximumADHD/Roblox-2008-Client) | 45 | A build of roblox from mid 2008. |
 | [RobloxAPI/rbxfile](https://github.com/RobloxAPI/rbxfile) | 44 | A Go package for dealing with Roblox files. |
@@ -480,6 +482,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [dxgi/roblox-client-manager](https://github.com/dxgi/roblox-client-manager) | 6 | A tool designed to seamlessly coordinate all active Roblox clients, facilitating smooth code execution through Visual Studio Code integration. |
 | [ocuz/MEOV](https://github.com/ocuz/MEOV) | 6 | roblox name sniping tool |
 | [Quenty/asset-downloader](https://github.com/Quenty/asset-downloader) | 6 | Download roblox assets from within the browser |
+| [RbxCli/eUNC](https://github.com/RbxCli/eUNC) | 6 | External's Unified Naming Convention documentation |
 | [RobloxAPI/build-archive](https://github.com/RobloxAPI/build-archive) | 6 | An archive of select files from Roblox builds. |
 | [uproot/rotor](https://github.com/uproot/rotor) | 6 | All in one Roblox toolchain |
 | [Windows81/Roblox-Freedom-Distribution-Android](https://github.com/Windows81/Roblox-Freedom-Distribution-Android) | 6 | [NO WORKING BUILD YET] Android clients for Rōblox Freedom DIstribution. |
@@ -513,6 +516,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Meqolo/rojo-explorer](https://github.com/Meqolo/rojo-explorer) | 4 | A VSCode Extension that is used alongside rojo, inorder to see the files and data inside your roblox game without having to switch to roblox studio. |
 | [nezuo/midori](https://github.com/nezuo/midori) | 4 | A testing library for Roblox. |
 | [osyrisrblx/rbxts-dumpster](https://github.com/osyrisrblx/rbxts-dumpster) | 4 | roblox-ts package for Fraktality's dumpster class |
+| [quadigen/Kinemium-Canary](https://github.com/quadigen/Kinemium-Canary) | 4 | Canary build of Kinemium Engine. |
 | [raycastwastaken/Unprotect](https://github.com/raycastwastaken/Unprotect) | 4 | A tool that freezes Roblox and makes all its pages available. |
 | [szimione/RobloxCursorChanger](https://github.com/szimione/RobloxCursorChanger) | 4 | This short but effective program will change your roblox cursor to the old one. Very simple and easy to use! |
 | [TheNexusAvenger/Nexus-Git](https://github.com/TheNexusAvenger/Nexus-Git) | 4 | Provides access to Git repositories in Roblox Studio. |
@@ -617,15 +621,20 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [imacodr/fetchu](https://github.com/imacodr/fetchu) | 2 | Lightweight package making Roblox's HttpService easier to use. |
 | [jaeymo/roblox-packages](https://github.com/jaeymo/roblox-packages) | 2 | A container for my Roblox packages |
 | [Jerse1/assetup](https://github.com/Jerse1/assetup) | 2 | Asset Uploader CLI for roblox. |
+| [jiwonz/glob-lune](https://github.com/jiwonz/glob-lune) | 2 | glob/wildcard filtering utility for lune |
+| [jiwonz/winreg-lune](https://github.com/jiwonz/winreg-lune) | 2 | A lune module that provides access to the Windows Registry through the REG commandline tool |
 | [jok-dev/joxblox](https://github.com/jok-dev/joxblox) | 2 | Joxblox is an app for exploring Roblox assets, scanning files and places for asset references. |
 | [KerbalOfficial/old-rblx-assetdelivery](https://github.com/KerbalOfficial/old-rblx-assetdelivery) | 2 | Asset delivery for legacy ROBLOX clients. To request for files, ask me. |
 | [kimon123official/Sorara](https://github.com/kimon123official/Sorara) | 2 | Sorara is a Roblox scripting tool |
 | [leoyulee/RobloxPlayerModule](https://github.com/leoyulee/RobloxPlayerModule) | 2 | The PlayerModule code from Roblox, configured via Rojo |
+| [lettuce-magician/bench](https://github.com/lettuce-magician/bench) | 2 | Simple, platform-agnostic and atomic benchmarker library for luau. |
+| [littensy/lute-types](https://github.com/littensy/lute-types) | 2 | Types for when I figure out how to use Lute |
 | [littensy/rbxts-chess](https://github.com/littensy/rbxts-chess) | 2 | A client-side chess game written with Roblox-TS |
 | [matyasjay/campingsite](https://github.com/matyasjay/campingsite) | 2 | Roblox development sandbox with fully-managed Rojo setup. |
 | [MemoryPenguin/CodeSync](https://github.com/MemoryPenguin/CodeSync) | 2 | File system->ROBLOX Studio syncing! |
 | [MeowSpark/gooey](https://github.com/MeowSpark/gooey) | 2 | A wally fork; a modern Roblox package manager, but with less limitations and more similar to Cargo. Fully backwards compatible |
 | [Mistrustfully/rbxts-rue](https://github.com/Mistrustfully/rbxts-rue) | 2 | roblox-ts port of rue |
+| [mspaint-cc/assets](https://github.com/mspaint-cc/assets) | 2 | a repository to host misc data |
 | [murdealtax/vake](https://github.com/murdealtax/vake) | 2 | Unopinionated, Recipe-Based Roblox Sync |
 | [mylespepper2737372737/RobloxLabs-Roblox.SiteTest4](https://github.com/mylespepper2737372737/RobloxLabs-Roblox.SiteTest4) | 2 | As the original uploaded by MFD Labs got deleted. |
 | [namgyaaal/Freebricks](https://github.com/namgyaaal/Freebricks) | 2 | An open source brick-building stack. |
@@ -641,6 +650,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [pkhead/rbx-mesh2obj](https://github.com/pkhead/rbx-mesh2obj) | 2 | A program to convert ROBLOX's .mesh file format to an .obj file format. |
 | [QuakedK/Roblox-Optimizer](https://github.com/QuakedK/Roblox-Optimizer) | 2 | Roblox Optimizer: The all-in-done, easy & simple Roblox tool. 😎 |
 | [Rafapapolas/Roblox-Clothing-Group-Downloader](https://github.com/Rafapapolas/Roblox-Clothing-Group-Downloader) | 2 | an asynchronous python tool for downloading and processing roblox clothing assets (shirts, pants) in bulk. automatically applies a user-provided template ove... |
+| [raylameows/ScarletWorkshop](https://github.com/raylameows/ScarletWorkshop) | 2 | Tools for Scarlet custom map creation |
 | [rniraclefire/rbxts-elttob-libopen](https://github.com/rniraclefire/rbxts-elttob-libopen) | 2 | roblox-ts typings for Studio's Elttob LibOpen |
 | [roarnpkg/cli](https://github.com/roarnpkg/cli) | 2 | A Roblox Package Manager for a easier workspace. |
 | [roblox-aurora/rbxts-transform-guid](https://github.com/roblox-aurora/rbxts-transform-guid) | 2 | Compile-time unique identifier generator for roblox-ts |
@@ -658,16 +668,21 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [therblomsaler/RUTS-Roblox-Update-Tracker-Real-Time-Version-Monitor-and-Future-Build-Detection](https://github.com/therblomsaler/RUTS-Roblox-Update-Tracker-Real-Time-Version-Monitor-and-Future-Build-Detection) | 2 | RUTS - Roblox Update Transparency System |
 | [Thomas-Chabot/AdventOfCode2021](https://github.com/Thomas-Chabot/AdventOfCode2021) | 2 | Solutions to the Advent of Code challenges for 2021. Designed to be run in Roblox Studio using Rojo. |
 | [Tikes123/RobloxCatcher](https://github.com/Tikes123/RobloxCatcher) | 2 | "RobloxCatcher" is an exciting open-source game on GitHub. Immerse yourself in the vibrant Roblox universe, catching gems to build your collection. With intu... |
+| [tilkinsc/dwarf-fortress-mod-template](https://github.com/tilkinsc/dwarf-fortress-mod-template) | 2 | A template for developing Dwarf Fortress mods for modern development with Luau types, and sanity. |
 | [truubo/Roblox2Bopimo](https://github.com/truubo/Roblox2Bopimo) | 2 | A RBXLX converter to put Roblox levels into Bopimo. |
 | [UncleTyrone/NextGenerationRibbonIcons](https://github.com/UncleTyrone/NextGenerationRibbonIcons) | 2 | A configuration of the new Roblox Studio ribbon bar which matches older versions of Roblox Studio and includes additional tools needed for full stack develop... |
+| [underonunicom/IsEvenLuau](https://github.com/underonunicom/IsEvenLuau) | 2 | A totally simple package to check whether the number passed is even or not. |
 | [Validark/RBXport](https://github.com/Validark/RBXport) | 2 | A tool for converting Roblox place files to local files on your computer |
+| [veternitzz/progressbar](https://github.com/veternitzz/progressbar) | 2 | The progress bar from pesde/toolchainlib ported to a pesde package. |
 | [vosqi/RayTerminal](https://github.com/vosqi/RayTerminal) | 2 | Terminal plugin for Roblox which offers a bash-like CLI that has file-read, modifying and Git capabilities |
 | [zomeLua/2013-2021-Roblox-Cursor](https://github.com/zomeLua/2013-2021-Roblox-Cursor) | 2 | These are png files of the cursor used in the Roblox Client from 2013 until 2021. Decided to upload these for anyone who wants the old cursor back. You will ... |
 | [ZYTRXS/maid](https://github.com/ZYTRXS/maid) | 2 | Simple maid for Roblox with easy to understand documentation |
+| [22aispro/Weighter](https://github.com/22aispro/Weighter) | 1 | Easy, simple syntax, for making a weight system |
 | [7sim/hexhead](https://github.com/7sim/hexhead) | 1 | This is a Roblox Pging Tool |
 | [9micedev/RobloxPlaceUploader](https://github.com/9micedev/RobloxPlaceUploader) | 1 | Polished Python CLI workflow for Roblox place uploads, safety notes, and publishing experiments. |
 | [ACHolding/PS5RobloxPortMacM1KingdomHeartsScriptsGPT](https://github.com/ACHolding/PS5RobloxPortMacM1KingdomHeartsScriptsGPT) | 1 | / Request to upload 1.22.20XX / |
 | [acierp/uwp-restarter](https://github.com/acierp/uwp-restarter) | 1 | a tool that restarts roblox uwp processes when closed and/or on interval |
+| [acos-s/wtf](https://github.com/acos-s/wtf) | 1 | Wally package types fixer |
 | [adhiski/rbxasset-cli](https://github.com/adhiski/rbxasset-cli) | 1 | All in one Roblox Assets Downloader Tools for your website |
 | [AdminCrystal/Tycoon](https://github.com/AdminCrystal/Tycoon) | 1 | A roblox like tycoon test in Godot |
 | [adpena/arnis-roblox](https://github.com/adpena/arnis-roblox) | 1 | Real-world city compiler for Roblox — generate any location with high-fidelity rendering and gameplay |
@@ -678,11 +693,13 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Alex-Nair/Entry-Point-Contract-Tool](https://github.com/Alex-Nair/Entry-Point-Contract-Tool) | 1 | A tool I created for the Roblox game Entry Point that allows one to create their own custom missions that they may share with their friends. |
 | [alicesaidhi/roblox-output-sync](https://github.com/alicesaidhi/roblox-output-sync) | 1 | syncs to roblox output. super basic |
 | [AmberVorre/TzerQuj](https://github.com/AmberVorre/TzerQuj) | 1 | Just for Chatting. (we talk about, Steam Games, Personal Life, Funny Things You See in Games (Roblox, Minceraft, Starbound, Gmod.), Secret Things We Like. An... |
+| [amethyst-bin/luau-definition-plusplus](https://github.com/amethyst-bin/luau-definition-plusplus) | 1 | LuauDefinition++, definition file for luau lsp with some cool features |
 | [Anaminus/rbxark](https://github.com/Anaminus/rbxark) | 1 | A program for archiving Roblox build files. |
 | [Anctarus7105/Tools](https://github.com/Anctarus7105/Tools) | 1 | Here tools from roblox doors game! |
 | [antgame11/rbxmproxy](https://github.com/antgame11/rbxmproxy) | 1 | download roblox files from asset delivery and if they're rbxmx, automatically turn them to rbxm |
 | [apex-ant/fully-managed-ts](https://github.com/apex-ant/fully-managed-ts) | 1 | Fully managed roblox-ts project template |
 | [arcusis/Israel-roblox-docs](https://github.com/arcusis/Israel-roblox-docs) | 1 | הַדּוֹקוּמֶנְטַצְיָה הָעִבְרִית - לרובלוקס |
+| [areshaistg/rbx-asset-manager](https://github.com/areshaistg/rbx-asset-manager) | 1 | Simple singleton to access instances from a specified folder |
 | [athar-adv/ItemGroup](https://github.com/athar-adv/ItemGroup) | 1 | Completely type-safe object oriented cleanup module for Roblox |
 | [Avant-Rbx/Avant-Runtime](https://github.com/Avant-Rbx/Avant-Runtime) | 1 | Runtime for running unit tests on Roblox. |
 | [avkara/ladder-all](https://github.com/avkara/ladder-all) | 1 | A roblox game template for ladder type games. |
@@ -698,6 +715,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [BlankHtmlPage/soblox-rpc](https://github.com/BlankHtmlPage/soblox-rpc) | 1 | Sober-style Discord Rich Presence for Roblox |
 | [blobbyblob/SyncyTowne](https://github.com/blobbyblob/SyncyTowne) | 1 | Syncs files to/from roblox studio. |
 | [blockguard-sf/BLuau](https://github.com/blockguard-sf/BLuau) | 1 | Roblox Package Library Manager |
+| [bloxlibs/Golem](https://github.com/bloxlibs/Golem) | 1 | A collection of composable type validators that help enforce runtime type safety. |
 | [BlueHouseProducts/RVK](https://github.com/BlueHouseProducts/RVK) | 1 | Now you can type without a keyboard. I know you could do that before, but now you can do it with Roblox. Oh, you could also do that before? Um |
 | [BoldFlameLook/roblox-account-dashboard](https://github.com/BoldFlameLook/roblox-account-dashboard) | 1 | Roblox Account Dashboard — единая панель для удобного управления всеми аккаунтами Roblox. Отслеживайте статус профилей, организуйте сессии и мгновенно перекл... |
 | [brandondkong/rbxts-tooltip](https://github.com/brandondkong/rbxts-tooltip) | 1 | Highly customizable tooltips for Roblox |
@@ -711,13 +729,16 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [camren-m/orchestra](https://github.com/camren-m/orchestra) | 1 | A build orchestrator for Roblox-TS multiplace workflows. |
 | [CanineData/PlayerModule](https://github.com/CanineData/PlayerModule) | 1 | This package provides TypeScript type definitions for the Roblox built-in PlayerModule. It is designed to be used with roblox-ts. |
 | [cataclysmic-studios/difficulty-obby](https://github.com/cataclysmic-studios/difficulty-obby) | 1 | Obby that progressively gets more difficult. |
+| [CavefulGames/libs](https://github.com/CavefulGames/libs) | 1 | Public library packages hosted on public wally registry |
 | [cccarmean-tech/robloxkinda](https://github.com/cccarmean-tech/robloxkinda) | 1 | have you wanted to downlaod a roblox game with actual old stuff WELL NOW YOU CAN!! this is a test btw but still download it |
 | [Chipzryum/RobloxVS](https://github.com/Chipzryum/RobloxVS) | 1 | Roblox game created with rojo on Visual Code Editor |
 | [Chromadesk/Ace-Hunter](https://github.com/Chromadesk/Ace-Hunter) | 1 | A 3d PVE action game developed using Rojo, VS Code, and Roblox Studio. |
 | [CJAstra/airplain](https://github.com/CJAstra/airplain) | 1 | Full Suite of Project Management Tools for Roblox Studio |
 | [codesenseAye/roblox-lsp-plus-knit](https://github.com/codesenseAye/roblox-lsp-plus-knit) | 1 | integrates knit with the revolutionary roblox lsp extension |
+| [CodeXX-DTDK/codegen_examples](https://github.com/CodeXX-DTDK/codegen_examples) | 1 | Runnable example rules for codegen, the C++ code generation tool part of the CodeXX DTDK. |
 | [coptfinxzi-dev/RBX-ROOTKIT](https://github.com/coptfinxzi-dev/RBX-ROOTKIT) | 1 | RBX-ROOTKIT Sneaky Roblox tool written in luau |
 | [CosoJs/Blox-Survival](https://github.com/CosoJs/Blox-Survival) | 1 | Test Game for Roblox |
+| [cubacadabra/examples](https://github.com/cubacadabra/examples) | 1 | Small Cubacadabra game projects for learning and testing the platform, including Adventure 101, Survival 101, and The Wild West. Demonstrates the portable ma... |
 | [cubacadabra/tools](https://github.com/cubacadabra/tools) | 1 | Python command-line tools for Cubacadabra game development. Creates starter projects, builds portable game packages from Luau source and assets, packages con... |
 | [Custom-Sync/Roblox-Studio-IDE-Template](https://github.com/Custom-Sync/Roblox-Studio-IDE-Template) | 1 | A full stack template for Rojo projects on Roblox Studio. This template contains each and every directory, service and safely ignores pre-existing instances;... |
 | [cxmeel/bobble](https://github.com/cxmeel/bobble) | 1 | A wrapper around Wally, the Roblox package manager. |
@@ -738,11 +759,13 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [DranxX/MyRobloxAssets](https://github.com/DranxX/MyRobloxAssets) | 1 | Just my Roblox Asset |
 | [DuelistRavine/roblox-account-console](https://github.com/DuelistRavine/roblox-account-console) | 1 | A lightweight command-line console utility for managing Roblox accounts via CLI. Execute bulk profile logins, inspect account statuses, and launch game insta... |
 | [durag/Roblox-Asset-Downloader](https://github.com/durag/Roblox-Asset-Downloader) | 1 | Downloads specific Shirts, Pants, or T-Shirts into an exportable .PNG. |
+| [Eggflaw/lune-dotenv](https://github.com/Eggflaw/lune-dotenv) | 1 | A dotenv parser for Lune |
 | [einsteinK/Roblox-Version-Control](https://github.com/einsteinK/Roblox-Version-Control) | 1 | Git hook that transforms .rbxmx and .rbxlx files on commit to be very git-friendly |
 | [Eisverygoodletter/rbxts-result](https://github.com/Eisverygoodletter/rbxts-result) | 1 | An implementation of Rust-like Results for use with roblox-ts |
 | [elconisol/Roblox-project](https://github.com/elconisol/Roblox-project) | 1 | 📦 A comprehensive starting point for Roblox projects. Implements Rojo, Darklua, Wally, and more. |
 | [Eletronc/Condo-room-game-2025](https://github.com/Eletronc/Condo-room-game-2025) | 1 | Game-Condo-Room-2025 é um mapa feito no Roblox Studio que representa um quarto de condomínio moderno. Ideal para roleplay e personalização, o projeto está di... |
 | [eliass4ntos2025-lang/-99-Nights-in-the-Forest-](https://github.com/eliass4ntos2025-lang/-99-Nights-in-the-Forest-) | 1 | Check out [🖌️] 99 Nights in the Forest 🔦. It’s one of the millions of unique, user-generated 3D experiences created on Roblox. Build a camp with friends. ⛺ |
+| [EliTheGingerCat/Poly_Duel](https://github.com/EliTheGingerCat/Poly_Duel) | 1 | A game with many types of duels. |
 | [ElixNoir/Roblox-DynamicMesh](https://github.com/ElixNoir/Roblox-DynamicMesh) | 1 | A module for creating and editing meshes at runtime. |
 | [Epicinver/roblox-disconnect-prompt](https://github.com/Epicinver/roblox-disconnect-prompt) | 1 | BETA, PLEASE TEST THIS AS I HAVE NOT TESTED. |
 | [epoxtime/RobloxToMesh](https://github.com/epoxtime/RobloxToMesh) | 1 | Convert roblox models into fully textured meshes! |
@@ -762,11 +785,13 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [frostproject/threadpool](https://github.com/frostproject/threadpool) | 1 | Pseudo code threadpool implementation for Luau to manage concurrent task execution |
 | [furmastersound/Lua-Luau-Code-Formatter](https://github.com/furmastersound/Lua-Luau-Code-Formatter) | 1 | Lightweight developer utility for formatting Lua and Luau files and folders. |
 | [GamerMikeFun/Operations-War-Tycoon-Roblox](https://github.com/GamerMikeFun/Operations-War-Tycoon-Roblox) | 1 | A tool to look at the war tycoon Roblox operations I still need to complete :( |
+| [girlmagnet123/sutz-studio-syncer](https://github.com/girlmagnet123/sutz-studio-syncer) | 1 | vs bridge wow so cool bro holy |
 | [gkosher/Rbxl2Unity](https://github.com/gkosher/Rbxl2Unity) | 1 | A tool for importing older Roblox maps (.rbxl) into unity. Made in like 3 hours with a few days of research. |
 | [gotemzgrimze-art/luau-roblox](https://github.com/gotemzgrimze-art/luau-roblox) | 1 | Luau and Roblox scripting experiments with project config and linting. |
 | [gpuhazecontract15/Grow-a-Garden-2-Roblox-Gameplay-Utility](https://github.com/gpuhazecontract15/Grow-a-Garden-2-Roblox-Gameplay-Utility) | 1 | Aether Pulse 2026 is a modern gameplay utility tool designed to enhance your experience in Grow a Garden 2 on Roblox. It provides helpful features for faster... |
 | [gpuhazecontract15/Stellar-Edge-2026-Grow-a-Garden-2-Roblox-Gameplay-Utility](https://github.com/gpuhazecontract15/Stellar-Edge-2026-Grow-a-Garden-2-Roblox-Gameplay-Utility) | 1 | Stellar Edge 2026 is a modern gameplay utility tool designed to enhance your experience in Grow a Garden 2 on Roblox. It helps with faster garden development... |
 | [Gskartwii/historical-roblox-ci](https://github.com/Gskartwii/historical-roblox-ci) | 1 | This is a historical RBXM uploader, developed as part of the Valkyrie/Freya project |
+| [Guegueuluz/test-repo](https://github.com/Guegueuluz/test-repo) | 1 | Repositório de teste com Luau. |
 | [gulraiznoorbari/Knit-Rojo-Starter-Template](https://github.com/gulraiznoorbari/Knit-Rojo-Starter-Template) | 1 | Roblox Knit Rojo Template with Starter folders setup |
 | [Heliodex/rbxts-funnies](https://github.com/Heliodex/rbxts-funnies) | 1 | roblox-ts project with Civet |
 | [hero-ku/emitter](https://github.com/hero-ku/emitter) | 1 | Roblox Typescript package for creating event-emitting objects and classes. |
@@ -781,12 +806,15 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Intelinsidecom/roblox-master-2016-Contribs](https://github.com/Intelinsidecom/roblox-master-2016-Contribs) | 1 | The contribs get constant patches and more and i cant just repackage into zip and reupload each time |
 | [ixEcIipse/RoLover](https://github.com/ixEcIipse/RoLover) | 1 | roblox tool for dating,sexting and all your other lewd desires, 18+ |
 | [J908-wq/MyServer](https://github.com/J908-wq/MyServer) | 1 | This is my server I will mainly use for test games. This demonstrates real roblox experiences, and represents my core understanding as a developer. |
+| [jackTabsCode/jest-companion](https://github.com/jackTabsCode/jest-companion) | 1 | Run jest-lua tests from the command line |
 | [Jaguar-515/selene-roblox-game](https://github.com/Jaguar-515/selene-roblox-game) | 1 | An example of using selene (https://github.com/Kampfkarren/selene) and Rojo (https://github.com/rojo-rbx/rojo) for a Roblox game |
 | [jammees/ReBenchmark](https://github.com/jammees/ReBenchmark) | 1 | An easy to use lite benchmarking module for ROBLOX. |
 | [jasons-open-repo/SlashMayhem-Shadow](https://github.com/jasons-open-repo/SlashMayhem-Shadow) | 1 | Semi-fork of ShawXS (exosite)'s Slash Mayhem game. Currently only has the .rbxl (Roblox Place Project File) in the source. |
 | [JasonStuff437/OpenRedirector](https://github.com/JasonStuff437/OpenRedirector) | 1 | Legacy Roblox asset redirect. |
 | [jeremytenjo/restart-roblox-studio-simulator](https://github.com/jeremytenjo/restart-roblox-studio-simulator) | 1 | VS Code extension for restarting the Roblox Studio simulation |
 | [jimbonlemu/word-hunts](https://github.com/jimbonlemu/word-hunts) | 1 | Fast offline CLI tool for instant English word-prefix search. Optimized with binary-search indexing, configurable UI, and perfect for word games like Last Le... |
+| [jiwonz/lune_setup](https://github.com/jiwonz/lune_setup) | 1 | lune setup command but for newer luau-lsp |
+| [jiwonz/picomatch-luau](https://github.com/jiwonz/picomatch-luau) | 1 | Blazing fast and accurate glob matcher written in Luau. But for pure Luau and pesde |
 | [jiwonz/roblox-install-lune](https://github.com/jiwonz/roblox-install-lune) | 1 | Get the install directory of Roblox in Lune |
 | [josheeg/Game-Note](https://github.com/josheeg/Game-Note) | 1 | Game-Note a note.txt program and game creator workflow |
 | [KageQuest/KQ-CCAC](https://github.com/KageQuest/KQ-CCAC) | 1 | Console Commands Admin tools for use in Roblox experiences. |
@@ -804,7 +832,9 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [KingJ23341/Build-Island-Lua-Block](https://github.com/KingJ23341/Build-Island-Lua-Block) | 1 | How to script on the Build Island Lua Block on Roblox. |
 | [Klasztyn/RobloxTS-Examples](https://github.com/Klasztyn/RobloxTS-Examples) | 1 | Examples of concepts, conventions and structures in Typescript (rbxts) |
 | [KoiXS1/TERRORTORY](https://github.com/KoiXS1/TERRORTORY) | 1 | Rojo-imported code for TERRORTORY, a ROBLOX project. |
+| [kotdes/LibreAdmin](https://github.com/kotdes/LibreAdmin) | 1 | LibreAdmin is an open source administration tool, for experiments to happen. |
 | [KwunNChen/Korblox-Builds](https://github.com/KwunNChen/Korblox-Builds) | 1 | repo for all my coding work for Korblox, a Roblox community part of Tellus |
+| [Kyr4vex/lSM](https://github.com/Kyr4vex/lSM) | 1 | Testing repository / lSM = custom language like assembly i guess |
 | [LashaSD/minesweeper.rbxl](https://github.com/LashaSD/minesweeper.rbxl) | 1 | Simple minesweeper game implemented in Roblox |
 | [ldantass-hub/Fix-It-A-Roblox-Game](https://github.com/ldantass-hub/Fix-It-A-Roblox-Game) | 1 | This is my first public repository! I've been building this game with passion, combining my love for programming and games. Feel free to explore the code, sh... |
 | [legitimateCode/roblox-to-rojo](https://github.com/legitimateCode/roblox-to-rojo) | 1 | A Lune script that attempts to convert a Roblox .rbxl(x) place file to Rojo-style format |
@@ -826,11 +856,14 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [morgann1/wally-packages](https://github.com/morgann1/wally-packages) | 1 | 🧰 Collection of Roblox Luau modules for both plugin and game development. |
 | [morthatalis/RobloxTurboTool](https://github.com/morthatalis/RobloxTurboTool) | 1 | A roblox tool to enhance your roblox experience by adding extra features and filter internal roblox logs to display useful information. |
 | [mosaicgames/panic](https://github.com/mosaicgames/panic) | 1 | 🚨 A lightweight debugging and error-handling library for Roblox. |
+| [MrrowLabs/starlight](https://github.com/MrrowLabs/starlight) | 1 | Quickly sift through a library of assets |
 | [msix29/Roblox-Luau](https://github.com/msix29/Roblox-Luau) | 1 | Roblox LSP with Knit Support, cleaned mostly all of the code. |
 | [mvyasu/cubemap-tools](https://github.com/mvyasu/cubemap-tools) | 1 | A set of tools made specifically for cubemaps related to Roblox. |
+| [NewNotHere/Bank-RNG](https://github.com/NewNotHere/Bank-RNG) | 1 | Rojo project for Bank RNG |
 | [NexusAsset/AssetFlow-Reuploader](https://github.com/NexusAsset/AssetFlow-Reuploader) | 1 | AssetFlow Reuploader - reupload Roblox assets you do not own to your own account or group. |
 | [NicelyTinned/skll-lang](https://github.com/NicelyTinned/skll-lang) | 1 | A compiler for a custom language named .skll into bytecode for Jujutsu Shenanigans (Roblox)'s Skill Builder |
 | [nightcycle/rbx-asset-util](https://github.com/nightcycle/rbx-asset-util) | 1 | various utilities for roblox asset workflows |
+| [nightcycle/simple-test](https://github.com/nightcycle/simple-test) | 1 | a portable straightforward unit testing solution with parameter generation support |
 | [NinjaCardinal/Aether-Pulse-2026-Speed-Keyboard-Escape-Candy-Chocolate-Roblox-Gameplay-Utility](https://github.com/NinjaCardinal/Aether-Pulse-2026-Speed-Keyboard-Escape-Candy-Chocolate-Roblox-Gameplay-Utility) | 1 | Aether Pulse 2026 is a modern gameplay utility tool designed to enhance your experience in Speed Keyboard Escape / Candy & Chocolate on Roblox. It provides u... |
 | [NinjaCardinal/Candy-Chocolate-Roblox-Gameplay-Utility](https://github.com/NinjaCardinal/Candy-Chocolate-Roblox-Gameplay-Utility) | 1 | Nova Veil 2026 is a modern gameplay utility tool designed to enhance your experience in Speed Keyboard Escape / Candy & Chocolate on Roblox. It offers helpfu... |
 | [notdiskd/roblox_mesh_extractor](https://github.com/notdiskd/roblox_mesh_extractor) | 1 | Script for extracting meshes from Roblox temp folder |
@@ -839,6 +872,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [OphidieDev/utf8-validate](https://github.com/OphidieDev/utf8-validate) | 1 | A utf8 validator available on many common roblox package managers |
 | [PanviPro/BenchmarkEngine](https://github.com/PanviPro/BenchmarkEngine) | 1 | Open-Source Roblox CPU and GPU Benchmark |
 | [phenixe/roblox](https://github.com/phenixe/roblox) | 1 | 🔍 Explore Roblox reverse engineering with comprehensive documentation on requests, CSRF tokens, payloads, and captcha for better understanding and insights. |
+| [pillarworks-rbx/packages](https://github.com/pillarworks-rbx/packages) | 1 | miscellaneous packages used in pillarworks |
 | [PlasterRaikage/ROBLOX-Luau](https://github.com/PlasterRaikage/ROBLOX-Luau) | 1 | Roblox Luau is an advanced Luau execution engine and testing pipeline designed for the Roblox client. This educational framework allows developers to compile... |
 | [Pokemon5475/ROBLOX-Build-v4](https://github.com/Pokemon5475/ROBLOX-Build-v4) | 1 | ROBLOX Build v4 Developer's Edition |
 | [pomaloran/RBLXImageUpload](https://github.com/pomaloran/RBLXImageUpload) | 1 | Easy image asset uploader for Roblox, written in Python |
@@ -846,18 +880,23 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Profesornoobz1440/focus-navigation](https://github.com/Profesornoobz1440/focus-navigation) | 1 | roblox-ts typings for roblox's Focus Navigation and its sub packages |
 | [qscythee/ModuleForge](https://github.com/qscythee/ModuleForge) | 1 | A collection of Wally packages to streamline Roblox development. This repo is forked from Raildex's ModulesOnRails. |
 | [quiluh/life](https://github.com/quiluh/life) | 1 | First Git - game based on economics and inspired by Roblox Adopt Me |
+| [qwreey/moonwave-luau](https://github.com/qwreey/moonwave-luau) | 1 | pure luau parser implementation for moonwave |
 | [R-unic/array](https://github.com/R-unic/array) | 1 | Roblox array class, featuring many familiar methods from JavaScript and more. |
 | [R-unic/better-queue](https://github.com/R-unic/better-queue) | 1 | Simple O(1) queue implementation for Roblox |
 | [R-unic/input-capturer](https://github.com/R-unic/input-capturer) | 1 | A Roblox module to capture inputs and replay them later |
 | [R-unic/repr](https://github.com/R-unic/repr) | 1 | Original package by Ozzypig. |
 | [raineyraine/rbxts-package-template](https://github.com/raineyraine/rbxts-package-template) | 1 | Template for roblox-ts packages |
+| [rand0masian/Project_Harrow](https://github.com/rand0masian/Project_Harrow) | 1 | Version Control for Project Harrow |
 | [raywardapp/rotten](https://github.com/raywardapp/rotten) | 1 | A simple tool that lets you check Roblox users and groups against Rotector exports. |
 | [rbxpi/rbxpi-core](https://github.com/rbxpi/rbxpi-core) | 1 | The Roblox Package Index |
 | [realmaitreal/Seine-Sud-Est-all-Lines-and-Key-toutes-Lignes-et-Touches](https://github.com/realmaitreal/Seine-Sud-Est-all-Lines-and-Key-toutes-Lignes-et-Touches) | 1 | Ceci est un guide ou une documentation en EN / FR pour le jeu Seine Sud Est sur Roblox. Il contient tous les codes girouettes disponible dans le jeu, les rac... |
+| [RedrcknRbn/294-Drinks](https://github.com/RedrcknRbn/294-Drinks) | 1 | Documentation and Drinks for Vending Machine 294 |
 | [Reiningecho90/The-Grand-Army-Project](https://github.com/Reiningecho90/The-Grand-Army-Project) | 1 | The Grand Army Project is an in-development Roblox game with a story mode type style. It takes you on adventures through the Star Wars universe as you become... |
+| [ReloadedInteractive/git-commit-each](https://github.com/ReloadedInteractive/git-commit-each) | 1 | A simple lune script to commit each changed files from git |
 | [Relshy/archon](https://github.com/Relshy/archon) | 1 | A Roblox Multi-Instance tool. |
 | [rerrcatch/gentree](https://github.com/rerrcatch/gentree) | 1 | Gentree is a professional-grade scaffolding addon for Roblox developers that use Rojo. Inspired by leifstout/genRojoTree |
 | [riquelme1i/Multi-Tool](https://github.com/riquelme1i/Multi-Tool) | 1 | Multi-Tool Para Otimizção E Varias Instancias No Roblox! |
+| [rniraclefire/funk](https://github.com/rniraclefire/funk) | 1 | Type-safe high-performance functional Luau library. |
 | [roblox-go/roblox-go](https://github.com/roblox-go/roblox-go) | 1 | A Go to Luau Transpiler for Roblox |
 | [RobloxAPI/rbxfetch](https://github.com/RobloxAPI/rbxfetch) | 1 | The rbxfetch package retrieves information about Roblox builds. |
 | [RobloxAPI/rbxmesh](https://github.com/RobloxAPI/rbxmesh) | 1 | Implementation of the Roblox Mesh file format |
@@ -867,6 +906,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Romeusorionaet/Arena](https://github.com/Romeusorionaet/Arena) | 1 | Aplicando meus conhecimentos com a linguagem Lua. |
 | [rosenet-dev/roblox-thread-suspender](https://github.com/rosenet-dev/roblox-thread-suspender) | 1 | This tool is designed to remove scanning threads created by BYFRON. |
 | [RsMan-Dev/rbxts-bridge](https://github.com/RsMan-Dev/rbxts-bridge) | 1 | A simple and efficient way to share data between server and client in Roblox |
+| [rustygard/sigma](https://github.com/rustygard/sigma) | 1 | Lightweight type-safe signal module (very sigma) |
 | [sadia4ek/cobalt-REUPLOADED](https://github.com/sadia4ek/cobalt-REUPLOADED) | 1 | roblox developer tool Cobalt for unknown reasons was removed completely, with the account of the official developer "notpoiu" |
 | [SaintRemys/IndustrialistVisualiser](https://github.com/SaintRemys/IndustrialistVisualiser) | 1 | A simulation for the roblox game industrialst, used for planning builds |
 | [SamVia/roblox_guide](https://github.com/SamVia/roblox_guide) | 1 | A repository to share a brief roblox documentation and scripts |
@@ -880,8 +920,10 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [SecondNewtonLaw/rbxcs](https://github.com/SecondNewtonLaw/rbxcs) | 1 | A C# to Luau transpiler built for the Roblox platform. |
 | [ShadowEngineer/Tyiler](https://github.com/ShadowEngineer/Tyiler) | 1 | An image tiling tool for higher-quality images on ROBLOX. |
 | [ShouxTech/roblox-battleship](https://github.com/ShouxTech/roblox-battleship) | 1 | Battleship in Roblox made with roblox-ts. |
+| [SillyKitr/logger](https://github.com/SillyKitr/logger) | 1 | A quite useful logger module for most of your needs; contains a really simple API that is very easy to understand and use. |
 | [sincevoid/Jetpack-Sytroox](https://github.com/sincevoid/Jetpack-Sytroox) | 1 | Jetpack Obby Project from my Friend Sytroox -> Game Link Below. |
 | [sinlerdev/benchtools](https://github.com/sinlerdev/benchtools) | 1 | A benchmarker tool for measuring luau software, used usually in roblox. |
+| [Skekdog/Stubuau](https://github.com/Skekdog/Stubuau) | 1 | Generates type stubs for given Luau source code. |
 | [SkyLightRBX/RobloxTSBuildAction](https://github.com/SkyLightRBX/RobloxTSBuildAction) | 1 | Build Roblox-TS projects in Github actions |
 | [snovikov/docker-rojo](https://github.com/snovikov/docker-rojo) | 1 | Docker container for roblox rojo cli |
 | [SomewhatMay/Roblox-Detailed-Debug-System](https://github.com/SomewhatMay/Roblox-Detailed-Debug-System) | 1 | adds detailed debugging info on every 'print' 'warn' and 'error' |
@@ -895,16 +937,19 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [stealaride-dev/StealaRideScript](https://github.com/stealaride-dev/StealaRideScript) | 1 | Welcome to the official repository for the Steal a Ride Script — a powerful script for the Steal a Ride* Roblox game, featuring Auto Collect, Auto Lock, Inst... |
 | [StealthTrooper36/buildisland](https://github.com/StealthTrooper36/buildisland) | 1 | build island (no i dont own bi) |
 | [stebeus/wheres-builderman-archive](https://github.com/stebeus/wheres-builderman-archive) | 1 | Be the quickest player to find all Roblox characters! |
+| [streamier-labs/json-luau](https://github.com/streamier-labs/json-luau) | 1 | A lightweight, pure Luau JSON encoder and decoder module adhering strictly to the RFC 8259 specification. |
 | [stupeak/refab](https://github.com/stupeak/refab) | 1 | Roblox asset manager for syncing Studio Instances with local files. |
 | [suush-ii/assetversions](https://github.com/suush-ii/assetversions) | 1 | get asset versions (on roblox) |
 | [Sypheran/RobloxGeneratedAccounts](https://github.com/Sypheran/RobloxGeneratedAccounts) | 1 | Generated Accounts For Testing Purposes. |
 | [t0asty/roblox-to-github-exporter](https://github.com/t0asty/roblox-to-github-exporter) | 1 | Export Roblox games into readable scripts and models for version control. |
 | [tacheometry/rbxts-randomstring](https://github.com/tacheometry/rbxts-randomstring) | 1 | Generate random strings from a list of strings/characters (for Roblox-TS). |
 | [TazBruce/roblox-ts-hello](https://github.com/TazBruce/roblox-ts-hello) | 1 | A hello-world project for building roblox apps via Typescript |
+| [tenx29/resync-parallel-worker](https://github.com/tenx29/resync-parallel-worker) | 1 | Library for parallel Luau processing using a synchronous API |
 | [ThatTimothy/roblox-archive-creator](https://github.com/ThatTimothy/roblox-archive-creator) | 1 | A quick way to archive every version of a Roblox place as a git repo. |
 | [ThatTimothy/wally-registry-builder](https://github.com/ThatTimothy/wally-registry-builder) | 1 | Builds common targets of wally's registry, so you don't have too. |
 | [the-palo/RobloxRewindClient](https://github.com/the-palo/RobloxRewindClient) | 1 | A utility to revert new Roblox changes and bring back old assets |
 | [TheeBadDev/Better-RPS](https://github.com/TheeBadDev/Better-RPS) | 1 | A game to learn ROBLOX type script |
+| [thescripthub/darkbundle](https://github.com/thescripthub/darkbundle) | 1 | Bundler template using Rokit and Darklua |
 | [TRSTN4/DREAM_PLOTS](https://github.com/TRSTN4/DREAM_PLOTS) | 1 | 🌍 Welcome to our immersive world! 🎨 Build your dream universe, experience live events, and unleash your creativity! 💫✨ |
 | [truubo/Bopiblox](https://github.com/truubo/Bopiblox) | 1 | A tool to convert Roblox places to Bopimo levels |
 | [Typescript-To-Luau/Typescript-To-Luau](https://github.com/Typescript-To-Luau/Typescript-To-Luau) | 1 | A Typescript To Luau Compiler for Roblox |
@@ -913,33 +958,45 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [UpliftGames/rbx-character-sounds](https://github.com/UpliftGames/rbx-character-sounds) | 1 | Packaged format of the Roblox RbxCharacterSounds for use with Wally |
 | [userinfected/items-dataset](https://github.com/userinfected/items-dataset) | 1 | Dataset of every Roblox uploaded item. |
 | [Validark/Roblox-SpeedTester](https://github.com/Validark/Roblox-SpeedTester) | 1 | Code to paste into the Command Bar for speed testing! |
+| [Vikmanou/luau2bf](https://github.com/Vikmanou/luau2bf) | 1 | Luau compiler from Luau to Brainfuck |
 | [vlazed/rink](https://github.com/vlazed/rink) | 1 | rink, an ink parser for Roblox Lua/Luau |
 | [Voraline/Streamer7](https://github.com/Voraline/Streamer7) | 1 | Tool to ensure map is streamed in in Roblox. |
 | [vq9o/RBLXAssetDiscounter3000](https://github.com/vq9o/RBLXAssetDiscounter3000) | 1 | Roblox Asset Discounter 3000 |
 | [VTIL-LLc/NuGet.PackageServer](https://github.com/VTIL-LLc/NuGet.PackageServer) | 1 | For ROBLOX related NuGet Packages. |
 | [VTILServer/IRC](https://github.com/VTILServer/IRC) | 1 | Void Script Builder 2018 IRC |
 | [wad4444/rbxts-transformer-setget](https://github.com/wad4444/rbxts-transformer-setget) | 1 | Allows setters/getters in roblox-ts. |
+| [WalkerTrott/W-Lang](https://github.com/WalkerTrott/W-Lang) | 1 | W is an experimental imperative programming language which implements a theoretical value-based type-system that compiles to portable C90 source. |
 | [WaviestBalloon/FastLogExtractor](https://github.com/WaviestBalloon/FastLogExtractor) | 1 | CLI tool to extract FastLogs from Roblox binaries |
 | [Wbange18/Final-Fragment](https://github.com/Wbange18/Final-Fragment) | 1 | Roblox game project managed by Rojo filesystem |
+| [welcomestohell/kitnomicon](https://github.com/welcomestohell/kitnomicon) | 1 | Historical documentation of Welcome To Hell's Proof of Concept Kit |
 | [welcomestohell/prvdmwrong-templates](https://github.com/welcomestohell/prvdmwrong-templates) | 1 | Prvd 'M Wrong game templates for Luau and Roblox TypeScript, for barebones and comprehensive projects. |
 | [Wharkk/pest-luau](https://github.com/Wharkk/pest-luau) | 1 | A Luau port of PestPHP by @nunomaduro, bringing beautiful test syntax and Test-Driven Development practices to the Roblox ecosystem |
 | [wiindsom/Structix](https://github.com/wiindsom/Structix) | 1 | Type-Safe, Java-Inspired Data Structures for Roblox. |
 | [WilliamDevZK/AbyssInternalSchool](https://github.com/WilliamDevZK/AbyssInternalSchool) | 1 | Abyss Internal Script Roblox Testing On School Pc |
 | [Windows81/Roblox-Compliance-Automator](https://github.com/Windows81/Roblox-Compliance-Automator) | 1 | Python tool which completes the compliance questionnaire for any given Roblox experience you have edit access to. |
+| [Word30210/luau-result](https://github.com/Word30210/luau-result) | 1 | a simple Result<T, E> implementation |
 | [x6nny/Collection](https://github.com/x6nny/Collection) | 1 | A lightweight, type-safe wrapper around Roblox’s CollectionService for managing instance tags and tag-based events in Luau. |
 | [xelnae-r/rbxts-jest](https://github.com/xelnae-r/rbxts-jest) | 1 | A testing library made for Roblox-TS |
+| [XMR-CTRL/Ferrite](https://github.com/XMR-CTRL/Ferrite) | 1 | Good performing rust compiler made to generate optimized Luau code via AST transformations & tree shaking optimizations (PENDING UPDATE) |
 | [XopoIII/BlinkBlox](https://github.com/XopoIII/BlinkBlox) | 1 | An IDL compiler written in Luau for ROBLOX buffer networking |
 | [xylov1/server-info](https://github.com/xylov1/server-info) | 1 | This script is made to extract all specific server information of the game you are in when you launch this non-bannable file, This tool can also extract serv... |
+| [y29r/Beaver](https://github.com/y29r/Beaver) | 1 | A luau string formatter turning data into human-readable information |
 | [yangpa-onyon/xlwatch-old](https://github.com/yangpa-onyon/xlwatch-old) | 1 | inhouse xlsx-to-lua tool for roblox projects. (it also boots up Rojo for you!) |
 | [yawnTooMuch/Lazy-Games-Suite-of-Tools](https://github.com/yawnTooMuch/Lazy-Games-Suite-of-Tools) | 1 | The Lazy Games Suite of Tools is a professional-grade development ecosystem built to empower creators on the Roblox platform. |
+| [yoheiyayoi/Resulty](https://github.com/yoheiyayoi/Resulty) | 1 | ⚡ Type-safe error handling for Luau |
 | [Zenithatic/RojoProject](https://github.com/Zenithatic/RojoProject) | 1 | A roblox project ported with rojo |
 | [zentred/roblox-auto-upload-clothes](https://github.com/zentred/roblox-auto-upload-clothes) | 1 | uploads assets + configures them to put them onsale with a set price. |
+| [zualo/luau-packages](https://github.com/zualo/luau-packages) | 1 | A collection of utility modules created in Luau |
 | [Zyrakia/rbxts-chain](https://github.com/Zyrakia/rbxts-chain) | 1 | Generic chain of command / middleware thingy implementation for roblox-ts. |
 | [Zyrakia/rbxts-command](https://github.com/Zyrakia/rbxts-command) | 1 | Very simple command/argument management system. |
 | [Zyrakia/rbxts-conf](https://github.com/Zyrakia/rbxts-conf) | 1 | Instance based configuration management. |
 | [Zyrakia/rbxts-ping](https://github.com/Zyrakia/rbxts-ping) | 1 | Dead simple roblox-ts bindable event wrapper. |
 | [Zyrakia/rbxts-tic-tac-toe](https://github.com/Zyrakia/rbxts-tic-tac-toe) | 1 | Modular tic-tac-toe without dependencies, because why not. |
+| [3b3cin2/Roblox-asset-coppyer](https://github.com/3b3cin2/Roblox-asset-coppyer) | 0 | a open scorce python program that uses requests to get shirt templates on roblox |
+| [404khai/RobloxProject](https://github.com/404khai/RobloxProject) | 0 | Using Lua on vscode enabled by rojo and rokit |
+| [99lash/roblox-studio-luau-boilerplate](https://github.com/99lash/roblox-studio-luau-boilerplate) | 0 | A modern, server-authoritative Roblox workspace template powered by Luau (--!strict), Rojo, Wally, and Selene. |
 | [abidbmt/omp-plugin-luau-lsp](https://github.com/abidbmt/omp-plugin-luau-lsp) | 0 | Cross-platform Luau and Roblox language-server integration for OMP |
+| [acasualpancake/roblox-project-template](https://github.com/acasualpancake/roblox-project-template) | 0 | A basic roblox template using Rojo and Wally. With notes. |
 | [adarshmelethil/pyrblx](https://github.com/adarshmelethil/pyrblx) | 0 | pyrblx Is A library Written In Python, Made For Finding Roblox Account, Groups & assets Information |
 | [aJstoja/robloxCodingGamegameScrahtAPI](https://github.com/aJstoja/robloxCodingGamegameScrahtAPI) | 0 | This is for roblox game named 'Coding Game' where you have to code, and this API is for scraht (test my game plsssss) |
 | [alaninnovates/robloxts-playground-url](https://github.com/alaninnovates/robloxts-playground-url) | 0 | A VSCode extention to automatically make roblox-ts playgrounds directly from the editor. |
@@ -952,6 +1009,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [apcoz/GitSync](https://github.com/apcoz/GitSync) | 0 | GitSync provides seamless, real-time syncing between your GitHub repository and ROBLOX Studio. Instantly reflect edits to scripts, modules, and assets withou... |
 | [ArmaanAmeen/RobloxStudioAssetTracker](https://github.com/ArmaanAmeen/RobloxStudioAssetTracker) | 0 | The Roblox Studio Project Asset Tracker is a Java desktop application made for Roblox developers & Project Managers who need to track the progress of their a... |
 | [Artisine/roblox-ts-plain-boilerplate](https://github.com/Artisine/roblox-ts-plain-boilerplate) | 0 | A place where everyone starts out after `rbxtsc init` as "game", git yes, eslint no, prettier no, vscode project settings yes. |
+| [arturoyakawa/RobloxGame](https://github.com/arturoyakawa/RobloxGame) | 0 | My first project actually using git, rojo, lsp, wally, and vscode. Im scared but it looks so cool. 4ever larping real programmers |
 | [ArtyomSuu/LuaFormatter](https://github.com/ArtyomSuu/LuaFormatter) | 0 | Roblox module for Lua Formatting. |
 | [ashleydavies/data-pooler](https://github.com/ashleydavies/data-pooler) | 0 | TypeScript-based server data synchronisation module for Roblox |
 | [asmeili/rbxts-clan-labs](https://github.com/asmeili/rbxts-clan-labs) | 0 | An object-orientated TypeScript implementation of all public known ClanLabs apis. |
@@ -964,6 +1022,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [barn-games/BarnUtils](https://github.com/barn-games/BarnUtils) | 0 | Plug and play modules and packages to speed up roblox game development. |
 | [Belkworks/day](https://github.com/Belkworks/day) | 0 | Immutable date library for rbxts |
 | [Belkworks/promise-queue](https://github.com/Belkworks/promise-queue) | 0 | Promise queue for rbxts |
+| [benefvctr/sigma-grindset-tycoon](https://github.com/benefvctr/sigma-grindset-tycoon) | 0 | Sigma Grindset Tycoon — A satirical Roblox tycoon game parodying hustle culture. Built with Rojo. |
 | [Bigfootpp/lucid](https://github.com/Bigfootpp/lucid) | 0 | LuCid is a lightweight Luau package designed to simplify Object-Oriented Programming (OOP) in Roblox. |
 | [Bigfootpp/sync](https://github.com/Bigfootpp/sync) | 0 | A lightweight animation and motion framework for Luau. |
 | [bilaltok2005-max/roblox-portfolio](https://github.com/bilaltok2005-max/roblox-portfolio) | 0 | Roblox Scripter with 2 years of experience building scalable backend systems. |
@@ -972,21 +1031,29 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [bloxlibs/.github](https://github.com/bloxlibs/.github) | 0 | 𝗥𝗕𝗫𝗖𝗼𝗿𝗲 is a GitHub organization dedicated to providing essential, high-quality modules, tools, and assets for Roblox developers. |
 | [Bmike6/Roblox-Server-Client-Syncer](https://github.com/Bmike6/Roblox-Server-Client-Syncer) | 0 | This is a roblox module that I built to simulate logic being passed on the server. It supports realtime live update support up to months at a single time. |
 | [BNR-ban/GreenTiger](https://github.com/BNR-ban/GreenTiger) | 0 | Modular Python multi-tool for Windows and Linux: 62 entries across Discord, OSINT, network, Roblox, security and builder modules. The RedTiger layout, with t... |
+| [bogotolec/roblox-template](https://github.com/bogotolec/roblox-template) | 0 | A template for Roblox project with ci/cd, wally and tests |
 | [bootrush51/roblox-ts](https://github.com/bootrush51/roblox-ts) | 0 | A TypeScript-to-Luau Compiler for Roblox |
 | [BoringOrng/luau](https://github.com/BoringOrng/luau) | 0 | A small, fast, and embeddable programming language based on Lua with a gradual type system. |
+| [Bracketed/templates-roblox](https://github.com/Bracketed/templates-roblox) | 0 | Rojo development Template for Roblox workspaces! |
 | [BradFitz66/ROBLOX-projects](https://github.com/BradFitz66/ROBLOX-projects) | 0 | A repo containing some studio RBXL files |
 | [brandonloveall/arkham-horror-lcg-video-game](https://github.com/brandonloveall/arkham-horror-lcg-video-game) | 0 | arkham horror LCG turned into a video game via the Roblox engine and Rojo using roblox-ts |
+| [Bura-Games/rojo-template](https://github.com/Bura-Games/rojo-template) | 0 | A template for starting a new Roblox project using Rojo. |
+| [caezium/roblox-stats](https://github.com/caezium/roblox-stats) | 0 | Pull all-games Roblox analytics (players, visits, favorites) + an MAU floor derived from developer Crown of O's inventory. Stdlib-only Python, public-data by... |
 | [caicdo/job-engine](https://github.com/caicdo/job-engine) | 0 | A reusable shift-based job engine for Roblox RP/life-sim games (roblox-ts + Rojo) |
 | [camren-m/Roblox-TS-Reflect-Metadata](https://github.com/camren-m/Roblox-TS-Reflect-Metadata) | 0 | An experimental and incomplete Roblox-TS implementation of the Reflect Metadata API. |
 | [CapedBojji/my-roblox-ts-utils](https://github.com/CapedBojji/my-roblox-ts-utils) | 0 | A collection of utilities for roblox made with roblox-ts |
 | [CapedBojji/roblox-ts-data-keep](https://github.com/CapedBojji/roblox-ts-data-keep) | 0 | A port of noahrepublic's DataKeep package for the roblox-ts ecosystem. With LemonSignal instead of FastSignal to fix issue #16. |
+| [cascone26/deep-down](https://github.com/cascone26/deep-down) | 0 | Deep Down — a cozy Roblox fishing + base-building game. All 6 phases built and engine-verified. |
+| [CeaselessQuokka/Roblox-Template-Project](https://github.com/CeaselessQuokka/Roblox-Template-Project) | 0 | A simple template project for Roblox with basic tooling and server/client loaders. |
 | [cfsmi/Chain](https://github.com/cfsmi/Chain) | 0 | Change the way we make games with chain |
 | [Chard2512/circuitry](https://github.com/Chard2512/circuitry) | 0 | A Circuit Maker 2 (Roblox) library that enables savestring building through various abstraction levels, including support for Hardware Description Languages,... |
 | [CheckPickerUpper/luau-rs](https://github.com/CheckPickerUpper/luau-rs) | 0 | Experimental Rust-to-Luau compiler/toolchain for Roblox |
 | [cheesycod/mluau-luau](https://github.com/cheesycod/mluau-luau) | 0 | A small, fast, and embeddable programming language based on Lua with a gradual type system. |
+| [ChipioIndustries/roblox-package-template](https://github.com/ChipioIndustries/roblox-package-template) | 0 | A template for Roblox package repositories with tooling and workflows already set up. |
 | [chris1984/eso-rojoalert](https://github.com/chris1984/eso-rojoalert) | 0 | ESO Addon to keep track of Rojo healing buff and cooldown |
 | [christopher-buss/rbxts-jest-utils](https://github.com/christopher-buss/rbxts-jest-utils) | 0 | A collection of utilities that can be used alongside roblox Jest |
 | [christopher-buss/tsconfig](https://github.com/christopher-buss/tsconfig) | 0 | TypeScript sharable config for both TS and roblox |
+| [cig13zs/hullcheck](https://github.com/cig13zs/hullcheck) | 0 | Catches the ways 3D assets break on the way into Roblox: UVs, normals, scale, budgets, degenerate geometry. Exit-code ready for CI. |
 | [CioKiTTY/ckit-highlighter](https://github.com/CioKiTTY/ckit-highlighter) | 0 | Utility library used to highlight objects using the Highlight object in Roblox |
 | [circlecloud/rbxts-transform-dev](https://github.com/circlecloud/rbxts-transform-dev) | 0 | A debugging transformer for roblox-ts. Contains helper functions for debugging roblox-ts code with debug information attached. |
 | [ClassicRobloxBackups/Survival-101](https://github.com/ClassicRobloxBackups/Survival-101) | 0 | Open-source upload of the classic Roblox Survival 101 game from over a decade ago. |
@@ -995,10 +1062,12 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [CoderKane/RojoExampleProject](https://github.com/CoderKane/RojoExampleProject) | 0 | Example project to show usage of Rojo |
 | [cool1-zombie/my-first-roblox-game](https://github.com/cool1-zombie/my-first-roblox-game) | 0 | trying rojo with roblox studio |
 | [CozzyBro2/CallScheduler](https://github.com/CozzyBro2/CallScheduler) | 0 | Roblox module that allows accurate scheduling of lua functions (calls) with more digestible syntax compared to default roblox alternatives. |
+| [CrafterPunk/Roblox-rojo-template](https://github.com/CrafterPunk/Roblox-rojo-template) | 0 | Plantilla Rojo + Wally + Rokit para empezar juegos de Roblox. |
 | [CrescentCorp/Legacy-LuauBencher](https://github.com/CrescentCorp/Legacy-LuauBencher) | 0 | A specialized benchmarking solution for luau code through a human-readable code format. |
 | [cresmarmat-an/roblox-studiowally-plugin](https://github.com/cresmarmat-an/roblox-studiowally-plugin) | 0 | A Roblox Studio plugin that lets you install and update Wally packages directly, without needing an external setup like Rojo. |
 | [D00dGuy07/SharpLuau](https://github.com/D00dGuy07/SharpLuau) | 0 | C# Transpiler to Luau for Roblox |
 | [D3-4D/SuffX](https://github.com/D3-4D/SuffX) | 0 | Highly optimized and flexbible LuaU utility library for formatting, abbreviating, and parsing large numbers into short-scale suffixes(or vice versa). |
+| [danielyewright/astro-miner](https://github.com/danielyewright/astro-miner) | 0 | A polished, highly re-playable Roblox tycoon game where players begin as a lone asteroid miner and progressively build an automated space-mining empire. |
 | [Danonienko/ClearanceController](https://github.com/Danonienko/ClearanceController) | 0 | A simple clearance controller for Roblox made in roblox-ts that uses key cards and abstract gatekeepers for managing clearances |
 | [datalinkhq/datalink-verification](https://github.com/datalinkhq/datalink-verification) | 0 | ROBLOX game written in roblox-ts to verify your datalink subscription. |
 | [DaveInchy/luwauw](https://github.com/DaveInchy/luwauw) | 0 | My luau library for projects mostly in roblox with the help of rojo. |
@@ -1012,13 +1081,23 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [deltathedumb/rsvsc](https://github.com/deltathedumb/rsvsc) | 0 | Roblox Studio for VS Code |
 | [Demon673/rojo-explorer](https://github.com/Demon673/rojo-explorer) | 0 | VS Code extension that presents a Roblox Studio-like explorer for Rojo workspaces |
 | [dentitoreto/Roblox-style-Game-in-Threejs](https://github.com/dentitoreto/Roblox-style-Game-in-Threejs) | 0 | Learning three.js library for building 3D games |
+| [derprofi1313/My-code-examples](https://github.com/derprofi1313/My-code-examples) | 0 | Roblox Luau gameplay-service examples with server-side validation, exact-once signals, compile checks, and regression tests. |
 | [DevChris146/Playville-Prototype.](https://github.com/DevChris146/Playville-Prototype.) | 0 | A roblox-ts prototype demonstrating Playville systems: Data, Pets, Jobs, Quests. |
 | [devconnecting1/project-z](https://github.com/devconnecting1/project-z) | 0 | Dead Town style 2D zombie survival for Roblox (roblox-ts + Rojo) |
+| [develephant/rojo-77-template](https://github.com/develephant/rojo-77-template) | 0 | A super basic template for Rojo 7.7 |
+| [devsarim/blink-template-partial-rojo](https://github.com/devsarim/blink-template-partial-rojo) | 0 | A minimal Rojo setup for working with Blink. This template keeps Rojo's involvement light—just enough to support Blink—so you can manage the rest of your gam... |
+| [dinozawrbeatch/roblox-adventure](https://github.com/dinozawrbeatch/roblox-adventure) | 0 | Crystal Forge Tycoon — Roblox Rojo project |
+| [dioszedit/roblox-lua-tutorial](https://github.com/dioszedit/roblox-lua-tutorial) | 0 | Modern Roblox development tutorial using Rojo, Wally, and VS Code |
 | [dixievd/dixievd.github.io](https://github.com/dixievd/dixievd.github.io) | 0 | A meshes library for Roblox, specifically for Bloxstrap. |
 | [dixievd/robloxmeshvault](https://github.com/dixievd/robloxmeshvault) | 0 | A meshes library for Roblox, specifically for Bloxstrap. |
+| [dkbemisIII/restaurant-tycoon](https://github.com/dkbemisIII/restaurant-tycoon) | 0 | Restaurant Tycoon - A Roblox tycoon game built with Rojo |
+| [dorian-logic/roblox-tycoon](https://github.com/dorian-logic/roblox-tycoon) | 0 | My first game - testing tycoon logic and game programming basics |
+| [dorochadev/roblox-asset-downloader](https://github.com/dorochadev/roblox-asset-downloader) | 0 | asynchronous python tool to download roblox clothing assets in bulk and automatically apply a template overlay |
+| [Drwhomust/robloxtestproject](https://github.com/Drwhomust/robloxtestproject) | 0 | this is just a test to see if i can get git to work with roblox studio |
 | [Echo-Innovations/Roblox-Utils](https://github.com/Echo-Innovations/Roblox-Utils) | 0 | A collection of utility functions (and modules?) that could be useful. |
 | [EgoMoose/wally-package-export](https://github.com/EgoMoose/wally-package-export) | 0 | A roblox wally package that lets you group wally packages as standalone modules for run-time distribution |
 | [ehilynxin/rbxts-imageservice](https://github.com/ehilynxin/rbxts-imageservice) | 0 | A lightweight module to store image ids for roblox-ts |
+| [eiei114/knit-fusion-template](https://github.com/eiei114/knit-fusion-template) | 0 | A template for a Roblox project with Knit and Fusion installed by the Wally package manager. |
 | [eiei114/roblox-ts-modern-stack-sample](https://github.com/eiei114/roblox-ts-modern-stack-sample) | 0 | Sample code for TypeScriptではじめるRobloxゲーム開発 |
 | [ektorpu/schema-ts](https://github.com/ektorpu/schema-ts) | 0 | Schema validator for roblox-ts |
 | [ektorpu/signal-ts](https://github.com/ektorpu/signal-ts) | 0 | Signal lib for roblox-ts |
@@ -1038,6 +1117,8 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [evilbocchi/rbxts-stringbuilder](https://github.com/evilbocchi/rbxts-stringbuilder) | 0 | roblox-ts typings for StringBuilder |
 | [evilbocchi/unnamespaced-keyed](https://github.com/evilbocchi/unnamespaced-keyed) | 0 | Modified version of @rbxts/keyed without namespaces |
 | [evilbocchi/vscode-rbxts-jest](https://github.com/evilbocchi/vscode-rbxts-jest) | 0 | Use @rbxts/jest with Pleasure. |
+| [feifei12359/game-trend-radar](https://github.com/feifei12359/game-trend-radar) | 0 | Minimal internal tool for discovering early Roblox / Steam game opportunities. Generates daily candidate list based on platform and YouTube signals. |
+| [Ferxas/RokitRojoTemplateProject](https://github.com/Ferxas/RokitRojoTemplateProject) | 0 | Rokit + Rojo + Wally with some configurations for Roblox Big Studios Development |
 | [fewkz/rx-luau](https://github.com/fewkz/rx-luau) | 0 | Implementation of ReactiveX in pure Luau with full type support. Not yet stable. |
 | [filoxen/filoxen-luau](https://github.com/filoxen/filoxen-luau) | 0 | Luau client library for the Filoxen asset API |
 | [Finchasaurus/rbxts-game-template](https://github.com/Finchasaurus/rbxts-game-template) | 0 | I'm tired of copying files when I want to do something cool. will update gradually as i develop systems i enjoy to use across most projects |
@@ -1046,9 +1127,13 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [fridgey99/Football-Match-System-Roblox-](https://github.com/fridgey99/Football-Match-System-Roblox-) | 0 | A football match system for Roblox Studio. Contains .rbxl file and scripts. |
 | [FXDuke/promise.luau](https://github.com/FXDuke/promise.luau) | 0 | A promise type for roblox |
 | [Galaxcicity/ROBLOX-Instance-Builder-Utility-Module](https://github.com/Galaxcicity/ROBLOX-Instance-Builder-Utility-Module) | 0 | A custom-made module originally built from scratch in less than 2 hours with less than 100 lines that mainly aims to make Cloning Instances without needing a... |
+| [GarfGames/roblox-rojo-template](https://github.com/GarfGames/roblox-rojo-template) | 0 | a template for agentic engineering (vibe coding) roblox games |
 | [gavinraym/roblox_studio_playground](https://github.com/gavinraym/roblox_studio_playground) | 0 | A new project for testing and expirementation. |
 | [gavrh/rojo-placepack](https://github.com/gavrh/rojo-placepack) | 0 | Build multiple Roblox places from a shared package library |
+| [Gedeon111/frostline](https://github.com/Gedeon111/frostline) | 0 | Antarctic hunt-sell-upgrade simulator for Roblox - full design, economy, and 67-job build plan |
+| [GG-Ranjeet/RobloxProject](https://github.com/GG-Ranjeet/RobloxProject) | 0 | A template to start roblox game development environment on vscode with rojo. |
 | [girlsec/studtools](https://github.com/girlsec/studtools) | 0 | simple tools for Roblox Studio |
+| [GladlyAshley/DefaultRobloxProject](https://github.com/GladlyAshley/DefaultRobloxProject) | 0 | Used to quickly begin new Roblox projects! |
 | [gostrafx/lua-file-creator](https://github.com/gostrafx/lua-file-creator) | 0 | Quickly create Lua or Luau files with your preferred file extension and optional Knit framework support. |
 | [GQuX/Studio-Tools](https://github.com/GQuX/Studio-Tools) | 0 | Just some scripts/tools I use that you may have a use for. |
 | [griffin-lora/rbx-timeout](https://github.com/griffin-lora/rbx-timeout) | 0 | setTimeout and setInterval for roblox-ts. |
@@ -1056,20 +1141,32 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [gue-hub/luau-signal](https://github.com/gue-hub/luau-signal) | 0 | Lightweight signal/event class for Luau — drop-in BindableEvent alternative with free-runner thread reuse |
 | [gue-hub/roblox-datastore-safe](https://github.com/gue-hub/roblox-datastore-safe) | 0 | Production-grade DataStore wrapper for Roblox — session locking, retries, schema migrations, auto-save |
 | [haidenmichel/TeleportGame](https://github.com/haidenmichel/TeleportGame) | 0 | Teleport Game is a open-source teleporting system made by Piggy's Builds. |
+| [hairlinebrockeb/AzfakeEngine](https://github.com/hairlinebrockeb/AzfakeEngine) | 0 | Roblox CE Service Compiler into ANTISKID given code |
+| [haptikfeedback/mega-tower-obby](https://github.com/haptikfeedback/mega-tower-obby) | 0 | Mega Tower Obby - 100 stage Roblox obstacle course built with Rojo |
 | [Hex-Interactive/IPS2DevKit](https://github.com/Hex-Interactive/IPS2DevKit) | 0 | Tools for In Plain Sight 2 content development |
 | [HintSystem/PluginProxy-Transpiler-roblox](https://github.com/HintSystem/PluginProxy-Transpiler-roblox) | 0 | Automatically transpile a Roblox Studio plugin to be compatible with PluginProxy |
+| [hirokyserega-web/roblox-simulator](https://github.com/hirokyserega-web/roblox-simulator) | 0 | Roblox simulator game project sync with Rojo |
+| [Hoidberg/hackbackcompat](https://github.com/Hoidberg/hackbackcompat) | 0 | A template for roblox that uses rojo to work around the shadow-deprecation of compatibility |
 | [horsenuggets/commandline-luau](https://github.com/horsenuggets/commandline-luau) | 0 | A CLI builder for Luau. |
+| [howlsxd/Ravage-Clothing-Tool](https://github.com/howlsxd/Ravage-Clothing-Tool) | 0 | Automatic classic clothing template downloading / uploading on Roblox |
 | [howmanysmall/RbxTS-Libraries](https://github.com/howmanysmall/RbxTS-Libraries) | 0 | Libraries rewritten for use with Roblox TS. |
 | [howmanysmall/rbxts-sleitnick-log](https://github.com/howmanysmall/rbxts-sleitnick-log) | 0 | Types for Sleitnick's Log library |
+| [hundredwhiteman/RobloxToRojo](https://github.com/hundredwhiteman/RobloxToRojo) | 0 | Ports a roblox place file into Rojo Project |
+| [Hydrazia/MC-Hydroxide](https://github.com/Hydrazia/MC-Hydroxide) | 0 | Penetration testing tool for games developed on the Roblox game engine. |
 | [hyphena/creating-with-module-scripts](https://github.com/hyphena/creating-with-module-scripts) | 0 | Reimplementation of the second module scripts tutorial using rojo |
 | [I-OCode/bl](https://github.com/I-OCode/bl) | 0 | C++20 library for encoding and decoding Roblox Build Logic savestrings |
 | [iamthekk/create-bevy](https://github.com/iamthekk/create-bevy) | 0 | Create a roblox-ts project from a template |
 | [ICeIticI/LuauPackages](https://github.com/ICeIticI/LuauPackages) | 0 | Contails packages and utilities designed to be reusable in Luau projects. |
+| [idkaboutbytes/maid](https://github.com/idkaboutbytes/maid) | 0 | Maid package for Roblox. |
 | [IIBHF-DevTeam/iibhf-tester](https://github.com/IIBHF-DevTeam/iibhf-tester) | 0 | A simple testing library for roblox games. |
 | [imskyyc/RPMLUA-Old](https://github.com/imskyyc/RPMLUA-Old) | 0 | An NPM-Style ROBLOX Server and Client Package Manager / Framework. |
 | [imsnaily/event-bus](https://github.com/imsnaily/event-bus) | 0 | Lightweight event bus for roblox-ts enabling decoupled same-side script communication. |
+| [iqbaleff214/roblox-pesantren-tycoon](https://github.com/iqbaleff214/roblox-pesantren-tycoon) | 0 | Pesantren Tycoon is an incremental tycoon game on Roblox where players build and manage an Islamic boarding school (pesantren) from a tiny musholla and a sin... |
+| [IsaacT888/Roblox-Asset-Watermark-Remover](https://github.com/IsaacT888/Roblox-Asset-Watermark-Remover) | 0 | Remove a roblox assets background/template, replace it with a white background. |
 | [isof-del/roblox-js](https://github.com/isof-del/roblox-js) | 0 | The whole toolchain ships as a single 8 MB jar — or as a Gradle plugin if your build already speaks Kotlin DSL. rj watch is the daily driver: save a file, St... |
 | [Isotop41/Luau-Lsp](https://github.com/Isotop41/Luau-Lsp) | 0 | An lsp for Roblox Lua that can be used for monaco |
+| [ItayMa12/RobloxDev](https://github.com/ItayMa12/RobloxDev) | 0 | Uploading here my code |
+| [ivanbaradi/Roblox-Tutorials](https://github.com/ivanbaradi/Roblox-Tutorials) | 0 | Includes all the Roblox Lua scripts to build games |
 | [j4ke-1/Roblox-Index-System](https://github.com/j4ke-1/Roblox-Index-System) | 0 | Roblox Index System made for all types of games |
 | [Jacksxity/Roblox-Build-System](https://github.com/Jacksxity/Roblox-Build-System) | 0 | Somewhat customizable OOP build system. |
 | [jackTabsCode/immap](https://github.com/jackTabsCode/immap) | 0 | Immutable functions for roblox-ts ReadonlySet and ReadonlyMap types |
@@ -1078,9 +1175,13 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [jflockink/Roblox-Devoloper-Toolkit](https://github.com/jflockink/Roblox-Devoloper-Toolkit) | 0 | Open-source tools and systems for Roblox developers. |
 | [jisham318/roblox-studio](https://github.com/jisham318/roblox-studio) | 0 | A platform-agnostic CLI app for opening place files in Roblox Studio |
 | [jmkd3v/rbxl](https://github.com/jmkd3v/rbxl) | 0 | Python library for interacting with the Roblox file formats |
+| [john-clark-eng2000f3/roblox-panel](https://github.com/john-clark-eng2000f3/roblox-panel) | 0 | Terminal dashboard and CLI for Roblox universe metrics and Open Cloud logs |
 | [johnastinnett/strata](https://github.com/johnastinnett/strata) | 0 | Append-only world state migration framework for Roblox. Brings database-migration principles to 3D world building — scripted generation and Studio edits coex... |
+| [joqkoo/roblox-reaction-tester-script](https://github.com/joqkoo/roblox-reaction-tester-script) | 0 | Boost Your Roblox Game with an Advanced Reaction Test Script 🚦🖱️ |
+| [Jovan253/RobloxAppDigSell](https://github.com/Jovan253/RobloxAppDigSell) | 0 | Creating a Roblox Game, Dig & Sell miner type |
 | [jrgamerdude/roblox-parser](https://github.com/jrgamerdude/roblox-parser) | 0 | Simple API to parse Roblox files |
 | [jusdend/RobloxPinBrute](https://github.com/jusdend/RobloxPinBrute) | 0 | A python tool made for roblox pin bruteforcer |
+| [justinnewbold/rainbow-obby](https://github.com/justinnewbold/rainbow-obby) | 0 | Classic 10-stage rainbow Roblox obby (Rojo + Luau) |
 | [KARMken/roblox-intro](https://github.com/KARMken/roblox-intro) | 0 | Repository for familiarizing rojo and roblox studio |
 | [kingdudely/roblox-ts-scripts](https://github.com/kingdudely/roblox-ts-scripts) | 0 | ts scripts ported to roblox-ts |
 | [kit-calloway/rbx-library-template](https://github.com/kit-calloway/rbx-library-template) | 0 | Template Roblox Rojo project used to quickly set up a development environment suited for Lua library development. |
@@ -1101,6 +1202,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [LocalPulse/roblox-ts-project-template](https://github.com/LocalPulse/roblox-ts-project-template) | 0 | it's fork from repository with roblox typescript tepmplate. I need that template for test and learn new language |
 | [lowkeyjojo/roblox-creator-automator](https://github.com/lowkeyjojo/roblox-creator-automator) | 0 | Open-source CLI for Roblox developers to automate repetitive Creator Dashboard workflows using official Roblox Open Cloud APIs, including supported asset upl... |
 | [lugiadev/luau-bundler](https://github.com/lugiadev/luau-bundler) | 0 | Next-Generation Luau Asset Bundling & Build Pipeline |
+| [lukedunwoody/inflate-every-second](https://github.com/lukedunwoody/inflate-every-second) | 0 | A Roblox incremental simulator. |
 | [LunorLabs/Luau-Bundle](https://github.com/LunorLabs/Luau-Bundle) | 0 | Simple package bundler for Luau using Wax and Rojo with minification support. |
 | [lunxrdevxdd/MyPersonalProjects](https://github.com/lunxrdevxdd/MyPersonalProjects) | 0 | this repo contains my personal projects for a few languages: luau, javascript, typescript, roblox-ts (typescript), C, C++ |
 | [luv2trilogy/roblox_datastore_migrator](https://github.com/luv2trilogy/roblox_datastore_migrator) | 0 | CLI for migrating Roblox DataStore entries between games via the Open Cloud API. Auto-discovers DataStores/keys, supports dry-run, resumable state-tracked ru... |
@@ -1110,6 +1212,8 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [maragnus/Formex](https://github.com/maragnus/Formex) | 0 | Roblox player building system |
 | [Mark-Marks/luau-benchmarks](https://github.com/Mark-Marks/luau-benchmarks) | 0 | Collection of Luau benchmarks |
 | [Masken8/Standard-Library-Enhanced](https://github.com/Masken8/Standard-Library-Enhanced) | 0 | An improved Standard Library for Roblox-TS |
+| [matt-silva-hq2095o6/multipanel-roblox](https://github.com/matt-silva-hq2095o6/multipanel-roblox) | 0 | Terminal dashboard and multi-place manager for Roblox Open Cloud |
+| [maxwelium/socius](https://github.com/maxwelium/socius) | 0 | A roblox admin CLI |
 | [MCBear342/BuildingSystem](https://github.com/MCBear342/BuildingSystem) | 0 | Client-side preview and control module for a Roblox Building System. Handles object positioning, rotation, and snap-to-grid functionality for an intuitive an... |
 | [meandmystupidity/robloxgamefunctions](https://github.com/meandmystupidity/robloxgamefunctions) | 0 | Testing The GitHub API |
 | [memolemo-studios/rbxts-attributes](https://github.com/memolemo-studios/rbxts-attributes) | 0 | Simple attribute management class system |
@@ -1127,19 +1231,24 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [mjallen729/Lua-Collections](https://github.com/mjallen729/Lua-Collections) | 0 | Collections library for Roblox developers. Made with Rojo. |
 | [mmarszal7/RobloxPackages](https://github.com/mmarszal7/RobloxPackages) | 0 | Useful packages for Roblox Studio |
 | [modular09/Lunar.data](https://github.com/modular09/Lunar.data) | 0 | Roblox Luau Data Module. A helpful tool for programmers when data saving! |
+| [MonclerCoding/RescueSimulator](https://github.com/MonclerCoding/RescueSimulator) | 0 | Roblox Rescue Simulator - Rojo source project |
 | [MrFearTick/Construct](https://github.com/MrFearTick/Construct) | 0 | Full building module for ROBLOX with multiple features. |
 | [mrmemz358-prog/my-roblox-game](https://github.com/mrmemz358-prog/my-roblox-game) | 0 | Roblox game using Rojo |
+| [mrosadevs/ToiletFarm](https://github.com/mrosadevs/ToiletFarm) | 0 | 🚽 Roblox tycoon — buy toilets, haul the drops, sell, upgrade, rebirth. Built with Luau, Rojo & Git. |
+| [Musitanoo/Roblox](https://github.com/Musitanoo/Roblox) | 0 | Validation-first Roblox live-service prototype with deterministic Luau, gameplay, and 3D asset workflows. |
 | [nadia8666/DigitalSwirl-TS](https://github.com/nadia8666/DigitalSwirl-TS) | 0 | Rewrite of Digital Swirl ported to Roblox TypeScript (rbxts) |
 | [Naymmmm/runner](https://github.com/Naymmmm/runner) | 0 | Quick and dirty service-runner module for initializing modules. |
 | [Neohertz/neomake](https://github.com/Neohertz/neomake) | 0 | Yet another alternative to @rbxts/make |
 | [neonkid23/RobloxOSINT](https://github.com/neonkid23/RobloxOSINT) | 0 | Python CLI for ethical Roblox OSINT using public APIs to collect account profiles, avatars, friends, groups, badges, inventory, games, and username history. |
 | [Nflores-damien/Roblox-Extended-Toolkit](https://github.com/Nflores-damien/Roblox-Extended-Toolkit) | 0 | A list of modules people can use that implement various tools such as matrices, signal processing, curve fitting, etc. |
+| [NicolaasGrobler/RobloxRojoTemplate](https://github.com/NicolaasGrobler/RobloxRojoTemplate) | 0 | Starter Roblox Project using Rojo |
 | [NightmarePog/rbxts-fp](https://github.com/NightmarePog/rbxts-fp) | 0 | Practical, lightweight functional programming primitives for roblox-ts. |
 | [NightmarePog/rbxts-instance-factory](https://github.com/NightmarePog/rbxts-instance-factory) | 0 | Type-safe generic Roblox Instance construction for roblox-ts. |
 | [NinjaMandalorian/LuauCliTemplate](https://github.com/NinjaMandalorian/LuauCliTemplate) | 0 | Generic Luau CLI template using darklua and lune to build |
 | [ninjaninja140/Rpefabs](https://github.com/ninjaninja140/Rpefabs) | 0 | A Roblox Studio prefabs system built with Roblox-TS |
 | [njtsb1/Utility_Library](https://github.com/njtsb1/Utility_Library) | 0 | Educational repository containing utility libraries in Lua (Luau) for Roblox. Designed for learning Roblox development (Luau, Rojo). |
 | [noahwillcrow/roblox-ts-dev](https://github.com/noahwillcrow/roblox-ts-dev) | 0 | A docker container image for making roblox-ts dev easier |
+| [NoobProgramer6918/rs2lua](https://github.com/NoobProgramer6918/rs2lua) | 0 | A rust to lua compiler for engines like roblox. |
 | [NotNiceKun/Caketagon](https://github.com/NotNiceKun/Caketagon) | 0 | made with roblox-ts and rojo |
 | [Novaly-Studios/rojo](https://github.com/Novaly-Studios/rojo) | 0 | This is public to simplify toolchain workflow for Novaly programmers. |
 | [nrbx-ts/rbxts-timestamp](https://github.com/nrbx-ts/rbxts-timestamp) | 0 | Port of `@sapphire/timestamp` for Roblox (roblox-ts) with some added functionality. |
@@ -1155,6 +1264,8 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [OpytAI/luauc](https://github.com/OpytAI/luauc) | 0 | Ahead-of-time Luau compiler for WebAssembly. |
 | [ORELSEPREPARETODIE/roblox-group-scanner](https://github.com/ORELSEPREPARETODIE/roblox-group-scanner) | 0 | Tool for finding unclaimed groups on Roblox. |
 | [osyrisrblx/rbx-filters](https://github.com/osyrisrblx/rbx-filters) | 0 | Convenient filter functions for roblox-ts functional programming |
+| [OtadTOAD/RBLX_React_LSP_Backend](https://github.com/OtadTOAD/RBLX_React_LSP_Backend) | 0 | LSP to help me write code using Roblox's React package. |
+| [OtadTOAD/RBLX_React_LSP_Extension](https://github.com/OtadTOAD/RBLX_React_LSP_Extension) | 0 | Extension for Visual Studio Code that helps with auto complete suggestions for roblox's React implementation. |
 | [peejaykoy12345/Roblox-Toolbox](https://github.com/peejaykoy12345/Roblox-Toolbox) | 0 | 🧰 A collection of reusable Roblox systems, ModuleScripts, .rbxl templates, and useful libraries. This repo serves as a personal toolbox for development, expe... |
 | [PepeElToro41/lemon-signal](https://github.com/PepeElToro41/lemon-signal) | 0 | lemon signal types for roblox-ts |
 | [pnlmon/RojoModuleTemplate](https://github.com/pnlmon/RojoModuleTemplate) | 0 | This repository contain a template for building a library/module with Rojo. |
@@ -1162,6 +1273,9 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [PrintedScript/rbxts-uuid-transform](https://github.com/PrintedScript/rbxts-uuid-transform) | 0 | A transformer for roblox-ts to change Enum values to UUIDs during compile time |
 | [ProfDrOsman/3D-RobloxStudio-Assets](https://github.com/ProfDrOsman/3D-RobloxStudio-Assets) | 0 | This repository contains open-source assets I created while learning Roblox Studio. |
 | [ProgramminType/RobloxSync](https://github.com/ProgramminType/RobloxSync) | 0 | Bidirectional real-time sync between Roblox Studio and VS Code. |
+| [prooheckcp/RobloxSandbox](https://github.com/prooheckcp/RobloxSandbox) | 0 | To test Roblox features |
+| [purpulhq/package-template](https://github.com/purpulhq/package-template) | 0 | A preconfigured package template. |
+| [purpulhq/starter-template](https://github.com/purpulhq/starter-template) | 0 | A preconfigured general-purpose template. |
 | [pxky/roblox-ts-multiplace](https://github.com/pxky/roblox-ts-multiplace) | 0 | roblox-ts multi place game template with 1 src folder |
 | [quezdev/rojotest](https://github.com/quezdev/rojotest) | 0 | This is a rojo test |
 | [R-unic/package-template](https://github.com/R-unic/package-template) | 0 | Package template for roblox-ts with rUnit tests already set up |
@@ -1171,18 +1285,22 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [R-unic/rbxts-transformer-rcov](https://github.com/R-unic/rbxts-transformer-rcov) | 0 | Transformer for rcov to track line execution - depends on @rbxts/rcov being installed |
 | [R-unic/rcov](https://github.com/R-unic/rcov) | 0 | Code coverage tool for roblox-ts |
 | [R-unic/ty](https://github.com/R-unic/ty) | 0 | Roblox type validation with detailed errors |
+| [R1mob2-svg/pet-training-simulator](https://github.com/R1mob2-svg/pet-training-simulator) | 0 | Pet Training Simulator — lift weights, hatch pet eggs, and chain multiplier gates. Roblox game built from the GeminX Industrial Builder template. |
 | [raineyraine/formati](https://github.com/raineyraine/formati) | 0 | A simple Luau and rbxts library for formatting Roblox RichText |
 | [RaspysuperSpiderman/Roblox-Studio-Test](https://github.com/RaspysuperSpiderman/Roblox-Studio-Test) | 0 | Get Roblox Studio Without Roblox Player For Windows! |
 | [Rats-United/HOME](https://github.com/Rats-United/HOME) | 0 | roblox-ts source code for things in RATS UNITED HOME |
+| [RazisDev/RazisDev-RobloxProjectTemplategenGenRojoTree](https://github.com/RazisDev/RazisDev-RobloxProjectTemplategenGenRojoTree) | 0 | Template for Roblox Rojo in vs Code |
 | [rbxts-libraries/rbxts-cleanser](https://github.com/rbxts-libraries/rbxts-cleanser) | 0 | Focused on developing a TypeScript-compatible solution to @robloxiandemo/roblox-modules/cleanser! |
 | [rbxts-libraries/rbxts-debris](https://github.com/rbxts-libraries/rbxts-debris) | 0 | Focused on developing a TypeScript-compatible solution to @robloxiandemo/roblox-modules/debris! |
 | [rbxts-libraries/rbxts-mutable-fast-replica](https://github.com/rbxts-libraries/rbxts-mutable-fast-replica) | 0 | Team focused on developing a TypeScript-mutable-compatible solution to @terminalvibes/fast-replica! |
 | [rbxts-libraries/rbxts-player-hooks](https://github.com/rbxts-libraries/rbxts-player-hooks) | 0 | Focused on developing a TypeScript-compatible solution to @robloxiandemo/roblox-modules/player! |
 | [rbxts-libraries/rbxts-signal-plus](https://github.com/rbxts-libraries/rbxts-signal-plus) | 0 | Focused on developing a TypeScript-compatible solution to @robloxiandemo/roblox-modules/signal-plus! |
 | [REALAZK/maid-module-reworked](https://github.com/REALAZK/maid-module-reworked) | 0 | A reworked Roblox/Luau Maid module with deterministic cleanup, indexed ownership, tests, and Rojo support. |
+| [RedFarl/RobloxScriptsTesting](https://github.com/RedFarl/RobloxScriptsTesting) | 0 | Just for personal use. Feel free to use without or with credits |
 | [rejson59/RobloxAIGameBuilder](https://github.com/rejson59/RobloxAIGameBuilder) | 0 | Build games on roblox studio using your own API keys |
 | [resuscitated-fungible586/roblox-luau-execution-action](https://github.com/resuscitated-fungible586/roblox-luau-execution-action) | 0 | Execute Luau scripts in Roblox projects automatically within GitHub workflows for seamless code testing and deployment. |
 | [revvy02/rwork](https://github.com/revvy02/rwork) | 0 | fully managed rojo workflow |
+| [rniraclefire/rbx-to-gargantuan](https://github.com/rniraclefire/rbx-to-gargantuan) | 0 | Tools to convert Roblox models and places into Gargantuan, Team Fireworks' independent game engine for Roblox developers. |
 | [roblox-aurora/roblox.d.ts](https://github.com/roblox-aurora/roblox.d.ts) | 0 | InDev Lua -> AST -> TypeScript Declaration tool. Supposed to somewhat simplify using Lua in roblox-ts (in the future) |
 | [RobloxLearnHub/.github](https://github.com/RobloxLearnHub/.github) | 0 | RobloxLearnHub is a 2025 community for learning game design through Roblox Studio single-player projects. Our safe, open-source tools help beginners create g... |
 | [RoodTV/RobloxDebugModule](https://github.com/RoodTV/RobloxDebugModule) | 0 | You can find functions usefull in debugging your roblox game |
@@ -1190,20 +1308,26 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [RsMan-Dev/rbxts-jsnatives](https://github.com/RsMan-Dev/rbxts-jsnatives) | 0 | A library that brings back javascript natives to roblox ts |
 | [ru55e1l/roblox-ts_template](https://github.com/ru55e1l/roblox-ts_template) | 0 | Roblox-ts template for creating single asset system |
 | [rutheniumm/Lua-Sandbox](https://github.com/rutheniumm/Lua-Sandbox) | 0 | Modules provided by me and ready to be used in LuaSB. |
+| [samgarbloomatesupervision-cyber/SAO-Engine](https://github.com/samgarbloomatesupervision-cyber/SAO-Engine) | 0 | Roblox automation engine for GitHub-sourced 3D assets |
 | [scar2056/rojo-baseplate](https://github.com/scar2056/rojo-baseplate) | 0 | Baseplate template for Rojo (as opposed to the default Classic Baseplate) |
 | [scottricity/cron-parser](https://github.com/scottricity/cron-parser) | 0 | A Roblox module to parse Cron formats. |
 | [scottricity/StamperModule](https://github.com/scottricity/StamperModule) | 0 | A Roblox stamper module to build, resize, paint and imports assets. |
+| [seanwirkus/HtmlCssReactToLua](https://github.com/seanwirkus/HtmlCssReactToLua) | 0 | Transpile React JSX plus HTML CSS styling into Roblox Luau GUIs with frames text labels images and responsive layouts |
 | [seaofvoices/luau-task](https://github.com/seaofvoices/luau-task) | 0 | A tiny package to get the task library from Roblox or Lune |
 | [seaofvoices/luaubox](https://github.com/seaofvoices/luaubox) | 0 | A tool for building Luau projects into Roblox models, bundles and more |
 | [Shadercloud/lunit-vscode-companion](https://github.com/Shadercloud/lunit-vscode-companion) | 0 | VS Code extension that discovers and runs @rbxts/lunit tests from the native Test Explorer, headlessly via Lune or inside Roblox Studio. |
 | [Shambi-0/Precomputed](https://github.com/Shambi-0/Precomputed) | 0 | 🧰 A wide collection of commonly used values. |
 | [Shambi-0/SequenceUtils](https://github.com/Shambi-0/SequenceUtils) | 0 | 🎨 an easy-to-use utility for sequence datatypes in luau. |
+| [sharpdaddy59/roblox-game-starter](https://github.com/sharpdaddy59/roblox-game-starter) | 0 | Starter template for Roblox games: Rojo + git + StyLua + Selene + luau-lsp + CI, with docs written for young devs |
 | [sharpdaddy59/RobloxData](https://github.com/sharpdaddy59/RobloxData) | 0 | CLI to inspect, back up, diff and restore Roblox DataStores via Open Cloud (.NET 10) |
 | [shylocal/template](https://github.com/shylocal/template) | 0 | A general-purpose template for roblox-ts. |
 | [Si-SenorTN/Packages](https://github.com/Si-SenorTN/Packages) | 0 | library of lua/roblox utility modules |
 | [SilentElephant32/luautools.me](https://github.com/SilentElephant32/luautools.me) | 0 | A luau runner and formatter website - made for school |
+| [Sinaruu/Template](https://github.com/Sinaruu/Template) | 0 | Simple Template for Rojo I use for Roblox Projects |
 | [sinnafuls/rojoTemplate](https://github.com/sinnafuls/rojoTemplate) | 0 | Rojo Template for Roblox Development |
 | [siviuss/luaurocks](https://github.com/siviuss/luaurocks) | 0 | Package manager for LuaU |
+| [SlimeySnufs/BuildAPizzeria](https://github.com/SlimeySnufs/BuildAPizzeria) | 0 | Mobile Styled Simulator Game |
+| [SmugNugg/Zignal](https://github.com/SmugNugg/Zignal) | 0 | Roblox Signal Package, Reliable and Fast |
 | [snipcola/Roblox-TS-Script](https://github.com/snipcola/Roblox-TS-Script) | 0 | Dependency of projects using Create-Roblox-TS-Script. |
 | [solal0/Luau](https://github.com/solal0/Luau) | 0 | tools and libraries I made for Roblox development. |
 | [SOTR654/GoogleAPI](https://github.com/SOTR654/GoogleAPI) | 0 | Information and documentation on the GoogleAPI module. |
@@ -1217,6 +1341,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [T4rp/stylua_serve](https://github.com/T4rp/stylua_serve) | 0 | A server for stylua to be used with a Roblox Studio plugin |
 | [tacheometry/rbxts-neturl](https://github.com/tacheometry/rbxts-neturl) | 0 | roblox-ts typings for NetUrl |
 | [Tadas-M/rbxts-chrono](https://github.com/Tadas-M/rbxts-chrono) | 0 | TypeScript type definitions for Chrono |
+| [takoyakisoft/roblox-rojo-wally-template](https://github.com/takoyakisoft/roblox-rojo-wally-template) | 0 | GitHub templates for Selene linter, StyLua formatter, Wally package manager and Rokit toolchain manager using Roblox Studio (Luau) and VSCode |
 | [takoyakisoft/roblox-ts-rojo-template](https://github.com/takoyakisoft/roblox-ts-rojo-template) | 0 | Roblox Studio and VSCode synchronized with Rojo and working templates in TypeScript |
 | [teakzc/axis-types](https://github.com/teakzc/axis-types) | 0 | roblox-ts typings for NeonD00m/Axis |
 | [Team2wasd/roblox-ts-quickstart](https://github.com/Team2wasd/roblox-ts-quickstart) | 0 | roblox-ts quick start repository for wasd games |
@@ -1228,30 +1353,44 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [thecogumeta/tsrequire](https://github.com/thecogumeta/tsrequire) | 0 | A utility to use roblox-ts packages in pure luau. |
 | [thegatoworks/gwlib-ts](https://github.com/thegatoworks/gwlib-ts) | 0 | A general purpose library that provides utility functions which help with Roblox TypeScript development. |
 | [Thegreatestprogrammerthatseverlived/PackagePlugin-Roblox-Studio](https://github.com/Thegreatestprogrammerthatseverlived/PackagePlugin-Roblox-Studio) | 0 | Check out [PLACEHOLDER LINK] and start using it to develop your games today! |
+| [themvf/Roblox_Benji](https://github.com/themvf/Roblox_Benji) | 0 | Rivals-style Roblox arena shooter pivoting to objective play (Convergence). Rojo + Wally + Knit. |
 | [TheNicolasOmena/LuauRobloxVsCodeLearn](https://github.com/TheNicolasOmena/LuauRobloxVsCodeLearn) | 0 | Learning the firsts steps to become a ProDeveloper |
+| [TheOrangeHoodie/RobloxBuilderProto](https://github.com/TheOrangeHoodie/RobloxBuilderProto) | 0 | Simple prototype of a builder game |
+| [thiago-o-dev/rblx-rrw-template](https://github.com/thiago-o-dev/rblx-rrw-template) | 0 | Template for quick start with roblox luau game development using Rokit, Rojo and Wally |
 | [TiarnanTuite/robloxStudioTest](https://github.com/TiarnanTuite/robloxStudioTest) | 0 | Test Project for future Roblox game |
 | [Tkdriverx/RojoGames](https://github.com/Tkdriverx/RojoGames) | 0 | Rojo (Roblox) Games Git |
+| [tomglenn/roblox-template](https://github.com/tomglenn/roblox-template) | 0 | A starter template for Roblox projects using rokit, rojo, wally, selene, and stylua. |
 | [tomotdev/roblox-schema](https://github.com/tomotdev/roblox-schema) | 0 | Runtime schema validation library for roblox-ts. |
+| [traderxael/calama-tycoon](https://github.com/traderxael/calama-tycoon) | 0 | Tycoon minera de Calama - Roblox Rojo project |
 | [Twelve11-pixel/roblox-toolbox](https://github.com/Twelve11-pixel/roblox-toolbox) | 0 | Roblox store selling Roblox studio assets |
 | [Twelve11-pixel/store-Roblox-](https://github.com/Twelve11-pixel/store-Roblox-) | 0 | Roblox store selling Roblox studio assets |
 | [TymonMarek/wally](https://github.com/TymonMarek/wally) | 0 | A semantic-release plugin for automatically updating and publishing Roblox packages to the Wally registry. |
 | [tymotiii/RbxM](https://github.com/tymotiii/RbxM) | 0 | library for easier roblox coding |
+| [Ukuroks-games/InstanceTypesAsTables](https://github.com/Ukuroks-games/InstanceTypesAsTables) | 0 | Expot roblox Instance types as tables. |
 | [Ukuroks-games/TestLib](https://github.com/Ukuroks-games/TestLib) | 0 | Small unit tests library |
 | [Unkown074/rbxdl](https://github.com/Unkown074/rbxdl) | 0 | ROBLOX asset downloader with many options |
 | [Unreal-Works/luau-lsp-npm](https://github.com/Unreal-Works/luau-lsp-npm) | 0 | `npx luau-lsp` Language Server Implementation for Luau |
+| [uwponcel/vending-empire](https://github.com/uwponcel/vending-empire) | 0 | Roblox simulator: place vending machines, accrue coins, collect, reinvest. Luau + Rojo. |
+| [Vaincrestos/signalplus](https://github.com/Vaincrestos/signalplus) | 0 | Wally port of SignalPlus v3.7.2: Fork of AlexanderLindholt's original." |
 | [Venture-Models/Venture-SYNC](https://github.com/Venture-Models/Venture-SYNC) | 0 | An roblox to file system and file system to roblox synchronization system, Intended for our projects |
+| [Venvalve/Open-Source-ROBLOX-Project](https://github.com/Venvalve/Open-Source-ROBLOX-Project) | 0 | Maybe gonna upload the models somehow. |
 | [vienn1/Roblox-Studio-Script-Testing](https://github.com/vienn1/Roblox-Studio-Script-Testing) | 0 | NOT SCRIPT FOR ROBLOX (MOD) THIS SCRIPT FOR ROBLOX STUDIO (LUA SCRIPT)!!! |
 | [Virtual-Fighting-Falcons/vff-rojo](https://github.com/Virtual-Fighting-Falcons/vff-rojo) | 0 | Rojo Smoke System for the F-16C |
 | [Vorlias/rojo-convert](https://github.com/Vorlias/rojo-convert) | 0 | A little tool to convert Rojo 0.4.x projects to Rojo 0.5.x |
+| [vrialland/roblox-template](https://github.com/vrialland/roblox-template) | 0 | Roblox template with Rojo and Wally set up |
 | [vtfn/luau-dis](https://github.com/vtfn/luau-dis) | 0 | High performance luau bytcode parser and disassembler. |
+| [WalterGameDev-Real/V0LC4NO-Engine-Main](https://github.com/WalterGameDev-Real/V0LC4NO-Engine-Main) | 0 | The original game files (.rbxl) for many roblox games that use the V0LC4NO Engine. |
 | [Warley72/Roblox-Projects-Modules](https://github.com/Warley72/Roblox-Projects-Modules) | 0 | Modules and tools for Roblox development, written in Lua and integrated with Rokit and Rojo for an efficient and scalable workflow. |
+| [WasteofSpaceYT/TSTL-template](https://github.com/WasteofSpaceYT/TSTL-template) | 0 | A template for a set-up project to use typescript to lua for either roblox or computercraft |
 | [wayleem/roblox-notcatan](https://github.com/wayleem/roblox-notcatan) | 0 | Reimagined Catan in Roblox with Roblox-TS. |
+| [welcomestohell/prvdmwrong-example-obby](https://github.com/welcomestohell/prvdmwrong-example-obby) | 0 | See how Prvd 'M Wrong (formerly Oh My Prvd) can be used to build a simple obby. |
 | [Windows81/Historic-VisualPlugin-RBXL-Places](https://github.com/Windows81/Historic-VisualPlugin-RBXL-Places) | 0 | A mostly complete collection of VisualPlugin's early work on Rōblox for posterity. |
 | [Windows81/VisualPlugin-Versions](https://github.com/Windows81/VisualPlugin-Versions) | 0 | All 144 versions of VisualPlugin that were uploaded to Rōblox ... as RBXM files. |
 | [wirlypirly12/nyx](https://github.com/wirlypirly12/nyx) | 0 | a lua/luau interpreter written in luau |
 | [wobotomite/path-parser](https://github.com/wobotomite/path-parser) | 0 | parses rbxts paths and returns their respective rblx instances |
 | [Yalp-Development/Grid](https://github.com/Yalp-Development/Grid) | 0 | TypeScript library for interacting with the Roblox Grid Service |
 | [Youngmh610/RobloxPackageManager](https://github.com/Youngmh610/RobloxPackageManager) | 0 | A Package Manager for Roblox Studio |
+| [Yunimo30/Java-Quest-](https://github.com/Yunimo30/Java-Quest-) | 0 | Quiz Type Roblox Game |
 | [ZaapD/RojoSampleGame](https://github.com/ZaapD/RojoSampleGame) | 0 | Just a test game to practice using git and GitHub with Rojo |
 | [zaiisao/LSP-roblox-luau](https://github.com/zaiisao/LSP-roblox-luau) | 0 | Roblox Luau support for Sublime's LSP plugin |
 | [Zerro15/Roblox](https://github.com/Zerro15/Roblox) | 0 | Прототип Tower Defense для Roblox с разработкой через Rojo и Roblox Studio. |

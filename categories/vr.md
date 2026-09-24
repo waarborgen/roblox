@@ -22,7 +22,7 @@ Full-body VR, SteamVR-trackers en webcam-tracking.
 | [mathken029/vr-roblox-kit](https://github.com/mathken029/vr-roblox-kit) | 0 | Open-source VR game-development kit |
 | [Metatable-Games/MetaVR](https://github.com/Metatable-Games/MetaVR) | 0 | VR-framework in Luau |
 
-## Uitgebreide index (13)
+## Uitgebreide index (15)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -38,6 +38,8 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Mickelsonny/zombie-infection-treatment-abm-vr](https://github.com/Mickelsonny/zombie-infection-treatment-abm-vr) | 1 | Roblox adaptation of Repast's and Macal's Zombie Apocalypse model |
 | [missciera/Roblox-VR-Toggler](https://github.com/missciera/Roblox-VR-Toggler) | 1 | Toggles the VR option for Roblox without having to open the game. |
 | [200Tigersbloxed/tigerVR](https://github.com/200Tigersbloxed/tigerVR) | 0 | A VR Library for Roblox |
+| [DataEncoded/Tactile-Engine](https://github.com/DataEncoded/Tactile-Engine) | 0 | A roblox VR engine being developed. |
+| [Matej-Kocanda/block-quest-game](https://github.com/Matej-Kocanda/block-quest-game) | 0 | Block Quest 3D – Roblox-style 3D platformer game for kids, built with Three.js. Touch-optimized for iPad/tablet/mobile. |
 | [Metatable-Games/RBLXVRGui](https://github.com/Metatable-Games/RBLXVRGui) | 0 | Roblox Virtual Reality Graphical User Interface Management Module |
 | [Nicontm/VRBridge](https://github.com/Nicontm/VRBridge) | 0 | A Roblox VR API |
 | [QuoniamVR/LuauXR](https://github.com/QuoniamVR/LuauXR) | 0 | Open-Source VR Module for Roblox |

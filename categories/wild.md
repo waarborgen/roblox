@@ -154,7 +154,7 @@ Luau-in-Luau, emulators, DOOM, N64, video, Python-in-Luau en game-ports.
 | [MarsSquirrel/bad-apple](https://github.com/MarsSquirrel/bad-apple) | 0 | Bad Apple afgespeeld met de Terrain-engine van Roblox |
 | [TateoDev/Editable-Image-raycaster](https://github.com/TateoDev/Editable-Image-raycaster) | 0 | 3DSage-achtige raycaster-engine op EditableImage met wandtexturen |
 
-## Uitgebreide index (99)
+## Uitgebreide index (104)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -185,6 +185,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [MatrixPlayz4192/Roblox-Roblox-Studio-on-linux.](https://github.com/MatrixPlayz4192/Roblox-Roblox-Studio-on-linux.) | 3 | Roblox studio on linux, Vinegar Client. |
 | [MicrosoftBugDispatcher/gelato-roblox](https://github.com/MicrosoftBugDispatcher/gelato-roblox) | 3 | a well written roblox external, has every feature needed and an extensive lua vm |
 | [thatguyshubh/roblinx](https://github.com/thatguyshubh/roblinx) | 3 | A port for Roblox, on Linux. |
+| [8ch32bit/MockSignal](https://github.com/8ch32bit/MockSignal) | 2 | A Luau module that emulates RBXScriptSignal instances (minus parallel luau functions), indended to be the fastest RBXScriptSignal implementation |
 | [dadafa23/JorelTX-ON](https://github.com/dadafa23/JorelTX-ON) | 2 | JorelTX ON V5 — Visual enhancement preset for Roblox/Sober on Linux. |
 | [DirtPiper/rSRC](https://github.com/DirtPiper/rSRC) | 2 | Source/Goldsrc engine emulation with a 12.17.2008 Roblox client as a base |
 | [emortalmc/MineDoors](https://github.com/emortalmc/MineDoors) | 2 | [Paused - Far from done] A remake of Doors from Roblox, but in Minecraft |
@@ -223,7 +224,9 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [MiguelEXE/BASIC.luau](https://github.com/MiguelEXE/BASIC.luau) | 1 | A BASIC interpreter for Roblox |
 | [namooTH/roblox-hijacker](https://github.com/namooTH/roblox-hijacker) | 1 | restarts the computer if roblox is detected in the process list |
 | [nefahas/roblox-16bitvm](https://github.com/nefahas/roblox-16bitvm) | 1 | roblox 16bit vm files |
+| [nightcycle/instance-pool](https://github.com/nightcycle/instance-pool) | 1 | A strictly typechecked port of instance-pool |
 | [PexpointMC/PolyConnect](https://github.com/PexpointMC/PolyConnect) | 1 | PolyConnect is a Polytoria + ROBLOX Connecting game where you can play on both ROBLOX and Polytoria sides, just like Minecraft and ROBLOX crossplay games! Th... |
+| [plainenglishh/luau6502](https://github.com/plainenglishh/luau6502) | 1 | Series of pure-Luau emulators for the 6502 microprocessor family. |
 | [pondlnwtrue007/roblox-boxing-reallife](https://github.com/pondlnwtrue007/roblox-boxing-reallife) | 1 | เล่น Untitled Boxing Game บน Roblox ด้วยการชกมวยจริงผ่านเว็บแคม — ใช้ MediaPipe Pose จับท่าทางร่างกาย (แย็บ/ฮุค/การ์ด/หลบ/ไม้ตาย) แล้วส่งปุ่มเข้าเกม / Play R... |
 | [Prasoon-Rai/Roblox-Installer-Linux](https://github.com/Prasoon-Rai/Roblox-Installer-Linux) | 1 | A script for installing roblox on LInux. |
 | [PythonScratcher/rod](https://github.com/PythonScratcher/rod) | 1 | Roblox On Debian 32-bit (x86) and 64-bit & Rasbian (raspberry pi OS) 32 and 64 beta |
@@ -250,6 +253,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [GAMBLING-MAN/BasicCodeInterpreter](https://github.com/GAMBLING-MAN/BasicCodeInterpreter) | 0 | The code of the Basic Code Interpreter module script on Roblox. |
 | [IFMNB/Hexagon](https://github.com/IFMNB/Hexagon) | 0 | Open source simple library to emulate Roblox/java construction. |
 | [kingdudely/LuauInJS](https://github.com/kingdudely/LuauInJS) | 0 | A Luau VM in JavaScript |
+| [Kloodi2021/blocky-worlds-engine-roblox](https://github.com/Kloodi2021/blocky-worlds-engine-roblox) | 0 | This is an open-source free engine that is for roblox, Allowing you to make minecraft-inspired games. |
 | [kortsolosv12/Roblox-Unblocked](https://github.com/kortsolosv12/Roblox-Unblocked) | 0 | An unblocked version of Roblox (could technically run on a Chromebook but you'd need Linux) |
 | [MrMarcelss/ROBLOX-STUDIO](https://github.com/MrMarcelss/ROBLOX-STUDIO) | 0 | Aqui os dejo el archivo para descargar ROBLOX STUDIO. Una app de ROBLOX para crear tus propios videojuegos de ROBLOX |
 | [OfficialValkyrie/Luau-Recreation](https://github.com/OfficialValkyrie/Luau-Recreation) | 0 | Recreating Luau in Luau |
@@ -259,5 +263,6 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [synpixel/brainfuck.luau](https://github.com/synpixel/brainfuck.luau) | 0 | An implementation of Brainfuck in Luau |
 | [viografiko/Roblox-Sandbox](https://github.com/viografiko/Roblox-Sandbox) | 0 | Tries to emulate a roblox studio sandbox. |
 | [vkh700/linblox](https://github.com/vkh700/linblox) | 0 | Launch roblox on linux systems! |
+| [xdx-sf/XTech-1](https://github.com/xdx-sf/XTech-1) | 0 | The XTech-1 engine is the game engine developed by the XDX Software Foundation to recreate Doom games on Roblox. |
 
 [← Terug naar overzicht](../README.md)

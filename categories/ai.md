@@ -42,7 +42,7 @@ Neurale netwerken, behavior trees, pathfinding, boids en LLM-NPC's.
 | [sebastianboscan/roblox-ai-npc](https://github.com/sebastianboscan/roblox-ai-npc) | 0 | NPC's die natuurlijke taal via TextGenerator omzetten in acties |
 | [Murned/roblox-boid-flocking](https://github.com/Murned/roblox-boid-flocking) | 0 | Drone-zwerm met Reynolds' boids + spatial grid |
 
-## Uitgebreide index (95)
+## Uitgebreide index (105)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -63,6 +63,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [bbartling/maze-algorithm-sandbox](https://github.com/bbartling/maze-algorithm-sandbox) | 1 | Self exploration in geometry algorithms for game dev |
 | [cheese696969/Simploid](https://github.com/cheese696969/Simploid) | 1 | Roblox Module that allows for a cheap replacement of Humanoids for NPCs. |
 | [connorabs/Roblox-Network-Pathfinder](https://github.com/connorabs/Roblox-Network-Pathfinder) | 1 | finds the shortest connection path between two Roblox users using their friend lists |
+| [cosinewaves/flux](https://github.com/cosinewaves/flux) | 1 | lightweight and type-safe finite state machine built with luau |
 | [DominikDolphin/PathfindingRoblox](https://github.com/DominikDolphin/PathfindingRoblox) | 1 | A simple tile pathfinding algorithm in Roblox |
 | [Elmuti/PfindPlugin](https://github.com/Elmuti/PfindPlugin) | 1 | Nodegraph pathfinding plugin tools for Roblox studio. Allows you to create and edit nodegraphs, and comes with a Pathfinding API that utilizes the A-Star alg... |
 | [fetchloop/AStateMachine](https://github.com/fetchloop/AStateMachine) | 1 | A modular and easily expadable state machine and state manager for Roblox. |
@@ -84,6 +85,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [ashlynmadison/Carl-mcdonald](https://github.com/ashlynmadison/Carl-mcdonald) | 0 | Carl is from a roblox game/series "NPC are becoming smart" by GroovyDominoes52, today i got bored so i make him mcdonald employee so yeah- |
 | [BetiDev677/EOM_Game](https://github.com/BetiDev677/EOM_Game) | 0 | Luau script for a Roblox studio plot placement system (object placement and toggling, grid snapping, deletion, saving with DataStore API and rotations) as we... |
 | [blxckhunter908/roblox-npc-pathfinding](https://github.com/blxckhunter908/roblox-npc-pathfinding) | 0 | Roblox NPC pathfinding system. |
+| [calyredyyyyyt-glitch/Working-Pathfinding-Monster-For-Roblox-Studio](https://github.com/calyredyyyyyt-glitch/Working-Pathfinding-Monster-For-Roblox-Studio) | 0 | This is a fully scripted and fully working pathfinding monster for your horror game. Made by Calyredyyyy. |
 | [CapedBojji/miniature-octo-invention](https://github.com/CapedBojji/miniature-octo-invention) | 0 | A custom Roblox pathfinding library |
 | [cbh1733908441/riffle-duel-library](https://github.com/cbh1733908441/riffle-duel-library) | 0 | Steam 与 Roblox 独立对抗选题库：玩法模板、NPC 对手适配度与来源追溯 |
 | [cheese696969/Simploid_WeldBased](https://github.com/cheese696969/Simploid_WeldBased) | 0 | Roblox Module that allows for a cheap replacement of Humanoids for NPCs. (Discontinued as it is laggier than the MoveTo based one) |
@@ -99,6 +101,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [eyvanlol/Roblox-NPC](https://github.com/eyvanlol/Roblox-NPC) | 0 | This is my project on Roblox interactive and non-interactive NPC |
 | [g0ofycat/rl_framework](https://github.com/g0ofycat/rl_framework) | 0 | Reinforcement Learning Framework for small models in Roblox |
 | [Gabzouul/npc-game](https://github.com/Gabzouul/npc-game) | 0 | Roblox multiplayer NPC deception game |
+| [GandalfWisdom/PathBuddy](https://github.com/GandalfWisdom/PathBuddy) | 0 | A basic pathfinding Humanoid mover for Roblox. |
 | [gcaptn/NNL](https://github.com/gcaptn/NNL) | 0 | A practice Lua Neural Network Library |
 | [hardersdean-lang/Hamburg-botsss](https://github.com/hardersdean-lang/Hamburg-botsss) | 0 | Ein einfaches Skript, um NPCs in Roblox zu erstellen |
 | [Hinikaa/luau-statemachine](https://github.com/Hinikaa/luau-statemachine) | 0 | Small finite state machine with guards and transitions, Luau |
@@ -114,6 +117,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [kozuidev/PathForge](https://github.com/kozuidev/PathForge) | 0 | A custom grid-based pathfinding module made for Roblox, powered by A* search. Supports walls, clearance checks, and dynamic obstacles. |
 | [LadyCelastia/Pathfinder](https://github.com/LadyCelastia/Pathfinder) | 0 | roblox luau pathfind library (all scripts are modules) |
 | [LeMeeXalFan/jeu-roblox-npc-poursuivants](https://github.com/LeMeeXalFan/jeu-roblox-npc-poursuivants) | 0 | Un jeu Roblox où des NPCs te poursuivent pour te tuer |
+| [liminalsq/HOSTERS-FR-ASTAR](https://github.com/liminalsq/HOSTERS-FR-ASTAR) | 0 | Roblox pathfindings big rival fr fr |
 | [luckydev7/DecorativeNPC-Roblox](https://github.com/luckydev7/DecorativeNPC-Roblox) | 0 | A simple lib for creating decorative client-sided npcs in roblox |
 | [Made4Mischief/Click-To-Move-NPC-RobloxStudio-](https://github.com/Made4Mischief/Click-To-Move-NPC-RobloxStudio-) | 0 | The NPC moves to the position where the player clicks |
 | [mezz-source/KNDataAPI](https://github.com/mezz-source/KNDataAPI) | 0 | Data API used to run KILL NPCS's data. Uses in-game instances to quickly update data without sending datastore calls, with multiple store types loadable. You... |
@@ -131,15 +135,21 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [rexmagnusdavid/roblox-ts-pathfinding](https://github.com/rexmagnusdavid/roblox-ts-pathfinding) | 0 | An A* pathfinding module for Roblox geometry. Written in TypeScript and utilizes roblox-ts. |
 | [RyderDoesRandomStuff/Roblox-Npc-s](https://github.com/RyderDoesRandomStuff/Roblox-Npc-s) | 0 | a collection of random npc stuff |
 | [SALLYPEMDAS/NOOBTOPIA](https://github.com/SALLYPEMDAS/NOOBTOPIA) | 0 | simple autonomous NPC script for roblox |
+| [sean-mullens/Roblox-AStar](https://github.com/sean-mullens/Roblox-AStar) | 0 | Simple 3D pathfinding alg I made |
 | [SilviaTormo/aura-farm](https://github.com/SilviaTormo/aura-farm) | 0 | Aura Farm: Roblox aura-farming game pilot (poses, duels, judged training, NPC crowd) |
 | [Stiexeno/roblox-csharp-state-management](https://github.com/Stiexeno/roblox-csharp-state-management) | 0 | C# state machine plugin for roblox-csharp. Pure C# states with optional lifecycle markers (IEnter/IExecutable/...) driven by RunService and resolved through DI. |
 | [techs-sus/net](https://github.com/techs-sus/net) | 0 | neural network for roblox, and some scripts about it! |
 | [teckuxa/Roblox-Wandering-NPC-name-with-random-chat-messages](https://github.com/teckuxa/Roblox-Wandering-NPC-name-with-random-chat-messages) | 0 | Script that will turn you into wandering npc that will type random pre-made messages in chat! Only works in Roblox because of chat scripts |
+| [TJagain/Pathfinding-Testing](https://github.com/TJagain/Pathfinding-Testing) | 0 | Attempted implementation of the 3D Field D* pathfinding algorithm into Roblox Studio using Lua |
 | [TPSRX/RobloxVotingNPC](https://github.com/TPSRX/RobloxVotingNPC) | 0 | Roblox Voting NPC System with ProximityPrompt |
 | [turbinebroskilolz-dot/RobloxNPCPlayground](https://github.com/turbinebroskilolz-dot/RobloxNPCPlayground) | 0 | Its a playground of NPCs |
+| [Twiched/RoPath](https://github.com/Twiched/RoPath) | 0 | An custom pathfinding service for roblox. |
 | [UnanimousTechnologies/Friendly-NPC](https://github.com/UnanimousTechnologies/Friendly-NPC) | 0 | This guide explains how to create an NPC that follows the player in Roblox Studio. |
+| [urvape/Follow-Player-GUI](https://github.com/urvape/Follow-Player-GUI) | 0 | A GUI that uses the Roblox Pathfinding Service to Follow players on Roblox. |
+| [urvape/SimplePath](https://github.com/urvape/SimplePath) | 0 | SimplePath, a Roblox Pathfinding Service. |
 | [vadjusha16-rgb/Digital-Circus-Roblox](https://github.com/vadjusha16-rgb/Digital-Circus-Roblox) | 0 | A Roblox game inspired by Digital Circus with Kaine, NPC circus system, and player interactions |
 | [vimeaus/Roblox-NPCs](https://github.com/vimeaus/Roblox-NPCs) | 0 | A project aimed at bringing improvements to Roblox's Non Player Characters. With a focus on improved pathing and greater performance. |
+| [Where44444/LuaPathfinding](https://github.com/Where44444/LuaPathfinding) | 0 | Script for Roblox map to help 8 blocks find a path around each other dynamically to build a logo |
 | [williamswilsonhilson-debug/NPCService](https://github.com/williamswilsonhilson-debug/NPCService) | 0 | A roblox npc system |
 | [XdualityRBX/Quest-System](https://github.com/XdualityRBX/Quest-System) | 0 | Roblox NPC quest system with typewriter dialogue, quest progress GUI, and rewards. |
 | [yoku2342/roblox-drx-target-lock](https://github.com/yoku2342/roblox-drx-target-lock) | 0 | Roblox DRX UI with fly toggle and NPC target lock |

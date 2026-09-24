@@ -95,7 +95,7 @@ Buffer-netcode, IDL-compilers, encryptie en eigen replicatie.
 | [thekingofspace/Reflect](https://github.com/thekingofspace/Reflect) | 0 | Sync-systeem |
 | [ocauapaz/BTYN](https://github.com/ocauapaz/BTYN) | 0 | Networking-compiler: schema naar gebatchte, delta-encoded Luau |
 
-## Uitgebreide index (220)
+## Uitgebreide index (235)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -144,9 +144,12 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Corecii/Roblox-NetworkClock](https://github.com/Corecii/Roblox-NetworkClock) | 2 | Synced time module for Roblox |
 | [devsarim/roexpress](https://github.com/devsarim/roexpress) | 2 | A lightweight, easy-to-use networking module for Roblox, similar to express. |
 | [evilbocchi/fletchette](https://github.com/evilbocchi/fletchette) | 2 | Simple networking library for roblox-ts |
+| [FlowAshley/DynamicTables](https://github.com/FlowAshley/DynamicTables) | 2 | Tables with server-client replication and .Changed events |
 | [kingdudely/roblox-studio-messaging-service](https://github.com/kingdudely/roblox-studio-messaging-service) | 2 | MessagingService implemented in NodeJS! (Sorry, couldn't get it working in the browser) |
+| [Metatable-Games/KnightRemotes](https://github.com/Metatable-Games/KnightRemotes) | 2 | V2 Version of Knight Remotes with Binary Buffer Protocol |
 | [misofe/astralnetwork-nblx-bot](https://github.com/misofe/astralnetwork-nblx-bot) | 2 | By AstralNetwork. A simple reference to make Discord-Roblox bots with noblox.js |
 | [NAS1ORO/Roblox-Studio-RPC](https://github.com/NAS1ORO/Roblox-Studio-RPC) | 2 | Do you want your actions in Roblox Studio to show up on Discord? This app was created specifically for that :D |
+| [nightcycle/network-util](https://github.com/nightcycle/network-util) | 2 | allows for ez creation and management of remote events / functions |
 | [NodeRBLX/Framework](https://github.com/NodeRBLX/Framework) | 2 | A framework made to handle client-server (vise versa) on ROBLOX. |
 | [Peytoncl/rblxdesktopsource](https://github.com/Peytoncl/rblxdesktopsource) | 2 | Replicates your computers display to a Roblox GUI in live time. |
 | [pigxity-games/lune-test](https://github.com/pigxity-games/lune-test) | 2 | A test runner script written for lune which aims to replicate a roblox environment. |
@@ -171,11 +174,13 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Gatorro/Roblox-Discord-RPC](https://github.com/Gatorro/Roblox-Discord-RPC) | 1 | A Discord Rich Presence for Roblox. (Show status Roblox, Show status on Discord) |
 | [GlassInfra/showtime](https://github.com/GlassInfra/showtime) | 1 | Using Steamworks networking to relay legacy ROBLOX clients |
 | [glatoni500/glatoni500.github.io](https://github.com/glatoni500/glatoni500.github.io) | 1 | Privacy Policy and Terms of Service for Roblox Dev Network |
+| [goomba629/Data-Network-Service](https://github.com/goomba629/Data-Network-Service) | 1 | The entire system to handle the data for players in game. |
 | [Gskartwii/roblox-network-schema](https://github.com/Gskartwii/roblox-network-schema) | 1 | Automatically dumped Roblox network schema history |
 | [hlpdev/netcode](https://github.com/hlpdev/netcode) | 1 | A Roblox networking library. |
 | [hostagerescue/cobalt](https://github.com/hostagerescue/cobalt) | 1 | A runtime developer tool for the Roblox Game Engine to monitor and intercept incoming and outgoing network traffic |
 | [Hytham-Mackay/Network](https://github.com/Hytham-Mackay/Network) | 1 | A Roblox networking module built as a learning project for structured Luau development. |
 | [ijsKoud/discoBlox](https://github.com/ijsKoud/discoBlox) | 1 | Discord RPC for ROBLOX using the Presence API. |
+| [jakubmelnik/CRUD-system-luau](https://github.com/jakubmelnik/CRUD-system-luau) | 1 | A Luau system that supports its own databases, handles network requests, implements its own Module API, and integrates with external APIs (Discord) |
 | [jLn0n/communiception](https://github.com/jLn0n/communiception) | 1 | Another Roblox networking library. |
 | [justinkolaras/NS-API](https://github.com/justinkolaras/NS-API) | 1 | Next Saturday's remote API, used for Discord > Roblox (and vise versa) integration. |
 | [kauarosaborges/remote](https://github.com/kauarosaborges/remote) | 1 | A lightweight, type-safe utility module for working with RemoteFunctions and RemoteEvents in Roblox. |
@@ -205,9 +210,11 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Sovvie/Chemical](https://github.com/Sovvie/Chemical) | 1 | Reactive State, UI, and Replication Library for Roblox Luau |
 | [suxrobGM/roblox-automatization-app](https://github.com/suxrobGM/roblox-automatization-app) | 1 | RobloxAutomatization is program which automatizes username sign up process in roblox site |
 | [TheGreatSageEqualToHeaven/NaNet](https://github.com/TheGreatSageEqualToHeaven/NaNet) | 1 | A small, type-checked networking library for Roblox |
+| [TheNexusAvenger/Nexus-Buffered-Replication](https://github.com/TheNexusAvenger/Nexus-Buffered-Replication) | 1 | Packs together small packets together for more efficient network usage with UnreliableRemoteEvents. |
 | [TheSquirrel/CRAN](https://github.com/TheSquirrel/CRAN) | 1 | Comprehensive Roblox Archive Network - Inspired by the CPAN so Roblox Scripters don't have to keep reinventing the wheel. |
 | [vec4me/roblox-network](https://github.com/vec4me/roblox-network) | 1 | Intuitive network communication library for Roblox |
 | [velumix/Nerve](https://github.com/velumix/Nerve) | 1 | Give your Roblox game a nervous system. An all-in-one framework powered by ByteNet. |
+| [Vertovy/Network](https://github.com/Vertovy/Network) | 1 | Rbx Network Client/Server sides |
 | [vg9159086-hub/R-NET-](https://github.com/vg9159086-hub/R-NET-) | 1 | MNET OF RPOP AND KUV (Roblox Kpop) |
 | [yurenip/studio-rpc](https://github.com/yurenip/studio-rpc) | 1 | my take at discord's rich presence for roblox studio |
 | [2233qazwsx0/cobalt](https://github.com/2233qazwsx0/cobalt) | 0 | Cobalt - Roblox runtime network monitor |
@@ -217,10 +224,12 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [banan2114/RBX-LagCompensation](https://github.com/banan2114/RBX-LagCompensation) | 0 | Roblox lag compensation library |
 | [beters02/States](https://github.com/beters02/States) | 0 | A light-weight replicated States module for Roblox |
 | [Bikzmal/Roblox-Inventory-Demo](https://github.com/Bikzmal/Roblox-Inventory-Demo) | 0 | Roblox inventory framework with DataStore persistence, item management, equipping, and client-server synchronization. |
+| [botchi09/RobloxRollback](https://github.com/botchi09/RobloxRollback) | 0 | Input focused rollback netcode scheduler |
 | [Brylan-Leske/ShareSphere](https://github.com/Brylan-Leske/ShareSphere) | 0 | ShareSphere is a cross-game social network for Roblox |
 | [Bugadinho/RobloxRPC](https://github.com/Bugadinho/RobloxRPC) | 0 | A implementation of Roblox's presence API through Discord RPC |
 | [Carl00-mpeek/PlugDock-for-Roblox](https://github.com/Carl00-mpeek/PlugDock-for-Roblox) | 0 | PlugDock for Roblox is a Windows app for managing local Roblox Studio plugins. Import .lua/.rbxm files, enable or disable them, and check GitHub Releases for... |
 | [claudiuscapqs-hub/network-lag-remover](https://github.com/claudiuscapqs-hub/network-lag-remover) | 0 | Removing network lag for roblox! |
+| [CluelessD3v/FAH](https://github.com/CluelessD3v/FAH) | 0 | A small registry and selective replication helper for Roblox asset templates. |
 | [Coffilhg/ProfileStoreV3](https://github.com/Coffilhg/ProfileStoreV3) | 0 | Based on ProfileStore, it's V2 fork, LemonSignal, CoffeeParser and CoffeeObjects - a Periodic DataStore saving solution with session locking, subscription-ba... |
 | [copp43/Net-API](https://github.com/copp43/Net-API) | 0 | Net api is a roblox module that can replace remotes and bindable |
 | [copp43/Netbuff](https://github.com/copp43/Netbuff) | 0 | NetBuff is a lightflex roblox module API thats wraps roblox Networking system and caches everything |
@@ -233,12 +242,14 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Dfeyghin/Postie-Remake](https://github.com/Dfeyghin/Postie-Remake) | 0 | An upgraded version of Postie , a module defining an upgraded remote Function execution in Roblox |
 | [dimitriye98/ansible](https://github.com/dimitriye98/ansible) | 0 | A Roblox networking library |
 | [dlscord-00/Script-Downloader-Roblox-Open-Source-](https://github.com/dlscord-00/Script-Downloader-Roblox-Open-Source-) | 0 | This script extracts and downloads LocalScripts and ModuleScripts from Roblox games. It can scan Workspace, LocalPlayer, and ReplicatedStorage directories, s... |
+| [donocodedlunar/Football-Legends](https://github.com/donocodedlunar/Football-Legends) | 0 | A game made to replicate the style of popular roblox game football fusion. Made as a passion project but donations are appreciated. |
 | [Dyannaachaean73/dyannaachaean73.github.io](https://github.com/Dyannaachaean73/dyannaachaean73.github.io) | 0 | Launch Roblox Player and Studio with custom network settings and startup configurations for Windows. |
 | [ElixNoir/Roblox-ServerCommunication](https://github.com/ElixNoir/Roblox-ServerCommunication) | 0 | A module for cross-server communication. |
 | [ElixNoir/Roblox-Threader](https://github.com/ElixNoir/Roblox-Threader) | 0 | A wrapper for concurrent/parallel operations. Put all shared modules into ReplicatedStorage/Shared and they will automatically load when the actors are created. |
 | [encodedlux/bufnet](https://github.com/encodedlux/bufnet) | 0 | Lightweight networking library for Roblox built for performance, type safety and efficient data communication. |
 | [ersncerror/cerrorsNet](https://github.com/ersncerror/cerrorsNet) | 0 | A roblox network library. |
 | [Fconstant/Jolt](https://github.com/Fconstant/Jolt) | 0 | High-performance networking for Roblox. Simplified. |
+| [ffggggg-iolk/Yazeet-s-Shop.net](https://github.com/ffggggg-iolk/Yazeet-s-Shop.net) | 0 | Shop of roblox vjei |
 | [FirTheDeveloper/Networking-Library](https://github.com/FirTheDeveloper/Networking-Library) | 0 | A (very basic) Roblox Networking Library. |
 | [fromdeen/roblox-secure-score-ui](https://github.com/fromdeen/roblox-secure-score-ui) | 0 | A drop-in Roblox score system: secure server-side point grants (1–100), persistent DataStore save/load, daily login bonus, critical hits, and a clean bottom-... |
 | [GameF200/Quartz](https://github.com/GameF200/Quartz) | 0 | Quartz is a simple, quick network library for roblox studio |
@@ -252,6 +263,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [I0ris/HttpSpy](https://github.com/I0ris/HttpSpy) | 0 | A Simple and highly efficient network debugging tool for Roblox |
 | [iDisvelop/RoMatch](https://github.com/iDisvelop/RoMatch) | 0 | Open source matchmaking system for ROBLOX using ROBLOX's MessagingService |
 | [imastarshine/Roblox-Friend-Requests-Sender](https://github.com/imastarshine/Roblox-Friend-Requests-Sender) | 0 | Automate Roblox friend requests with ease. Set your delay, paste your list, and grow your network while you focus on what matters. |
+| [imshrak/UniversalDeleteCarRemote](https://github.com/imshrak/UniversalDeleteCarRemote) | 0 | Using roblox remote event DeleteCar |
 | [itsrenderman/network-lua](https://github.com/itsrenderman/network-lua) | 0 | A simple Luau module to assist with creating, storing and destroying remotes on Roblox |
 | [Julpav/SwiftBar](https://github.com/Julpav/SwiftBar) | 0 | SwiftBar is a Roblox Studio plugin which is designed to replicate a spotlight search bar (as seen in MacOS and other operating systems), with more than just ... |
 | [jun-ro/Tide](https://github.com/jun-ro/Tide) | 0 | A lightweight, flexible, and powerful Roblox framework. Designed to make server management and networking as easy as possible. |
@@ -266,6 +278,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [KyleHercegg/replica](https://github.com/KyleHercegg/replica) | 0 | roblox-ts typings for MAD STUDIO Replica — state replication with life cycle handling and per-client subscription control. |
 | [landenpls/RobloxStudioRPC](https://github.com/landenpls/RobloxStudioRPC) | 0 | Discord Remote Procedure Call program for Roblox Studio |
 | [LayLayLayLayLayLayLayla/IBS-Satellite](https://github.com/LayLayLayLayLayLayLayla/IBS-Satellite) | 0 | funny tv network for roblox games :sob: |
+| [LegoBedwarsExploiter/engospy](https://github.com/LegoBedwarsExploiter/engospy) | 0 | an extremely lightweight penetration tool for logging fired remote signals in roblox. |
 | [LiamRousselle/RBLX-Cable](https://github.com/LiamRousselle/RBLX-Cable) | 0 | Networking library for Roblox Studio |
 | [librehub-luau/libretool](https://github.com/librehub-luau/libretool) | 0 | Libretool - Roblox network & memory pentesting tool |
 | [ls9512/Roblox_ClientServerFrame](https://github.com/ls9512/Roblox_ClientServerFrame) | 0 | This is a general-purpose network communication framework for Roblox game development, designed to simplify the use of RemoteEvents. |
@@ -291,6 +304,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [QuoniamVR/ShadowRPC](https://github.com/QuoniamVR/ShadowRPC) | 0 | Roblox Studio RPC client. Plugin and Executable included. |
 | [qzhcore/DarkksProfiler](https://github.com/qzhcore/DarkksProfiler) | 0 | DarkkProfiler is a Roblox infrastructure library providing production-safe performance, memory, and network profiling tools. Built for developers, studios, a... |
 | [RazAPI/Gameplay-Paused-Disabler](https://github.com/RazAPI/Gameplay-Paused-Disabler) | 0 | Disables the Network Paused Roblox notification (Unfinished) |
+| [revvy02/TrueSignal](https://github.com/revvy02/TrueSignal) | 0 | Roblox Luau Signal class that is designed to replicate RBXScriptSignal behavior as close as possible including queueing behavior |
 | [Rexouss/RexDPI](https://github.com/Rexouss/RexDPI) | 0 | Open-source Windows network utility for Roblox, Roblox Studio and Discord. No VPN, no traffic tunneling, focused on low latency. |
 | [rod-higgins/robloxguard](https://github.com/rod-higgins/robloxguard) | 0 | Roblox client companion app for Windows to monitor local scripts and network traffic. |
 | [RoFearHypno/BufferWriter_v1.0](https://github.com/RoFearHypno/BufferWriter_v1.0) | 0 | A Buffer Writer for the older versions of ByteNet (a popular roblox networking module). |
@@ -320,6 +334,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Whiteoak-Studios/Oak](https://github.com/Whiteoak-Studios/Oak) | 0 | Oak — Whiteoak Studios' service framework for Roblox: plain-table services, Blink-bound declared remotes, Init/Start lifecycle, policy pipeline. Knit replace... |
 | [Xepois/copper](https://github.com/Xepois/copper) | 0 | Simple Networking package built for roblox games. |
 | [xethlyx/roblox-sync](https://github.com/xethlyx/roblox-sync) | 0 | Sync Roblox players manually to Bungee/Spigot networks |
+| [Yggm8/Bridger-Fishing-Minigame](https://github.com/Yggm8/Bridger-Fishing-Minigame) | 0 | RTFG Reaction Trainer — a fast-paced browser game that replicates the Roblox fishing minigame mechanic. React to random R, T, F, or G prompts within 1 second... |
 | [Yipinesis/ShellFlow](https://github.com/Yipinesis/ShellFlow) | 0 | A Roblox Networking API |
 
 [← Terug naar overzicht](../README.md)

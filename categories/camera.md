@@ -34,7 +34,7 @@ Camera-shake, custom camera's, cutscene-tools en timelines.
 | [zKozie/CameraSystem](https://github.com/zKozie/CameraSystem) | 0 | Config-gedreven twee-laags camera: state-camera's plus one-shot action-overlays die terugblenden |
 | [JRmcnugget/Viewpoint](https://github.com/JRmcnugget/Viewpoint) | 0 | Vloeiende, sterk aanpasbare third-person camera |
 
-## Uitgebreide index (106)
+## Uitgebreide index (107)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -51,6 +51,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [MonzterDev/First-Person-Camera-Roblox](https://github.com/MonzterDev/First-Person-Camera-Roblox) | 2 | First Person Camera Module for Roblox! |
 | [Mullets-Gavin/DiceCamera](https://github.com/Mullets-Gavin/DiceCamera) | 2 | A Roblox custom camera module for over-the-shoulder but not shiftlock camera. This works similarly to Ratchet & Clank. |
 | [b-risk/Roblox-Freecam](https://github.com/b-risk/Roblox-Freecam) | 1 | Copied and pasted from Roblox Studio. |
+| [cad3264/CameraTools](https://github.com/cad3264/CameraTools) | 1 | Modify your camera in Vortex! |
 | [gaminzzz/adaptive-camera-test](https://github.com/gaminzzz/adaptive-camera-test) | 1 | camera follows torso in roblox |
 | [Golden-Monkey-Studios/GoldenShake](https://github.com/Golden-Monkey-Studios/GoldenShake) | 1 | Custom wrapper for the Shake Roblox ModuleScript to extend shake functionality to UI objects and more |
 | [janisfox/cutsceneModule_seraphicLabs](https://github.com/janisfox/cutsceneModule_seraphicLabs) | 1 | Cutscene Module is a Roblox Module to make the creation of Cutscenes way easier. |
