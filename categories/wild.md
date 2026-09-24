@@ -154,7 +154,7 @@ Luau-in-Luau, emulators, DOOM, N64, video, Python-in-Luau en game-ports.
 | [MarsSquirrel/bad-apple](https://github.com/MarsSquirrel/bad-apple) | 0 | Bad Apple afgespeeld met de Terrain-engine van Roblox |
 | [TateoDev/Editable-Image-raycaster](https://github.com/TateoDev/Editable-Image-raycaster) | 0 | 3DSage-achtige raycaster-engine op EditableImage met wandtexturen |
 
-## Uitgebreide index (302)
+## Uitgebreide index (307)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -274,6 +274,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [AZ9tumas/block-placement-rbx](https://github.com/AZ9tumas/block-placement-rbx) | 0 | basic minecraft block placement system but in roblox |
 | [BatteRaquette581/ZINCEmulator](https://github.com/BatteRaquette581/ZINCEmulator) | 0 | funny roblox game emulator |
 | [Bavar1an/Accelerated-Lua-VM](https://github.com/Bavar1an/Accelerated-Lua-VM) | 0 | Started as a personal project to beat out the Roblox Lua VM in speed, now I will continue development on this until I just can't do it anymore. |
+| [BestGiter/Rendezvous-Computer-Maker](https://github.com/BestGiter/Rendezvous-Computer-Maker) | 0 | This is my Rendezvous server for my game I am moving to python called Computer Maker! It used to be on Roblox but now it is here! |
 | [BlazeBreeze/blazebreezeplays.github.io](https://github.com/BlazeBreeze/blazebreezeplays.github.io) | 0 | BlazeBreezePlays 🎮 / Gaming (Minecraft, Fortnite, Roblox) / Video Editing 🎬 / Digital Marketing 📈 / Coding 💻 |
 | [blitz-rojo/NexusOS-Free](https://github.com/blitz-rojo/NexusOS-Free) | 0 | Roblox Nexus OS - Free version |
 | [BloxSQL/SQLBlox](https://github.com/BloxSQL/SQLBlox) | 0 | A project link SQL to roblox |
@@ -296,6 +297,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [diyya381-afk/roblox-bridge-To-VM-xD](https://github.com/diyya381-afk/roblox-bridge-To-VM-xD) | 0 | bridging tiny10 onto a rblx vm HHEEHHE |
 | [DJKuhleb/Roblox_BlockWorldCreation](https://github.com/DJKuhleb/Roblox_BlockWorldCreation) | 0 | Created to simulate world creation similar to minecraft. Unfinished |
 | [doqedev/ro-utils](https://github.com/doqedev/ro-utils) | 0 | A roblox utility program made for Linux |
+| [drozakkacper-gif/GameWiki](https://github.com/drozakkacper-gif/GameWiki) | 0 | Nowoczesna strona internetowa z kodami, poradnikami i pro tipami do gier takich jak CS2, Minecraft, War Thunder, Roblox i wielu innych. |
 | [Dylan2408R2/vamos-segundo-intento-de-crossplay](https://github.com/Dylan2408R2/vamos-segundo-intento-de-crossplay) | 0 | Intentamos de nuevo el crossplay de minecraft y roblox |
 | [ednetymattos-tech/Mega-Knight](https://github.com/ednetymattos-tech/Mega-Knight) | 0 | EU AMO ROBLOX STUDIO ROBLOX NORMAL PROGRAMAÇÃO E MINECRAFT (E CLASH ROYALE) |
 | [edzvuh2025-ai/operix](https://github.com/edzvuh2025-ai/operix) | 0 | The Operating System for Roblox Groups |
@@ -331,6 +333,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [ifnotnithya/The-Minecraft-Roblox-ultimate-reprosity](https://github.com/ifnotnithya/The-Minecraft-Roblox-ultimate-reprosity) | 0 | This will Teach people about Minecraft / Roblox. |
 | [imskyyc/RoL-patchset-dev](https://github.com/imskyyc/RoL-patchset-dev) | 0 | Roblox-on-Linux patchsets for wine 9.0+ |
 | [IsEmil/emulator](https://github.com/IsEmil/emulator) | 0 | This is a pretty simple emulator for metatables on Roblox |
+| [itriedcoding/roblox-linux-installer](https://github.com/itriedcoding/roblox-linux-installer) | 0 | Play Roblox on ANY Linux distro. Full installer with setup for Ubuntu, Debian, Fedora, Arch, and 15+ more distros. |
 | [Johndoe305/MinecraftAlphaScript](https://github.com/Johndoe305/MinecraftAlphaScript) | 0 | (geen omschrijving op GitHub) Scripts for roblox |
 | [JoshuaWho/JoshuaWho](https://github.com/JoshuaWho/JoshuaWho) | 0 | Joshua Who is a YouTuber who play Fortnite, Roblox, and sometimes Minecraft. |
 | [JungyoKim/Roblox_Python_Interpreter](https://github.com/JungyoKim/Roblox_Python_Interpreter) | 0 | 로블록스 Lua 웹어셈블리 기반 Python Interpreter를 위한 서버 / 2025 |
@@ -428,6 +431,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [synpixel/umineko-roblox](https://github.com/synpixel/umineko-roblox) | 0 | A port of Umineko When They Cry to Roblox |
 | [Tamasina07/ROBLOX-OS](https://github.com/Tamasina07/ROBLOX-OS) | 0 | A fake Roblox operating system I barely even finished. I do not remember making this at all. |
 | [teachkidslab/stem-academy-site](https://github.com/teachkidslab/stem-academy-site) | 0 | Інтерактивний сайт STEM Academy з курсами програмування для дітей: Minecraft, Roblox, Scratch, Python, JavaScript, Fullstack, ШІ, Computer Science. Сучасний ... |
+| [TechEverythingTikTok/zxOS](https://github.com/TechEverythingTikTok/zxOS) | 0 | An OS on roblox with PM and VFS (not real CPU emulated) |
 | [tgraupmann/CSDK_ChromaRoblox](https://github.com/tgraupmann/CSDK_ChromaRoblox) | 0 | Sample C++ port of Chroma Design |
 | [theafamily323-dotcom/Minecraft-DOORS-TexturePacks](https://github.com/theafamily323-dotcom/Minecraft-DOORS-TexturePacks) | 0 | this contains my Roblox DOORS texture packs! |
 | [TheFreePenguin/rolex](https://github.com/TheFreePenguin/rolex) | 0 | ROBLOX FOR LINUX (not working on this anymore) |
@@ -460,6 +464,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [yeon-11/roblox-rocket-game](https://github.com/yeon-11/roblox-rocket-game) | 0 | Roblox rocket assembly game with body swap mechanics |
 | [zachthearcticfox/Arctic-Fox-16-Assembler](https://github.com/zachthearcticfox/Arctic-Fox-16-Assembler) | 0 | Assembler for a work-in-progress CPU built in a Roblox logic simulator "Circuit maker 2" |
 | [ZAL-X/Roblox_Minecraft_bow_fight_PROC-31](https://github.com/ZAL-X/Roblox_Minecraft_bow_fight_PROC-31) | 0 | (geen omschrijving op GitHub) |
+| [zaz-zy/rbx-linux-runtime](https://github.com/zaz-zy/rbx-linux-runtime) | 0 | Unofficial Wine-based compatibility research for Roblox on Linux. Not affiliated with Roblox Corporation. |
 | [zenithhhhchannhhhh/nowayCAS](https://github.com/zenithhhhchannhhhh/nowayCAS) | 0 | nowayCAS is a Computer Algebra System made for Roblox Studio. |
 | [Zuphrus/Unnamed-Computer-Core-archive](https://github.com/Zuphrus/Unnamed-Computer-Core-archive) | 0 | Its public domain - gmhs |
 

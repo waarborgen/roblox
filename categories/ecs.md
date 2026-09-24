@@ -86,7 +86,7 @@ Entity Component Systems en frameworks voorbij Knit.
 | [zblox164/Scrypt](https://github.com/zblox164/Scrypt) | 1 | Scrypt-framework |
 | [ZacharyVanier/VZNCore-Template](https://github.com/ZacharyVanier/VZNCore-Template) | 0 | Batteries-included ECS-framework template |
 
-## Uitgebreide index (382)
+## Uitgebreide index (384)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -315,6 +315,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Floating-Point-Studios/DeusFramework](https://github.com/Floating-Point-Studios/DeusFramework) | 0 | (geen omschrijving op GitHub) |
 | [fnstart/Roblox-LuaU-Framework-Example](https://github.com/fnstart/Roblox-LuaU-Framework-Example) | 0 | Simple Roblox Lua Framework Example |
 | [FORGOTTENJAKEY/Nex-UI](https://github.com/FORGOTTENJAKEY/Nex-UI) | 0 | A modular roblox linear interface framework. |
+| [frameworks-engineering/forgeblox](https://github.com/frameworks-engineering/forgeblox) | 0 | FORGEBLOX is a web open-source ROBLOX emulator based in June 2005. |
 | [frizzysx/RobloxRoundFramework](https://github.com/frizzysx/RobloxRoundFramework) | 0 | vA modular Roblox round-management framework built with Luau. It provides a clean foundation for multiplayer experiences with configurable intermissions, rou... |
 | [German-rod/RoundKit](https://github.com/German-rod/RoundKit) | 0 | Framework for building round-based game modes on Roblox. |
 | [gostrafx/Roblox-starter](https://github.com/gostrafx/Roblox-starter) | 0 | Roblox starter with the framework knit Rojo, Argon |
@@ -474,5 +475,6 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [z13ak/BrickAPI](https://github.com/z13ak/BrickAPI) | 0 | Zero-config Roblox/Luau backend framework: auto-loading services for player data, currencies, inventory, pets, quests, gacha RNG, shop, and boosts. |
 | [zayddd666/ShellUI](https://github.com/zayddd666/ShellUI) | 0 | A UI Framework in roblox |
 | [zyilet/Roblox-TS-Flamework-Template](https://github.com/zyilet/Roblox-TS-Flamework-Template) | 0 | (geen omschrijving op GitHub) |
+| [Zypnp/zypnp-portfolio](https://github.com/Zypnp/zypnp-portfolio) | 0 | Official portfolio website for Zyp_np — High-quality Roblox Studio environments, realistic architecture, and immersive world-building. |
 
 [← Terug naar overzicht](../README.md)

@@ -72,7 +72,7 @@ Character controllers, ragdolls, destructie, parkour en eigen physics-engines.
 | [Terrani-3/movement-system](https://github.com/Terrani-3/movement-system) | 0 | Movement-feel: camera-tilt, dynamische FOV en directionele animatie-blending |
 | [chroma-hade/Roblox-2D-Movement](https://github.com/chroma-hade/Roblox-2D-Movement) | 0 | 2D-movement en camerasysteem |
 
-## Uitgebreide index (384)
+## Uitgebreide index (394)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -268,6 +268,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [gizmotronicstudios/roblox-migration-server](https://github.com/gizmotronicstudios/roblox-migration-server) | 0 | SOR Data Migration Movement Sys |
 | [gjediael-sketch/roblox-walkable-template](https://github.com/gjediael-sketch/roblox-walkable-template) | 0 | A Roblox template with a walkable platform and basic character controls |
 | [GP-commits/FearForge](https://github.com/GP-commits/FearForge) | 0 | One button Mechanism full Roblox Story mode Malayalam Game, A STUPID DINO JUMP FORK GAME WON! man iam the most unlucky guy ever. this had a first prize of 10... |
+| [gracetampubolon/SummitAdventure](https://github.com/gracetampubolon/SummitAdventure) | 0 | A Roblox mountain climbing adventure game built with Roblox Studio, Rojo, Luau, and Git. |
 | [grozarobertsebastian-dev/InventoryHandler-luau](https://github.com/grozarobertsebastian-dev/InventoryHandler-luau) | 0 | Roblox Server system for handling character inventory, storage, and selling with secure validation and rebirth protection |
 | [hanan801/HorseHub-Roblox](https://github.com/hanan801/HorseHub-Roblox) | 0 | 3 gui [fly,walk speed,jump boost] |
 | [Hardbloq/roblox-dash-system](https://github.com/Hardbloq/roblox-dash-system) | 0 | Roblox dash system demo |
@@ -279,6 +280,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [horrormovies/AutoCandies-Mushyo-Roblox](https://github.com/horrormovies/AutoCandies-Mushyo-Roblox) | 0 | This script allows players to interact with and collect in-game items by pressing a designated key. It's useful for games that want to implement collectibles... |
 | [hyarlenvtn/ZEEHub-JUN-](https://github.com/hyarlenvtn/ZEEHub-JUN-) | 0 | Script completo para JUN: Legends Battlegrounds no Roblox com sistema de câmera, auto dash, combos, menu moderno e proteção anti-ban.) |
 | [Imakescriptsforrobloc/roblox-shift-to-sprint](https://github.com/Imakescriptsforrobloc/roblox-shift-to-sprint) | 0 | A working script for roblox shift to sprint! |
+| [imdavidthemenace/Kodland-Roblox-DST-Assignment](https://github.com/imdavidthemenace/Kodland-Roblox-DST-Assignment) | 0 | A video walk through of the game |
 | [indiePOP-Games/RoBloX-Clothing-App](https://github.com/indiePOP-Games/RoBloX-Clothing-App) | 0 | A standalone application for creating shirst and pants, etc for Roblox. Exports a png file ready to upload into studio or your character directly after creat... |
 | [InfernoAmaruq/StateMachine](https://github.com/InfernoAmaruq/StateMachine) | 0 | A state manager loosely inspired by Roblox's character humanoid states |
 | [inmate6000/JBPlates-Detector](https://github.com/inmate6000/JBPlates-Detector) | 0 | HAAR, HOG and other cascades for detecting Roblox Jailbreak License plates. REQUIRES BASIC PYTHON/C++ CV2 KNOWLEDGE. Cascades currently training |
@@ -320,6 +322,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [lovebirdsx/roblox-tutorial-jump](https://github.com/lovebirdsx/roblox-tutorial-jump) | 0 | (geen omschrijving op GitHub) |
 | [LucasRayo11/Roblox-Ragdoll-System](https://github.com/LucasRayo11/Roblox-Ragdoll-System) | 0 | This is a Roblox R6 Ragdoll System made by lucasrayo111 (LoWolly) |
 | [LucasWhite-Coder/LUA-Sprint](https://github.com/LucasWhite-Coder/LUA-Sprint) | 0 | Sprinting mechanic made within Roblox studio Shift to activate |
+| [m4rcel-lol/Noli](https://github.com/m4rcel-lol/Noli) | 0 | Groq powered myth character from Roblox that u can talk to. |
 | [Macomads/Lua-climbing-script](https://github.com/Macomads/Lua-climbing-script) | 0 | Has been made for roblox but can probably be adapted for other references. |
 | [maratulaliyah91-creator/MAZE-OF-HATRED](https://github.com/maratulaliyah91-creator/MAZE-OF-HATRED) | 0 | this game is taking character from forsaken roblox game :D |
 | [Marvridan/WalkSpeed-Change-for-maps](https://github.com/Marvridan/WalkSpeed-Change-for-maps) | 0 | For roblox studio (idk) |
@@ -328,6 +331,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [MateoElias/AutoJacks](https://github.com/MateoElias/AutoJacks) | 0 | This is projects aims to be a safer, open source alternative to common roblox jumping jack scripts. |
 | [mathfox/rbxts-character-utils](https://github.com/mathfox/rbxts-character-utils) | 0 | (geen omschrijving op GitHub) |
 | [maximnota/chained-together-demo](https://github.com/maximnota/chained-together-demo) | 0 | A chained together demo that mimics the chained together behaviour in roblox with funky physics. |
+| [mckenziii/zero-grav](https://github.com/mckenziii/zero-grav) | 0 | makes your roblox character have zero gravity |
 | [Mehkei08/CandyRun](https://github.com/Mehkei08/CandyRun) | 0 | Candy Run - A Roblox deathrun parkour game with oversized candy platforms, double jump, sprint, and item capsules |
 | [MiniStudioDevTeam/Roblox-I-Sprint](https://github.com/MiniStudioDevTeam/Roblox-I-Sprint) | 0 | Roblox sprint and how to enable it |
 | [MobiDev/rbxts-character](https://github.com/MobiDev/rbxts-character) | 0 | (geen omschrijving op GitHub) |
@@ -345,6 +349,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [nayitzah-lgtm/glitch-architect](https://github.com/nayitzah-lgtm/glitch-architect) | 0 | A Roblox physics-based puzzle game where glitches are features |
 | [nevaughnrann-cloud/untitled-parkour](https://github.com/nevaughnrann-cloud/untitled-parkour) | 0 | untitled parkour roblox game |
 | [NICKISBAD/Downpour-Dash-](https://github.com/NICKISBAD/Downpour-Dash-) | 0 | A gui on the ROBLOX game: Downpour Dash |
+| [njtsb1/Harvest_Game_Roblox](https://github.com/njtsb1/Harvest_Game_Roblox) | 0 | We will use Lua and Luau to create a game from scratch within Roblox Studio, applying everything we’ve learned so far, along with basic knowledge of this pro... |
 | [NOTEKAMI-RBX/RainPhysics](https://github.com/NOTEKAMI-RBX/RainPhysics) | 0 | (geen omschrijving op GitHub) Roblox RainPhysics |
 | [NotKisoMomo/Splint](https://github.com/NotKisoMomo/Splint) | 0 | Splint is a comprehensive ragdoll physics library for Roblox. |
 | [nxghtCry0/goldkour](https://github.com/nxghtCry0/goldkour) | 0 | The best roblox parkour script |
@@ -358,6 +363,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Overnyh/RobloxParkourOnline](https://github.com/Overnyh/RobloxParkourOnline) | 0 | (geen omschrijving op GitHub) |
 | [oxireun/roblox-auto-jump-scrip](https://github.com/oxireun/roblox-auto-jump-scrip) | 0 | (geen omschrijving op GitHub) |
 | [oxireun/roblox-auto-jump-script](https://github.com/oxireun/roblox-auto-jump-script) | 0 | (geen omschrijving op GitHub) gg |
+| [Panachai-Guer/guer-roblox-studio-portfolio](https://github.com/Panachai-Guer/guer-roblox-studio-portfolio) | 0 | Guer Roblox Studio Knowledge Base Since 2026 |
 | [Parihsz/RobloxQuiz](https://github.com/Parihsz/RobloxQuiz) | 0 | Test your knowledge on Roblox! |
 | [Pavel-Lopatin/RobloxCharacterMovement](https://github.com/Pavel-Lopatin/RobloxCharacterMovement) | 0 | Example for implementing Roblox movement using FSM pattern |
 | [PGB-HUB/roblox-button-touch-scrip](https://github.com/PGB-HUB/roblox-button-touch-scrip) | 0 | -- Simulate touch on the button without moving player local button = workspace:FindFirstChild("Gudock") if button then firetouchinterest(game.Players.LocalPl... |
@@ -367,6 +373,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [PlayNoxa/playnoxa](https://github.com/PlayNoxa/playnoxa) | 0 | Gaming guides, reward tips, redeem help, and practical walkthroughs for Roblox, Valorant, and more. |
 | [poahsups/Roblox-simple-gui](https://github.com/poahsups/Roblox-simple-gui) | 0 | Fly, Walkspeed, JumpHeight. Simple. |
 | [Pokruk/RobloxAntiGravityManager](https://github.com/Pokruk/RobloxAntiGravityManager) | 0 | Useful roblox service-like ModuleScript to help disable gravity for models or parts |
+| [pondlnwtrue007/Climb-and-Jump-Tower-Body-Controller](https://github.com/pondlnwtrue007/Climb-and-Jump-Tower-Body-Controller) | 0 | เล่นเกม Climb and Jump Tower (Roblox) ด้วยท่าทางร่างกายจริงผ่านเว็บแคม — ยกแขนสลับ=ปีน(W), กระโดดจริง=Space. MediaPipe Pose + SendInput scancode |
 | [priyankaaich80-debug/roblox--parkour](https://github.com/priyankaaich80-debug/roblox--parkour) | 0 | roblox- parkour with all upgrades |
 | [programmeromaridris/Simple-Ultrakill-Roblox-Movement-Recreation](https://github.com/programmeromaridris/Simple-Ultrakill-Roblox-Movement-Recreation) | 0 | This script seeks to recreate popular Indie title 'Ultrakill''s movement system. |
 | [PT1011/Roblox_Jumper](https://github.com/PT1011/Roblox_Jumper) | 0 | A roblox game based on jumping |
@@ -394,6 +401,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Rollimonster/Inf-Jump](https://github.com/Rollimonster/Inf-Jump) | 0 | jump Infinitley in roblox. |
 | [RonanTraveler20/roblox-movement](https://github.com/RonanTraveler20/roblox-movement) | 0 | Roblox movement system with improved jump mechanics |
 | [s0lver88/Roblox-Sprint-Script](https://github.com/s0lver88/Roblox-Sprint-Script) | 0 | A Roblox local script which makes the player run and changes the player's fov |
+| [salmonashimi3/roblox-jumpmap](https://github.com/salmonashimi3/roblox-jumpmap) | 0 | 로블록스 스타일 점프맵 (브라우저 게임) |
 | [Sandwichmaster28/sPhysics](https://github.com/Sandwichmaster28/sPhysics) | 0 | Doing Roblox's job and making actually good Physics. |
 | [sannnraj27864-source/bali-night-club-paradise](https://github.com/sannnraj27864-source/bali-night-club-paradise) | 0 | Roblox multiplayer luxury Bali beach club nightlife experience with table reservations, swimming pool, DJ stage, and social features. |
 | [sDstroyGOAT/Movement](https://github.com/sDstroyGOAT/Movement) | 0 | Movement Script roblox game made by DstroyGOAT |
@@ -403,6 +411,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [semka2067/roblox-studio-tutorial](https://github.com/semka2067/roblox-studio-tutorial) | 0 | roblox studio tutorial I’ll explain how to create models for walking NPCs, as well as how to make maps and map objects. |
 | [SerAdam-Dev/Roblox-Luau-Mechanics](https://github.com/SerAdam-Dev/Roblox-Luau-Mechanics) | 0 | A collection of Luau scripts for functional 3D systems, including event-driven doors and physics-based rotations. |
 | [shinjeiku/rblx-weld-sample](https://github.com/shinjeiku/rblx-weld-sample) | 0 | A simple Roblox character weld system I made. |
+| [shredderb03-collab/Walk-Through-Hotel-2D](https://github.com/shredderb03-collab/Walk-Through-Hotel-2D) | 0 | Inspired By Roblox Doors |
 | [simonroaquin008-pixel/roblox-parkour-game](https://github.com/simonroaquin008-pixel/roblox-parkour-game) | 0 | A parkour game for Roblox with movement mechanics, obstacles, and checkpoints |
 | [solursolur2/Roblox-Game](https://github.com/solursolur2/Roblox-Game) | 0 | Physics-based drag and drop system for Roblox with network synchronization |
 | [someonewholitterallywannamakethingsd/Twitching-char-lmaoo](https://github.com/someonewholitterallywannamakethingsd/Twitching-char-lmaoo) | 0 | Making your roblox character tweak out |
@@ -420,6 +429,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Sweesy-png/obby-creator-showcase-for-roblox](https://github.com/Sweesy-png/obby-creator-showcase-for-roblox) | 0 | Ultimate Roblox Obby Creator Showcase Script – Build and Share Amazing Parkours |
 | [t0asty/lavajump](https://github.com/t0asty/lavajump) | 0 | A roblox jump-and-run game |
 | [tbega/MathX](https://github.com/tbega/MathX) | 0 | MathX is a comprehensive utility library for Roblox development, extending the standard library with essential game math functions for Scalars, Vectors, Phys... |
+| [telegram-bots-for-noob/roblox-character-download](https://github.com/telegram-bots-for-noob/roblox-character-download) | 0 | this is roblox character download |
 | [thaoNEGuy64/Nullscape-Clone](https://github.com/thaoNEGuy64/Nullscape-Clone) | 0 | A game on roblox, passion project thats about fast movement and getting gifts from around a map intp the middle and progressing up levels. Rougelike. |
 | [Thaovu273/RobloxSystemMovement](https://github.com/Thaovu273/RobloxSystemMovement) | 0 | (geen omschrijving op GitHub) |
 | [thom463s/AmongUsRig](https://github.com/thom463s/AmongUsRig) | 0 | Turns your R6 character into an among us character in Roblox |

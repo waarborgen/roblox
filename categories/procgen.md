@@ -49,7 +49,7 @@ Voxels, dungeons, doolhoven, wave function collapse, noise en curves.
 | [Arav-ThewebMaker/Roblox-Maze-System](https://github.com/Arav-ThewebMaker/Roblox-Maze-System) | 0 | Doolhoven genereren én oplossen |
 | [IanLiggett/roblox-voxel-terrain](https://github.com/IanLiggett/roblox-voxel-terrain) | 0 | Chunked voxel-terrain met multithreading en binary greedy meshing |
 
-## Uitgebreide index (250)
+## Uitgebreide index (256)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -137,11 +137,13 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [3therial/ROBLOX-Username-Generator-JavaScript](https://github.com/3therial/ROBLOX-Username-Generator-JavaScript) | 0 | (geen omschrijving op GitHub) |
 | [abdedarghal111/Radial-color-picker](https://github.com/abdedarghal111/Radial-color-picker) | 0 | A radial color picker maded in roblox in 2d GUI like a math and programming challenge. |
 | [acaba1806/math_lib_roblox](https://github.com/acaba1806/math_lib_roblox) | 0 | (geen omschrijving op GitHub) |
+| [agnesllundgren-hub/nightmare-maze-roblox](https://github.com/agnesllundgren-hub/nightmare-maze-roblox) | 0 | (geen omschrijving op GitHub) game |
 | [AircraftMadness/Catmull-Rom-Spline](https://github.com/AircraftMadness/Catmull-Rom-Spline) | 0 | The module that makes it easy to create Catmull-Rom Splines on Roblox. |
 | [AlexValenta/Dungeon-Crawl-Maturitni-projekt](https://github.com/AlexValenta/Dungeon-Crawl-Maturitni-projekt) | 0 | Soulslike RPG - hra v prostředí Roblox Studio |
 | [AntoniosIoannidis/Horror-Game](https://github.com/AntoniosIoannidis/Horror-Game) | 0 | Multiplayer horror lobby in Roblox (Luau): matchmaking, a procedurally-generated lantern, and immersion systems. |
 | [Arro-p/VoxelBlox](https://github.com/Arro-p/VoxelBlox) | 0 | VoxelBlox is a community-preserved, open-source voxel sandbox game originally created for the Roblox platform. Inspired by popular voxel games, it offers pla... |
 | [arthantyo/mentalmaths](https://github.com/arthantyo/mentalmaths) | 0 | A roblox game to sharpen your mental maths while not hitting lava! |
+| [aryosan-netizen/roblox-donation-proxy-saweria-sociabuzz-bagibagi-parking-noise](https://github.com/aryosan-netizen/roblox-donation-proxy-saweria-sociabuzz-bagibagi-parking-noise) | 0 | (geen omschrijving op GitHub) |
 | [asha23/arlo-backrooms-game](https://github.com/asha23/arlo-backrooms-game) | 0 | A Roblox horror-exploration game: procedurally generated Backrooms Level 0 |
 | [AyanDaBeast/voxels.github.io](https://github.com/AyanDaBeast/voxels.github.io) | 0 | Roblox clone/ripoff. Roblox but better |
 | [ayansuperhero2015/voxels.github.io](https://github.com/ayansuperhero2015/voxels.github.io) | 0 | Roblox ripoff/clone. Roblox but better |
@@ -165,6 +167,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [damienmlugert/math-world-game](https://github.com/damienmlugert/math-world-game) | 0 | Roblox-style math game for 4th graders - add & subtract mixed numbers! |
 | [DataStoreGen/NumberFormatV1](https://github.com/DataStoreGen/NumberFormatV1) | 0 | A NumberFormat for Roblox with features that are almost good as default math |
 | [DavidDevLua/Clean-Username-Generator-Roblox](https://github.com/DavidDevLua/Clean-Username-Generator-Roblox) | 0 | (geen omschrijving op GitHub) |
+| [debugasync/FixedMath](https://github.com/debugasync/FixedMath) | 0 | deterministic fixed point math for luau. bit for bit identical results on every machine, for lockstep, rollback netcode and re-simulated replays. |
 | [dej-zanl/RobloxAltNameGenerator](https://github.com/dej-zanl/RobloxAltNameGenerator) | 0 | It creates 30 alt names and check if they are taken or not (if names are banned like slurs they result in taken) and saves the one that are free on a file |
 | [Djolax/Dungeon-Quest](https://github.com/Djolax/Dungeon-Quest) | 0 | Dungeon Quest script for roblox |
 | [Echolewron/garbage-truck-sim](https://github.com/Echolewron/garbage-truck-sim) | 0 | Roblox game where you drive a garbage truck in a procedurally generated neighborhood. Made with Lua scripting, it features endless trash collection with rand... |
@@ -206,6 +209,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [kfksbtry/extended_math_module](https://github.com/kfksbtry/extended_math_module) | 0 | Reminder: This project idea most likely seems very expensive, therefore it's going to congeal slowly. An alternative module to the original math library prov... |
 | [kingbob8888/asdasd](https://github.com/kingbob8888/asdasd) | 0 | Brute forcing the PCG32-XSH-RR algorithm commonly used for the math.random function in Roblox |
 | [kipuki/dungeon-crawler](https://github.com/kipuki/dungeon-crawler) | 0 | Procedurally generated dungeon crawling with an added demo. |
+| [kiraplane/animedungeons](https://github.com/kiraplane/animedungeons) | 0 | Independent Anime Dungeons Roblox wiki for codes, classes, dungeons, gear, heroes, spells, and player guides |
 | [kit-calloway/rbx-voxel-game](https://github.com/kit-calloway/rbx-voxel-game) | 0 | Voxel game created on the Roblox platform. |
 | [kit-calloway/rbx-voxel-prototype](https://github.com/kit-calloway/rbx-voxel-prototype) | 0 | Prototype voxel game created with Roblox Studio. |
 | [knkr1/EzTween](https://github.com/knkr1/EzTween) | 0 | Luau (Roblox) module that supports custom easing algorithms |
@@ -213,6 +217,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Krimsion/MazesAndMonsters](https://github.com/Krimsion/MazesAndMonsters) | 0 | (geen omschrijving op GitHub) First Roblox |
 | [krungkualalumpur/GeometryUtil](https://github.com/krungkualalumpur/GeometryUtil) | 0 | A luau language repository for handling geometries on Roblox Studio Engine. |
 | [L4K5HM1/shiftline](https://github.com/L4K5HM1/shiftline) | 0 | A Roblox game prototype featuring a persistent economy, job minigames, procedural environments, and race queuing. |
+| [lakshya-wahi/math-duels](https://github.com/lakshya-wahi/math-duels) | 0 | A multiplayer educational Roblox game with 20,000+ plays that teaches math through competitive gameplay. |
 | [Leon1324765s/Roblox-parser](https://github.com/Leon1324765s/Roblox-parser) | 0 | 🎚️An algorithm for parsing tables such as arrays and dictionaries designed Roblox with automatic variable creation and Instance path compression |
 | [LFS6502/curve](https://github.com/LFS6502/curve) | 0 | A Roblox Luau general curve library, it does all of the annoying math for you. |
 | [lows-poly/vec3-math-utils](https://github.com/lows-poly/vec3-math-utils) | 0 | A simple helper module for working with distance and position in Roblox |
@@ -234,6 +239,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [MyDreamWorkspace/Roblox-Demo-Maze-World](https://github.com/MyDreamWorkspace/Roblox-Demo-Maze-World) | 0 | (geen omschrijving op GitHub) |
 | [n0tf4res/Saturn-Roblox-Username-Generator](https://github.com/n0tf4res/Saturn-Roblox-Username-Generator) | 0 | An ROBLOX Tool to generate usernames |
 | [nathangeology/VoxelWright](https://github.com/nathangeology/VoxelWright) | 0 | Import, Voxelize & Optimize in roblox studio |
+| [neonnathan/HDRI-to-CubeMap-](https://github.com/neonnathan/HDRI-to-CubeMap-) | 0 | A fork of @matheowis HDRI to cubemap specifically designed for Roblox |
 | [OrionBob/ComplexNumbersLua](https://github.com/OrionBob/ComplexNumbersLua) | 0 | A table for maths with complex numbers, intended for use in module scripts with Roblox luau |
 | [Pikashocker/Roblox-Dungeon-Rush](https://github.com/Pikashocker/Roblox-Dungeon-Rush) | 0 | My cs50 final project |
 | [PixelpilotDiscord/Username-Gen](https://github.com/PixelpilotDiscord/Username-Gen) | 0 | 3-4-5 Letter Roblox Username Generator. |

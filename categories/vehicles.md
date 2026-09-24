@@ -30,7 +30,7 @@ Chassis, suspensie, hover, raketten, drijfvermogen en treinen.
 | [cassicoder/boat-game](https://github.com/cassicoder/boat-game) | 0 | Boot-game: Matter ECS + Gerstner-oceaan + drijfvermogen + vissen |
 | [HassanJN66/roblox-vehicle-framework](https://github.com/HassanJN66/roblox-vehicle-framework) | 0 | Raycast-wielen + soft physics body, FWD/RWD/AWD |
 
-## Uitgebreide index (235)
+## Uitgebreide index (239)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -86,6 +86,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Yusubin/roblox_tronRacing](https://github.com/Yusubin/roblox_tronRacing) | 1 | (geen omschrijving op GitHub) |
 | [0cyrexx/Roblox-Race-car](https://github.com/0cyrexx/Roblox-Race-car) | 0 | (geen omschrijving op GitHub) all speed |
 | [102KIRA/KerbalYT-BABFT-Gui](https://github.com/102KIRA/KerbalYT-BABFT-Gui) | 0 | A gui for Build a boat for treasure in roblox - For executors |
+| [2foId/Hand-Tracker](https://github.com/2foId/Hand-Tracker) | 0 | A finger tracking program to control and manipulate mechanics in Build a Boat for Treasure, ROBLOX. Works for both hands |
 | [404NotFoundIndonesia/roblox-kang-parkir](https://github.com/404NotFoundIndonesia/roblox-kang-parkir) | 0 | Overcooked meets street brawling. Players take on the role of hyper-competitive street parking attendants ("Tukang Parkir") in a bustling, localized urban en... |
 | [ActionStudiosTM/Drive-a-Car-2-LOVE2D-Edition](https://github.com/ActionStudiosTM/Drive-a-Car-2-LOVE2D-Edition) | 0 | Another edition from Drive a Car 2, Drive a Car 2 LOVE2d is a Pocket Code Game made by Action Studios TM that got Remade for diferent versions including: LOV... |
 | [Admin-Keycc/PRC-Moderator-Vehicle](https://github.com/Admin-Keycc/PRC-Moderator-Vehicle) | 0 | (geen omschrijving op GitHub) Roblox LUA script |
@@ -103,10 +104,12 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Bird-Owly/register_vehicle-Slash-Command](https://github.com/Bird-Owly/register_vehicle-Slash-Command) | 0 | This is a basic slash command for my Discord bot that registers in-game vehicles as company vehicles for a small group on Roblox. |
 | [bradthemm/roblox-hover-vehicle](https://github.com/bradthemm/roblox-hover-vehicle) | 0 | StarWars Inspired Hover Vehicle - Hidden Devs |
 | [brianudjdjdjdjdjd-rgb/roblox-car](https://github.com/brianudjdjdjdjdjd-rgb/roblox-car) | 0 | drive to get upgrades or cars |
+| [Bryancruzcb/creatorflow](https://github.com/Bryancruzcb/creatorflow) | 0 | Local-first release-preflight for small Roblox teams - snapshot diffing, provenance evidence, and deterministic PASS/BLOCKED release records (Java 21, JavaFX... |
 | [c0lt0n109/Redline_Racing_Roblox](https://github.com/c0lt0n109/Redline_Racing_Roblox) | 0 | Galaxy Battles on roblox! |
 | [Calebeko/roblox-basic-racing-circuit](https://github.com/Calebeko/roblox-basic-racing-circuit) | 0 | racing circuit with basic cars |
 | [cataclysmic-studios/rbx-typist-themes](https://github.com/cataclysmic-studios/rbx-typist-themes) | 0 | Themes for Typist, my type racing game on Roblox. |
 | [CatzHTU/DeltaCam](https://github.com/CatzHTU/DeltaCam) | 0 | Suspension simple en roblox! |
+| [ch3pasov/racer](https://github.com/ch3pasov/racer) | 0 | A Roblox/Luau port of Javascript Racer: four tutorial stages, three Roblox-native extensions, and a traceable Open Cloud release pipeline. |
 | [chairmanoftheboardeg/flights](https://github.com/chairmanoftheboardeg/flights) | 0 | Emirates Group Roblox Flight Dashboard |
 | [Chard2512/AntigravityVehicleSystem](https://github.com/Chard2512/AntigravityVehicleSystem) | 0 | Roblox antigravity vehicle system |
 | [cjcgervais/paper-plane-roblox](https://github.com/cjcgervais/paper-plane-roblox) | 0 | (geen omschrijving op GitHub) |
@@ -238,6 +241,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Soskoify/Vstop](https://github.com/Soskoify/Vstop) | 0 | Stop car in Roblox |
 | [SSkirt/American-Airlines.roblox](https://github.com/SSkirt/American-Airlines.roblox) | 0 | An roblox airline made to simulate a flight with Airline named American Airlines |
 | [StarTheProot/wastonrailway](https://github.com/StarTheProot/wastonrailway) | 0 | Test website for Waston Railway, the roblox game |
+| [STEN0000/SeMIDI](https://github.com/STEN0000/SeMIDI) | 0 | just software to play on piano in roblox plane crazy |
 | [swishzez/Roblox-VC-anti-suspension](https://github.com/swishzez/Roblox-VC-anti-suspension) | 0 | no more suspensions :)))))) |
 | [TanguyComent/rbxts-car-test](https://github.com/TanguyComent/rbxts-car-test) | 0 | (geen omschrijving op GitHub) |
 | [TANK679/Tank-Roblox-Virus-](https://github.com/TANK679/Tank-Roblox-Virus-) | 0 | Please read the READ ME. |

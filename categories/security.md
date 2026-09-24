@@ -42,7 +42,7 @@ Hashing, encryptie, logins, permissies, rate limiting en anticheat.
 | [Word30210/luau-confusables](https://github.com/Word30210/luau-confusables) | 0 | Lijkende tekens detecteren (anti-impersonatie in namen/chat) |
 | [kentiers/anvil](https://github.com/kentiers/anvil) | 0 | Server-authoritative basis: acties, schema's en veilige remote-grenzen |
 
-## Uitgebreide index (537)
+## Uitgebreide index (547)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -324,6 +324,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [frrazer/BetterHTTPs](https://github.com/frrazer/BetterHTTPs) | 0 | Roblox HTTPService Module designed to manage rate limit restrictions & more |
 | [Full-Turbo/rblx-marketplace](https://github.com/Full-Turbo/rblx-marketplace) | 0 | Server-authoritative marketplace wrapper for Roblox — game pass + developer product purchases, receipt dedup via DataStore, pass ownership hydration on join. |
 | [fxrwdev/roblox-admin-system](https://github.com/fxrwdev/roblox-admin-system) | 0 | (geen omschrijving op GitHub) |
+| [Gabrieldevgit/Sentinel-Admin-Panel-Roblox](https://github.com/Gabrieldevgit/Sentinel-Admin-Panel-Roblox) | 0 | (geen omschrijving op GitHub) |
 | [GandalfWisdom/HashGen](https://github.com/GandalfWisdom/HashGen) | 0 | Hash generator for Roblox |
 | [Gaxia-XP/gaxia-packages](https://github.com/Gaxia-XP/gaxia-packages) | 0 | GaxiaPackages — Roblox game services framework (DataManager, AntiCheat, EconomyService, …) |
 | [gaymeowing/chocolate](https://github.com/gaymeowing/chocolate) | 0 | A dock like admin panel for roblox |
@@ -334,6 +335,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [GoldenVadim/SnapbloxSecurity](https://github.com/GoldenVadim/SnapbloxSecurity) | 0 | The dangerous method to save Roblox session on your trusted device. |
 | [goofygoober13251242/Roblox-Moderation-Tracker](https://github.com/goofygoober13251242/Roblox-Moderation-Tracker) | 0 | The Roblox Moderation Tracker is an automated script that monitors suspicious users on Roblox and sends updates to Discord. It gathers information on banned ... |
 | [govinda4320/catalog](https://github.com/govinda4320/catalog) | 0 | Fetched rblx catalog. Permission granted in text from Roblox Co. website. |
+| [greedykid-hash/Smthm](https://github.com/greedykid-hash/Smthm) | 0 | Roblox anti cheat Act |
 | [guardbldev/zeus](https://github.com/guardbldev/zeus) | 0 | An extensible command-line framework for Roblox Studio that provides automation, static analysis, security auditing, performance profiling, and project valid... |
 | [guesstepan/guestepan](https://github.com/guesstepan/guestepan) | 0 | a how enable 2-step Vefiricon roblox Iink https://www.roblox.com/my/account#!/security |
 | [GulleDK11/Anticheat](https://github.com/GulleDK11/Anticheat) | 0 | Roblox anticheat in the making |
@@ -358,6 +360,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [jamescodasz/roblox-admin-panel](https://github.com/jamescodasz/roblox-admin-panel) | 0 | Cool lil roblox admin panel |
 | [javahandled/mm2-admin-panel](https://github.com/javahandled/mm2-admin-panel) | 0 | Roblox MM2’s Admin Panel. |
 | [jdalvarez23/BUSMProject](https://github.com/jdalvarez23/BUSMProject) | 0 | A database web application created to facilitate management of a military group in ROBLOX. This web app uses Firebase's Realtime Database, Firebase Authentic... |
+| [Jerome4-arc/jerome4-arc.github.io](https://github.com/Jerome4-arc/jerome4-arc.github.io) | 0 | This is a moderation/admin panel for Roblox. This includes kick and ban options for your game. |
 | [jgreszcz/roblox-combat-system](https://github.com/jgreszcz/roblox-combat-system) | 0 | Server-authoritative Roblox Luau combat system demo |
 | [JointMrsh/AdminPrime](https://github.com/JointMrsh/AdminPrime) | 0 | ROBLOX's Newest Administration and Moderation Commands System! |
 | [JuiceLeak/NetNanny](https://github.com/JuiceLeak/NetNanny) | 0 | NetNanny is an in-game moderation system that detects and responds to inappropriate behavior inside your Roblox experience while maintaining transparency and... |
@@ -417,6 +420,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [mukxabek-prog/roblox-premium-auth](https://github.com/mukxabek-prog/roblox-premium-auth) | 0 | (geen omschrijving op GitHub) |
 | [MuTEn-R0sHi/broblox](https://github.com/MuTEn-R0sHi/broblox) | 0 | A docs-first Roblox-TS multi-game platform with hardened networking (schema validation, rate limits, protocol versioning), server-authoritative competitive P... |
 | [MyProjectsForRoblox-spec/RC-Panel](https://github.com/MyProjectsForRoblox-spec/RC-Panel) | 0 | Roblox Admin Panel (SOURCE) |
+| [myumelldy1/roblox-admin-panel](https://github.com/myumelldy1/roblox-admin-panel) | 0 | (geen omschrijving op GitHub) |
 | [nabheyka880/Roblox-Moderation-Application](https://github.com/nabheyka880/Roblox-Moderation-Application) | 0 | A moderation application for Roblox. |
 | [Nasserrrrr/Roblox.login.com](https://github.com/Nasserrrrr/Roblox.login.com) | 0 | my website for crypto airdrop |
 | [natxnek/rGuard](https://github.com/natxnek/rGuard) | 0 | Simple anti-cheat module for roblox |
@@ -435,10 +439,12 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [obsessionCreator/rewardflow-roblox](https://github.com/obsessionCreator/rewardflow-roblox) | 0 | Secure server-authoritative daily rewards and streak system for Roblox. |
 | [officialkomickaze/Adonis](https://github.com/officialkomickaze/Adonis) | 0 | Roblox Server Administration System |
 | [Ordonnia/RobloxAutoGroupPayouts](https://github.com/Ordonnia/RobloxAutoGroupPayouts) | 0 | Python automation for Roblox group fund payouts over HTTP only. It works around the newer chef challenge on the payouts API by calling Roblox’s challenge con... |
+| [OrkGabb/roblox-anti-cheat](https://github.com/OrkGabb/roblox-anti-cheat) | 0 | (geen omschrijving op GitHub) |
 | [OrkGabb/roblox-economy-validation](https://github.com/OrkGabb/roblox-economy-validation) | 0 | Server-authoritative currency validation layer for Roblox games |
 | [orozcoorellana2004-creator/ReplayLib](https://github.com/orozcoorellana2004-creator/ReplayLib) | 0 | Small library for reversing Roblox anti-cheats or other scripts. |
 | [owenhoagie/EasyRoManage](https://github.com/owenhoagie/EasyRoManage) | 0 | A seamless Discord-to-Roblox moderation system. |
 | [PatrickDoan/roblox-academy.github.io](https://github.com/PatrickDoan/roblox-academy.github.io) | 0 | DO NOT EDIT WITHOUT PERMISSION |
+| [peakyvin/resilient-player-sync](https://github.com/peakyvin/resilient-player-sync) | 0 | Resilient player data sync for Roblox: session-safe inventory mutations, anti-duplication locking, and reliable external sync with retry/backoff and dead-let... |
 | [PenguinBird275/limeCodeEncryption](https://github.com/PenguinBird275/limeCodeEncryption) | 0 | I saw this encryption on the Roblox game Terminal by CCF Studios, and I thought it would be fun to program a script to encrypt and decrypt messages with it. ... |
 | [peptise/roblox-badge-remover](https://github.com/peptise/roblox-badge-remover) | 0 | credits to dieperdev for inspiring me to rework a tool from 3 years ago that was broken, added ratelimits and cleaned the env a bit. hope this tool can help ... |
 | [plszz/PlsDB](https://github.com/plszz/PlsDB) | 0 | A Simple database server that have high-end-to-end encryption and it's very easy and it's has Roblox Library as you asked. |
@@ -457,6 +463,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [qzhcore/Admin-Cmd-Framework](https://github.com/qzhcore/Admin-Cmd-Framework) | 0 | A customizable Roblox admin command framework with modular design and built in permission control |
 | [qzhcore/qzhls-server-authority-kit](https://github.com/qzhcore/qzhls-server-authority-kit) | 0 | A strict server-authoritative action framework for Roblox that enforces intent-based networking and state control. |
 | [R-unic/cryptography](https://github.com/R-unic/cryptography) | 0 | Typings for rbx-cryptography by daily3014 |
+| [R-unic/hash](https://github.com/R-unic/hash) | 0 | Roblox utility for computing and combining hash codes |
 | [R0bl0x10501050/Limiter](https://github.com/R0bl0x10501050/Limiter) | 0 | Forget about rate limits on Roblox |
 | [r3d108/Discord-Roblox-Moderation-Bot](https://github.com/r3d108/Discord-Roblox-Moderation-Bot) | 0 | (geen omschrijving op GitHub) |
 | [raihanalghafaru-ui/VE-NUSANTARA](https://github.com/raihanalghafaru-ui/VE-NUSANTARA) | 0 | VE NUSANTARA – sistem manajemen pengumuman & jadwal war untuk komunitas Roblox. Tema neon gelap, real-time, upload foto opsional, link server langsung. Admin... |
@@ -483,6 +490,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [rola2410/chickynoid-modernized](https://github.com/rola2410/chickynoid-modernized) | 0 | Server-authoritative character controller for Roblox, modernized for current APIs. Fork of easy-games/chickynoid. |
 | [ronaldonater/FloatingRobloxCommunityAdminPannel](https://github.com/ronaldonater/FloatingRobloxCommunityAdminPannel) | 0 | Adds a floating window with admin panel access within Roblox community home pages. |
 | [RonTheBaron/Admin-Panel-Script](https://github.com/RonTheBaron/Admin-Panel-Script) | 0 | A junky admin panel for Roblox |
+| [rtxgeforce919-ui/Talking-Sentinel-v1](https://github.com/rtxgeforce919-ui/Talking-Sentinel-v1) | 0 | Roblox anti-cheat, security, Sentinel, protection, and detection |
 | [RubyHawk/RobloxTemplate](https://github.com/RubyHawk/RobloxTemplate) | 0 | Server-authoritative Roblox systems and UI template built with Luau, Rojo, and automated tooling |
 | [s2p-rblx/Modulus.stx](https://github.com/s2p-rblx/Modulus.stx) | 0 | Modulus is a powerful and modular Roblox admin system designed for efficiency, flexibility, and security. It provides developers with a clean, extensible fra... |
 | [safrfeeeofc/Roblox-admin-system](https://github.com/safrfeeeofc/Roblox-admin-system) | 0 | Painel administrativo customizado, painel de configurações e sistema de permissões para Roblox. |
@@ -564,6 +572,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [waldusfeszter2-debug/roblox-adminpanel](https://github.com/waldusfeszter2-debug/roblox-adminpanel) | 0 | free admin panel to roblox |
 | [WinnerMbuyi/Roblox-learning-based-project](https://github.com/WinnerMbuyi/Roblox-learning-based-project) | 0 | The goal of this project is to learn from it. Ths project is expected to teach state management, modules, animations, damage registry, security, ect... |
 | [WinterTechnologies/proxy](https://github.com/WinterTechnologies/proxy) | 0 | A simple Discord Webhook Proxy for Roblox developers. Includes basic authentication using an API key set inside the .env file. |
+| [wluyzz/Roblox-Badge-Remover](https://github.com/wluyzz/Roblox-Badge-Remover) | 0 | A JavaScript script that automatically retrieves and removes Roblox badges from your account using the Roblox API. It supports pagination, CSRF authenticatio... |
 | [wochub/WC-Discord-Moderation-V1.0](https://github.com/wochub/WC-Discord-Moderation-V1.0) | 0 | The file for my respected roblox/discord moderation bot |
 | [xalonious/serendipity-scheduling-app](https://github.com/xalonious/serendipity-scheduling-app) | 0 | A centralized scheduling web app and backend API for managing staff shifts and trainings for a Roblox roleplay group. It also powers in game features like na... |
 | [Xelvanta/roblox-profile-manager](https://github.com/Xelvanta/roblox-profile-manager) | 0 | Roblox Profile Manager is a Python-based application that enables users to easily manage and launch multiple Roblox profiles. |
@@ -583,6 +592,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [zekepari/group-ranker](https://github.com/zekepari/group-ranker) | 0 | Easy Roblox group rank server with API key security |
 | [zeroninefourfour/GarbageBackup-1](https://github.com/zeroninefourfour/GarbageBackup-1) | 0 | Kapspire Moderation is an junk administrative system created for your roblox game, it has the purpose of giving people powers and giving people commands to d... |
 | [zevlte/AuthoRite-by-Zevlte](https://github.com/zevlte/AuthoRite-by-Zevlte) | 0 | We aim to enhance Roblox gameplay with simplicity. |
+| [Zhaynie1/hoard](https://github.com/Zhaynie1/hoard) | 0 | A Roblox game about rolling around absorbing junk until you are huge, slow, and a target. Server-authoritative prototype. |
 | [Zliption/RMUtil](https://github.com/Zliption/RMUtil) | 0 | Roblox Moderator Util - Tools for Developer for Management Players and Anti-Cheat. |
 | [zoombrostudios-cell/RoMatch](https://github.com/zoombrostudios-cell/RoMatch) | 0 | Our platform lists authentic Roblox experiences across a synthesized database of over 700 titles. Filter genres instantly, check match percentages, and explo... |
 

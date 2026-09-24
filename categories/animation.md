@@ -78,7 +78,7 @@ Animatie-solvers, IK, Blender/Mixamo-pipelines, procedurele animatie en springs.
 | [realllityyt/myanimator](https://github.com/realllityyt/myanimator) | 0 | Animaties per ledemaat mixen: crossfade, additive layers, events |
 | [purpulhq/character-tilt](https://github.com/purpulhq/character-tilt) | 0 | Kantelt het character mee met de kijkrichting van de camera |
 
-## Uitgebreide index (421)
+## Uitgebreide index (425)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -261,6 +261,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [GandalfWisdom/FlipbookBuddy](https://github.com/GandalfWisdom/FlipbookBuddy) | 0 | A flipbook image and animation manager for Roblox. |
 | [gas5670/blender-roblox-animation-maker](https://github.com/gas5670/blender-roblox-animation-maker) | 0 | (geen omschrijving op GitHub) |
 | [GhosterXS/Flood-Ui](https://github.com/GhosterXS/Flood-Ui) | 0 | Flood UI is a UI inspired by Raifyld, customizable with various animations. |
+| [ghosttttttt3232/Roblox-AnimatedMenu](https://github.com/ghosttttttt3232/Roblox-AnimatedMenu) | 0 | Menu animato per Roblox con GUI / Animated GUI Menu for Roblox |
 | [gibbybobby2/Roblox-Spring-Physics](https://github.com/gibbybobby2/Roblox-Spring-Physics) | 0 | Created spring physics in boblex and im very produ1!11! |
 | [Giovanni2002a/synchronize-roblox-studio---blender](https://github.com/Giovanni2002a/synchronize-roblox-studio---blender) | 0 | This add-on plugin allows you to connect your Roblox account with Blender and synchronize meshes. It is not mandatory, as you can use it without it, but you ... |
 | [GladlyAshley/BetterTween](https://github.com/GladlyAshley/BetterTween) | 0 | Allows you to easily tween models and parts under one roof! |
@@ -334,6 +335,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Marcus990/Wall-Rush](https://github.com/Marcus990/Wall-Rush) | 0 | Interactive Game Application coded in Lua playable on the Roblox platform with advanced features such as a built-in Datastore, monetized in-game shop, quest ... |
 | [mattilpea/roblox-ui-animations](https://github.com/mattilpea/roblox-ui-animations) | 0 | Please check links in my bio for the place file, if available* or shoot me dm on my socials |
 | [mauriciodebido-boop/RobloxSEEDS-Generator](https://github.com/mauriciodebido-boop/RobloxSEEDS-Generator) | 0 | 🚀 Generate Roblox-style seeds instantly with a fast, elegant web app. Featuring multiple complexity levels, animated UI, one-click copy, batch generation, an... |
+| [mckenziii/emotes](https://github.com/mckenziii/emotes) | 0 | NOT MINE, HERE IS SOURCE CODE TO ORIGINAL CREATOR: https://github.com/Roblox/creator-docs/blob/main/content/en-us/characters/emotes.md |
 | [mckreathjayquan6-ai/roblox-dice-roller-system](https://github.com/mckreathjayquan6-ai/roblox-dice-roller-system) | 0 | A complete dice rolling system with UI animations for Roblox games |
 | [me7474/BetterTween](https://github.com/me7474/BetterTween) | 0 | Repo for roblox Tweening module "BetterTween" |
 | [meatloaf834/NumberTween](https://github.com/meatloaf834/NumberTween) | 0 | Tween numbers in roblox, something TweenService can't do on its own. |
@@ -446,6 +448,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [syike4/Roblox-baddie-emotes](https://github.com/syike4/Roblox-baddie-emotes) | 0 | Only works for r15 not r6 |
 | [syncronicc/roblox-projects](https://github.com/syncronicc/roblox-projects) | 0 | A collection of roblox gameplay mechanisms, UI animations and games. |
 | [TabbyForge/roblox-avatar-import](https://github.com/TabbyForge/roblox-avatar-import) | 0 | A reusable Codex skill for importing prepared Blender characters into Roblox Studio, running Avatar Setup, and validating an R15 StarterCharacter. |
+| [TabooHarmony/core27-to-r15](https://github.com/TabooHarmony/core27-to-r15) | 0 | Convert ARDY Core27 NPZ motion files to Roblox R15 KeyframeSequence (.rbxmx) |
 | [tappy3d-hue/blender-roblox-mesh-sync](https://github.com/tappy3d-hue/blender-roblox-mesh-sync) | 0 | Blender and Roblox Studio bidirectional mesh synchronization tools |
 | [Teapokk/moon-animator-mobile](https://github.com/Teapokk/moon-animator-mobile) | 0 | Animation Editor para Roblox - Mobile Optimized (tipo Moon Animator) |
 | [testing2122/roblox-pink-ui-lib](https://github.com/testing2122/roblox-pink-ui-lib) | 0 | A sleek black, grey and pink themed UI library for Roblox with reactive animations, tabs, and smooth transitions |
@@ -496,6 +499,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [yogicjovi-art/RobloxAnimWeaver-BlenderAddon](https://github.com/yogicjovi-art/RobloxAnimWeaver-BlenderAddon) | 0 | (geen omschrijving op GitHub) |
 | [yTevezz/Animator](https://github.com/yTevezz/Animator) | 0 | A script make your character animate with code of AnimationId from roblox or of games. |
 | [zaidanrizwan23/Emote-Changer-Roblox](https://github.com/zaidanrizwan23/Emote-Changer-Roblox) | 0 | (geen omschrijving op GitHub) |
+| [zaidd999zaa-pixel/Keycaps-Src-Code](https://github.com/zaidd999zaa-pixel/Keycaps-Src-Code) | 0 | Basically this is a version of the keycap system (pretty popular in roblox as of right now), this system uses Cframes to basically move down and up. you can ... |
 | [zeebo0-UI/Animate-Now](https://github.com/zeebo0-UI/Animate-Now) | 0 | A roblox animation framework, made to make animation easy. |
 | [Zemrev/Custom-Proximity-Prompt](https://github.com/Zemrev/Custom-Proximity-Prompt) | 0 | • Custom UI replacing the default prompt • Smooth fade-in, fade-out, and progress animations • Fully compatible with regular Roblox prompts • Easy to integra... |
 | [zephyrlann/Zephyrlann](https://github.com/zephyrlann/Zephyrlann) | 0 | Zephyrlann’s Roblox Portfolio showcases a collection of creative Roblox projects, including builds, animations, UI/UX designs, and scripts. With a sleek neon... |

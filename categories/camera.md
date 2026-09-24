@@ -34,7 +34,7 @@ Camera-shake, custom camera's, cutscene-tools en timelines.
 | [zKozie/CameraSystem](https://github.com/zKozie/CameraSystem) | 0 | Config-gedreven twee-laags camera: state-camera's plus one-shot action-overlays die terugblenden |
 | [JRmcnugget/Viewpoint](https://github.com/JRmcnugget/Viewpoint) | 0 | Vloeiende, sterk aanpasbare third-person camera |
 
-## Uitgebreide index (131)
+## Uitgebreide index (132)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -121,6 +121,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [LudovicRichard2002/EnhancedTPSRobloxStudio](https://github.com/LudovicRichard2002/EnhancedTPSRobloxStudio) | 0 | An enhanced TPS camera and scripts for Roblox Studio |
 | [Lunaetheris/RobloxFreeCamMobile](https://github.com/Lunaetheris/RobloxFreeCamMobile) | 0 | (geen omschrijving op GitHub) |
 | [mab2408/roblox-freecam-script](https://github.com/mab2408/roblox-freecam-script) | 0 | selfmade roblox freecam script universal |
+| [Mar-t1n/Jackblox-Party-Games](https://github.com/Mar-t1n/Jackblox-Party-Games) | 0 | A polished multiplayer Roblox party game platform inspired by the social gameplay of party games, featuring a growing collection of original mini-games, modu... |
 | [Matt-Mattozz/Camera-Effects](https://github.com/Matt-Mattozz/Camera-Effects) | 0 | Enable and disable pre-made and custom camera effects |
 | [minh-p/ShoulderCamera](https://github.com/minh-p/ShoulderCamera) | 0 | Third Person Shoulder Camera for Roblox Engine. Written in Lua. |
 | [misshirikovslucckiy51/roblox-camera-clip](https://github.com/misshirikovslucckiy51/roblox-camera-clip) | 0 | this is a QOL script, well, intended to be |

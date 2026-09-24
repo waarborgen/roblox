@@ -148,7 +148,7 @@ DataStores, serialisatie, compressie, state en big numbers.
 | [Dinojan-D/NDArrayLuau](https://github.com/Dinojan-D/NDArrayLuau) | 0 | NumPy-achtige multi-dimensionale arrays voor Luau |
 | [nrbx-ts/rbxts-kv](https://github.com/nrbx-ts/rbxts-kv) | 0 | Key-value service met optionele persistente opslag |
 
-## Uitgebreide index (1062)
+## Uitgebreide index (1069)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -394,6 +394,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [BlossomRoblox/BlossomRoblox](https://github.com/BlossomRoblox/BlossomRoblox) | 0 | Config files for my GitHub profile. |
 | [BludPickRoblox/BludPickRoblox](https://github.com/BludPickRoblox/BludPickRoblox) | 0 | Config files for my GitHub profile. |
 | [bobombobo/Roblox-group-scrapper](https://github.com/bobombobo/Roblox-group-scrapper) | 0 | A simple group scrapper using random, requests, and json for info |
+| [boharashambodhan-hash/My-Roblox-profile](https://github.com/boharashambodhan-hash/My-Roblox-profile) | 0 | It is my file |
 | [br1dgerwest/bridger-western](https://github.com/br1dgerwest/bridger-western) | 0 | A cross-platform automation utility for Western-themed Roblox games. Features configurable auto-fishing, auto-stand, and inventory merging optimized for low ... |
 | [brahRahPlaysRoblox/brahRahPlaysRoblox](https://github.com/brahRahPlaysRoblox/brahRahPlaysRoblox) | 0 | Config files for my GitHub profile. |
 | [Bruhamogus/roblox-scripter](https://github.com/Bruhamogus/roblox-scripter) | 0 | Config files for my GitHub profile. |
@@ -462,6 +463,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [DougzinROBLOX/DougzinROBLOX](https://github.com/DougzinROBLOX/DougzinROBLOX) | 0 | Config files for my GitHub profile. |
 | [drabonian/SilenceRestored](https://github.com/drabonian/SilenceRestored) | 0 | A project that aims to restore "Silence" by Venvious on Roblox, to its original playable state. |
 | [DreTheRobloxDev/DreTheRobloxDev](https://github.com/DreTheRobloxDev/DreTheRobloxDev) | 0 | Config files for my GitHub profile. |
+| [DRKxR4VEN/asura_stats_simulator](https://github.com/DRKxR4VEN/asura_stats_simulator) | 0 | I'm bored so I made a cultivation game called "Asura" based on Asura Game on Roblox |
 | [DutchDevelop/Lametric-time-Roblox-stats](https://github.com/DutchDevelop/Lametric-time-Roblox-stats) | 0 | A Lametric widged that displays various roblox stats |
 | [Duykhac34/Pickaxe-Simulator-Script](https://github.com/Duykhac34/Pickaxe-Simulator-Script) | 0 | ⛏️ Automate your mining in UPD Pickaxe Simulator with this script for easy ore collection and leaderboard dominance. |
 | [DxAxelxD/RobloxDB](https://github.com/DxAxelxD/RobloxDB) | 0 | Storage for all my personal roblox games databases ;) |
@@ -612,6 +614,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [LuxrDEV/Roblox-Ultimate-Profile-Explorer](https://github.com/LuxrDEV/Roblox-Ultimate-Profile-Explorer) | 0 | (geen omschrijving op GitHub) |
 | [lxvdev/RoQuotes](https://github.com/lxvdev/RoQuotes) | 0 | A simple userscript to bring back roblox quotes on profiles. |
 | [lycifer3/saveguard-roblox](https://github.com/lycifer3/saveguard-roblox) | 0 | Open-source safety layer for Roblox DataStore to prevent player data wipes |
+| [lyyluca/storage-hunters-wiki](https://github.com/lyyluca/storage-hunters-wiki) | 0 | Fast, ad-free wiki and toolset for the Roblox game Storage Hunters: Open World. |
 | [M1778/Robuffer](https://github.com/M1778/Robuffer) | 0 | A roblox package that compresses simple data types using buffers to improve performance and reduce data size. |
 | [M19Y/bgst-crew](https://github.com/M19Y/bgst-crew) | 0 | (geen omschrijving op GitHub) Roblox Group Profile |
 | [madeofbubblez/ProfileCreator](https://github.com/madeofbubblez/ProfileCreator) | 0 | ProfileCreator is a lightweight Roblox module for easy datastore setup using ProfileStore. Free for non-commercial use (CC BY-NC 4.0). |
@@ -654,6 +657,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [nadia8666/rbxts-profile-store](https://github.com/nadia8666/rbxts-profile-store) | 0 | my own bad types for pfstore |
 | [NaiemanRoblox/NaiemanRoblox](https://github.com/NaiemanRoblox/NaiemanRoblox) | 0 | Config files for my GitHub profile. |
 | [Narcissiques/Roblox-following-viewer](https://github.com/Narcissiques/Roblox-following-viewer) | 0 | this is pretty usefull for profile with lot of followin |
+| [Narcoleptic-coccyx463/V3rmillion-Archive-Explorer](https://github.com/Narcoleptic-coccyx463/V3rmillion-Archive-Explorer) | 0 | Search archived V3rmillion threads, posts, and user profiles using a fast read-only web interface powered by SQLite and FTS5. |
 | [NatanRoblox/NatanRoblox](https://github.com/NatanRoblox/NatanRoblox) | 0 | Config files for my GitHub profile. |
 | [naufaljct48/prospecting-roblox-calculator](https://github.com/naufaljct48/prospecting-roblox-calculator) | 0 | A modern, responsive drop rate calculator for the Roblox game Prospecting. Calculate your chances of getting specific minerals based on your Luck and Capacit... |
 | [naufalmulyarizki/bot-discord-search-player-information-username-roblox](https://github.com/naufalmulyarizki/bot-discord-search-player-information-username-roblox) | 0 | Bot discord untuk mengetahui informasi profile player roblox dengan username |
@@ -729,6 +733,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [rbx-dev-tools/rojo-schema](https://github.com/rbx-dev-tools/rojo-schema) | 0 | JSON Schemas for Rojo project, meta and model files, compiled from Rojo's own sources |
 | [Reapimus/data-alchemy](https://github.com/Reapimus/data-alchemy) | 0 | A Roblox datastore library inspired by SQLAlchemy |
 | [Redacted8421/Michigan-State-Roleplay-Emergency-Hamburg-](https://github.com/Redacted8421/Michigan-State-Roleplay-Emergency-Hamburg-) | 0 | We are a newly emerging Roleplay Server in the popular Roblox Game of Emergency Hamburg. Set in the bustling American State of Michigan, our goal is to provi... |
+| [RedKnight17/red-knights-gaming-lab](https://github.com/RedKnight17/red-knights-gaming-lab) | 0 | Great Roblox Games Stats Site |
 | [Rejus151Roblox/Rejus151Roblox](https://github.com/Rejus151Roblox/Rejus151Roblox) | 0 | Config files for my GitHub profile. |
 | [Rephrase-RBLX/.github](https://github.com/Rephrase-RBLX/.github) | 0 | The .github profile description (public ver) |
 | [respecttalha-collab/Roblox-Coin-System-Leaderboard-coin-system](https://github.com/respecttalha-collab/Roblox-Coin-System-Leaderboard-coin-system) | 0 | A coin system designed to allow players touch a coin in-game and increase their coin amount which is shown on their leaderboard stats |
@@ -1110,6 +1115,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [SRBRP/SRBRP-California](https://github.com/SRBRP/SRBRP-California) | 0 | We are an ER:LC Roleplay Community on the infamous whole-game called ROBLOX. We are an official and unique server based on the U.S State; California with the... |
 | [Stefanuk12/squash-rs](https://github.com/Stefanuk12/squash-rs) | 0 | A library for serializing and deserializing binary data with a focus on size and Roblox compatibility. |
 | [Stellar72/NodeDB](https://github.com/Stellar72/NodeDB) | 0 | A wrapper for the default roblox DataStoreService |
+| [stepanctepan405-web/modrblox-1.0v](https://github.com/stepanctepan405-web/modrblox-1.0v) | 0 | this is my first project i'm created roblox copy with all are u need but roblox studio is not like from orig this is just create a file .json and after this ... |
 | [StephenSHorton/flamework-multiplace-template](https://github.com/StephenSHorton/flamework-multiplace-template) | 0 | Roblox multi-place template: two Places sharing a common module via TypeScript rootDirs. Stack: roblox-ts + Flamework + Charm + Lapis + Squash. Demonstrates ... |
 | [Steve9hw2/RBXLUA](https://github.com/Steve9hw2/RBXLUA) | 0 | Storage for Lua scripts used on Roblox projects. |
 | [stormmaster9090/Mercury](https://github.com/stormmaster9090/Mercury) | 0 | Mercury is an open source Roblox plugin that allows for the easy placement and storage of models. |
@@ -1197,6 +1203,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Y90G7IYO0987/OOPItems](https://github.com/Y90G7IYO0987/OOPItems) | 0 | 🎒 Roblox Inventory System An advanced Object-Oriented Programming (OOP) inventory system for Roblox with item stats, equipment system, locking, search, sorti... |
 | [YAAI2002/YAAI2002](https://github.com/YAAI2002/YAAI2002) | 0 | Hello This Is YAAI2002 & My Robloxs Account are in this url https://www.roblox.com/users/10600138249/profile/ & This Url https://www.roblox.com/users/5006194... |
 | [YakovRoblox/YakovRoblox](https://github.com/YakovRoblox/YakovRoblox) | 0 | Config files for my GitHub profile. |
+| [yangshulin2333/Roblox_YanzoFrame_V2](https://github.com/yangshulin2333/Roblox_YanzoFrame_V2) | 0 | Roblox reusable StorageModule based on YanzoFrame_V0 |
 | [YarikSuperpro/Carry](https://github.com/YarikSuperpro/Carry) | 0 | **Carry** — A simple, highly optimized Roblox persistence system built around buffers and opcodes. ~400 lines, no framework fluff, and designed to be easily ... |
 | [yehpakorn/roblos_jjs_shinanigan_decoder](https://github.com/yehpakorn/roblos_jjs_shinanigan_decoder) | 0 | This tool is developed to enable users to read and interpret exported code from JJS Shenanigans (Roblox). Its primary purpose is to provide insight into the ... |
 | [YesilHiyar/LineProfiler](https://github.com/YesilHiyar/LineProfiler) | 0 | A simple line by line profiler for Roblox |

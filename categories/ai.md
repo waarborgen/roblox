@@ -42,7 +42,7 @@ Neurale netwerken, behavior trees, pathfinding, boids en LLM-NPC's.
 | [sebastianboscan/roblox-ai-npc](https://github.com/sebastianboscan/roblox-ai-npc) | 0 | NPC's die natuurlijke taal via TextGenerator omzetten in acties |
 | [Murned/roblox-boid-flocking](https://github.com/Murned/roblox-boid-flocking) | 0 | Drone-zwerm met Reynolds' boids + spatial grid |
 
-## Uitgebreide index (144)
+## Uitgebreide index (147)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -126,6 +126,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Hinikaa/luau-statemachine](https://github.com/Hinikaa/luau-statemachine) | 0 | Small finite state machine with guards and transitions, Luau |
 | [HmmmThinking/-Lua-Npc-teleporter](https://github.com/HmmmThinking/-Lua-Npc-teleporter) | 0 | TPS to npcs in roblox |
 | [hotdog9955/Roblox_Learn](https://github.com/hotdog9955/Roblox_Learn) | 0 | roblox machine learning library |
+| [i-steal-code/tower-battles-RL-model](https://github.com/i-steal-code/tower-battles-RL-model) | 0 | beating a dead roblox game using math and reinforcement learning |
 | [i3Crk/DialogService](https://github.com/i3Crk/DialogService) | 0 | A service to aid Roblox developers in standardizing dialog handlers for their games' NPC interactions. |
 | [IanLiggett/roblox-boids](https://github.com/IanLiggett/roblox-boids) | 0 | A repo of my boid project that I'll try to keep relatively up to date |
 | [IsaganiI/RBLX-Website-](https://github.com/IsaganiI/RBLX-Website-) | 0 | Roblox machine learning model host. |
@@ -140,6 +141,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [KishaMarisma/Roblox-New-Mestapota](https://github.com/KishaMarisma/Roblox-New-Mestapota) | 0 | A Project working on a new set of NPCS! Hope you enjoy work in progress |
 | [kozuidev/PathForge](https://github.com/kozuidev/PathForge) | 0 | A custom grid-based pathfinding module made for Roblox, powered by A* search. Supports walls, clearance checks, and dynamic obstacles. |
 | [LadyCelastia/Pathfinder](https://github.com/LadyCelastia/Pathfinder) | 0 | roblox luau pathfind library (all scripts are modules) |
+| [ldortiol-cmd/Sage](https://github.com/ldortiol-cmd/Sage) | 0 | I want to use it for playing in ML, COD and Roblox So that I can get a high rank |
 | [LeMeeXalFan/jeu-roblox-npc-poursuivants](https://github.com/LeMeeXalFan/jeu-roblox-npc-poursuivants) | 0 | Un jeu Roblox où des NPCs te poursuivent pour te tuer |
 | [LeoStormer/Boids-Project-Demo](https://github.com/LeoStormer/Boids-Project-Demo) | 0 | A client-sided boid simulation making use of Parallel Luau on Roblox. |
 | [lil-ds/Roblox_ML_Modeling](https://github.com/lil-ds/Roblox_ML_Modeling) | 0 | This is a repository dedicated to applying different ML models to Roblox game data. |
@@ -192,5 +194,6 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [williamswilsonhilson-debug/NPCService](https://github.com/williamswilsonhilson-debug/NPCService) | 0 | A roblox npc system |
 | [XdualityRBX/Quest-System](https://github.com/XdualityRBX/Quest-System) | 0 | Roblox NPC quest system with typewriter dialogue, quest progress GUI, and rewards. |
 | [yoku2342/roblox-drx-target-lock](https://github.com/yoku2342/roblox-drx-target-lock) | 0 | Roblox DRX UI with fly toggle and NPC target lock |
+| [zKozie/StateMachine](https://github.com/zKozie/StateMachine) | 0 | A small, generic finite state machine for Roblox — drop-in submodule. |
 
 [← Terug naar overzicht](../README.md)
