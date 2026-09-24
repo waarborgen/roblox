@@ -49,7 +49,7 @@ Voxels, dungeons, doolhoven, wave function collapse, noise en curves.
 | [Arav-ThewebMaker/Roblox-Maze-System](https://github.com/Arav-ThewebMaker/Roblox-Maze-System) | 0 | Doolhoven genereren én oplossen |
 | [IanLiggett/roblox-voxel-terrain](https://github.com/IanLiggett/roblox-voxel-terrain) | 0 | Chunked voxel-terrain met multithreading en binary greedy meshing |
 
-## Uitgebreide index (213)
+## Uitgebreide index (220)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -138,6 +138,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [abdedarghal111/Radial-color-picker](https://github.com/abdedarghal111/Radial-color-picker) | 0 | A radial color picker maded in roblox in 2d GUI like a math and programming challenge. |
 | [acaba1806/math_lib_roblox](https://github.com/acaba1806/math_lib_roblox) | 0 | (geen omschrijving op GitHub) |
 | [AircraftMadness/Catmull-Rom-Spline](https://github.com/AircraftMadness/Catmull-Rom-Spline) | 0 | The module that makes it easy to create Catmull-Rom Splines on Roblox. |
+| [AlexValenta/Dungeon-Crawl-Maturitni-projekt](https://github.com/AlexValenta/Dungeon-Crawl-Maturitni-projekt) | 0 | Soulslike RPG - hra v prostředí Roblox Studio |
 | [AntoniosIoannidis/Horror-Game](https://github.com/AntoniosIoannidis/Horror-Game) | 0 | Multiplayer horror lobby in Roblox (Luau): matchmaking, a procedurally-generated lantern, and immersion systems. |
 | [Arro-p/VoxelBlox](https://github.com/Arro-p/VoxelBlox) | 0 | VoxelBlox is a community-preserved, open-source voxel sandbox game originally created for the Roblox platform. Inspired by popular voxel games, it offers pla... |
 | [asha23/arlo-backrooms-game](https://github.com/asha23/arlo-backrooms-game) | 0 | A Roblox horror-exploration game: procedurally generated Backrooms Level 0 |
@@ -215,8 +216,10 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [n0tf4res/Saturn-Roblox-Username-Generator](https://github.com/n0tf4res/Saturn-Roblox-Username-Generator) | 0 | An ROBLOX Tool to generate usernames |
 | [nathangeology/VoxelWright](https://github.com/nathangeology/VoxelWright) | 0 | Import, Voxelize & Optimize in roblox studio |
 | [OrionBob/ComplexNumbersLua](https://github.com/OrionBob/ComplexNumbersLua) | 0 | A table for maths with complex numbers, intended for use in module scripts with Roblox luau |
+| [Pikashocker/Roblox-Dungeon-Rush](https://github.com/Pikashocker/Roblox-Dungeon-Rush) | 0 | My cs50 final project |
 | [PixelpilotDiscord/Username-Gen](https://github.com/PixelpilotDiscord/Username-Gen) | 0 | 3-4-5 Letter Roblox Username Generator. |
 | [plasmix2/OpenGen](https://github.com/plasmix2/OpenGen) | 0 | OpenGen - Open Source Roblox Procedural Linear Generation - Primarily used for doors fangames - Includes: Room Generation, Client Side, etc. |
+| [plugov/MatrixLab-Roblox-Dont-Work](https://github.com/plugov/MatrixLab-Roblox-Dont-Work) | 0 | Кто тоже после блокировки Matrix в россии столкнулся с проблемой что не можете его зайти, можете помочь? |
 | [programmeromaridris/Unnerving-Roblox-Procredural-Generation-](https://github.com/programmeromaridris/Unnerving-Roblox-Procredural-Generation-) | 0 | Made as a side project to test out making backrooms/liminal spaces out of procedural generation. |
 | [Promeum/Vector3D](https://github.com/Promeum/Vector3D) | 0 | A 64-bit replacement of Roblox's 32-bit Vector3 datatype. |
 | [properson/Simplex](https://github.com/properson/Simplex) | 0 | Customizable interaction system for Roblox games |
@@ -234,6 +237,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [rbxts-libraries/rbxts-vector](https://github.com/rbxts-libraries/rbxts-vector) | 0 | Focused on developing a TypeScript-compatible solution to @robloxiandemo/roblox-modules/vector! |
 | [realllityyy/CompressIt](https://github.com/realllityyy/CompressIt) | 0 | CompressIt is a high performance binary serializer written in pure Luau for Roblox. It utilizes a professional three-phase pipeline consisting of Probe, Enco... |
 | [Reid910/RiskyStrats](https://github.com/Reid910/RiskyStrats) | 0 | A real-time strategy game built for Roblox - capture territory, manage economy, and command troops across a procedurally generated map against up to 4 teams.... |
+| [Robloxexploiter691/Roblox-parser](https://github.com/Robloxexploiter691/Roblox-parser) | 0 | 🎚️An algorithm for parsing tables such as arrays and dictionaries designed Roblox with automatic variable creation and Instance path compression |
 | [Rulfewaaaa/Username-Gen](https://github.com/Rulfewaaaa/Username-Gen) | 0 | Generates roblox usernames based on the user's input |
 | [rwlarouche/PageRankRoblox](https://github.com/rwlarouche/PageRankRoblox) | 0 | Hadoop MapReduce program that implements a PageRank algorithm for pages in the Roblox domain. |
 | [s-ane/rblx-name-generator](https://github.com/s-ane/rblx-name-generator) | 0 | roblox name generator, does what it says |
@@ -243,6 +247,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Shambi-0/ConvexHull](https://github.com/Shambi-0/ConvexHull) | 0 | A simple implementation of Chan's algorithm for Convex Hulls, written for @rbxts. |
 | [sharmiladevi888/five-nights-at-the-forest](https://github.com/sharmiladevi888/five-nights-at-the-forest) | 0 | Web3 P2E survival game on Solana — Minecraft/Roblox voxel style meets FNAF tension. Wallet connect, scoring, leaderboard, referrals, admin-gated airdrops. |
 | [software-rbxdev/couchframework](https://github.com/software-rbxdev/couchframework) | 0 | The main framework used by any Roblox game created by Quaternion Entertainment |
+| [Squiegy/MathDCO](https://github.com/Squiegy/MathDCO) | 0 | All significant core, server-side scripts are attached here. Note: Math DCO can only really run in the Roblox client. The game link is attached below. |
 | [Stiexeno/roblox-csharp-library](https://github.com/Stiexeno/roblox-csharp-library) | 0 | General-purpose runtime library for roblox-csharp projects (Mathf, math global binding) |
 | [SudiMango/Randomized-Dungeon-Generation-Roblox](https://github.com/SudiMango/Randomized-Dungeon-Generation-Roblox) | 0 | Randomized dungeon generation in roblox with customization parameters |
 | [SuperInstance/luau-math](https://github.com/SuperInstance/luau-math) | 0 | Core math library for Roblox games — symmetry groups, sequences, and rhythm math |
@@ -250,6 +255,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [SuperInstance/luau-spatial](https://github.com/SuperInstance/luau-spatial) | 0 | Spatial indexing for Roblox games — QuadTree, GridHash, SpatialHash |
 | [T4rp/xoshiro-luau](https://github.com/T4rp/xoshiro-luau) | 0 | (Incomplete) Xoshiro PRNG algorithms implemented in Luau. |
 | [tarekmahmouduix/Mathsm](https://github.com/tarekmahmouduix/Mathsm) | 0 | An Extensive, Type Safe and Modular Math Library For Roblox |
+| [TestAccForFun/file-C-Users-Mathieu-Downloads-To-20connect-20in-20Roblox.txt](https://github.com/TestAccForFun/file-C-Users-Mathieu-Downloads-To-20connect-20in-20Roblox.txt) | 0 | This an Roblox URL by connecting to ur Acc u can Bruteforce Any Players. |
 | [TextChanged/RobloxDungeonSystem](https://github.com/TextChanged/RobloxDungeonSystem) | 0 | Roblox Procedural dungeon generation systems. |
 | [Th3Pr0fessor/Rector](https://github.com/Th3Pr0fessor/Rector) | 0 | Implementation of Anki Vector on roblox |
 | [TheCSDev/rbxl-quaternion-module](https://github.com/TheCSDev/rbxl-quaternion-module) | 0 | A Quaternion module for the Roblox game engine. |
@@ -267,6 +273,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [weebweeb/TagService.rbxl](https://github.com/weebweeb/TagService.rbxl) | 0 | A simple module to place roblox Value holding objects (like StringValue and Vector3Value) |
 | [Wormhole-Systems/SBezier](https://github.com/Wormhole-Systems/SBezier) | 0 | A Bezier Curve Generator and Library for Roblox |
 | [writebits/Fast-Noise](https://github.com/writebits/Fast-Noise) | 0 | FastNoise is a procedural noise module for Roblox Studio, focused on performance, modularity, and ease of use. |
+| [zcharo99/fractal](https://github.com/zcharo99/fractal) | 0 | open source script for a lot of roblox games |
 | [zqfqe/roblox-name-generator](https://github.com/zqfqe/roblox-name-generator) | 0 | (geen omschrijving op GitHub) roblox-name-generator |
 
 [← Terug naar overzicht](../README.md)

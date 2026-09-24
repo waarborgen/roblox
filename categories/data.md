@@ -148,7 +148,7 @@ DataStores, serialisatie, compressie, state en big numbers.
 | [Dinojan-D/NDArrayLuau](https://github.com/Dinojan-D/NDArrayLuau) | 0 | NumPy-achtige multi-dimensionale arrays voor Luau |
 | [nrbx-ts/rbxts-kv](https://github.com/nrbx-ts/rbxts-kv) | 0 | Key-value service met optionele persistente opslag |
 
-## Uitgebreide index (984)
+## Uitgebreide index (993)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -405,6 +405,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [clerically/EasyData](https://github.com/clerically/EasyData) | 0 | A Roblox DataStore wrapper for beginner scripters. |
 | [ClothingExporterRoblox/ClothingExporterRoblox](https://github.com/ClothingExporterRoblox/ClothingExporterRoblox) | 0 | Config files for my GitHub profile. |
 | [CMDBar-Roblox/CMDBar-Roblox](https://github.com/CMDBar-Roblox/CMDBar-Roblox) | 0 | Config files for my GitHub profile. |
+| [codingtrolling/Roblox-obby-2d-version-game](https://github.com/codingtrolling/Roblox-obby-2d-version-game) | 0 | Run,Win,Die, i made a Roblox obby 2d version game with the programing language : HTML,so download it,and stat |
 | [ColtonPlayzzRoblox/ColtonPlayzzRoblox](https://github.com/ColtonPlayzzRoblox/ColtonPlayzzRoblox) | 0 | Config files for my GitHub profile. |
 | [connorbieszk/selfhost_datastoreservice](https://github.com/connorbieszk/selfhost_datastoreservice) | 0 | A self-hosted datastore service for roblox development, with two modes: Drop in replacement, and Secured. |
 | [constcrypt/SimpleCache](https://github.com/constcrypt/SimpleCache) | 0 | Simple LRU (Least Recently Used) cache with optional TTL (Time To Live) support. |
@@ -507,6 +508,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [hyperLogarithm/roblox-items-action-button-validator-script](https://github.com/hyperLogarithm/roblox-items-action-button-validator-script) | 0 | A modular, data-driven server action router and state-validated inventory framework for Roblox. |
 | [IAmRobloxWHY/IAmRobloxWHY](https://github.com/IAmRobloxWHY/IAmRobloxWHY) | 0 | Config files for my GitHub profile. |
 | [IlikeRoblox10684/IlikeRoblox10684](https://github.com/IlikeRoblox10684/IlikeRoblox10684) | 0 | Config files for my GitHub profile. |
+| [IloveMrDebugger/RBXExternal](https://github.com/IloveMrDebugger/RBXExternal) | 0 | Roblox player cache and, good sdk RBXExternal. |
 | [IloveRoblox12346895/IloveRoblox12346895](https://github.com/IloveRoblox12346895/IloveRoblox12346895) | 0 | Config files for my GitHub profile. |
 | [imbackforRobloxhack/imbackforRobloxhack](https://github.com/imbackforRobloxhack/imbackforRobloxhack) | 0 | Config files for my GitHub profile. |
 | [ImDavidZomb/DavidGamingRoblox](https://github.com/ImDavidZomb/DavidGamingRoblox) | 0 | Config files for my GitHub profile. |
@@ -580,6 +582,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [MagpieTaxi/Runners-Catalogue](https://github.com/MagpieTaxi/Runners-Catalogue) | 0 | Catalogue storage for the Runner's Catalogue Roblox game. |
 | [MakaoagoLaila/Roblox-is-showing-ads-back-again.-Roblox-Homepage-](https://github.com/MakaoagoLaila/Roblox-is-showing-ads-back-again.-Roblox-Homepage-) | 0 | Description of the issue When I go to the Roblox website’s homepage, I see that these ad banners have returned. However, when I go to any profile, there are ... |
 | [MarinaRoblox/MarinaRoblox](https://github.com/MarinaRoblox/MarinaRoblox) | 0 | Config files for my GitHub profile. |
+| [MarioChao/badge-util](https://github.com/MarioChao/badge-util) | 0 | CachedBadgeCheck + BadgeAward + BadgeInfo |
 | [MarioChao/data-store-reader](https://github.com/MarioChao/data-store-reader) | 0 | Module class for reading all of datastore. |
 | [MasterAtRobloxLua/MasterAtRobloxLua](https://github.com/MasterAtRobloxLua/MasterAtRobloxLua) | 0 | Config files for my GitHub profile. |
 | [MasterRoblox5412/MasterRoblox5412](https://github.com/MasterRoblox5412/MasterRoblox5412) | 0 | Config files for my GitHub profile. |
@@ -643,6 +646,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Ocipa/accord](https://github.com/Ocipa/accord) | 0 | A state management library for Roblox. |
 | [omega-nugget007/roblox-stats-api](https://github.com/omega-nugget007/roblox-stats-api) | 0 | (geen omschrijving op GitHub) |
 | [orlandobrowncs/roblox-coin-collector](https://github.com/orlandobrowncs/roblox-coin-collector) | 0 | A Roblox game system in Lua where players collect coins for points, tracked on a live leaderboard. |
+| [oscarattenborough476-creator/pose-](https://github.com/oscarattenborough476-creator/pose-) | 0 | can u make me a code for a pose on my roblox profile picture |
 | [Oscaruchiuchipro/Leaderboard-Roblox-Studio](https://github.com/Oscaruchiuchipro/Leaderboard-Roblox-Studio) | 0 | Este es el GitHub de el tutorial de mi canal de Youtube. Estoy subiéndolo aquí por petición popular y porque el vídeo no se ve genial... |
 | [Oskar2601/Roblox_BetterEncodeAndDecode](https://github.com/Oskar2601/Roblox_BetterEncodeAndDecode) | 0 | Allows for json encoding and decoding certain roblox datatypes that usually you wouldn't be able to. |
 | [Paopun20/PaoPaoDataStore](https://github.com/Paopun20/PaoPaoDataStore) | 0 | Cool DB for Roblox!!!! |
@@ -667,6 +671,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Quamatic/b](https://github.com/Quamatic/b) | 0 | Buffer utility library for Roblox |
 | [QuantumRobloxReal/QuantumRobloxReal](https://github.com/QuantumRobloxReal/QuantumRobloxReal) | 0 | Config files for my GitHub profile. |
 | [R-unic/BinarySerde](https://github.com/R-unic/BinarySerde) | 0 | Binary serialization/deserialization for roblox-cs |
+| [r0xt0/Get-Roblox-Games](https://github.com/r0xt0/Get-Roblox-Games) | 0 | Gets all contributed/owned roblox games created by a roblox user. Caches information like visits, CCU (concurrent players), description, and more. |
 | [RachelFloofer/MalwareRoblox](https://github.com/RachelFloofer/MalwareRoblox) | 0 | Config files for my GitHub profile. |
 | [Radifical/RbxPY](https://github.com/Radifical/RbxPY) | 0 | Roblox likes tracker - polls upvotes and stores in DataStore |
 | [RafakjRoblox/RafakjRoblox](https://github.com/RafakjRoblox/RafakjRoblox) | 0 | Config files for my GitHub profile. |
@@ -677,6 +682,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [RawOnRoblox/RawOnRoblox](https://github.com/RawOnRoblox/RawOnRoblox) | 0 | Config files for my GitHub profile. |
 | [rbx-dev-tools/rojo-schema](https://github.com/rbx-dev-tools/rojo-schema) | 0 | JSON Schemas for Rojo project, meta and model files, compiled from Rojo's own sources |
 | [Reapimus/data-alchemy](https://github.com/Reapimus/data-alchemy) | 0 | A Roblox datastore library inspired by SQLAlchemy |
+| [Redacted8421/Michigan-State-Roleplay-Emergency-Hamburg-](https://github.com/Redacted8421/Michigan-State-Roleplay-Emergency-Hamburg-) | 0 | We are a newly emerging Roleplay Server in the popular Roblox Game of Emergency Hamburg. Set in the bustling American State of Michigan, our goal is to provi... |
 | [Rejus151Roblox/Rejus151Roblox](https://github.com/Rejus151Roblox/Rejus151Roblox) | 0 | Config files for my GitHub profile. |
 | [respecttalha-collab/Roblox-Coin-System-Leaderboard-coin-system](https://github.com/respecttalha-collab/Roblox-Coin-System-Leaderboard-coin-system) | 0 | A coin system designed to allow players touch a coin in-game and increase their coin amount which is shown on their leaderboard stats |
 | [ReunitedRobloxCREATOR/ReunitedRobloxCREATOR](https://github.com/ReunitedRobloxCREATOR/ReunitedRobloxCREATOR) | 0 | Config files for my GitHub profile. |
@@ -1049,6 +1055,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Sorbious/ROBLOX](https://github.com/Sorbious/ROBLOX) | 0 | Some specific modules, datastore, and experiment ideas. |
 | [SRBRP/SRBRP-California](https://github.com/SRBRP/SRBRP-California) | 0 | We are an ER:LC Roleplay Community on the infamous whole-game called ROBLOX. We are an official and unique server based on the U.S State; California with the... |
 | [Stefanuk12/squash-rs](https://github.com/Stefanuk12/squash-rs) | 0 | A library for serializing and deserializing binary data with a focus on size and Roblox compatibility. |
+| [Stellar72/NodeDB](https://github.com/Stellar72/NodeDB) | 0 | A wrapper for the default roblox DataStoreService |
 | [StephenSHorton/flamework-multiplace-template](https://github.com/StephenSHorton/flamework-multiplace-template) | 0 | Roblox multi-place template: two Places sharing a common module via TypeScript rootDirs. Stack: roblox-ts + Flamework + Charm + Lapis + Squash. Demonstrates ... |
 | [Steve9hw2/RBXLUA](https://github.com/Steve9hw2/RBXLUA) | 0 | Storage for Lua scripts used on Roblox projects. |
 | [stormmaster9090/Mercury](https://github.com/stormmaster9090/Mercury) | 0 | Mercury is an open source Roblox plugin that allows for the easy placement and storage of models. |
@@ -1087,6 +1094,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [trimorphdev/rbx_instances](https://github.com/trimorphdev/rbx_instances) | 0 | A JSON file containing information on every Instance type in ROBLOX. |
 | [Tristan886/Pet-System](https://github.com/Tristan886/Pet-System) | 0 | Pet System is a Roblox inventory framework with real-time updates and secure DataStore saving. Players can equip or unequip pets that follow in a fading tail... |
 | [TristanRoblox460/TristanRoblox460](https://github.com/TristanRoblox460/TristanRoblox460) | 0 | Config files for my GitHub profile. |
+| [TuneScotty/datum-serde](https://github.com/TuneScotty/datum-serde) | 0 | Type-safe data serialization, migration, and versioning for Roblox. |
 | [typedwaves/MongoStore](https://github.com/typedwaves/MongoStore) | 0 | MongoStore is an open-source alternative to Roblox's DataStoreService |
 | [UnfairRoblox91/UnfairRoblox91](https://github.com/UnfairRoblox91/UnfairRoblox91) | 0 | Config files for my GitHub profile. |
 | [UniqueDevOfRobloxIsHere/UniqueDevOfRobloxIsHere](https://github.com/UniqueDevOfRobloxIsHere/UniqueDevOfRobloxIsHere) | 0 | Config files for my GitHub profile. |
@@ -1123,6 +1131,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Y90G7IYO0987/OOPItems](https://github.com/Y90G7IYO0987/OOPItems) | 0 | 🎒 Roblox Inventory System An advanced Object-Oriented Programming (OOP) inventory system for Roblox with item stats, equipment system, locking, search, sorti... |
 | [YakovRoblox/YakovRoblox](https://github.com/YakovRoblox/YakovRoblox) | 0 | Config files for my GitHub profile. |
 | [YarikSuperpro/Carry](https://github.com/YarikSuperpro/Carry) | 0 | **Carry** — A simple, highly optimized Roblox persistence system built around buffers and opcodes. ~400 lines, no framework fluff, and designed to be easily ... |
+| [YesilHiyar/LineProfiler](https://github.com/YesilHiyar/LineProfiler) | 0 | A simple line by line profiler for Roblox |
 | [yippiayo/leaderboard-api](https://github.com/yippiayo/leaderboard-api) | 0 | REST API Leaderboard Roblox Hyuhyu |
 | [ykrimhy/roblox-arena-system](https://github.com/ykrimhy/roblox-arena-system) | 0 | Full Roblox Lua arena matchmaking system with stats, UI, datastore, and a skins system. |
 | [YourLocalRobloxian/YourLocalRobloxian](https://github.com/YourLocalRobloxian/YourLocalRobloxian) | 0 | Config files for my GitHub profile. |

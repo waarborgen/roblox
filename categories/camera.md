@@ -34,7 +34,7 @@ Camera-shake, custom camera's, cutscene-tools en timelines.
 | [zKozie/CameraSystem](https://github.com/zKozie/CameraSystem) | 0 | Config-gedreven twee-laags camera: state-camera's plus one-shot action-overlays die terugblenden |
 | [JRmcnugget/Viewpoint](https://github.com/JRmcnugget/Viewpoint) | 0 | Vloeiende, sterk aanpasbare third-person camera |
 
-## Uitgebreide index (120)
+## Uitgebreide index (122)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -108,6 +108,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [jacobtheweb/Zenith-Void-Roblox-Game](https://github.com/jacobtheweb/Zenith-Void-Roblox-Game) | 0 | Zenith Void is a futuristic fantasy Roblox RPG where players mine crystals, extract rare resources, unlock powerful auras, battle enemies, explore new worlds... |
 | [JustOsvi/Camera-Blur-Movement](https://github.com/JustOsvi/Camera-Blur-Movement) | 0 | This is a module for Roblox where it will create a blur effect every time the camera moves too fast. |
 | [kapifoxypirate/Roblox-camera-movemnt-script-PL-](https://github.com/kapifoxypirate/Roblox-camera-movemnt-script-PL-) | 0 | Skrypt stworzony przez programistów SHADE MARKET (shadesurfer) |
+| [Keozma/Roblox-Force-Reset-Gui](https://github.com/Keozma/Roblox-Force-Reset-Gui) | 0 | Force resets the character, useful in tsb or battleground games if your stuck in cutscenes. |
 | [kietnguyen271012-sketch/roblox-target-tracking-system](https://github.com/kietnguyen271012-sketch/roblox-target-tracking-system) | 0 | Complete Roblox Lua target tracking system with RGB UI, camera control, and damage detection |
 | [Kixdev/roblox-photo-studio](https://github.com/Kixdev/roblox-photo-studio) | 0 | Cinematic Photo Studio tools for Roblox |
 | [Kixdev/spectate-player-roblox](https://github.com/Kixdev/spectate-player-roblox) | 0 | Client-side Roblox spectate player UI with smooth camera control, player list navigation, and modern UX. |
@@ -152,6 +153,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [tigerbaernils/roblox-join-menu](https://github.com/tigerbaernils/roblox-join-menu) | 0 | Roblox Join Menu with Camera Animation and Skin Selection |
 | [timoursfoil/Easy-Roblox-Cutscenes](https://github.com/timoursfoil/Easy-Roblox-Cutscenes) | 0 | A simple, modular system for creating cinematic cutscenes in Roblox. Supports smooth camera tweening, player/NPC animations, timed sound playback, and tempor... |
 | [unixtensor/ROBLOX-Studio-Wayland](https://github.com/unixtensor/ROBLOX-Studio-Wayland) | 0 | Fixes the ROBLOX Studio camera as a plugin that is bugged on the Wayland display server. |
+| [vxxfps/RTX-Cinematic-Roblox](https://github.com/vxxfps/RTX-Cinematic-Roblox) | 0 | (geen omschrijving op GitHub) |
 | [WaffleSpaghetti/custom-roblox-camera](https://github.com/WaffleSpaghetti/custom-roblox-camera) | 0 | a script for a camera with a custom up vector |
 | [WaffleSpaghetti/orbital-camera-roblox](https://github.com/WaffleSpaghetti/orbital-camera-roblox) | 0 | a custom orbital camera with full control over angles etc |
 | [WaffleSpaghetti/roblox-custom-camera](https://github.com/WaffleSpaghetti/roblox-custom-camera) | 0 | local script for a camera with a custom up vector |

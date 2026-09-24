@@ -42,7 +42,7 @@ Neurale netwerken, behavior trees, pathfinding, boids en LLM-NPC's.
 | [sebastianboscan/roblox-ai-npc](https://github.com/sebastianboscan/roblox-ai-npc) | 0 | NPC's die natuurlijke taal via TextGenerator omzetten in acties |
 | [Murned/roblox-boid-flocking](https://github.com/Murned/roblox-boid-flocking) | 0 | Drone-zwerm met Reynolds' boids + spatial grid |
 
-## Uitgebreide index (134)
+## Uitgebreide index (136)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -110,6 +110,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [DISRUPTORY/FNABS](https://github.com/DISRUPTORY/FNABS) | 0 | Source code for Five NPCs Are Becoming Smart |
 | [Dsnon/Roblox-Dynamic-NPC-Emotion-System](https://github.com/Dsnon/Roblox-Dynamic-NPC-Emotion-System) | 0 | NPCs react emotionally based on players' actions. |
 | [Dyverblox/Sistema-de-di-logos-NPC-Roblox-Studio](https://github.com/Dyverblox/Sistema-de-di-logos-NPC-Roblox-Studio) | 0 | Scripts correspondientes al video tutorial |
+| [EeyoreNN/roblox-scp-rl-bot](https://github.com/EeyoreNN/roblox-scp-rl-bot) | 0 | Reinforcement Learning bot that learns to play Roblox SCP Site Roleplay from scratch |
 | [eralijan008-lgtm/roblox-bear-script](https://github.com/eralijan008-lgtm/roblox-bear-script) | 0 | Roblox aggressive bear NPC с анимациями атак (лапа, укус), системой здоровья и механикой отвлечения медом |
 | [eyvanlol/Roblox-NPC](https://github.com/eyvanlol/Roblox-NPC) | 0 | This is my project on Roblox interactive and non-interactive NPC |
 | [FlowAshley/Priority](https://github.com/FlowAshley/Priority) | 0 | Priority based state machine for Roblox |
@@ -177,6 +178,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [urvape/Follow-Player-GUI](https://github.com/urvape/Follow-Player-GUI) | 0 | A GUI that uses the Roblox Pathfinding Service to Follow players on Roblox. |
 | [urvape/SimplePath](https://github.com/urvape/SimplePath) | 0 | SimplePath, a Roblox Pathfinding Service. |
 | [vadjusha16-rgb/Digital-Circus-Roblox](https://github.com/vadjusha16-rgb/Digital-Circus-Roblox) | 0 | A Roblox game inspired by Digital Circus with Kaine, NPC circus system, and player interactions |
+| [VerifiedHawaii/Learny](https://github.com/VerifiedHawaii/Learny) | 0 | Advanced roblox ML learning |
 | [vimeaus/Roblox-NPCs](https://github.com/vimeaus/Roblox-NPCs) | 0 | A project aimed at bringing improvements to Roblox's Non Player Characters. With a focus on improved pathing and greater performance. |
 | [Where44444/LuaPathfinding](https://github.com/Where44444/LuaPathfinding) | 0 | Script for Roblox map to help 8 blocks find a path around each other dynamically to build a logo |
 | [williamswilsonhilson-debug/NPCService](https://github.com/williamswilsonhilson-debug/NPCService) | 0 | A roblox npc system |

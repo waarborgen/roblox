@@ -42,7 +42,7 @@ Hashing, encryptie, logins, permissies, rate limiting en anticheat.
 | [Word30210/luau-confusables](https://github.com/Word30210/luau-confusables) | 0 | Lijkende tekens detecteren (anti-impersonatie in namen/chat) |
 | [kentiers/anvil](https://github.com/kentiers/anvil) | 0 | Server-authoritative basis: acties, schema's en veilige remote-grenzen |
 
-## Uitgebreide index (456)
+## Uitgebreide index (470)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -222,12 +222,14 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Alane38/roblox-live-stats](https://github.com/Alane38/roblox-live-stats) | 0 | Client léger et framework-agnostic pour les stats de jeux Roblox en temps réel (CCU, visites, favoris, votes) — batch, rate limiting adaptatif et cache mémoire. |
 | [Alex-Tech-Incorporated/OspryOS-Anticheat](https://github.com/Alex-Tech-Incorporated/OspryOS-Anticheat) | 0 | A lightweight Roblox Anticheat system |
 | [alisavekker59-sys/refactored-fiesta](https://github.com/alisavekker59-sys/refactored-fiesta) | 0 | Roblox mutation-crafting prototype in Luau — data-driven recipe system, server-authoritative gameplay, DataStore persistence, and a responsive mobile-ready UI. |
+| [AllanW178/Qiqi-Role-Application](https://github.com/AllanW178/Qiqi-Role-Application) | 0 | A Discord bot, Qiqi Services, that grants you the role permission to access more channels and jobs in A Lua Roblox Community. |
 | [Amir0Dev/VoidGuard](https://github.com/Amir0Dev/VoidGuard) | 0 | VoidGuard, A highly optimized and advanced anti-cheat system, developed with roblox-ts and flamework. |
 | [andteScripter/anticheat](https://github.com/andteScripter/anticheat) | 0 | anti cheat UNIVERSAL pro roblox |
 | [ANormalDumbass/RMBB](https://github.com/ANormalDumbass/RMBB) | 0 | Roblox Moderation But Better |
 | [AnPhu-D/TacHack](https://github.com/AnPhu-D/TacHack) | 0 | ROBLOX TOS/Guidelines-compliant studio-native remote security penetration testing tool |
 | [anthonysamarth-del/Gagadminpanel](https://github.com/anthonysamarth-del/Gagadminpanel) | 0 | Gag admin panel Roblox |
 | [arjun-biy/Admin-Commands](https://github.com/arjun-biy/Admin-Commands) | 0 | Truthordeys roblox admin commands |
+| [arnavs56/roblox-admin-suite](https://github.com/arnavs56/roblox-admin-suite) | 0 | Ultimate Roblox Admin Panel Script Guide: Unlock Powerful Game Control Features |
 | [AruissiRAR/Roblox-AdminPanel](https://github.com/AruissiRAR/Roblox-AdminPanel) | 0 | Open source admin panel for anyone to use! |
 | [atlas-labs-org/atlas](https://github.com/atlas-labs-org/atlas) | 0 | Repository and wiki for the Roblox Atlas admin system. |
 | [Austin-Krieger/Austin-Krieger.GITHUB.IO](https://github.com/Austin-Krieger/Austin-Krieger.GITHUB.IO) | 0 | This was initially created as a website for storing my notes on Java, but it has evolved into a storage site for my notes on web and game development languag... |
@@ -240,6 +242,9 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [bluezczatu/Roblox-Assets-Previewer](https://github.com/bluezczatu/Roblox-Assets-Previewer) | 0 | The future of Roblox development in VS Code is here. Taking the mystery out of asset IDs, the Roblox Asset Previewer provides instant visual previews, author... |
 | [Bowe2314/roblox-auth-api](https://github.com/Bowe2314/roblox-auth-api) | 0 | (geen omschrijving op GitHub) |
 | [bro1v1/AntiCheatLoader](https://github.com/bro1v1/AntiCheatLoader) | 0 | Razer AntiCheat for Roblox. |
+| [bryceloss71-rgb/flux-jet](https://github.com/bryceloss71-rgb/flux-jet) | 0 | FluxJet is a premium Roblox private aviation company delivering realistic, on-demand charter flights across the United States. Founded in December 2025, Flux... |
+| [bryceloss71-rgb/FluxJ3t](https://github.com/bryceloss71-rgb/FluxJ3t) | 0 | FluxJet is a premium Roblox private aviation company delivering realistic, on-demand charter flights across the United States. Founded in December 2025, Flux... |
+| [bryceloss71-rgb/Fluxjet](https://github.com/bryceloss71-rgb/Fluxjet) | 0 | FluxJet is a premium Roblox private aviation company delivering realistic, on-demand charter flights across the United States. Founded in December 2025, Flux... |
 | [bugsbirb/Temly](https://github.com/bugsbirb/Temly) | 0 | A roblox moderation website, that has a panel and dashboard. |
 | [Bytebit-Org/roblox-ValueHolders](https://github.com/Bytebit-Org/roblox-ValueHolders) | 0 | A module for passing any values around by sharing a pointer, as well as allowing consumers to subscribe to changes and allowing authors to hold locks on chan... |
 | [bytepointer/RobloxAntiCheat](https://github.com/bytepointer/RobloxAntiCheat) | 0 | A functional anti cheat to roblox |
@@ -248,6 +253,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [ch1kz/PacketPlus](https://github.com/ch1kz/PacketPlus) | 0 | Typed, compact Roblox networking library with packet schemas, buffer serialization, unreliable/raw channels, requests, and rate limiting. |
 | [Chanwoo0421/discord-doorman](https://github.com/Chanwoo0421/discord-doorman) | 0 | discord to roblox security purpose server management bot |
 | [chickensecaccchicken-cyber/Stelphy-s-Asset-Reuploader](https://github.com/chickensecaccchicken-cyber/Stelphy-s-Asset-Reuploader) | 0 | Can Reupload Roblox Animation's For Your Game's You Need To Use Your ROBLOSECURITY To Access The Animation Reuploader |
+| [chisomd90/Multiplayer-3D-Builder-](https://github.com/chisomd90/Multiplayer-3D-Builder-) | 0 | A shared 3D builder experience - inspired by Minecraft and Roblox Studio - where authenticated users can join the same virtual space, create, move, or delete... |
 | [ChloeDoesThings/Vision](https://github.com/ChloeDoesThings/Vision) | 0 | Open source anti-cheat solution for Roblox, Minecraft, and your own games (um and km). |
 | [ChristopherCAaaaaa/NetworkLib](https://github.com/ChristopherCAaaaaa/NetworkLib) | 0 | A high-performance, feature-rich networking library for Roblox that simplifies client-server communication with built-in caching, rate limiting, and error ha... |
 | [color-lang/roblox-admin-panel](https://github.com/color-lang/roblox-admin-panel) | 0 | Roblox Admin Panel System |
@@ -285,6 +291,8 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [EEEE2323232/roblox-login-website](https://github.com/EEEE2323232/roblox-login-website) | 0 | Roblox-themed login website with user authentication |
 | [elrf3lipes/newProxyService](https://github.com/elrf3lipes/newProxyService) | 0 | Proxy service for routing and authenticating API requests to Roblox endpoints. |
 | [eltails9000-cyber/NatXajo](https://github.com/eltails9000-cyber/NatXajo) | 0 | Advanced Discord to Roblox global moderation framework |
+| [Emdadul37/Admin_Panel_For_Roblox](https://github.com/Emdadul37/Admin_Panel_For_Roblox) | 0 | (geen omschrijving op GitHub) |
+| [EmmanuelDedumo/CyberKids](https://github.com/EmmanuelDedumo/CyberKids) | 0 | CyberKids: Digital Safety and Cybersecurity Awareness Game using Roblox Platform |
 | [ethandevelopz/network-library](https://github.com/ethandevelopz/network-library) | 0 | A high-performance Roblox networking library built with Luau buffers, featuring integer-ID packet serialization, heartbeat batching, rate limiting, and reque... |
 | [ethandevelopz/radio-api](https://github.com/ethandevelopz/radio-api) | 0 | A high-performance, decoupled Roblox radio API and networking library built with Luau buffers and serialization, designed to save frontend developers time by... |
 | [ethanir/robloxfits](https://github.com/ethanir/robloxfits) | 0 | Full-stack web platform + Roblox game for building and sharing avatar outfits. Live in-game try-on via InsertService, authenticated game-to-web API, catalog ... |
@@ -313,6 +321,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [hakimhagar0-netizen/t1bridge](https://github.com/hakimhagar0-netizen/t1bridge) | 0 | Bring Apple's T1 chip to Linux with full support for Touch ID, display, camera, sensors, and device lifecycle. |
 | [Harmony-Networks/OpenSourceProject](https://github.com/Harmony-Networks/OpenSourceProject) | 0 | Making Roblox Fire and Security Open |
 | [haroseo/rojo-anticheat](https://github.com/haroseo/rojo-anticheat) | 0 | rojo를 이용한 로블록스 안티치트 시스템 |
+| [hexa0/sba-backend-luau](https://github.com/hexa0/sba-backend-luau) | 0 | backend for SBA's DB, which btw is now authenticated so this can actually be public, mostly making this public because im really prod of my http abstractions... |
 | [heylogscript/economy-core](https://github.com/heylogscript/economy-core) | 0 | Server-authoritative economy + save module for Roblox. Session locking, passive income, offline income cap, generators, upgrades, prestige. |
 | [Hinikaa/luau-net](https://github.com/Hinikaa/luau-net) | 0 | Networking layer over RemoteEvent/RemoteFunction: middleware pipeline, rate limiting, buffered events |
 | [HiToTheWorld/WashiezChatModeration](https://github.com/HiToTheWorld/WashiezChatModeration) | 0 | A game that I love to play on Roblox is Washiez! Here is an auto-chat system for the game to replace 5 minutes of typing. |
@@ -339,10 +348,12 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [kaliuser13416/Roblox-Moderation-Tools-For-Dummies](https://github.com/kaliuser13416/Roblox-Moderation-Tools-For-Dummies) | 0 | Moderation Tools for the popular gaming platform Roblox. |
 | [keaxx/Roblox-AntiCheat](https://github.com/keaxx/Roblox-AntiCheat) | 0 | (geen omschrijving op GitHub) |
 | [KeihatsuZero0/Roblox-anti-cheat](https://github.com/KeihatsuZero0/Roblox-anti-cheat) | 0 | A simple roblox anti-cheat |
+| [kekobob122/roblox-admin-panel-suite](https://github.com/kekobob122/roblox-admin-panel-suite) | 0 | Ultimate Roblox Admin Panel Script Guide: Boost Your Game Control and Management |
 | [kh1zxr/roblox-admin-panel](https://github.com/kh1zxr/roblox-admin-panel) | 0 | admin panel for roblox game |
 | [KhalidBA23/Sovereign-Dust-to-Dominion](https://github.com/KhalidBA23/Sovereign-Dust-to-Dominion) | 0 | Sovereign: Dust to Dominion — a base-building conquest game for Roblox. Zero-dependency Knit-style architecture, procedural world, server-authoritative comba... |
 | [Khalidhm5/SCOPELINE-Roblox-FPS](https://github.com/Khalidhm5/SCOPELINE-Roblox-FPS) | 0 | A cross-platform tactical FPS built on Roblox with server-authoritative combat, responsive controls, persistent settings, custom UI, and Blender-created weap... |
 | [kiratsingh00180-del/Roblox](https://github.com/kiratsingh00180-del/Roblox) | 0 | It's for some admin commands |
+| [korflous9487-dot/UnisonX](https://github.com/korflous9487-dot/UnisonX) | 0 | A powerful Roblox-focused Discord bot dor moderation, server management, and automated community features |
 | [kpackk/roblox-gameplay-systems](https://github.com/kpackk/roblox-gameplay-systems) | 0 | Server-authoritative Roblox gameplay systems in Luau — inventory with DataStore persistence, and a combat system with cooldowns, stun and server-side hit val... |
 | [krazeems/RateManager](https://github.com/krazeems/RateManager) | 0 | Roblox Lua utility for managing cooldowns, rate limits, and input throttling. |
 | [le-sukhoi/xxtea-luau](https://github.com/le-sukhoi/xxtea-luau) | 0 | Pure Luau implantation of xxtea encryption algorithm |
@@ -460,8 +471,10 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [sv-du/discord-roblox-moderation-bot](https://github.com/sv-du/discord-roblox-moderation-bot) | 0 | (geen omschrijving op GitHub) |
 | [synpixel/roblox-sensors](https://github.com/synpixel/roblox-sensors) | 0 | Sensors is a lightweight anti-cheat framework for Roblox. |
 | [Tavoxx01/roblox-camera-server](https://github.com/Tavoxx01/roblox-camera-server) | 0 | Roblox Security Camera System - Backend Server (Python/Flask) |
+| [teamjynxzerhacking/unversal-trool-admin-panel-script-visual-roblox](https://github.com/teamjynxzerhacking/unversal-trool-admin-panel-script-visual-roblox) | 0 | (geen omschrijving op GitHub) functions |
 | [Terrani-3/data-service](https://github.com/Terrani-3/data-service) | 0 | Server-authoritative player data module for Roblox — session locking, retries, autosave (Luau) |
 | [Terrani-3/demolition-system](https://github.com/Terrani-3/demolition-system) | 0 | driven, server-authoritative wall demolition system for Roblox — TNT, VFX, auto-reset (Luau) |
+| [The-Coder213/PlayerProfileSYS](https://github.com/The-Coder213/PlayerProfileSYS) | 0 | Server-authoritative player data system for Roblox |
 | [TheCheaterNiceScripts/autoban](https://github.com/TheCheaterNiceScripts/autoban) | 0 | bans you from roblox and the game u using! this will make anticheat enable |
 | [TheGodE6/rocontrol](https://github.com/TheGodE6/rocontrol) | 0 | Small-scale remote moderation tool for Roblox |
 | [thejerryofjerry/roblox-anti-cheat-system](https://github.com/thejerryofjerry/roblox-anti-cheat-system) | 0 | made by a beginner like me |
@@ -481,6 +494,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [umys1/Nexus](https://github.com/umys1/Nexus) | 0 | Nexus is a secure and reliable server-to-server communication module for Roblox. It provides HMAC-based verification, duplicate filtering, retry logic, rate ... |
 | [UnbelievablyNoah/flake](https://github.com/UnbelievablyNoah/flake) | 0 | A simple, modern & experimental Roblox admin system. |
 | [Vaicalyst/disro](https://github.com/Vaicalyst/disro) | 0 | A discord-to-roblox moderation system |
+| [vantoanvh/Roblox-Services](https://github.com/vantoanvh/Roblox-Services) | 0 | Just a list of all roblox services with security tags and description |
 | [VemonXD/one-player-is-god](https://github.com/VemonXD/one-player-is-god) | 0 | A multiplayer Roblox game featuring server-authoritative abilities, secure combat validation, round systems, and automated multi-client tests. |
 | [Viiridiz/Codenames-Roblox](https://github.com/Viiridiz/Codenames-Roblox) | 0 | A server-authoritative, multiplayer implementation of the Codenames board game on Roblox, built with Roact and the Knit framework. |
 | [VioPaige/check_RobloxUser_LawRestrictions](https://github.com/VioPaige/check_RobloxUser_LawRestrictions) | 0 | this roblox modulescript contains functions to check the permissions of a user regarding viewing links to twitter, discord, youtube, etc. on a legal level |

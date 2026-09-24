@@ -154,7 +154,7 @@ Luau-in-Luau, emulators, DOOM, N64, video, Python-in-Luau en game-ports.
 | [MarsSquirrel/bad-apple](https://github.com/MarsSquirrel/bad-apple) | 0 | Bad Apple afgespeeld met de Terrain-engine van Roblox |
 | [TateoDev/Editable-Image-raycaster](https://github.com/TateoDev/Editable-Image-raycaster) | 0 | 3DSage-achtige raycaster-engine op EditableImage met wandtexturen |
 
-## Uitgebreide index (213)
+## Uitgebreide index (235)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -250,6 +250,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [toughCSB/Playtime-pact](https://github.com/toughCSB/Playtime-pact) | 1 | 부모와 자녀가 정한 게임 시간 약속을 지키도록 돕는 Windows 앱. Roblox·Minecraft Java/Bedrock·Lunar Client의 Minecraft 세션을 감지해 남은 시간과 경고를 표시하고, 시간 만료 시 종료하며 부모 PIN으로 규칙과 추가 시간을 관리합니다. |
 | [UGBONTOP/crunchblox-2009](https://github.com/UGBONTOP/crunchblox-2009) | 1 | A complete receation of ROBLOX in 2009 made using Unity and WASM! |
 | [Valks-Forks/sunaba](https://github.com/Valks-Forks/sunaba) | 1 | A open source 3D sandbox game similer to LittleBigPlanet, Minecraft, Gmod, and Roblox |
+| [0nehara/wos-fnaf](https://github.com/0nehara/wos-fnaf) | 0 | A port of Five Nights at Freddy's in the game 'Waste of Space' (Roblox). |
 | [2md55nmxkw-arch/LuauEmu](https://github.com/2md55nmxkw-arch/LuauEmu) | 0 | A Luau script emulator that runs outside Roblox using the Lune. |
 | [3069603/blockverse](https://github.com/3069603/blockverse) | 0 | BlockVerse Heroes is an NFT universe inspired by the aesthetics of Minecraft, Lego and Roblox. |
 | [3lqv/Blox-Craft](https://github.com/3lqv/Blox-Craft) | 0 | Simple Roblox & Minecraft game showcase site. |
@@ -264,14 +265,17 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [archlemist/cone-without-sending-stuff-bCk](https://github.com/archlemist/cone-without-sending-stuff-bCk) | 0 | Cone - Minecraft 1.8.9 texture pack to Roblox converter (AGPL-3.0) |
 | [AryanSrivastava2008/Game](https://github.com/AryanSrivastava2008/Game) | 0 | I like games like minecraft, cs:go, valorant,gta V, roblox, among us,etc. |
 | [Aulas-Colmeia/Jogos-Roblox](https://github.com/Aulas-Colmeia/Jogos-Roblox) | 0 | Links com scripts para os jogos do Youtube do Simplicode |
+| [AZ9tumas/block-placement-rbx](https://github.com/AZ9tumas/block-placement-rbx) | 0 | basic minecraft block placement system but in roblox |
 | [Bavar1an/Accelerated-Lua-VM](https://github.com/Bavar1an/Accelerated-Lua-VM) | 0 | Started as a personal project to beat out the Roblox Lua VM in speed, now I will continue development on this until I just can't do it anymore. |
 | [BloxSQL/SQLBlox](https://github.com/BloxSQL/SQLBlox) | 0 | A project link SQL to roblox |
 | [blueskychan-dev/Roblox-Studio-Operating-System](https://github.com/blueskychan-dev/Roblox-Studio-Operating-System) | 0 | ROBLOX OPERATING SYSTEM SOURCE CODE |
 | [brysti/ROBLOX-y-sus-beneficios-en-los-ni-os](https://github.com/brysti/ROBLOX-y-sus-beneficios-en-los-ni-os) | 0 | aqui veras que habilidades desarrollan tus hijos al jugar roblox |
 | [Buteca/Felipe-](https://github.com/Buteca/Felipe-) | 0 | Jogo Minecraft e Roblox |
+| [carlossergiorodrigues337-ship-it/Script](https://github.com/carlossergiorodrigues337-ship-it/Script) | 0 | Um script local lua para o roblox que faz você levar/empurrar os jogadores, quando a bola(SoccerBall ou Football) vão colidir nele a |
 | [Caty15/Castle-Wars-Mini-Game](https://github.com/Caty15/Castle-Wars-Mini-Game) | 0 | A Minecraft Minigame based on BedWars and the Roblox game "Doomspire Brickbattle" |
 | [ccxmIcal/js-like-lang-luau-interpreter](https://github.com/ccxmIcal/js-like-lang-luau-interpreter) | 0 | this is an interpreter written in roblox luau for a js like lang invented by me (i was bored send help) |
 | [ch1x0r/RobloxOS](https://github.com/ch1x0r/RobloxOS) | 0 | This is a Linux OS that has Roblox configured |
+| [codeSmith12/CFF_Windows_Setup](https://github.com/codeSmith12/CFF_Windows_Setup) | 0 | Follow these instructions to set up the windows machines for Roblox/Minecraft activities. |
 | [cubacadabra/desktop](https://github.com/cubacadabra/desktop) | 0 | our mac windows and linux player |
 | [Dak4008/oofdeath](https://github.com/Dak4008/oofdeath) | 0 | i love birds and to game on roblox and minecraft |
 | [Dani-Gaming/tec](https://github.com/Dani-Gaming/tec) | 0 | TECENS is a Roblox project made by TEC. We empower the creation of the ultimate experience in operating systems and all in one computers. This repo contains ... |
@@ -279,6 +283,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [DiamondRedstone/RoCraft](https://github.com/DiamondRedstone/RoCraft) | 0 | ROBLOX and Minecraft Mixed together |
 | [DJKuhleb/Roblox_BlockWorldCreation](https://github.com/DJKuhleb/Roblox_BlockWorldCreation) | 0 | Created to simulate world creation similar to minecraft. Unfinished |
 | [doqedev/ro-utils](https://github.com/doqedev/ro-utils) | 0 | A roblox utility program made for Linux |
+| [Dylan2408R2/vamos-segundo-intento-de-crossplay](https://github.com/Dylan2408R2/vamos-segundo-intento-de-crossplay) | 0 | Intentamos de nuevo el crossplay de minecraft y roblox |
 | [elfrangin/kryon-bridge](https://github.com/elfrangin/kryon-bridge) | 0 | Roblox <-> Minecraft Bridge API |
 | [emortalmc/BeastEscape](https://github.com/emortalmc/BeastEscape) | 0 | A Minecraft remake of Flee the Facility from Roblox |
 | [emtee40/roblox-wrapper-vala](https://github.com/emtee40/roblox-wrapper-vala) | 0 | [WIP] A port of the Roblox Linux Wrapper to the Vala programming language. Should be cross-platform, and is most definitely a work in progress. |
@@ -286,6 +291,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [exvisible/2016-March-port-of-Nebula-SG](https://github.com/exvisible/2016-March-port-of-Nebula-SG) | 0 | This is specifically for 2016M< clients only going as far to 2015M I believe. |
 | [Felix010985/luau86](https://github.com/Felix010985/luau86) | 0 | Virtual CPU working in Roblox |
 | [Felixdogde/Pyp-ass--multiclient-DE-](https://github.com/Felixdogde/Pyp-ass--multiclient-DE-) | 0 | Ein Multitool um besser in spiele zu sein wie z.m.b : Fortnite, Minecraft, Roblox. (Und ein spaß gegenüber euren Freunden). |
+| [frqstbite/roblox-minecraft](https://github.com/frqstbite/roblox-minecraft) | 0 | More-or-less a proof of concept that Minecraft-like features can be performantly implemented in Roblox |
 | [GAMBLING-MAN/BasicCodeInterpreter](https://github.com/GAMBLING-MAN/BasicCodeInterpreter) | 0 | The code of the Basic Code Interpreter module script on Roblox. |
 | [gameslegalzito-oss/Caixa-de-Scripts-do-Roblox](https://github.com/gameslegalzito-oss/Caixa-de-Scripts-do-Roblox) | 0 | Uma Caixa com tabelas de todos os Scripts para você usar no Roblox |
 | [gingerphoenix10/Ro32](https://github.com/gingerphoenix10/Ro32) | 0 | Allows roblox games to have more control over your computer. Unsafe and experimental |
@@ -302,6 +308,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [JoshuaWho/JoshuaWho](https://github.com/JoshuaWho/JoshuaWho) | 0 | Joshua Who is a YouTuber who play Fortnite, Roblox, and sometimes Minecraft. |
 | [JungyoKim/Roblox_Python_Interpreter](https://github.com/JungyoKim/Roblox_Python_Interpreter) | 0 | 로블록스 Lua 웹어셈블리 기반 Python Interpreter를 위한 서버 / 2025 |
 | [kaydenfuchs683-dev/IronBro-Fan-Club-](https://github.com/kaydenfuchs683-dev/IronBro-Fan-Club-) | 0 | Join the IronBro26 Fan Club for Minecraft & Roblox videos, fun tutorials, exclusive games, and the latest fan content! |
+| [kckarnige/SoberJoe](https://github.com/kckarnige/SoberJoe) | 0 | A Roblox URL handler for Sober that makes things work as it should. |
 | [kingdudely/LuauInJS](https://github.com/kingdudely/LuauInJS) | 0 | A Luau VM in JavaScript |
 | [Kloodi2021/blocky-worlds-engine-roblox](https://github.com/Kloodi2021/blocky-worlds-engine-roblox) | 0 | This is an open-source free engine that is for roblox, Allowing you to make minecraft-inspired games. |
 | [kortsolosv12/Roblox-Unblocked](https://github.com/kortsolosv12/Roblox-Unblocked) | 0 | An unblocked version of Roblox (could technically run on a Chromebook but you'd need Linux) |
@@ -316,7 +323,10 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [lordnhoj1/LF3XEmulatorBasics](https://github.com/lordnhoj1/LF3XEmulatorBasics) | 0 | a set of functions for the lua microchip in roblox game "Logically F3X" |
 | [Loscope/Assembly-Libraries](https://github.com/Loscope/Assembly-Libraries) | 0 | Not Assembly Assembly but Roblox external |
 | [Lunar-Orbit1/JoinAssistant](https://github.com/Lunar-Orbit1/JoinAssistant) | 0 | A small program built on python, made to run on Windows (and eventually MacOS and Linux distros) that will help you automatically configure your join setting... |
+| [lunar-xyz/RobloxVirtualMachine](https://github.com/lunar-xyz/RobloxVirtualMachine) | 0 | (geen omschrijving op GitHub) |
+| [marceloangelon0-sys/marcelo](https://github.com/marceloangelon0-sys/marcelo) | 0 | faça um script local lua roblox quando eu quicar ç todos os jogadores ficarem com um hightlight vermelho |
 | [MixInforBrazil/Arcade-Craft](https://github.com/MixInforBrazil/Arcade-Craft) | 0 | Este servidor foi feito pela intenção de criar uma comunidade de minecraft e roblox. |
+| [mohammadhussain9824-cloud/Jbsbdhdhsdjm](https://github.com/mohammadhussain9824-cloud/Jbsbdhdhsdjm) | 0 | I love minecraft for houses for teacher and my favourite game to name is roblox |
 | [MortyMo22/Minecraft-Roblox-Edition-](https://github.com/MortyMo22/Minecraft-Roblox-Edition-) | 0 | (geen omschrijving op GitHub) |
 | [MrMarcelss/ROBLOX-STUDIO](https://github.com/MrMarcelss/ROBLOX-STUDIO) | 0 | Aqui os dejo el archivo para descargar ROBLOX STUDIO. Una app de ROBLOX para crear tus propios videojuegos de ROBLOX |
 | [MrMayestic/CST-project](https://github.com/MrMayestic/CST-project) | 0 | Computer Store Tycoon Game on Roblox, built with Lua and Roblox Studio IDE. |
@@ -326,9 +336,14 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [new-qwertyui/RobloxTranslationLayer](https://github.com/new-qwertyui/RobloxTranslationLayer) | 0 | Playing Roblox Bedwars in Minecraft 1.8.9 |
 | [Nonescripter-rblx/VapeV4ForMinerscave](https://github.com/Nonescripter-rblx/VapeV4ForMinerscave) | 0 | Best script for roblox minecraft (aka Minerscave) |
 | [nooblox601/nooblox-world-xbox-series-s-edition-its-free](https://github.com/nooblox601/nooblox-world-xbox-series-s-edition-its-free) | 0 | jogo de roblox e minecraft ao mesmo tempo |
+| [notlbock/PartOS](https://github.com/notlbock/PartOS) | 0 | partos is a roblox virtual computer |
 | [OfficialValkyrie/Luau-Recreation](https://github.com/OfficialValkyrie/Luau-Recreation) | 0 | Recreating Luau in Luau |
 | [optimisticside/rounix](https://github.com/optimisticside/rounix) | 0 | An emulator for a UNIX-based operating system within Roblox (API wise) |
 | [pedr-ui/Divine-store](https://github.com/pedr-ui/Divine-store) | 0 | Melhor loja de Roblox, com várias contas e coisas sobre os ovos, contado com game passe tudo |
+| [pereiragenildo740-droid/Game-pass](https://github.com/pereiragenildo740-droid/Game-pass) | 0 | Game Pass Premium – A melhor experiência dentro do jogo! ⭐ Todos os benefícios do VIP ⭐ Bônus exclusivos ⭐ Poderes especiais Compra 100% oficial pela platafo... |
+| [qasimovsid0-creator/-](https://github.com/qasimovsid0-creator/-) | 0 | Сайт-Представляем вам сайт про 88 блогеров тематики "Minecraft,Roblox" - Некоторые блогеры могут быть удалены Удачи ))) |
+| [qasimovsid0-creator/Blogers-Wiki](https://github.com/qasimovsid0-creator/Blogers-Wiki) | 0 | Сайт-Представляем вам сайт про 88 блогеров тематики "Minecraft,Roblox" - Некоторые блогеры могут быть певцами Удачи ))) |
+| [qasimovsid0-creator/WikiYoutuber](https://github.com/qasimovsid0-creator/WikiYoutuber) | 0 | Сайт-Представляем вам сайт про 88 блогеров тематики "Minecraft,Roblox" - Некоторые блогеры могут быть певцами Удачи ))) |
 | [QNTM-Labs/QStudio](https://github.com/QNTM-Labs/QStudio) | 0 | roblox studio for linux |
 | [R0bl0x10501050/CSS-Interpreter-In-RLua](https://github.com/R0bl0x10501050/CSS-Interpreter-In-RLua) | 0 | This won't run correctly in Repl as it's written is a dialect of Lua called Roblox Lua (Rlua). |
 | [ramsa-rgb/Embedded_Emulator](https://github.com/ramsa-rgb/Embedded_Emulator) | 0 | (geen omschrijving op GitHub) Luau |
@@ -345,6 +360,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Senko3141/AP_CSP_2024](https://github.com/Senko3141/AP_CSP_2024) | 0 | Program code for my Create Task of the AP Computer Science Principles exam. "Gradebook Program" This program uses Lua and ROBLOX Studio to create a "game", a... |
 | [sewnie/molette](https://github.com/sewnie/molette) | 0 | Simplest proof of concept Roblox wrapper |
 | [shadow-deathchild/Gamer-Paradise](https://github.com/shadow-deathchild/Gamer-Paradise) | 0 | Welcome to Gamer's Paradise! We'll be covering Among us, Roblox, Minecraft and Fortnite! All the basic, advanced and experienced tips are here! |
+| [shellprompt/risc-cpu](https://github.com/shellprompt/risc-cpu) | 0 | Risc-like CPU project built with logic gates on ROBLOX. |
 | [SimpSupreme/custom-assembly-scripts](https://github.com/SimpSupreme/custom-assembly-scripts) | 0 | my collection of awfuly coded scripts for the Assembly Roblox external. |
 | [SlabDot/RobloxMinecraft-Grid-System](https://github.com/SlabDot/RobloxMinecraft-Grid-System) | 0 | (geen omschrijving op GitHub) |
 | [sosiska-killer-of/doors_mc](https://github.com/sosiska-killer-of/doors_mc) | 0 | roblox doors in minecraft |
@@ -353,25 +369,31 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [SxrothDev/ServersCx](https://github.com/SxrothDev/ServersCx) | 0 | The best page to find private Roblox servers or Minecraft servers. |
 | [synpixel/brainfuck.luau](https://github.com/synpixel/brainfuck.luau) | 0 | An implementation of Brainfuck in Luau |
 | [Tamasina07/ROBLOX-OS](https://github.com/Tamasina07/ROBLOX-OS) | 0 | A fake Roblox operating system I barely even finished. I do not remember making this at all. |
+| [teachkidslab/stem-academy-site](https://github.com/teachkidslab/stem-academy-site) | 0 | Інтерактивний сайт STEM Academy з курсами програмування для дітей: Minecraft, Roblox, Scratch, Python, JavaScript, Fullstack, ШІ, Computer Science. Сучасний ... |
 | [tgraupmann/CSDK_ChromaRoblox](https://github.com/tgraupmann/CSDK_ChromaRoblox) | 0 | Sample C++ port of Chroma Design |
 | [TheFreePenguin/rolex](https://github.com/TheFreePenguin/rolex) | 0 | ROBLOX FOR LINUX (not working on this anymore) |
 | [TheSecondTry/RobloxLagClips](https://github.com/TheSecondTry/RobloxLagClips) | 0 | A script that tries to emulate lag clipping in Roblox. |
 | [tiipolp/Roguetonin](https://github.com/tiipolp/Roguetonin) | 0 | A script for a roblox game named Rogueblox, using the Serotonin Lua VM |
 | [timmybutler/RobloxEnvironmentLogger](https://github.com/timmybutler/RobloxEnvironmentLogger) | 0 | Ultimate Roblox Environment Logger - All VM and Sandbox techniques combined |
 | [TrickyFNFexe/Mineblox](https://github.com/TrickyFNFexe/Mineblox) | 0 | Hoping to create working/stable and open source Minecraft and Roblox Crossplay. |
+| [Tyskalox/Bloxventure](https://github.com/Tyskalox/Bloxventure) | 0 | Base code for one of my highly customizable roblox game, Bloxventure, which is inspired by minecraft. |
 | [ultradeduction/info2](https://github.com/ultradeduction/info2) | 0 | ✩basic dni criteria,dni proshippers,12-/21+ ➶ i play overwatch 2, idv, minecraft,roblox,hsr/gi/hi3,etc ➶ INTP/♊︎/5w4✩ |
 | [underpicked/ROBLOX-Run-On-Linux](https://github.com/underpicked/ROBLOX-Run-On-Linux) | 0 | This python script makes ROBLOX be able to run on linux without kicking you from the game. |
 | [vaderus/RBLXnolinux](https://github.com/vaderus/RBLXnolinux) | 0 | meu scritp para automaticamente instalar o grapejuice e rodar Roblox no Gnu/Linux |
 | [vaotech/linblox](https://github.com/vaotech/linblox) | 0 | Roblox running in linux! |
+| [VeeDW/FAMS.os](https://github.com/VeeDW/FAMS.os) | 0 | интерфейс из roblox pleace quantum sciance energy resach facylyty |
 | [viografiko/Roblox-Sandbox](https://github.com/viografiko/Roblox-Sandbox) | 0 | Tries to emulate a roblox studio sandbox. |
 | [vkh700/linblox](https://github.com/vkh700/linblox) | 0 | Launch roblox on linux systems! |
 | [walksanatora/wasm_hell](https://github.com/walksanatora/wasm_hell) | 0 | i wanted to compile rust to roblox why wont it let me :wah: |
 | [Warhead51707/3008-Addon](https://github.com/Warhead51707/3008-Addon) | 0 | Recreation of the SCP 3008 game on Roblox for Minecraft. |
 | [WeatherGeek1/QuantOS](https://github.com/WeatherGeek1/QuantOS) | 0 | This is a Linux distro, based on Ubuntu, that is based on the fictional QuantOS from the Roblox game Quantum Science Energy Research Facility (QSERF for shor... |
+| [whatiscodee/99nights-minecraft](https://github.com/whatiscodee/99nights-minecraft) | 0 | roblox 99 nights game in minecraft :) |
 | [whoodaphonech/Ant-](https://github.com/whoodaphonech/Ant-) | 0 | I like Video games most of the time i play "Roblox or Minecraft" i will choose when ever i feel like playing that game |
+| [wordunathan-stack/Doom-Fruits](https://github.com/wordunathan-stack/Doom-Fruits) | 0 | A roblox mmo game based on one of the best animes |
 | [wyattgiraudon4-lgtm/Bloxncraft-](https://github.com/wyattgiraudon4-lgtm/Bloxncraft-) | 0 | Un mélange entre roblox et minecraft |
 | [xdx-sf/XTech-1](https://github.com/xdx-sf/XTech-1) | 0 | The XTech-1 engine is the game engine developed by the XDX Software Foundation to recreate Doom games on Roblox. |
 | [zachthearcticfox/Arctic-Fox-16-Assembler](https://github.com/zachthearcticfox/Arctic-Fox-16-Assembler) | 0 | Assembler for a work-in-progress CPU built in a Roblox logic simulator "Circuit maker 2" |
 | [ZAL-X/Roblox_Minecraft_bow_fight_PROC-31](https://github.com/ZAL-X/Roblox_Minecraft_bow_fight_PROC-31) | 0 | (geen omschrijving op GitHub) |
+| [zenithhhhchannhhhh/nowayCAS](https://github.com/zenithhhhchannhhhh/nowayCAS) | 0 | nowayCAS is a Computer Algebra System made for Roblox Studio. |
 
 [← Terug naar overzicht](../README.md)

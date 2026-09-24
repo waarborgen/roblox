@@ -78,7 +78,7 @@ Animatie-solvers, IK, Blender/Mixamo-pipelines, procedurele animatie en springs.
 | [realllityyt/myanimator](https://github.com/realllityyt/myanimator) | 0 | Animaties per ledemaat mixen: crossfade, additive layers, events |
 | [purpulhq/character-tilt](https://github.com/purpulhq/character-tilt) | 0 | Kantelt het character mee met de kijkrichting van de camera |
 
-## Uitgebreide index (395)
+## Uitgebreide index (402)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -189,6 +189,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [astriaInight/tween-library](https://github.com/astriaInight/tween-library) | 0 | A module designed to make animating GUIs and other instances using TweenService easier. |
 | [aubreec88/Lufu](https://github.com/aubreec88/Lufu) | 0 | Simple UI animation player for Roblox. |
 | [avuleee/How-To-Create-A-Roblox-GFX](https://github.com/avuleee/How-To-Create-A-Roblox-GFX) | 0 | this github will show u how to make a roblox gfx. blender roblox gfxs are a little better than roblox-studio-made ones. |
+| [AYNDroid/EmotePanelGUI](https://github.com/AYNDroid/EmotePanelGUI) | 0 | Emote panel for Roblox |
 | [aziz8235/roblox-luau-game-framework](https://github.com/aziz8235/roblox-luau-game-framework) | 0 | Open-source Roblox/Luau framework for reusable multiplayer systems, combat architecture, client/server logic, UI state, animation timing, debugging, and test... |
 | [b-risk/Roblox-Emotes](https://github.com/b-risk/Roblox-Emotes) | 0 | Please give me credit if you use this. |
 | [BaconPizzazz/haybale-gamers](https://github.com/BaconPizzazz/haybale-gamers) | 0 | storage for my models and animations for a small collab project w my friends on roblox |
@@ -205,6 +206,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [chickenwing69420/My-Portfolio](https://github.com/chickenwing69420/My-Portfolio) | 0 | My roblox animation porfolio |
 | [chise3746-cpu/Gore.Roblox.Blender.3D](https://github.com/chise3746-cpu/Gore.Roblox.Blender.3D) | 0 | Roblox blender gore tutorial (Updated) |
 | [christianJames24/animator](https://github.com/christianJames24/animator) | 0 | small and easy to use ui animation library for roblox |
+| [chroma-hade/AnimController](https://github.com/chroma-hade/AnimController) | 0 | Sync, Manage For Roblox Rig Objects |
 | [codesenseAye/Animation-Node-Editor](https://github.com/codesenseAye/Animation-Node-Editor) | 0 | A node editor app meant to make creating animations for UI easier on Roblox |
 | [codesenseAye/Transfer-Animations](https://github.com/codesenseAye/Transfer-Animations) | 0 | Automatically copy animation objects within roblox studio , transfer them to a different group, and set the animation object ids to the new ids. |
 | [CollinVM4/BlenderGame](https://github.com/CollinVM4/BlenderGame) | 0 | Roblox Studio housing for Be a Blender! |
@@ -228,7 +230,9 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [DKN1F3/DKN-UI-Animation-Module](https://github.com/DKN1F3/DKN-UI-Animation-Module) | 0 | Module for more speedy and simpler Roblox Studio GUI Animations. It's easier for me, I just put this out there in hopes other people find it easier. |
 | [dog3951/-e-emote-](https://github.com/dog3951/-e-emote-) | 0 | Original post https://github.com/HunterAPI/roblox-emotes Repost for emote |
 | [DoubleSDev/doubles-dev-portfolio](https://github.com/DoubleSDev/doubles-dev-portfolio) | 0 | Portfolio website of DoubleS Dev — Roblox scripting, game systems, UI and animation. |
+| [duckiehacks/hand-emote](https://github.com/duckiehacks/hand-emote) | 0 | this hand emote might be inappropriate for roblox so pls be careful |
 | [e1arion/Blender-Addon](https://github.com/e1arion/Blender-Addon) | 0 | (geen omschrijving op GitHub) Roblox LC Tools |
+| [ElSixer/Emotes](https://github.com/ElSixer/Emotes) | 0 | Do me an emotes wheel code for roblox |
 | [Emigamer576/La-putiza-del-a-o](https://github.com/Emigamer576/La-putiza-del-a-o) | 0 | Website just for an animation roblox |
 | [emirluau/ZER0Wheel](https://github.com/emirluau/ZER0Wheel) | 0 | This module allows you to emulate and modify Roblox's default Emote Wheel. |
 | [engapmahc/ps99-roblox](https://github.com/engapmahc/ps99-roblox) | 0 | Ps99 Roblox Game (Scripts,Animations,pets,ui,shop and much more |
@@ -271,6 +275,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [IndentifyCheats/zombie-animation-script](https://github.com/IndentifyCheats/zombie-animation-script) | 0 | The animation bundle "Zombie" from Roblox as a script. |
 | [IrishFix/rbxts-falldown](https://github.com/IrishFix/rbxts-falldown) | 0 | A realistic ragdoll physics system for Roblox with smooth getup animations, collision management, and customizable velocity modes. Supports both R6 and R15 r... |
 | [ItsODRJR/moon2module](https://github.com/ItsODRJR/moon2module) | 0 | Roblox Plugin that converts Moon Animator 2 projects to a Module Script. Created by DevelopLogan & ItsODRJR |
+| [ITZz-OG/CEaOI-INC](https://github.com/ITZz-OG/CEaOI-INC) | 0 | Cascadian Energy and Oil Industry, Incorporated., is based off the Pacific Northwest region of the USA. It is a Roblox Roleplay group that operates oil rigs,... |
 | [J1ck/roblox-spring](https://github.com/J1ck/roblox-spring) | 0 | Approximated Spring Module for Roblox |
 | [j35114125-sys/r7-but-better](https://github.com/j35114125-sys/r7-but-better) | 0 | soo bassically normal roblox r6 is only for animation, well i made it where it can be used as a morph now |
 | [jakey1730/Animation-player](https://github.com/jakey1730/Animation-player) | 0 | An animation player script for roblox |
@@ -421,6 +426,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [StarryBoats/Obby-Ghost-Mode-GUI](https://github.com/StarryBoats/Obby-Ghost-Mode-GUI) | 0 | Advanced Obby Ghost Mode GUI for Roblox with full avatar ghost replay, draggable animated GUI, circular toggle, and custom ghost styling. Built for obby/towe... |
 | [Stiexeno/roblox-csharp-tween](https://github.com/Stiexeno/roblox-csharp-tween) | 0 | DOTween-style fluent tweening for roblox-csharp |
 | [syaaikoo/emote-script](https://github.com/syaaikoo/emote-script) | 0 | get roblox emotes and animations for free |
+| [syike4/Roblox-baddie-emotes](https://github.com/syike4/Roblox-baddie-emotes) | 0 | Only works for r15 not r6 |
 | [syncronicc/roblox-projects](https://github.com/syncronicc/roblox-projects) | 0 | A collection of roblox gameplay mechanisms, UI animations and games. |
 | [TabbyForge/roblox-avatar-import](https://github.com/TabbyForge/roblox-avatar-import) | 0 | A reusable Codex skill for importing prepared Blender characters into Roblox Studio, running Avatar Setup, and validating an R15 StarterCharacter. |
 | [tappy3d-hue/blender-roblox-mesh-sync](https://github.com/tappy3d-hue/blender-roblox-mesh-sync) | 0 | Blender and Roblox Studio bidirectional mesh synchronization tools |
@@ -463,6 +469,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [westonjbrewster/roblox-ak-shooter](https://github.com/westonjbrewster/roblox-ak-shooter) | 0 | A realistic Roblox AK-47 shooter system with recoil, ADS, sprinting, crouching, and animations |
 | [whohuong/Roblox-Dev-Starter](https://github.com/whohuong/Roblox-Dev-Starter) | 0 | Created for Part 1 of the "Block 2 Project" assigned during the Spring 2024, CS3090 - Computer Ethics course. |
 | [William844875/Unreleaseemote](https://github.com/William844875/Unreleaseemote) | 0 | - added 3 Emote (Unreleased by Roblox) |
+| [wolfqa/moonanim](https://github.com/wolfqa/moonanim) | 0 | Moon Animator for Roblox |
 | [xdasdwqfbtrtrrt1/policyjne-pagony-blender](https://github.com/xdasdwqfbtrtrrt1/policyjne-pagony-blender) | 0 | Blender script generating 15 realistic Polish Police rank insignia (pagony) as individual 3D models, optimized for Roblox export. |
 | [xSwezan/Animatr](https://github.com/xSwezan/Animatr) | 0 | Custom Animator for roblox |
 | [yiffaphetamine/moon-animator](https://github.com/yiffaphetamine/moon-animator) | 0 | moon animator the roblox plugin |
