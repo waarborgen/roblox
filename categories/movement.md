@@ -67,5 +67,7 @@ Character controllers, ragdolls, destructie, parkour en eigen physics-engines.
 | [darel919/kemudi](https://github.com/darel919/kemudi) | 0 | Soft-body physics (WIP) |
 | [ramsa-rgb/Rope-Type-Elevator](https://github.com/ramsa-rgb/Rope-Type-Elevator) | 0 | Lift aan kabels via de physics-engine |
 | [Pepsied-5229/RBX-Constraints](https://github.com/Pepsied-5229/RBX-Constraints) | 0 | Voorbeelden van alle soorten physics-constraints |
+| [Terrani-3/movement-system](https://github.com/Terrani-3/movement-system) | 0 | Movement-feel: camera-tilt, dynamische FOV en directionele animatie-blending |
+| [chroma-hade/Roblox-2D-Movement](https://github.com/chroma-hade/Roblox-2D-Movement) | 0 | 2D-movement en camerasysteem |
 
 [← Terug naar overzicht](../README.md)

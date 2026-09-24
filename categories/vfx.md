@@ -84,5 +84,6 @@ Particles, shaders, lighting, portalen, raytracing en canvas-rendering.
 | [AnotherSubatomo/Cezanne](https://github.com/AnotherSubatomo/Cezanne) | 0 | Paralleliseerbare image-filters in pure Luau |
 | [NotRllyRn/PixelRender](https://github.com/NotRllyRn/PixelRender) | 0 | Pixel raycasting-renderer |
 | [InfernoAmaruq/EasyPool](https://github.com/InfernoAmaruq/EasyPool) | 0 | Object pooling framework |
+| [sudoserver819/ClientCulling](https://github.com/sudoserver819/ClientCulling) | 0 | Camera-gebaseerde occlusion culling voor performance |
 
 [← Terug naar overzicht](../README.md)

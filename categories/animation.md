@@ -74,5 +74,6 @@ Animatie-solvers, IK, Blender/Mixamo-pipelines, procedurele animatie en springs.
 | [Naresh-x86/Mocap-Demo](https://github.com/Naresh-x86/Mocap-Demo) | 0 | Tech-demo van Studio's video-naar-mocap |
 | [Aymdma/Roblox-Mocap](https://github.com/Aymdma/Roblox-Mocap) | 0 | Motion capture (Python) naar Roblox |
 | [realllityyt/myanimator](https://github.com/realllityyt/myanimator) | 0 | Animaties per ledemaat mixen: crossfade, additive layers, events |
+| [purpulhq/character-tilt](https://github.com/purpulhq/character-tilt) | 0 | Kantelt het character mee met de kijkrichting van de camera |
 
 [← Terug naar overzicht](../README.md)

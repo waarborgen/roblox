@@ -190,5 +190,7 @@ Reactieve UI, custom tekst, inventories, 2D-engines en mobiele controls.
 | [mmdj04/Luau2DWorld](https://github.com/mmdj04/Luau2DWorld) | 0 | 2D UI game-engine: procedurele wereld, chunks, inventory, fog-of-war |
 | [jaipack17/roblox-verlet](https://github.com/jaipack17/roblox-verlet) | 0 | Verlet-integratie projecten in GUI's (touw, doek) |
 | [ninjaninja140/basix-ui](https://github.com/ninjaninja140/basix-ui) | 0 | roblox-ts-implementatie van mui/base-ui (headless componenten) |
+| [emdomanus/facet](https://github.com/emdomanus/facet) | 0 | Camera-aware 3D UI-surface-primitives |
+| [ocauapaz/rbx-blocktext](https://github.com/ocauapaz/rbx-blocktext) | 0 | Zwevende 3D-tekst uit verende kubussen met gradients, transities en touch-interactie |
 
 [← Terug naar overzicht](../README.md)

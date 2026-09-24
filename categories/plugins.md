@@ -94,5 +94,7 @@ Handige plugins voor bouwen, terrain, UI en workflow.
 | [Apisalam/BloxQA](https://github.com/Apisalam/BloxQA) | 0 | Plugin voor geautomatiseerde QA en gameplay-tests |
 | [raineyraine/plugin-components](https://github.com/raineyraine/plugin-components) | 0 | React-componenten voor het bouwen van Studio-plugins |
 | [arduoussteel/scatter-brush](https://github.com/arduoussteel/scatter-brush) | 0 | Plugin: bomen, rotsen en props als met een kwast op terrain schilderen |
+| [Dekkonot/camera-light-plugin](https://github.com/Dekkonot/camera-light-plugin) | 0 | Plugin die een lamp aan de Studio-camera hangt |
+| [Mystifine/ModelLens](https://github.com/Mystifine/ModelLens) | 0 | Render en exporteer PNG-thumbnails van modellen in Studio (transparant, batch) |
 
 [← Terug naar overzicht](../README.md)

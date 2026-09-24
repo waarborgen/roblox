@@ -60,5 +60,6 @@ Melee-hitboxes, projectielen, guns, lag-compensatie en zones.
 | [voidxz9999/roblox-skill-system](https://github.com/voidxz9999/roblox-skill-system) | 0 | Modulair skill-systeem |
 | [DanieiR/Roblox-Fishing-Fight-System](https://github.com/DanieiR/Roblox-Fishing-Fight-System) | 0 | Deterministische vis-minigame (server-authoritative) |
 | [Aeronautiac/ffRpgLuau](https://github.com/Aeronautiac/ffRpgLuau) | 0 | Fighting/RPG-core met client prediction en ping-compensatie |
+| [Xijum/Xijum-Weapon-System](https://github.com/Xijum/Xijum-Weapon-System) | 0 | Uitgebreid client-server wapensysteem met camera, animaties en modulaire configs |
 
 [← Terug naar overzicht](../README.md)

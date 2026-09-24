@@ -17,6 +17,8 @@ Camera-shake, custom camera's, cutscene-tools en timelines.
 | [mlwre-off/RoPlay](https://github.com/mlwre-off/RoPlay) | 2 | Replay-recorder en editor (zoals Minecraft Replay Mod) met camera-keyframes |
 | [TylrPopcorn/Floating-Camera-Part](https://github.com/TylrPopcorn/Floating-Camera-Part) | 2 | Camera-manipulatie met zwevende camera-part |
 | [higuysimaugust/procam](https://github.com/higuysimaugust/procam) | 2 | Fork van freecam met 50+ nieuwe features en fixes |
+| [magicoal-nerb/mini-player-module](https://github.com/magicoal-nerb/mini-player-module) | 2 | Nagebouwde PlayerModule met de oude Roblox-cameratypes |
+| [rookie-codes/Realism-System](https://github.com/rookie-codes/Realism-System) | 2 | Maakt het eigen character zichtbaar in first person (body-cam-gevoel) |
 | [Reapimus/grims-cutscene-engine](https://github.com/Reapimus/grims-cutscene-engine) | 1 | Cutscene-systeem + plugin |
 | [nilleniumrust/SpringShaker](https://github.com/nilleniumrust/SpringShaker) | 1 | Camera-shaker met springs + Perlin noise |
 | [Seftube/RobloxCameraSystem](https://github.com/Seftube/RobloxCameraSystem) | 1 | Realistisch camerasysteem (volledig lokaal) |
@@ -24,5 +26,10 @@ Camera-shake, custom camera's, cutscene-tools en timelines.
 | [emdomanus/pulse](https://github.com/emdomanus/pulse) | 0 | Timeline-runtime voor VFX, skill-timelines en cutscenes |
 | [netslashh/EasyCutscene2](https://github.com/netslashh/EasyCutscene2) | 0 | Cinematische camera-sequences met cinematic bars |
 | [NikMusy/apex-cinematic-cam](https://github.com/NikMusy/apex-cinematic-cam) | 0 | Cinematic camera: freecam, tracking, keyframe-paden, auto-regie |
+| [biotoxin495/CameraKit](https://github.com/biotoxin495/CameraKit) | 0 | Lichtgewicht client-side camera-utility |
+| [sysscan/Roblox-FPS-Camera](https://github.com/sysscan/Roblox-FPS-Camera) | 0 | Camera voor geforceerde first-person shooters |
+| [Judash399/SimpleShaker](https://github.com/Judash399/SimpleShaker) | 0 | Eenvoudig camera-shake-systeem |
+| [zKozie/CameraSystem](https://github.com/zKozie/CameraSystem) | 0 | Config-gedreven twee-laags camera: state-camera's plus one-shot action-overlays die terugblenden |
+| [JRmcnugget/Viewpoint](https://github.com/JRmcnugget/Viewpoint) | 0 | Vloeiende, sterk aanpasbare third-person camera |
 
 [← Terug naar overzicht](../README.md)

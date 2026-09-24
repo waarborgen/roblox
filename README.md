@@ -8,22 +8,22 @@ exploits/cheats/executors/spoofers, obfuscators, account-tools en SEO-spamrepos.
 
 Tip: ⭐ zegt weinig bij nieuwe projecten, veel pareltjes hebben (nog) bijna geen sterren.
 
-Totaal: **2252 repos** in **23 categorieën**. ⭐ = GitHub-sterren op het moment van verzamelen (sept. 2026).
+Totaal: **2269 repos** in **23 categorieën**. ⭐ = GitHub-sterren op het moment van verzamelen (sept. 2026).
 
 ## Categorieën
 
-- [VFX, graphics & rendering](#vfx-graphics--rendering) — **80** repos ([losse pagina](categories/vfx.md))
+- [VFX, graphics & rendering](#vfx-graphics--rendering) — **81** repos ([losse pagina](categories/vfx.md))
 - [Landschap, terrain, water & weer](#landschap-terrain-water--weer) — **56** repos ([losse pagina](categories/landscape.md))
-- [Animatie, IK & rigging](#animatie-ik--rigging) — **70** repos ([losse pagina](categories/animation.md))
-- [Movement, physics & characters](#movement-physics--characters) — **63** repos ([losse pagina](categories/movement.md))
+- [Animatie, IK & rigging](#animatie-ik--rigging) — **71** repos ([losse pagina](categories/animation.md))
+- [Movement, physics & characters](#movement-physics--characters) — **65** repos ([losse pagina](categories/movement.md))
 - [Voertuigen, boten & treinen](#voertuigen-boten--treinen) — **23** repos ([losse pagina](categories/vehicles.md))
-- [Combat, hitboxes & wapens](#combat-hitboxes--wapens) — **56** repos ([losse pagina](categories/combat.md))
+- [Combat, hitboxes & wapens](#combat-hitboxes--wapens) — **57** repos ([losse pagina](categories/combat.md))
 - [AI, NPC's & machine learning](#ai-npcs--machine-learning) — **35** repos ([losse pagina](categories/ai.md))
 - [Procedurele generatie & wiskunde](#procedurele-generatie--wiskunde) — **42** repos ([losse pagina](categories/procgen.md))
 - [Networking & replicatie](#networking--replicatie) — **88** repos ([losse pagina](categories/networking.md))
 - [ECS & game-architectuur](#ecs--game-architectuur) — **79** repos ([losse pagina](categories/ecs.md))
-- [UI & interface](#ui--interface) — **186** repos ([losse pagina](categories/ui.md))
-- [Camera & cutscenes](#camera--cutscenes) — **20** repos ([losse pagina](categories/camera.md))
+- [UI & interface](#ui--interface) — **188** repos ([losse pagina](categories/ui.md))
+- [Camera & cutscenes](#camera--cutscenes) — **27** repos ([losse pagina](categories/camera.md))
 - [Audio](#audio) — **17** repos ([losse pagina](categories/audio.md))
 - [VR & motion tracking](#vr--motion-tracking) — **15** repos ([losse pagina](categories/vr.md))
 - [Data, opslag & serialisatie](#data-opslag--serialisatie) — **141** repos ([losse pagina](categories/data.md))
@@ -33,12 +33,12 @@ Totaal: **2252 repos** in **23 categorieën**. ⭐ = GitHub-sterren op het momen
 - [API's & externe integraties](#apis--externe-integraties) — **131** repos ([losse pagina](categories/apis.md))
 - [AI-tools voor Roblox-development](#ai-tools-voor-roblox-development) — **69** repos ([losse pagina](categories/aitools.md))
 - [Tooling & workflow](#tooling--workflow) — **387** repos ([losse pagina](categories/tooling.md))
-- [Studio-plugins](#studio-plugins) — **90** repos ([losse pagina](categories/plugins.md))
-- [Leren, open-source games & collecties](#leren-open-source-games--collecties) — **179** repos ([losse pagina](categories/learn.md))
+- [Studio-plugins](#studio-plugins) — **92** repos ([losse pagina](categories/plugins.md))
+- [Leren, open-source games & collecties](#leren-open-source-games--collecties) — **180** repos ([losse pagina](categories/learn.md))
 
 ## VFX, graphics & rendering
 
-Particles, shaders, lighting, portalen, raytracing en canvas-rendering. (80 repos)
+Particles, shaders, lighting, portalen, raytracing en canvas-rendering. (81 repos)
 
 | Repo | ⭐ | Wat het doet |
 |---|---:|---|
@@ -122,6 +122,7 @@ Particles, shaders, lighting, portalen, raytracing en canvas-rendering. (80 repo
 | [AnotherSubatomo/Cezanne](https://github.com/AnotherSubatomo/Cezanne) | 0 | Paralleliseerbare image-filters in pure Luau |
 | [NotRllyRn/PixelRender](https://github.com/NotRllyRn/PixelRender) | 0 | Pixel raycasting-renderer |
 | [InfernoAmaruq/EasyPool](https://github.com/InfernoAmaruq/EasyPool) | 0 | Object pooling framework |
+| [sudoserver819/ClientCulling](https://github.com/sudoserver819/ClientCulling) | 0 | Camera-gebaseerde occlusion culling voor performance |
 
 ## Landschap, terrain, water & weer
 
@@ -188,7 +189,7 @@ Terrain-generators, echte kaarten, grotten, oceanen, foliage, dag/nacht en weer.
 
 ## Animatie, IK & rigging
 
-Animatie-solvers, IK, Blender/Mixamo-pipelines, procedurele animatie en springs. (70 repos)
+Animatie-solvers, IK, Blender/Mixamo-pipelines, procedurele animatie en springs. (71 repos)
 
 | Repo | ⭐ | Wat het doet |
 |---|---:|---|
@@ -262,10 +263,11 @@ Animatie-solvers, IK, Blender/Mixamo-pipelines, procedurele animatie en springs.
 | [Naresh-x86/Mocap-Demo](https://github.com/Naresh-x86/Mocap-Demo) | 0 | Tech-demo van Studio's video-naar-mocap |
 | [Aymdma/Roblox-Mocap](https://github.com/Aymdma/Roblox-Mocap) | 0 | Motion capture (Python) naar Roblox |
 | [realllityyt/myanimator](https://github.com/realllityyt/myanimator) | 0 | Animaties per ledemaat mixen: crossfade, additive layers, events |
+| [purpulhq/character-tilt](https://github.com/purpulhq/character-tilt) | 0 | Kantelt het character mee met de kijkrichting van de camera |
 
 ## Movement, physics & characters
 
-Character controllers, ragdolls, destructie, parkour en eigen physics-engines. (63 repos)
+Character controllers, ragdolls, destructie, parkour en eigen physics-engines. (65 repos)
 
 | Repo | ⭐ | Wat het doet |
 |---|---:|---|
@@ -332,6 +334,8 @@ Character controllers, ragdolls, destructie, parkour en eigen physics-engines. (
 | [darel919/kemudi](https://github.com/darel919/kemudi) | 0 | Soft-body physics (WIP) |
 | [ramsa-rgb/Rope-Type-Elevator](https://github.com/ramsa-rgb/Rope-Type-Elevator) | 0 | Lift aan kabels via de physics-engine |
 | [Pepsied-5229/RBX-Constraints](https://github.com/Pepsied-5229/RBX-Constraints) | 0 | Voorbeelden van alle soorten physics-constraints |
+| [Terrani-3/movement-system](https://github.com/Terrani-3/movement-system) | 0 | Movement-feel: camera-tilt, dynamische FOV en directionele animatie-blending |
+| [chroma-hade/Roblox-2D-Movement](https://github.com/chroma-hade/Roblox-2D-Movement) | 0 | 2D-movement en camerasysteem |
 
 ## Voertuigen, boten & treinen
 
@@ -365,7 +369,7 @@ Chassis, suspensie, hover, raketten, drijfvermogen en treinen. (23 repos)
 
 ## Combat, hitboxes & wapens
 
-Melee-hitboxes, projectielen, guns, lag-compensatie en zones. (56 repos)
+Melee-hitboxes, projectielen, guns, lag-compensatie en zones. (57 repos)
 
 | Repo | ⭐ | Wat het doet |
 |---|---:|---|
@@ -425,6 +429,7 @@ Melee-hitboxes, projectielen, guns, lag-compensatie en zones. (56 repos)
 | [voidxz9999/roblox-skill-system](https://github.com/voidxz9999/roblox-skill-system) | 0 | Modulair skill-systeem |
 | [DanieiR/Roblox-Fishing-Fight-System](https://github.com/DanieiR/Roblox-Fishing-Fight-System) | 0 | Deterministische vis-minigame (server-authoritative) |
 | [Aeronautiac/ffRpgLuau](https://github.com/Aeronautiac/ffRpgLuau) | 0 | Fighting/RPG-core met client prediction en ping-compensatie |
+| [Xijum/Xijum-Weapon-System](https://github.com/Xijum/Xijum-Weapon-System) | 0 | Uitgebreid client-server wapensysteem met camera, animaties en modulaire configs |
 
 ## AI, NPC's & machine learning
 
@@ -700,7 +705,7 @@ Entity Component Systems en frameworks voorbij Knit. (79 repos)
 
 ## UI & interface
 
-Reactieve UI, custom tekst, inventories, 2D-engines en mobiele controls. (186 repos)
+Reactieve UI, custom tekst, inventories, 2D-engines en mobiele controls. (188 repos)
 
 | Repo | ⭐ | Wat het doet |
 |---|---:|---|
@@ -890,10 +895,12 @@ Reactieve UI, custom tekst, inventories, 2D-engines en mobiele controls. (186 re
 | [mmdj04/Luau2DWorld](https://github.com/mmdj04/Luau2DWorld) | 0 | 2D UI game-engine: procedurele wereld, chunks, inventory, fog-of-war |
 | [jaipack17/roblox-verlet](https://github.com/jaipack17/roblox-verlet) | 0 | Verlet-integratie projecten in GUI's (touw, doek) |
 | [ninjaninja140/basix-ui](https://github.com/ninjaninja140/basix-ui) | 0 | roblox-ts-implementatie van mui/base-ui (headless componenten) |
+| [emdomanus/facet](https://github.com/emdomanus/facet) | 0 | Camera-aware 3D UI-surface-primitives |
+| [ocauapaz/rbx-blocktext](https://github.com/ocauapaz/rbx-blocktext) | 0 | Zwevende 3D-tekst uit verende kubussen met gradients, transities en touch-interactie |
 
 ## Camera & cutscenes
 
-Camera-shake, custom camera's, cutscene-tools en timelines. (20 repos)
+Camera-shake, custom camera's, cutscene-tools en timelines. (27 repos)
 
 | Repo | ⭐ | Wat het doet |
 |---|---:|---|
@@ -910,6 +917,8 @@ Camera-shake, custom camera's, cutscene-tools en timelines. (20 repos)
 | [mlwre-off/RoPlay](https://github.com/mlwre-off/RoPlay) | 2 | Replay-recorder en editor (zoals Minecraft Replay Mod) met camera-keyframes |
 | [TylrPopcorn/Floating-Camera-Part](https://github.com/TylrPopcorn/Floating-Camera-Part) | 2 | Camera-manipulatie met zwevende camera-part |
 | [higuysimaugust/procam](https://github.com/higuysimaugust/procam) | 2 | Fork van freecam met 50+ nieuwe features en fixes |
+| [magicoal-nerb/mini-player-module](https://github.com/magicoal-nerb/mini-player-module) | 2 | Nagebouwde PlayerModule met de oude Roblox-cameratypes |
+| [rookie-codes/Realism-System](https://github.com/rookie-codes/Realism-System) | 2 | Maakt het eigen character zichtbaar in first person (body-cam-gevoel) |
 | [Reapimus/grims-cutscene-engine](https://github.com/Reapimus/grims-cutscene-engine) | 1 | Cutscene-systeem + plugin |
 | [nilleniumrust/SpringShaker](https://github.com/nilleniumrust/SpringShaker) | 1 | Camera-shaker met springs + Perlin noise |
 | [Seftube/RobloxCameraSystem](https://github.com/Seftube/RobloxCameraSystem) | 1 | Realistisch camerasysteem (volledig lokaal) |
@@ -917,6 +926,11 @@ Camera-shake, custom camera's, cutscene-tools en timelines. (20 repos)
 | [emdomanus/pulse](https://github.com/emdomanus/pulse) | 0 | Timeline-runtime voor VFX, skill-timelines en cutscenes |
 | [netslashh/EasyCutscene2](https://github.com/netslashh/EasyCutscene2) | 0 | Cinematische camera-sequences met cinematic bars |
 | [NikMusy/apex-cinematic-cam](https://github.com/NikMusy/apex-cinematic-cam) | 0 | Cinematic camera: freecam, tracking, keyframe-paden, auto-regie |
+| [biotoxin495/CameraKit](https://github.com/biotoxin495/CameraKit) | 0 | Lichtgewicht client-side camera-utility |
+| [sysscan/Roblox-FPS-Camera](https://github.com/sysscan/Roblox-FPS-Camera) | 0 | Camera voor geforceerde first-person shooters |
+| [Judash399/SimpleShaker](https://github.com/Judash399/SimpleShaker) | 0 | Eenvoudig camera-shake-systeem |
+| [zKozie/CameraSystem](https://github.com/zKozie/CameraSystem) | 0 | Config-gedreven twee-laags camera: state-camera's plus one-shot action-overlays die terugblenden |
+| [JRmcnugget/Viewpoint](https://github.com/JRmcnugget/Viewpoint) | 0 | Vloeiende, sterk aanpasbare third-person camera |
 
 ## Audio
 
@@ -2168,7 +2182,7 @@ Runtimes, sync-tools, package managers, asset-pipelines, CI en docs. (387 repos)
 
 ## Studio-plugins
 
-Handige plugins voor bouwen, terrain, UI en workflow. (90 repos)
+Handige plugins voor bouwen, terrain, UI en workflow. (92 repos)
 
 | Repo | ⭐ | Wat het doet |
 |---|---:|---|
@@ -2262,10 +2276,12 @@ Handige plugins voor bouwen, terrain, UI en workflow. (90 repos)
 | [Apisalam/BloxQA](https://github.com/Apisalam/BloxQA) | 0 | Plugin voor geautomatiseerde QA en gameplay-tests |
 | [raineyraine/plugin-components](https://github.com/raineyraine/plugin-components) | 0 | React-componenten voor het bouwen van Studio-plugins |
 | [arduoussteel/scatter-brush](https://github.com/arduoussteel/scatter-brush) | 0 | Plugin: bomen, rotsen en props als met een kwast op terrain schilderen |
+| [Dekkonot/camera-light-plugin](https://github.com/Dekkonot/camera-light-plugin) | 0 | Plugin die een lamp aan de Studio-camera hangt |
+| [Mystifine/ModelLens](https://github.com/Mystifine/ModelLens) | 0 | Render en exporteer PNG-thumbnails van modellen in Studio (transparant, batch) |
 
 ## Leren, open-source games & collecties
 
-Artikelen, complete open-source games, templates en curated lijsten. (179 repos)
+Artikelen, complete open-source games, templates en curated lijsten. (180 repos)
 
 | Repo | ⭐ | Wat het doet |
 |---|---:|---|
@@ -2448,6 +2464,7 @@ Artikelen, complete open-source games, templates en curated lijsten. (179 repos)
 | [mkepg/body-swap-royale](https://github.com/mkepg/body-swap-royale) | 0 | Party-game waarin spelers periodiek van avatar wisselen |
 | [CorixDev/roblox-tycoon-framework](https://github.com/CorixDev/roblox-tycoon-framework) | 0 | Server-authoritative restaurant/tycoon-backend in strict Luau |
 | [SofiSubbotina/BridgeRun](https://github.com/SofiSubbotina/BridgeRun) | 0 | Multiplayer bruggenbouw-runner met object pooling |
+| [uxabix/TFC-Horror](https://github.com/uxabix/TFC-Horror) | 0 | Open-source coöp-horrorgame (drive-thru, bewakingscamera's, anomalieën) |
 
 ## Uitbreiden
 

@@ -183,5 +183,6 @@ Artikelen, complete open-source games, templates en curated lijsten.
 | [mkepg/body-swap-royale](https://github.com/mkepg/body-swap-royale) | 0 | Party-game waarin spelers periodiek van avatar wisselen |
 | [CorixDev/roblox-tycoon-framework](https://github.com/CorixDev/roblox-tycoon-framework) | 0 | Server-authoritative restaurant/tycoon-backend in strict Luau |
 | [SofiSubbotina/BridgeRun](https://github.com/SofiSubbotina/BridgeRun) | 0 | Multiplayer bruggenbouw-runner met object pooling |
+| [uxabix/TFC-Horror](https://github.com/uxabix/TFC-Horror) | 0 | Open-source coöp-horrorgame (drive-thru, bewakingscamera's, anomalieën) |
 
 [← Terug naar overzicht](../README.md)

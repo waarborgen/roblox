@@ -2251,3 +2251,20 @@ vfx	break-core/DrawTriangle	1	Snelle DrawTriangle-implementatie voor EditableIma
 landscape	Smurfis/RBLX-EditableMesh-Water-FirstPerson	0	EditableMesh-water voor first-person games
 wild	TateoDev/Editable-Image-raycaster	0	3DSage-achtige raycaster-engine op EditableImage met wandtexturen
 tooling	theprofessionalatthings576/roblox-colour-by-number	0	Kleur-op-nummer-systeem: afbeeldingen tonen zonder EditableImage-ID-verificatie
+camera	magicoal-nerb/mini-player-module	2	Nagebouwde PlayerModule met de oude Roblox-cameratypes
+camera	rookie-codes/Realism-System	2	Maakt het eigen character zichtbaar in first person (body-cam-gevoel)
+camera	biotoxin495/CameraKit	0	Lichtgewicht client-side camera-utility
+camera	sysscan/Roblox-FPS-Camera	0	Camera voor geforceerde first-person shooters
+ui	emdomanus/facet	0	Camera-aware 3D UI-surface-primitives
+camera	Judash399/SimpleShaker	0	Eenvoudig camera-shake-systeem
+camera	zKozie/CameraSystem	0	Config-gedreven twee-laags camera: state-camera's plus one-shot action-overlays die terugblenden
+plugins	Dekkonot/camera-light-plugin	0	Plugin die een lamp aan de Studio-camera hangt
+camera	JRmcnugget/Viewpoint	0	Vloeiende, sterk aanpasbare third-person camera
+animation	purpulhq/character-tilt	0	Kantelt het character mee met de kijkrichting van de camera
+vfx	sudoserver819/ClientCulling	0	Camera-gebaseerde occlusion culling voor performance
+movement	Terrani-3/movement-system	0	Movement-feel: camera-tilt, dynamische FOV en directionele animatie-blending
+combat	Xijum/Xijum-Weapon-System	0	Uitgebreid client-server wapensysteem met camera, animaties en modulaire configs
+ui	ocauapaz/rbx-blocktext	0	Zwevende 3D-tekst uit verende kubussen met gradients, transities en touch-interactie
+learn	uxabix/TFC-Horror	0	Open-source coöp-horrorgame (drive-thru, bewakingscamera's, anomalieën)
+plugins	Mystifine/ModelLens	0	Render en exporteer PNG-thumbnails van modellen in Studio (transparant, batch)
+movement	chroma-hade/Roblox-2D-Movement	0	2D-movement en camerasysteem
