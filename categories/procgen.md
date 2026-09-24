@@ -12,6 +12,7 @@ Voxels, dungeons, doolhoven, wave function collapse, noise en curves.
 | [bstummer/bezier](https://github.com/bstummer/bezier) | 12 | Bézier-curves van elke graad met arc-length parametrisatie |
 | [vocksel/geo](https://github.com/vocksel/geo) | 12 | Geometrische vormherkenning (gebaren tekenen → vorm) |
 | [bstummer/matrix](https://github.com/bstummer/matrix) | 4 | Matrix-wiskunde (determinant, inverse, transformaties) |
+| [sammy0127/WavyRobloxObby](https://github.com/sammy0127/WavyRobloxObby) | 4 | Obby procedureel gegenereerd met Python |
 | [AshR-03/Greedy-Procedural-Maze-Generation-in-Lua](https://github.com/AshR-03/Greedy-Procedural-Maze-Generation-in-Lua) | 3 | Stack-gebaseerde procedurele doolhoven |
 | [RyanChang25/Dungeon-Generation-Service](https://github.com/RyanChang25/Dungeon-Generation-Service) | 3 | Semi-procedurele dungeon-layouts |
 | [nightcycle/node](https://github.com/nightcycle/node) | 3 | Node-netwerken + wave function collapse generatie |
@@ -21,7 +22,9 @@ Voxels, dungeons, doolhoven, wave function collapse, noise en curves.
 | [Mythus-Z/Procedural-Dungeon-Generation-Roblox-](https://github.com/Mythus-Z/Procedural-Dungeon-Generation-Roblox-) | 1 | Voxel-dungeons: 2000 kamers / 100k voxels in < 1 seconde |
 | [Bryan0-0AG/Procedural-Dungeon-Generator_Roblox-Studio](https://github.com/Bryan0-0AG/Procedural-Dungeon-Generator_Roblox-Studio) | 1 | Vertakkende dungeons met gewogen kamer-templates en collision-checks |
 | [MingauRM/noisepp](https://github.com/MingauRM/noisepp) | 1 | Extra noise-types voorbij math.noise |
+| [ddavness/curve](https://github.com/ddavness/curve) | 1 | Analytisch gedefinieerde 3D-curves maken en beheren |
 | [D3-4D/MGen](https://github.com/D3-4D/MGen) | 0 | Backtracking doolhof-algoritme |
 | [noahssjursen-code/proceduralObbyRobloxStudio](https://github.com/noahssjursen-code/proceduralObbyRobloxStudio) | 0 | Procedureel gegenereerde obby's |
+| [Arav-ThewebMaker/Roblox-Maze-System](https://github.com/Arav-ThewebMaker/Roblox-Maze-System) | 0 | Doolhoven genereren én oplossen |
 
 [← Terug naar overzicht](../README.md)

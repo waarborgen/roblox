@@ -11,6 +11,7 @@ Terrain-generators, echte kaarten, grotten, oceanen, foliage, dag/nacht en weer.
 | [tiffany352/Roblox-Terrain-Generator](https://github.com/tiffany352/Roblox-Terrain-Generator) | 11 | Framework voor terrain-generators |
 | [Francessco121/roblox-classic-terrain-tools](https://github.com/Francessco121/roblox-classic-terrain-tools) | 11 | Klassiek (blok)terrain importeren in moderne places |
 | [TheArturZh/RTerrainGenerator](https://github.com/TheArturZh/RTerrainGenerator) | 8 | Procedurele terrain-generator (MIT) |
+| [Tunahan-Uysal/RoGen](https://github.com/Tunahan-Uysal/RoGen) | 8 | Afbeelding → 3D-map generator (Python + Lune) |
 | [Klingaac/WorldLoader-Roblox-Plugin](https://github.com/Klingaac/WorldLoader-Roblox-Plugin) | 7 | Echte plekken nabouwen: OpenStreetMap + hoogtedata → terrain, gebouwen, wegen en spoorlijnen |
 | [Quenty/PartToTerrainPlugin](https://github.com/Quenty/PartToTerrainPlugin) | 7 | Parts naar terrain met behoud van onderliggend terrain |
 | [GeoCodeCrafter/Cave](https://github.com/GeoCodeCrafter/Cave) | 6 | Procedurele mijnen/grotten: elke server een nieuwe mijn, alle grotten verbonden |
@@ -26,6 +27,7 @@ Terrain-generators, echte kaarten, grotten, oceanen, foliage, dag/nacht en weer.
 | [Axxerus/Roblox-Procedural-Ocean](https://github.com/Axxerus/Roblox-Procedural-Ocean) | 2 | Procedurele oceaan |
 | [Redon-Tech/Weather-Systems](https://github.com/Redon-Tech/Weather-Systems) | 2 | Weer-systeem plugin (gerepareerde TwentyTwoPilots-versie) |
 | [MrChickenRocket/sdf-procedural-toolkit](https://github.com/MrChickenRocket/sdf-procedural-toolkit) | 2 | SDF-meshes genereren (Surface Nets + QEM) → MeshPart, van de Chickynoid-maker |
+| [BrakingF1/Ro-Racing-Tracks](https://github.com/BrakingF1/Ro-Racing-Tracks) | 2 | Racecircuits als open-source assets |
 | [onlymateo/roblox-ocean-wave-generation](https://github.com/onlymateo/roblox-ocean-wave-generation) | 1 | Dynamische oceaan: golven, drijven, onderwater-effecten |
 | [TaylorDevGD/Roblox-Terrain-Storage-Repo](https://github.com/TaylorDevGD/Roblox-Terrain-Storage-Repo) | 1 | Terrain opslaan/verplaatsen zoals parts (naar ReplicatedStorage) |
 | [goldenstein64/InfiniteTerrain](https://github.com/goldenstein64/InfiniteTerrain) | 1 | Configureerbaar oneindig terrain (door 5uphi) |
@@ -35,11 +37,20 @@ Terrain-generators, echte kaarten, grotten, oceanen, foliage, dag/nacht en weer.
 | [mateusdcc/plant-generator](https://github.com/mateusdcc/plant-generator) | 1 | Deterministische procedurele planten/bomen met L-systems (roblox-ts) |
 | [Distracted-Games/ProDayNightCycle](https://github.com/Distracted-Games/ProDayNightCycle) | 1 | Configureerbare, event-driven dag/nacht-cyclus |
 | [stravant/roblox-roadhelper](https://github.com/stravant/roblox-roadhelper) | 1 | Helper voor procedurele wegsegmenten |
+| [CaidenSteele05/Procedural-3D-Terrain-Generator](https://github.com/CaidenSteele05/Procedural-3D-Terrain-Generator) | 1 | Noise-heightmaps, biome-kleuren en chunk-loading rond de speler |
+| [adrian-alberto/minimap_renderer](https://github.com/adrian-alberto/minimap_renderer) | 1 | Rendert minimaps uit heightmap-data (Pirates Life) |
 | [PCN29/sea-game](https://github.com/PCN29/sea-game) | 0 | Realtime FFT-oceaan met displacement voor naval/open-world games |
 | [stravant/roblox-pullup](https://github.com/stravant/roblox-pullup) | 0 | Terrain-editor plugin van stravant |
 | [GravyPouch/RobloxTerrainCreator](https://github.com/GravyPouch/RobloxTerrainCreator) | 0 | Web-tool: biomes schilderen in 2D, 3D preview, direct importeren in Studio |
 | [Avenze/proceduralterrain-repository](https://github.com/Avenze/proceduralterrain-repository) | 0 | Eindeloos smooth procedural terrain |
 | [gcmodev/robloxcitygenerator](https://github.com/gcmodev/robloxcitygenerator) | 0 | Procedurele stad-generator plugin |
 | [KashTheKing/ocean](https://github.com/KashTheKing/ocean) | 0 | Oneindige Gerstner-golf oceaan op EditableMesh |
+| [raxdiusid/ForestGen](https://github.com/raxdiusid/ForestGen) | 0 | Bomen/bossen genereren |
+| [R3velation/SnowFX](https://github.com/R3velation/SnowFX) | 0 | Sneeuw-effectsysteem |
+| [SuperInstance/luau-biome](https://github.com/SuperInstance/luau-biome) | 0 | Deterministische biome-generatie met 10 zones en seeds |
+| [Angryblobfish/Roblox-Infinite-Terrain](https://github.com/Angryblobfish/Roblox-Infinite-Terrain) | 0 | Oneindig terrain met biomes en foliage, performance-gericht |
+| [Gzeu/roblox-procedural-worlds](https://github.com/Gzeu/roblox-procedural-worlds) | 0 | Collectie: biomes, terrain, grotten en chunk-generatie |
+| [ryan-c-scott/roblox-leveler](https://github.com/ryan-c-scott/roblox-leveler) | 0 | Tiled-kaarten omzetten naar heightmap-terrain, water en objecten |
+| [mateirenn/solum](https://github.com/mateirenn/solum) | 0 | Local-first terrain-authoring studio (Tauri) voor Roblox |
 
 [← Terug naar overzicht](../README.md)

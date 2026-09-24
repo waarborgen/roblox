@@ -23,17 +23,22 @@ Character controllers, ragdolls, destructie, parkour en eigen physics-engines.
 | [jaipack17/GuiCollisionService](https://github.com/jaipack17/GuiCollisionService) | 9 | Collision-detectie tussen GUI-elementen (2D-games) |
 | [Brawldude2/RagdollService](https://github.com/Brawldude2/RagdollService) | 7 | Ragdoll-module voor alle rig-types |
 | [Fizzyhex/BufferModule](https://github.com/Fizzyhex/BufferModule) | 7 | Input-latency oplossen bij physics-items (gooien/vasthouden) |
+| [fewkz/character-realism](https://github.com/fewkz/character-realism) | 7 | Verbeterde fork van Character-Realism |
 | [ScriptBreakpoint-QK/Realistic-Water-Simulation](https://github.com/ScriptBreakpoint-QK/Realistic-Water-Simulation) | 5 | Realistische water-physics |
 | [jaipack17/RayCast2](https://github.com/jaipack17/RayCast2) | 4 | Raycasting voor GUI's (2D) |
+| [TheSecondTry/RobloxTAS](https://github.com/TheSecondTry/RobloxTAS) | 4 | Tool-assisted speedrun (TAS) opnemen en afspelen |
 | [AngrySalt/Roblox-Grabbing-System](https://github.com/AngrySalt/Roblox-Grabbing-System) | 3 | Physics-based oppakken en slepen (Cook Burgers-stijl) |
 | [Ecliptorhizes/Hooksystem](https://github.com/Ecliptorhizes/Hooksystem) | 2 | Dubbele grappling hooks: swingen, in/uit rollen, boost |
 | [evilbocchi/jconveyor](https://github.com/evilbocchi/jconveyor) | 2 | Gesimuleerde lopende-band physics voor tycoons |
 | [lun-lun-lun-lun/demolish](https://github.com/lun-lun-lun-lun/demolish) | 2 | Voxel-destructie physics (roblox-ts) |
 | [jaipack17/rope-swinging](https://github.com/jaipack17/rope-swinging) | 2 | 2D touw-swing physics met GUI's |
+| [HappGamr/New-Wall-Collision-Maker](https://github.com/HappGamr/New-Wall-Collision-Maker) | 2 | Maakt extra collision voor te dunne muren (tegen doorglippen) |
 | [JonasBuffington/Voxel-Carver](https://github.com/JonasBuffington/Voxel-Carver) | 1 | Geparallelliseerde voxel-destructie, deformatie en slicing |
 | [welcomestohell/obby-physics](https://github.com/welcomestohell/obby-physics) | 1 | EnhancedCharacterPhysics als module (betere obby-beweging) |
 | [Project-Ptolemy/Project-Gravity-02](https://github.com/Project-Ptolemy/Project-Gravity-02) | 1 | Losse parts in vormen rond je laten zweven met constraints |
 | [magicoal-nerb/quakem](https://github.com/magicoal-nerb/quakem) | 1 | Quake-beweging (strafe-jumping, bhop) |
+| [Kyr4vex/roblox-ball-movement](https://github.com/Kyr4vex/roblox-ball-movement) | 1 | Ballen-movement: speler zit in een rollende bal |
+| [kalidrios/B.E.P](https://github.com/kalidrios/B.E.P) | 1 | Destructie-simulator engine met client micro-batch debris |
 | [thezoMx/grappling-hook-roblox](https://github.com/thezoMx/grappling-hook-roblox) | 0 | Momentum-movement: grappling hook, wallrun, dash, slide op eigen physics |
 | [ashreigns/advanced-luau-parkour-engine](https://github.com/ashreigns/advanced-luau-parkour-engine) | 0 | Modulair OOP movement/parkour-framework |
 | [mimatic/ClimbingSystems](https://github.com/mimatic/ClimbingSystems) | 0 | Klimsysteem dat ook met Roblox-terrain werkt |
@@ -42,5 +47,13 @@ Character controllers, ragdolls, destructie, parkour en eigen physics-engines.
 | [kipuki/skydiving-game-mechanics](https://github.com/kipuki/skydiving-game-mechanics) | 0 | Skydiving-mechanics |
 | [Zyn-ic/LedgeGrabLogic](https://github.com/Zyn-ic/LedgeGrabLogic) | 0 | Ledge-grab detectie en snapping |
 | [SilverLaw999/roblox-physics-simulation](https://github.com/SilverLaw999/roblox-physics-simulation) | 0 | Verlet-physics: vloeistof die klotst, doek in de wind, constraint solving |
+| [spavdigital/roblox-sprint-stamina](https://github.com/spavdigital/roblox-sprint-stamina) | 0 | Server-authoritative sprinten + stamina |
+| [Caram3lInu/GrabSystem](https://github.com/Caram3lInu/GrabSystem) | 0 | Grab-systeem (objecten oppakken) |
+| [unixtensor/OpenXen](https://github.com/unixtensor/OpenXen) | 0 | Physics- en collision-engine vanaf nul in Luau |
+| [mkl48/Chunkr](https://github.com/mkl48/Chunkr) | 0 | Teardown-achtige voxel-destructie: rigid bodies, fracture-patronen, structurele stress |
+| [debugasync/Rubble](https://github.com/debugasync/Rubble) | 0 | Lokale destructie op impactpunt via GeometryService fragment-API |
+| [darel919/kemudi](https://github.com/darel919/kemudi) | 0 | Soft-body physics (WIP) |
+| [ramsa-rgb/Rope-Type-Elevator](https://github.com/ramsa-rgb/Rope-Type-Elevator) | 0 | Lift aan kabels via de physics-engine |
+| [Pepsied-5229/RBX-Constraints](https://github.com/Pepsied-5229/RBX-Constraints) | 0 | Voorbeelden van alle soorten physics-constraints |
 
 [← Terug naar overzicht](../README.md)

@@ -16,9 +16,13 @@ Melee-hitboxes, projectielen, guns, lag-compensatie en zones.
 | [skyriverstudios/Zoner](https://github.com/skyriverstudios/Zoner) | 10 | Gebruiksvriendelijke zone-queries |
 | [howmanysmall/fast-rotated-region3](https://github.com/howmanysmall/fast-rotated-region3) | 5 | Snellere GJK rotated region3 (collisie-checks) |
 | [vbaumel1337/central](https://github.com/vbaumel1337/central) | 4 | Server-authoritative hitbox/ray/shapecast queries met latency-compensatie |
+| [shmove/roblox-melee-movement-system](https://github.com/shmove/roblox-melee-movement-system) | 4 | Melee- en movement-scripts |
 | [datlass/Turret-Controller](https://github.com/datlass/Turret-Controller) | 3 | Turret-controller (richten met constraints) |
+| [TheRealUwie/OpenRBLXFightEngine](https://github.com/TheRealUwie/OpenRBLXFightEngine) | 3 | Open-source fighting-game engine |
 | [weebweeb/ParticleGun_rbx](https://github.com/weebweeb/ParticleGun_rbx) | 2 | Projectielen gevisualiseerd met ParticleEmitters (goedkoop, veel kogels) |
 | [Lolekic/HomingCast](https://github.com/Lolekic/HomingCast) | 2 | Gesimuleerde homing-projectielen zonder Roblox-physics |
+| [WBlair1/roblox-bg-system](https://github.com/WBlair1/roblox-bg-system) | 2 | Battlegrounds-systeem met skills en effects (op WCS) |
+| [Gskartwii/roblox-sf-analysis](https://github.com/Gskartwii/roblox-sf-analysis) | 2 | Analytische engine voor sword fighting (declaratief) |
 | [dodisteigmeier807-coder/RollbackNet](https://github.com/dodisteigmeier807-coder/RollbackNet) | 1 | Experimenteel: rollback lag-compensatie + recoil-validatie met buffers |
 | [REALEncryptal/Hindsight](https://github.com/REALEncryptal/Hindsight) | 1 | Gegeneraliseerde hit-detectie met lag-compensated rollback voor guns |
 | [monobrov1234/CombatSystems](https://github.com/monobrov1234/CombatSystems) | 1 | Voertuig- en wapen-library |
@@ -30,9 +34,15 @@ Melee-hitboxes, projectielen, guns, lag-compensatie en zones.
 | [jiwonz/bump.luau](https://github.com/jiwonz/bump.luau) | 1 | Collision-detectie library (bump.lua) |
 | [nsawill1405/Hitbox-Plus](https://github.com/nsawill1405/Hitbox-Plus) | 1 | Spatial-query hitboxes met lag-compensatie hooks en debug-visualisatie |
 | [Kyr4vex/predictive-bullet-path](https://github.com/Kyr4vex/predictive-bullet-path) | 1 | Kogel-ricochet voorspellen en tonen, met glas dat breekt |
+| [jun-ro/SCF](https://github.com/jun-ro/SCF) | 1 | Simple Combat Framework voor combat-games |
 | [banowey/roblox-server-authoritative-gun-system](https://github.com/banowey/roblox-server-authoritative-gun-system) | 0 | Raycast-guns met lag-compensatie en wapen-inheritance |
 | [Synphrax/roblox-combat-system](https://github.com/Synphrax/roblox-combat-system) | 0 | Rojo combat-prototype: blocking, combo's, state management |
 | [jjophoven/ProtomainsOfEastAndWest](https://github.com/jjophoven/ProtomainsOfEastAndWest) | 0 | Pokémon-achtig battle-systeem |
 | [Vasco888888/sword-duelists](https://github.com/Vasco888888/sword-duelists) | 0 | Zwaardduel-game |
+| [text21/Rewind](https://github.com/text21/Rewind) | 0 | Lag-compensatie framework voor hit-validatie, projectielen en melee |
+| [tralfa42real/roblox-combat-framework](https://github.com/tralfa42real/roblox-combat-framework) | 0 | Server-authoritative combat: combo's, cooldowns, stamina |
+| [voidxz9999/roblox-skill-system](https://github.com/voidxz9999/roblox-skill-system) | 0 | Modulair skill-systeem |
+| [DanieiR/Roblox-Fishing-Fight-System](https://github.com/DanieiR/Roblox-Fishing-Fight-System) | 0 | Deterministische vis-minigame (server-authoritative) |
+| [Aeronautiac/ffRpgLuau](https://github.com/Aeronautiac/ffRpgLuau) | 0 | Fighting/RPG-core met client prediction en ping-compensatie |
 
 [← Terug naar overzicht](../README.md)

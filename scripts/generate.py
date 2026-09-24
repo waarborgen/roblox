@@ -41,7 +41,7 @@ CATEGORIES = {
 
 def load():
     with DATA.open(encoding="utf-8") as f:
-        rows = list(csv.DictReader(f, delimiter="\t"))
+        rows = list(csv.DictReader(f, delimiter="\t", quoting=csv.QUOTE_NONE))
     for r in rows:
         r["stars"] = int(r["stars"])
         if r["category"] not in CATEGORIES:

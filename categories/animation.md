@@ -43,8 +43,17 @@ Animatie-solvers, IK, Blender/Mixamo-pipelines, procedurele animatie en springs.
 | [Moonpigguy/hl2strider](https://github.com/Moonpigguy/hl2strider) | 1 | Half-Life 2 Strider met IK-procedurele animatie |
 | [Ehonix/Dynamo](https://github.com/Ehonix/Dynamo) | 1 | Procedurele animator |
 | [skatingii/PerfectSequencer](https://github.com/skatingii/PerfectSequencer) | 1 | Frame-accurate events, ook gelockt aan de timeline van een AnimationTrack |
+| [thezoMx/keyframe_uploader](https://github.com/thezoMx/keyframe_uploader) | 1 | Plugin die keyframe-sequences automatisch uploadt |
+| [RAMPAGELLC/RBLXKeyframePlayer](https://github.com/RAMPAGELLC/RBLXKeyframePlayer) | 1 | Speelt KeyframeSequences af zonder massa-upload van animatie-ID's |
+| [worhasdev/Emote-Class-ROBLOX](https://github.com/worhasdev/Emote-Class-ROBLOX) | 1 | Emote-class met animatie + muziek |
 | [Alphanumeriic/roblox-procedural-ik-spider](https://github.com/Alphanumeriic/roblox-procedural-ik-spider) | 0 | Procedurele IK-spin (poten die zich aan de grond aanpassen) |
 | [Zekiah-A/dream-roblox-blender-rig](https://github.com/Zekiah-A/dream-roblox-blender-rig) | 0 | Blender-rig met IK, custom bones en wisselbare gezichten |
 | [emdomanus/anatomy](https://github.com/emdomanus/anatomy) | 0 | Rig/addon-anatomie: named sockets, surfaces, mounts (accessoires aan rigs koppelen) |
+| [CodedBunny/Roblox-Rootmotion](https://github.com/CodedBunny/Roblox-Rootmotion) | 0 | Root motion voor animaties (strict typed) |
+| [Storm99999/Motionflow](https://github.com/Storm99999/Motionflow) | 0 | Compacte animatie-engine |
+| [gyutedy/FLOTTE-FERRUS](https://github.com/gyutedy/FLOTTE-FERRUS) | 0 | Pipeline: FBX-mocap naar Roblox R15 |
+| [Naresh-x86/Mocap-Demo](https://github.com/Naresh-x86/Mocap-Demo) | 0 | Tech-demo van Studio's video-naar-mocap |
+| [Aymdma/Roblox-Mocap](https://github.com/Aymdma/Roblox-Mocap) | 0 | Motion capture (Python) naar Roblox |
+| [realllityyt/myanimator](https://github.com/realllityyt/myanimator) | 0 | Animaties per ledemaat mixen: crossfade, additive layers, events |
 
 [← Terug naar overzicht](../README.md)

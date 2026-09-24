@@ -15,5 +15,8 @@ Full-body VR, SteamVR-trackers en webcam-tracking.
 | [IITPP-Roblox/VR-Bottom-Bar](https://github.com/IITPP-Roblox/VR-Bottom-Bar) | 4 | Extra VR-balk voor eigen knoppen |
 | [twhlynch/Roblox2Grab](https://github.com/twhlynch/Roblox2Grab) | 3 | Roblox-map exporteren naar de VR-game Grab |
 | [hakusoda/HAKUREALITY](https://github.com/hakusoda/HAKUREALITY) | 2 | Experimenteel VR-systeem |
+| [4x8Matrix/Hoku](https://github.com/4x8Matrix/Hoku) | 1 | VR-overlay engine in Luau |
+| [mathken029/vr-roblox-kit](https://github.com/mathken029/vr-roblox-kit) | 0 | Open-source VR game-development kit |
+| [Metatable-Games/MetaVR](https://github.com/Metatable-Games/MetaVR) | 0 | VR-framework in Luau |
 
 [← Terug naar overzicht](../README.md)

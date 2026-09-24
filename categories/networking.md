@@ -22,12 +22,24 @@ Buffer-netcode, IDL-compilers, encryptie en eigen replicatie.
 | [AlexanderLindholt/PacketPlus](https://github.com/AlexanderLindholt/PacketPlus) | 8 | Verbeterde versie van de Packet networking-library |
 | [vocksel/matter-replication](https://github.com/vocksel/matter-replication) | 7 | Replicatie voor Matter ECS |
 | [dig1t/red](https://github.com/dig1t/red) | 6 | Event-driven server↔client en server↔server communicatie |
+| [optimisticside/messenger](https://github.com/optimisticside/messenger) | 6 | Lichtgewicht cross-server messaging |
 | [CavefulGames/HandyNet](https://github.com/CavefulGames/HandyNet) | 5 | Handigere ByteNet-fork |
 | [tacheometry/SimpleSignals](https://github.com/tacheometry/SimpleSignals) | 5 | RemoteEvents zonder boilerplate |
+| [Mullets-Gavin/Network](https://github.com/Mullets-Gavin/Network) | 5 | Wrapper rond remotes en bindables |
+| [iconmaster5326/RbxRPC](https://github.com/iconmaster5326/RbxRPC) | 4 | RemoteEvents automatisch beheren (RPC) |
+| [Stratiz/DataStream](https://github.com/Stratiz/DataStream) | 4 | Data-replicatie-oplossing |
 | [cg955gtr/SwitchNet](https://github.com/cg955gtr/SwitchNet) | 3 | Snelle networking die bandbreedte en overhead verlaagt |
 | [walksanatora/WorldQL_RBXL](https://github.com/walksanatora/WorldQL_RBXL) | 3 | Servers syncen met WorldQL (gedeelde wereld over servers) |
+| [8ch32bit/ReplicatedTweening](https://github.com/8ch32bit/ReplicatedTweening) | 3 | Tweens op de server maken die soepel op clients afspelen |
+| [HylianBasement/netbuilder](https://github.com/HylianBasement/netbuilder) | 3 | Declaratieve networking-library |
 | [demi-dog/duplecs](https://github.com/demi-dog/duplecs) | 2 | Gegeneraliseerde high-performance replicatie voor jecs (ECS) |
+| [rbxxaxa/replicant](https://github.com/rbxxaxa/replicant) | 2 | Server-authoritative gerepliceerde componenten |
 | [isoopod/PakNet](https://github.com/isoopod/PakNet) | 1 | Geschematiseerde networking-library |
+| [andrian-syh/rblx-twill](https://github.com/andrian-syh/rblx-twill) | 1 | Modulair framework: boot order, bewaakte networking, state-replicatie |
+| [bainchild/rpc2-rs](https://github.com/bainchild/rpc2-rs) | 1 | Bidirectionele RPC tussen Roblox en Rust |
 | [debugasync/FogWar](https://github.com/debugasync/FogWar) | 0 | Fog-of-war replicatie: clients krijgen alleen posities die ze echt kunnen zien (anti-wallhack) |
+| [ujji-k06/remotelens](https://github.com/ujji-k06/remotelens) | 0 | Remote-activiteit meten (netwerk-instrumentatie) |
+| [thekingofspace/Reflect](https://github.com/thekingofspace/Reflect) | 0 | Sync-systeem |
+| [ocauapaz/BTYN](https://github.com/ocauapaz/BTYN) | 0 | Networking-compiler: schema naar gebatchte, delta-encoded Luau |
 
 [← Terug naar overzicht](../README.md)
