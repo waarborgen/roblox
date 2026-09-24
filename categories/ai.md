@@ -42,7 +42,7 @@ Neurale netwerken, behavior trees, pathfinding, boids en LLM-NPC's.
 | [sebastianboscan/roblox-ai-npc](https://github.com/sebastianboscan/roblox-ai-npc) | 0 | NPC's die natuurlijke taal via TextGenerator omzetten in acties |
 | [Murned/roblox-boid-flocking](https://github.com/Murned/roblox-boid-flocking) | 0 | Drone-zwerm met Reynolds' boids + spatial grid |
 
-## Uitgebreide index (139)
+## Uitgebreide index (141)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -127,6 +127,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [HmmmThinking/-Lua-Npc-teleporter](https://github.com/HmmmThinking/-Lua-Npc-teleporter) | 0 | TPS to npcs in roblox |
 | [hotdog9955/Roblox_Learn](https://github.com/hotdog9955/Roblox_Learn) | 0 | roblox machine learning library |
 | [i3Crk/DialogService](https://github.com/i3Crk/DialogService) | 0 | A service to aid Roblox developers in standardizing dialog handlers for their games' NPC interactions. |
+| [IsaganiI/RBLX-Website-](https://github.com/IsaganiI/RBLX-Website-) | 0 | Roblox machine learning model host. |
 | [iscode0/NanoRBX](https://github.com/iscode0/NanoRBX) | 0 | Nano (or NanoRBX) is a machine learning/deep learning/reinforcement learning library for Roblox studio |
 | [JayJay648/roblox-restaurant-system](https://github.com/JayJay648/roblox-restaurant-system) | 0 | A Roblox restaurant system with ID management for NPCs, items, and locations |
 | [jdaviddg077/roblox-npc-proxy](https://github.com/jdaviddg077/roblox-npc-proxy) | 0 | (geen omschrijving op GitHub) |
@@ -153,6 +154,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [nabilarbee/Kidocode-NPCTeacher](https://github.com/nabilarbee/Kidocode-NPCTeacher) | 0 | Teacher NPC in Roblox that utilises FSM |
 | [nagah1tam-store/Nagahitam](https://github.com/nagah1tam-store/Nagahitam) | 0 | Website top up game otomatis Naga Hitam Store (ML, FF, PUBG, Valorant, Roblox, FC Mobile) |
 | [NathanL15/ObbyRL](https://github.com/NathanL15/ObbyRL) | 0 | some reinforcement learning tinkering in roblox |
+| [Nick-The-Moon/Roblox-Finite-State-Machine](https://github.com/Nick-The-Moon/Roblox-Finite-State-Machine) | 0 | A request-driven gameplay FSM architecture for scalable and deterministic state orchestration. |
 | [npocodes/Cortex](https://github.com/npocodes/Cortex) | 0 | NPC Framework for Roblox |
 | [OfficalIDontCode/roblox-healthbar-poc](https://github.com/OfficalIDontCode/roblox-healthbar-poc) | 0 | Roblox boss/NPC health bar + item drop feed (roblox-ts, Flamework, React) |
 | [OverlineJunior/rbxts-state-machine](https://github.com/OverlineJunior/rbxts-state-machine) | 0 | (geen omschrijving op GitHub) |

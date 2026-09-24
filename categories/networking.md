@@ -95,7 +95,7 @@ Buffer-netcode, IDL-compilers, encryptie en eigen replicatie.
 | [thekingofspace/Reflect](https://github.com/thekingofspace/Reflect) | 0 | Sync-systeem |
 | [ocauapaz/BTYN](https://github.com/ocauapaz/BTYN) | 0 | Networking-compiler: schema naar gebatchte, delta-encoded Luau |
 
-## Uitgebreide index (317)
+## Uitgebreide index (318)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -376,6 +376,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [skja67/robloxstudio-bridge](https://github.com/skja67/robloxstudio-bridge) | 0 | Peer-to-peer Roblox Studio test session tool. Hosts a local Studio server and connects players directly via UPnP, with playit.gg as a manual fallback when UP... |
 | [slofeax/-](https://github.com/slofeax/-) | 0 | roblox.com js.rbxcdn.com ecsv2.roblox.com metrics.roblox.com games.roblox.com tr.rbxcdn.com thumbnails.roblox.com roblox.com rbxcdn.com rbxinfra.net rbxtrk.c... |
 | [Spiderfffun/robloxRCE](https://github.com/Spiderfffun/robloxRCE) | 0 | remote commands using the roblox chat |
+| [SpiritAvtorizate/Easing-Functions-Lua](https://github.com/SpiritAvtorizate/Easing-Functions-Lua) | 0 | Converted functions from TypeScript on easings.net website to a lua format, respectively can be used in LUAU roblox projects. |
 | [squireeee/SquireX](https://github.com/squireeee/SquireX) | 0 | SquireX – Remote-Level Deletion Framework: Total control over Roblox remotes. Command execution, player targeting, and remote manipulation with precision. Li... |
 | [ssavnayt/RSSP](https://github.com/ssavnayt/RSSP) | 0 | Roblox screen share API for Remote access |
 | [StarDoeJunior/How-to-fuck-remotes-in-roblox](https://github.com/StarDoeJunior/How-to-fuck-remotes-in-roblox) | 0 | Simplesmente vou ensinar como fuder remotes no roblox |

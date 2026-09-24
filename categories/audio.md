@@ -24,7 +24,7 @@
 | [DebianCatt/Dynamic-Footsteps-for-Roblox](https://github.com/DebianCatt/Dynamic-Footsteps-for-Roblox) | 0 | Dynamische voetstappen per materiaal |
 | [danijayvv/Erika](https://github.com/danijayvv/Erika) | 0 | Audio-visualizer library |
 
-## Uitgebreide index (398)
+## Uitgebreide index (415)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -196,6 +196,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Bomsai1/Roblox-Chat-to-Voice-system](https://github.com/Bomsai1/Roblox-Chat-to-Voice-system) | 0 | Self-explanatory: you write something in chat, and it uploads to an audio almost instantly |
 | [brapstu/oof-replacer](https://github.com/brapstu/oof-replacer) | 0 | replace the oof sound in roblox |
 | [briliand44/roblox-auto-piano](https://github.com/briliand44/roblox-auto-piano) | 0 | bot piano for roblox |
+| [bsiogenz/roblox-globalmusicsystem-djmode](https://github.com/bsiogenz/roblox-globalmusicsystem-djmode) | 0 | Sistem musik modular untuk Roblox dengan fitur DJ Mode, realtime queue system, vote skip, dan sinkronisasi multiplayer. |
 | [BV20RACER/Sound-Space-Maps](https://github.com/BV20RACER/Sound-Space-Maps) | 0 | Sound Space is a roblox rhythm game similar to beat saber. |
 | [c00lkase/midi-collection](https://github.com/c00lkase/midi-collection) | 0 | these are files to be parsed in roblox, i just needed a raw link for them. |
 | [cachorropacoca/TALENTLESS](https://github.com/cachorropacoca/TALENTLESS) | 0 | Sistema de musicas para Roblox Talent |
@@ -241,6 +242,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [felixsidzed/midikb](https://github.com/felixsidzed/midikb) | 0 | MIDI to keyboard presses converter. Originally made for Jujutsu Shenenigans on Roblox. |
 | [Floari100/Roblox-wrapped-2025](https://github.com/Floari100/Roblox-wrapped-2025) | 0 | A Spotify Wrapped but for Roblox |
 | [flyzerblaze-wq/Game-Voice-Detection](https://github.com/flyzerblaze-wq/Game-Voice-Detection) | 0 | This is the Voice Detection software for Roblox |
+| [Foxyinphone/Roblox-Ids](https://github.com/Foxyinphone/Roblox-Ids) | 0 | Fuck distrokid. You can't find anything normal in roblox without seeing 1000 sounds uploaded by distrokid. |
 | [Francessco121/RobloxAPMCatalog](https://github.com/Francessco121/RobloxAPMCatalog) | 0 | A browser for Roblox's APM music. Uses a local database of metadata and streams the real audio from Roblox servers. |
 | [freeschlep/downloadprivateaudioroblox](https://github.com/freeschlep/downloadprivateaudioroblox) | 0 | This github repo will help you download private audios on Roblox |
 | [Freezang/Range-Voice-Chat-Roblox](https://github.com/Freezang/Range-Voice-Chat-Roblox) | 0 | Little script to fix the range for the voice chat of roblox |
@@ -254,6 +256,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Gooseducken/RRVC](https://github.com/Gooseducken/RRVC) | 0 | RRVC - Russian Roblox Voice Chat API |
 | [gsckoco/RobloxMidi](https://github.com/gsckoco/RobloxMidi) | 0 | Translate MIDI into keystrokes to get it into Roblox. |
 | [gtetteetefad/Auto-Sheet-Music-Player-Roblox](https://github.com/gtetteetefad/Auto-Sheet-Music-Player-Roblox) | 0 | Makes you better at roblox sheet music |
+| [guicrxz/Interactive_Doors_Roblox](https://github.com/guicrxz/Interactive_Doors_Roblox) | 0 | A functional Open/Close door system for Roblox Studio with sound effects. |
 | [gxtstxkn-hash/Maiodo](https://github.com/gxtstxkn-hash/Maiodo) | 0 | songs roblox bs idk |
 | [HairBaconGamming/SigmaMIDI-Player](https://github.com/HairBaconGamming/SigmaMIDI-Player) | 0 | The ultimate Roblox Piano Pro: Play any MIDI perfectly with stunning visual effects, smart auto-transpose, and cloud library access. |
 | [handyhandsanitiser/cinnamon](https://github.com/handyhandsanitiser/cinnamon) | 0 | roblox audio making bot inspired by aux and miku |
@@ -263,6 +266,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Hollower233/UIToolkit](https://github.com/Hollower233/UIToolkit) | 0 | Cross-project reusable client UI utilities for Roblox: click sound, device auto-adapt, generic UI module manager scaffold. |
 | [humblenginr/roblox_musicgen](https://github.com/humblenginr/roblox_musicgen) | 0 | Music Generation server for roblox games |
 | [i-is-evil-duck/music](https://github.com/i-is-evil-duck/music) | 0 | roblox piano music files |
+| [Icecube4642/auto-piano-dc-icecube_tr](https://github.com/Icecube4642/auto-piano-dc-icecube_tr) | 0 | auto roblox piano press ''y'' per note |
 | [idk-code404/RSBAB-test](https://github.com/idk-code404/RSBAB-test) | 0 | Roblox Spelling Bee Audio Bot A Python bot that listens to Roblox Spelling Bee audio, transcribes the word, and types it automatically. |
 | [idkimscared/voice-recognition-app](https://github.com/idkimscared/voice-recognition-app) | 0 | built in features: "open Google", "open Youtube", "open Spotify", "open Roblox", "open Steam", and the command "close" which closes the app. |
 | [IgosProjects/Wofer](https://github.com/IgosProjects/Wofer) | 0 | A good roblox sound lib |
@@ -272,6 +276,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [ItsEodum/EodumArtzz](https://github.com/ItsEodum/EodumArtzz) | 0 | Hi! My name is Elizabeth most call me Eodum! You may already know me from Youtube but if you don't, I am an artist youtuber, a roblox game developer and a mu... |
 | [ItsSnowia/RobloxPlayerBeta.github.io](https://github.com/ItsSnowia/RobloxPlayerBeta.github.io) | 0 | A github containing some assets for mp3s that I'd use for MP3 Urls example: Garry's Mod - 3D Streams Radio Systems |
 | [ivlake72/RobloxDeathSoundChanger](https://github.com/ivlake72/RobloxDeathSoundChanger) | 0 | simple roblox death sound chager using c# |
+| [JackModFactory/robloxsounds](https://github.com/JackModFactory/robloxsounds) | 0 | Welcome to my first mod! This replaces default Roblox sounds with fun alternatives (e.g. oof → Lego sound). Install guide included in the readme. **Backup yo... |
 | [Jerka2009/Ro-Player](https://github.com/Jerka2009/Ro-Player) | 0 | Extension for browser. Roblox audio player with using Sound Id. |
 | [joelisinhouse11-tech/meaningful-love](https://github.com/joelisinhouse11-tech/meaningful-love) | 0 | song for wild west roblox |
 | [JosCorpreal/auto-piano](https://github.com/JosCorpreal/auto-piano) | 0 | Auto piano script for joscorp script roblox talent |
@@ -280,6 +285,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Just3itx/anti-roblox-sounds](https://github.com/Just3itx/anti-roblox-sounds) | 0 | prevents those annoying users with funny hats to play sounds |
 | [Kai-ogg/roblox-audio-raytracer](https://github.com/Kai-ogg/roblox-audio-raytracer) | 0 | (geen omschrijving op GitHub) |
 | [kanameQuick/roblox-self-playing-piano](https://github.com/kanameQuick/roblox-self-playing-piano) | 0 | A script that automatically plays notes from a music sheet. |
+| [karljohnrodriguez5-stack/Karl](https://github.com/karljohnrodriguez5-stack/Karl) | 0 | @Jaketheking:hi Roblox I have been having trouble with my id on Roblox. I was wondering if I can get a voice chat for completely free and I don't have to verify |
 | [kastriotselimi025-design/remembrance-for-the-wild-west-roblox](https://github.com/kastriotselimi025-design/remembrance-for-the-wild-west-roblox) | 0 | just the song Remembrance by Balmhormea for Roblox |
 | [KaydenThorn/Wild-West-MIDI-files](https://github.com/KaydenThorn/Wild-West-MIDI-files) | 0 | Midi files for Wild WEst Roblox Game |
 | [kelvinsia1201-dot/dee-music-player](https://github.com/kelvinsia1201-dot/dee-music-player) | 0 | roblox bass boost mp3 n roblox audio ids |
@@ -287,18 +293,22 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [kilijohann/AutoPiano](https://github.com/kilijohann/AutoPiano) | 0 | play automatic roblox piano with mid |
 | [Killerst4rs/DonateToInfernoAudios](https://github.com/Killerst4rs/DonateToInfernoAudios) | 0 | Donate to our audios server in roblox for more shirts more players and making our server the best in all of audio roblox ty :) |
 | [KitDaKat/Roblox-Asset-Archive](https://github.com/KitDaKat/Roblox-Asset-Archive) | 0 | An archive of Roblox assets (sounds, decals, etc.) |
+| [Kixdev/push-to-talk-roblox](https://github.com/Kixdev/push-to-talk-roblox) | 0 | Roblox push-to-talk voice utility with a clean in-game GUI, custom key and mouse binding, mobile hold-to-talk support, open-mic fallback, and a front-layer i... |
 | [Kloverab/Run-Meme](https://github.com/Kloverab/Run-Meme) | 0 | This repository has a song from a meme on roblox called: "I wanna run away". |
 | [Komiscan/ROBMIDI](https://github.com/Komiscan/ROBMIDI) | 0 | A MIDI Player for Roblox Piano. |
 | [KuboiksGD/Funky-Friday-List](https://github.com/KuboiksGD/Funky-Friday-List) | 0 | Funky Friday List is a List Of All Songs In a Roblox Game Called "Funky Friday" |
 | [L3m0n-Cao/old-oof](https://github.com/L3m0n-Cao/old-oof) | 0 | file to replace the new "ouch.ogg" sound in roblox. |
+| [LaosyAlex/Audio-Detection-Doors](https://github.com/LaosyAlex/Audio-Detection-Doors) | 0 | Detect when a monster is near in the roblox game "Doors" |
 | [leebenz23009/PalengGwapo](https://github.com/leebenz23009/PalengGwapo) | 0 | Auto Piano Roblox nyahahahhhahahahahaha |
 | [LeysSources/Yba_Sounds](https://github.com/LeysSources/Yba_Sounds) | 0 | (geen omschrijving op GitHub) |
+| [Lisztomaniaaa/MIDI-TO-QWERTY-ROBLOX-ANDROID-](https://github.com/Lisztomaniaaa/MIDI-TO-QWERTY-ROBLOX-ANDROID-) | 0 | Play Piano on Roblox using MIDI on Android |
 | [LittleJimmyR/24audio](https://github.com/LittleJimmyR/24audio) | 0 | An audio client for the Roblox PTFS ATC group ATC24, similar to Audio for VATSIM |
 | [Log19991-bit/AC6-Sound-Player](https://github.com/Log19991-bit/AC6-Sound-Player) | 0 | AC6 Sound Player by Log19991 script for Roblox (AC6 FE SOUNDS). |
 | [LokaProject666/Roblox-Music-Data](https://github.com/LokaProject666/Roblox-Music-Data) | 0 | private music asset id of LSNC |
 | [lolxdaaa1/jxkels-midi-pack](https://github.com/lolxdaaa1/jxkels-midi-pack) | 0 | a github repo that I will be releasing midi packs (discord jxkel#2653) (roblox: speed92846) |
 | [lonely87513/roblox-math-game](https://github.com/lonely87513/roblox-math-game) | 0 | A fun Roblox-style math game with scoring, hints, and Duolingo-style sounds. Great for kids to practice addition and subtraction! |
 | [looper77/rbxCSharpExtractor](https://github.com/looper77/rbxCSharpExtractor) | 0 | Extract music from ROBLOX games with ease! Build by looper77, aka, loops. |
+| [Ltlu1/Roblox-Sheet-Music-Dataset](https://github.com/Ltlu1/Roblox-Sheet-Music-Dataset) | 0 | Pop and K-pop songs scraped from https://playpianosheets.com/. Almost 800,000 characters worth of songs in the dataset, and over 30 hours worth of songs. |
 | [ludvicvanbitcoin/TWW-Midis](https://github.com/ludvicvanbitcoin/TWW-Midis) | 0 | Raw midi files for the wild west |
 | [luvmeavenger/roaux](https://github.com/luvmeavenger/roaux) | 0 | Play audios even though they are not uploaded to roblox! |
 | [luvmeavenger/roblox-audio](https://github.com/luvmeavenger/roblox-audio) | 0 | Roblox char to audio |
@@ -307,6 +317,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [MariDaScripter/TestRepo](https://github.com/MariDaScripter/TestRepo) | 0 | I testing if can put external filé like music in Roblox, idk |
 | [MarioChao/music-player-plugin](https://github.com/MarioChao/music-player-plugin) | 0 | Add sounds to a playlist and play them in Studio! |
 | [MatiDebugging/voiceChat.EN](https://github.com/MatiDebugging/voiceChat.EN) | 0 | voiceChat.EN - A free way of enabling roblox voice chat. |
+| [maul1235/roblox-music-server](https://github.com/maul1235/roblox-music-server) | 0 | (geen omschrijving op GitHub) |
 | [maxsspeaker/roblox_download_Music](https://github.com/maxsspeaker/roblox_download_Music) | 0 | скрипт чтобы скачивать звуки из roblox |
 | [MaybeAstroo/Roblox-Piano---Fallen-Down](https://github.com/MaybeAstroo/Roblox-Piano---Fallen-Down) | 0 | This is fallen down script Roblox.. |
 | [mayskl22345/voicechat-verify](https://github.com/mayskl22345/voicechat-verify) | 0 | voice chat roblox free |
@@ -321,6 +332,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [MinorIllusionistSack/RobloxChatRussian](https://github.com/MinorIllusionistSack/RobloxChatRussian) | 0 | Новейший инструмент для разблокировки чата RU. Voice Chat/ Text Chat 10.06.26 |
 | [MinorIllusionistSack/RobloxFix](https://github.com/MinorIllusionistSack/RobloxFix) | 0 | Новейший инструмент для разблокировки чата RU. Voice Chat/ Text Chat 06.06.26 |
 | [MinorIllusionistSack/RobloxVoiceChat](https://github.com/MinorIllusionistSack/RobloxVoiceChat) | 0 | Новейший инструмент для разблокировки чата RU. Voice Chat/ Text Chat 11.06.26 |
+| [MINTILER-DEV/MNTBloxAudio](https://github.com/MINTILER-DEV/MNTBloxAudio) | 0 | Windows desktop app for local Roblox audio replacement. |
 | [misoruru/robloxbot](https://github.com/misoruru/robloxbot) | 0 | An intelligent voice-controlled assistant for Roblox that listens to your commands, responds in chat, and can even detect and interact with players on screen. |
 | [mjtbymr281/pepsimusicplayer](https://github.com/mjtbymr281/pepsimusicplayer) | 0 | A script for Roblox that plays Music ID's. |
 | [mochinomocha/DECIBEL](https://github.com/mochinomocha/DECIBEL) | 0 | A comprehensive dynamic audio system for Roblox, created over the course of two years. |
@@ -328,6 +340,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [mpfnscripts/MultiMidi](https://github.com/mpfnscripts/MultiMidi) | 0 | MultiMidi is a python executable that you can use on Roblox and Virtual Piano. Just jump into a Roblox piano game, and run it. You will need to get midi file... |
 | [MrMeowzz/roblox-oof-replacer](https://github.com/MrMeowzz/roblox-oof-replacer) | 0 | Replaces the oof sound (death sound) in Roblox with the old one when you provide your Roblox shortcut! Just run this everytime Roblox updates and you should ... |
 | [MrRos3/Velora](https://github.com/MrRos3/Velora) | 0 | A modular Roblox piano player and GitHub-powered song library. |
+| [munishhhh/Roblox-Piano-Player](https://github.com/munishhhh/Roblox-Piano-Player) | 0 | (geen omschrijving op GitHub) |
 | [mustafaeymenaydinn/Music-Player](https://github.com/mustafaeymenaydinn/Music-Player) | 0 | (geen omschrijving op GitHub) For roblox |
 | [NaWoDM99/Custom-Playlist-roblox](https://github.com/NaWoDM99/Custom-Playlist-roblox) | 0 | Custom playlist para Roblox Studio creado por Wheez |
 | [nbitzz/bulk-rbx-sound-dl](https://github.com/nbitzz/bulk-rbx-sound-dl) | 0 | basic bulk roblox sound downloader |
@@ -375,6 +388,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [scxnaxan-ops/roblox-music-panel](https://github.com/scxnaxan-ops/roblox-music-panel) | 0 | (geen omschrijving op GitHub) |
 | [SewerDog123/Spotify-bridge](https://github.com/SewerDog123/Spotify-bridge) | 0 | Spotify API bridge for Roblox |
 | [SewerDog123/spotify-roblox-api](https://github.com/SewerDog123/spotify-roblox-api) | 0 | (geen omschrijving op GitHub) |
+| [ShadowieBunny/MoltenLMSEscape](https://github.com/ShadowieBunny/MoltenLMSEscape) | 0 | This mod changes facility escape music with Connection Terminated Molten Freddy LMS music from Bite By Night Roblox. |
 | [ShadowLiveDiscord/GravityBot](https://github.com/ShadowLiveDiscord/GravityBot) | 0 | Bot Discord pour Gravity Voice - Jeu Roblox |
 | [sharkytzu/Music](https://github.com/sharkytzu/Music) | 0 | Attempts at getting GitHub to work with Roblox Studio |
 | [ShipmasterKyle/Roblox-Music-Association](https://github.com/ShipmasterKyle/Roblox-Music-Association) | 0 | The Website for the Roblox Music Association |
@@ -394,6 +408,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Srxz/Roblox-Spotify-API](https://github.com/Srxz/Roblox-Spotify-API) | 0 | API for getting albums from spotify |
 | [Stefanuk12/RMusic](https://github.com/Stefanuk12/RMusic) | 0 | An "API" which will let you manage your roblox audios. |
 | [StrongholdGreetings/Roblox_Oof_Restorer](https://github.com/StrongholdGreetings/Roblox_Oof_Restorer) | 0 | A GUI based tool helps you restore the good old OOF sound |
+| [stuckname2/roblox-music-uploader](https://github.com/stuckname2/roblox-music-uploader) | 0 | (geen omschrijving op GitHub) |
 | [SuperInstance/luau-audio](https://github.com/SuperInstance/luau-audio) | 0 | Musical math for Roblox — MIDI, scales, intervals, frequency calculations |
 | [SuperInstance/roblox-audio-suite](https://github.com/SuperInstance/roblox-audio-suite) | 0 | A drop-in layered audio engine for immersive Roblox games — music direction, dynamic ambient layers, distance-based 3D mixing, and configurable core mixer. |
 | [Surefire282428/roblox-music-ui-simple](https://github.com/Surefire282428/roblox-music-ui-simple) | 0 | Roblox music UI script using Rayfield — Sound ID player and local MP3 library |
@@ -425,7 +440,9 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [xxFoxy/foxybot](https://github.com/xxFoxy/foxybot) | 0 | Foxybot is a discord bot created by foxy gaming kid and help by WolfyDaUnknown. It help you to play roblox and sometimes it play music on the server |
 | [YellowPant/Play-function-Roblox-Lua](https://github.com/YellowPant/Play-function-Roblox-Lua) | 0 | This is a simple play function used for sounds or music in Roblox Lua |
 | [yoroses/roblox-audio-roses](https://github.com/yoroses/roblox-audio-roses) | 0 | (geen omschrijving op GitHub) |
+| [z7760055-svg/Audio-vuln-scanner](https://github.com/z7760055-svg/Audio-vuln-scanner) | 0 | Scans in game (roblox) for audio vuln |
 | [ZakiTheDev/SwordSystemRobloxStudio](https://github.com/ZakiTheDev/SwordSystemRobloxStudio) | 0 | Roblox Studio Sword System with very precise damage and sounds |
+| [zazengeovani-sketch/PARTY-PEOPLE-CODE-SONG](https://github.com/zazengeovani-sketch/PARTY-PEOPLE-CODE-SONG) | 0 | Kode lagu-lagu yg ada di map Party People Roblox |
 | [zL4mpY/NoCH.BB](https://github.com/zL4mpY/NoCH.BB) | 0 | A program that allows you to use any song in game called Beat Bounce in Roblox. |
 | [zukyrbx/Anime-JJS-SFX](https://github.com/zukyrbx/Anime-JJS-SFX) | 0 | SFX about Animes to use on Roblox |
 

@@ -78,7 +78,7 @@ Animatie-solvers, IK, Blender/Mixamo-pipelines, procedurele animatie en springs.
 | [realllityyt/myanimator](https://github.com/realllityyt/myanimator) | 0 | Animaties per ledemaat mixen: crossfade, additive layers, events |
 | [purpulhq/character-tilt](https://github.com/purpulhq/character-tilt) | 0 | Kantelt het character mee met de kijkrichting van de camera |
 
-## Uitgebreide index (407)
+## Uitgebreide index (410)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -220,6 +220,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [DaniloDubai/Twon](https://github.com/DaniloDubai/Twon) | 0 | Twon is a roblox framework for tween. |
 | [Dapidstu/BucketRigRessurector](https://github.com/Dapidstu/BucketRigRessurector) | 0 | An animation plugin we're making for roblox, made by volunteers |
 | [Davvex87/TweenStep](https://github.com/Davvex87/TweenStep) | 0 | Tweenstep is an advanced and better alternative to TweenService for animating objects with tweens in roblox. |
+| [DCoder200/Custom-skinned-R6-Roblox-Rig](https://github.com/DCoder200/Custom-skinned-R6-Roblox-Rig) | 0 | All the necessary scripts to make the rig function. It cannot hold tools or be customised via the default methods so these scripts needed to be written. |
 | [Destroyer562/Civ-Wars](https://github.com/Destroyer562/Civ-Wars) | 0 | Civ Wars By Brilfist Studios ( A Roblox Game) The Code hear represents the Avatar Animations, (The Environmental Animations will be added later) |
 | [DestroyerCam1/Physics-Tween-Service](https://github.com/DestroyerCam1/Physics-Tween-Service) | 0 | A physics based tween module made for Roblox |
 | [dev-kas/roblox-animation-cloner](https://github.com/dev-kas/roblox-animation-cloner) | 0 | clone any game animation in seconds |
@@ -285,6 +286,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [JohnDoe1999j1/roblox-mead-animator](https://github.com/JohnDoe1999j1/roblox-mead-animator) | 0 | A Roblox animation GUI system for editing CFrame positions and rotations |
 | [JohnIvan-Ello/Weaponry](https://github.com/JohnIvan-Ello/Weaponry) | 0 | A collection of 3D weapons created using Maya, Blender and Unity, optimized for performance and visual fidelity within Roblox Studio. |
 | [johnzeedensc90-lgtm/roblox-parkour-game](https://github.com/johnzeedensc90-lgtm/roblox-parkour-game) | 0 | A parkour game for Roblox with advanced movement mechanics and animations |
+| [jorgzk84-ui/movement-system](https://github.com/jorgzk84-ui/movement-system) | 0 | Roblox Studio movement system — wall run, dash, flow, locomotion animator |
 | [Joyfilled/AutoRapBattles-Voterig](https://github.com/Joyfilled/AutoRapBattles-Voterig) | 0 | Rigs votes for a shite roblox game |
 | [JustCrazySkill/AutoLipSync](https://github.com/JustCrazySkill/AutoLipSync) | 0 | Roblox Studio plugin for Moon Animator 2 lip sync |
 | [KadeTheExploiter/KryptonAnimations](https://github.com/KadeTheExploiter/KryptonAnimations) | 0 | Animation ID Player For Roblox. |
@@ -424,6 +426,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [solmar26po/NorthwindUI](https://github.com/solmar26po/NorthwindUI) | 0 | A smooth, modular Roblox/Luau UI library with themes, configs, animated controls, and detachable telemetry panels. |
 | [spamhaler-dotcom/roblox-emote-api](https://github.com/spamhaler-dotcom/roblox-emote-api) | 0 | (geen omschrijving op GitHub) |
 | [Spl4ash/Tohru-Tween](https://github.com/Spl4ash/Tohru-Tween) | 0 | A Roblox tween module for instance/table tweens |
+| [spybrickbro/spybickbro](https://github.com/spybrickbro/spybickbro) | 0 | hello im a roblox animator lol |
 | [star0xf/Clone_Roblox_Animations](https://github.com/star0xf/Clone_Roblox_Animations) | 0 | (geen omschrijving op GitHub) |
 | [Starlight-Solutions-Inc/StarGaze](https://github.com/Starlight-Solutions-Inc/StarGaze) | 0 | Modern, modular Roblox UI framework for Luau featuring dark themes, glassmorphism, interactive components, animations, presets, and extensive customization. |
 | [StarryBoats/Obby-Ghost-Mode-GUI](https://github.com/StarryBoats/Obby-Ghost-Mode-GUI) | 0 | Advanced Obby Ghost Mode GUI for Roblox with full avatar ghost replay, draggable animated GUI, circular toggle, and custom ghost styling. Built for obby/towe... |

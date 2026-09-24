@@ -30,7 +30,7 @@ Chassis, suspensie, hover, raketten, drijfvermogen en treinen.
 | [cassicoder/boat-game](https://github.com/cassicoder/boat-game) | 0 | Boot-game: Matter ECS + Gerstner-oceaan + drijfvermogen + vissen |
 | [HassanJN66/roblox-vehicle-framework](https://github.com/HassanJN66/roblox-vehicle-framework) | 0 | Raycast-wielen + soft physics body, FWD/RWD/AWD |
 
-## Uitgebreide index (225)
+## Uitgebreide index (229)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -133,9 +133,11 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [FB4Studios/Brisbane-train-sim](https://github.com/FB4Studios/Brisbane-train-sim) | 0 | offical resportay for Brisbane train sim on roblox by me |
 | [flatlichicken/SCR-Roulette](https://github.com/flatlichicken/SCR-Roulette) | 0 | (WIP) Randomizer program for Stepford Country Railway on roblox |
 | [franbos4/Artic-Dockyar-BBMap](https://github.com/franbos4/Artic-Dockyar-BBMap) | 0 | Map for bad bussiness on roblox it has a bit of lore. omega have been doing illegal weapon transactions in the artic the beta team has setted up a ambus in t... |
+| [fsutcliffe/frank-tank-obby](https://github.com/fsutcliffe/frank-tank-obby) | 0 | Frank the Tank OBBY — Roblox game with Rojo sync |
 | [ghxjcbhxjcjchchchchchch-dotcom/Car-fly](https://github.com/ghxjcbhxjcjchchchchchch-dotcom/Car-fly) | 0 | Roblox car flying script |
 | [ghxjcbhxjcjchchchchchch-dotcom/roblox-flying-car](https://github.com/ghxjcbhxjcjchchchchchch-dotcom/roblox-flying-car) | 0 | A Roblox flying car script with GUI controls |
 | [gogugogiugogu/simple-car-movement](https://github.com/gogugogiugogu/simple-car-movement) | 0 | made a simple script using the MoveTo() function in Roblox Studio that takes the humanoid (in this example, a car) into a loop of driving from 1 point to the... |
+| [goyimslayer67/Roblox-Flight-Script](https://github.com/goyimslayer67/Roblox-Flight-Script) | 0 | roblox flight script, for personal and learning use. |
 | [Hakhyun-Kim/Roblox_Car](https://github.com/Hakhyun-Kim/Roblox_Car) | 0 | 🏎️ 로블록스 그랑프리 - 리그·토너먼트·타임어택·아이템 레이싱 게임 (Rojo·Luau, 맵 전체 코드 자동 생성) |
 | [harryboyle66/harry-b](https://github.com/harryboyle66/harry-b) | 0 | make me a Roblox code on a car game |
 | [henryritz/BRannouncerRBX](https://github.com/henryritz/BRannouncerRBX) | 0 | This is a announcer program for the roblox game 'British Railway'. |
@@ -152,6 +154,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [j75588864-create/c00lkid-roblox-game](https://github.com/j75588864-create/c00lkid-roblox-game) | 0 | A cool Roblox game with flight mechanics, dual weapons (guns and melee), and a destructible map that regenerates |
 | [jabbathehutt05-creator/roblox-lua-STRIKEFLOW](https://github.com/jabbathehutt05-creator/roblox-lua-STRIKEFLOW) | 0 | A work-in-progress plane system designed on CoodSlayer's ECS system, designed primarily for jets. Many features have come in mind, such as: |
 | [JawBroke/Waste-of-Space-roblox-game-Ships](https://github.com/JawBroke/Waste-of-Space-roblox-game-Ships) | 0 | collection of codes for ships made in roblox studio, to be imported into Waste of Space |
+| [jeet-avatar/SpeedLegends](https://github.com/jeet-avatar/SpeedLegends) | 0 | Roblox racing game — Rojo-based project |
 | [joanabel083-design/Plane-sausage439](https://github.com/joanabel083-design/Plane-sausage439) | 0 | Idk just trying to make a game on roblox |
 | [johnesecat/vandrift](https://github.com/johnesecat/vandrift) | 0 | vandrift gui(beside each file name is a roblox file type(example; {name of object} ClassType; {roblox studio class types})) |
 | [JonathanJosephShokry/SelfDrivingCarInRoblox](https://github.com/JonathanJosephShokry/SelfDrivingCarInRoblox) | 0 | Module script for a self driving car |
@@ -187,6 +190,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [naufalmulyarizki/roblox-donation-proxy-sociabuzz](https://github.com/naufalmulyarizki/roblox-donation-proxy-sociabuzz) | 0 | Donation Proxy Roblox Bagibagi.co |
 | [naveenhansvishnu-lang/roblox-boat-simulator](https://github.com/naveenhansvishnu-lang/roblox-boat-simulator) | 0 | Roblox Boot Simulator mit Pets, Upgrades & Rebirth |
 | [Nezuko-Roblox/KartGame_Engine](https://github.com/Nezuko-Roblox/KartGame_Engine) | 0 | Kart racing game engine for Roblox |
+| [noob111111/Paint](https://github.com/noob111111/Paint) | 0 | Paint python script, made to work with "plane crazy" on roblox |
 | [NoodleDeveloper/N-Chassis](https://github.com/NoodleDeveloper/N-Chassis) | 0 | The new generation of vehicle simulation on Roblox. |
 | [norfthalex-bit/norfthalex-bit.github.io](https://github.com/norfthalex-bit/norfthalex-bit.github.io) | 0 | This website is going to present you my ROBLOX portfolio. I specialise in Building, Modelling and importing vehicles. |
 | [NutMaster828/Trey-Portfolio](https://github.com/NutMaster828/Trey-Portfolio) | 0 | 👋 Hi there! I’m Trey, a Roblox developer and game designer. - 🧱 Experienced in **low & mid-poly building**, **terrain design**, and **car modeling** - 🎮 Focu... |

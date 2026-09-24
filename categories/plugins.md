@@ -99,7 +99,7 @@ Handige plugins voor bouwen, terrain, UI en workflow.
 | [Dekkonot/camera-light-plugin](https://github.com/Dekkonot/camera-light-plugin) | 0 | Plugin die een lamp aan de Studio-camera hangt |
 | [Mystifine/ModelLens](https://github.com/Mystifine/ModelLens) | 0 | Render en exporteer PNG-thumbnails van modellen in Studio (transparant, batch) |
 
-## Uitgebreide index (405)
+## Uitgebreide index (406)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -311,6 +311,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [DocsGenius/Roblox-Devs](https://github.com/DocsGenius/Roblox-Devs) | 0 | A compilation of all the plugins, core components, etc I have made on the Roblox platform. |
 | [DohmBoyOG/GuiBuilder](https://github.com/DohmBoyOG/GuiBuilder) | 0 | A gui development plugin for Roblox Studio |
 | [Donut792/Donut-s-Electricity](https://github.com/Donut792/Donut-s-Electricity) | 0 | The First Open Source Roblox Electricity System In Plugin Form |
+| [DranxX/DrXporter](https://github.com/DranxX/DrXporter) | 0 | DrXporter is a two-way synchronization bridge between Roblox Studio and your local filesystem, enabling seamless editing of scripts and instances in your pre... |
 | [Dread-Pirate-Games/CollisionVisualizer](https://github.com/Dread-Pirate-Games/CollisionVisualizer) | 0 | Roblox plugin to visual CanCollide, CanQuery and CanTouch |
 | [Dread-Pirate-Games/TextureRandomizer](https://github.com/Dread-Pirate-Games/TextureRandomizer) | 0 | A Roblox plugin to randomize the placement of textures on repetitive parts. |
 | [dreamy2/robloxDraggers](https://github.com/dreamy2/robloxDraggers) | 0 | roblox studio plugin draggers |

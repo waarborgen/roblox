@@ -76,7 +76,7 @@ MCP-servers, AI-agents en skills die in Studio kunnen bouwen.
 | [RazzleDazzleI/roblox-procgen](https://github.com/RazzleDazzleI/roblox-procgen) | 0 | LLM-agent die 3D-terrain en nederzettingen genereert uit design-tabellen (Luau + MCP) |
 | [KingPinged/roblox-studio-mcp](https://github.com/KingPinged/roblox-studio-mcp) | 0 | MCP-server met 47 tools: screenshots, Luau uitvoeren, DataStores, input-simulatie, terrain |
 
-## Uitgebreide index (758)
+## Uitgebreide index (806)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -264,8 +264,10 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [3xjn/roblox-client-mcp](https://github.com/3xjn/roblox-client-mcp) | 0 | Generic stdio MCP for inspecting a live Roblox client (not Studio). |
 | [54408mj07-sudo/roblox-ai-server](https://github.com/54408mj07-sudo/roblox-ai-server) | 0 | Developing a server for roblox |
 | [6xvl/robloxstudio-mcp-server](https://github.com/6xvl/robloxstudio-mcp-server) | 0 | Roblox Studio MCP server (npm @6xvl/robloxstudio-mcp). 96+ tools, Roblox MCP hook, Blender-parity hang controls, multi-Studio routing. |
+| [aaronaco/pii-intent-classifier-lib](https://github.com/aaronaco/pii-intent-classifier-lib) | 0 | Local PII detection and classification using Roblox's PII Classifier model and intent-based text analysis, built on FacebookAI's XLM-RoBERTa-Large. |
 | [aauuzyy/Cipher-V1-RBot](https://github.com/aauuzyy/Cipher-V1-RBot) | 0 | This is a multi Active Roblox Bot used to show public how far scripting and AI has gotten. |
 | [abdallamhtemraz-cmd/roblox-ai-server](https://github.com/abdallamhtemraz-cmd/roblox-ai-server) | 0 | Roblox AI Chatbot Server |
+| [adonisatoao-cell/Open-AI-THINGY](https://github.com/adonisatoao-cell/Open-AI-THINGY) | 0 | open ai stuff for roblox ai |
 | [agaimondo-wq/InfinityOS-InfinityOS-X-](https://github.com/agaimondo-wq/InfinityOS-InfinityOS-X-) | 0 | InfinityOS : OS moderne avec compte Infinity, IA intégrée, apps bureautiques (Word, PowerPoint, Excel), store (Roblox, Copilot, Google AI Studio…), musique, ... |
 | [AGant26/judgment-ai-proxy](https://github.com/AGant26/judgment-ai-proxy) | 0 | AI proxy for Judgment Roblox game |
 | [Agentic-Person/BloxBuddy](https://github.com/Agentic-Person/BloxBuddy) | 0 | A **free, curated learning roadmap** that organizes the best existing YouTube tutorials, resources, and AI tools into a clear, progressive path for young Rob... |
@@ -290,6 +292,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [alyssagithub/claudio](https://github.com/alyssagithub/claudio) | 0 | A Claude in Roblox Studio Plugin, Claude Code CLI Wrapper, Subscription & API Key support |
 | [AmazonPr1me/rotector](https://github.com/AmazonPr1me/rotector) | 0 | A powerful system that uses AI and smart algorithms to identify inappropriate user accounts on Roblox and Discord. |
 | [amedp283-lab/Roblox-avatar-maker](https://github.com/amedp283-lab/Roblox-avatar-maker) | 0 | Insert your Roblox username and it'll review your avatar and make you a new one based on the style your currently wearing on Roblox (all the items that this ... |
+| [AMFbot-Gz/alpha-earth](https://github.com/AMFbot-Gz/alpha-earth) | 0 | 🌍 Alpha Earth — Roblox Metaverse IA temps réel / n8n + Claude + Supabase + Dashboard |
 | [amyjun26/roblox_ai_assistant_DTI](https://github.com/amyjun26/roblox_ai_assistant_DTI) | 0 | The backend is built in Go and Python. Frontend and servers are run on React, Node.js, and Flask. We also used Tailwind. 4 primed LLM fashion judges are code... |
 | [AnnonyA/arena-roblox-mcp](https://github.com/AnnonyA/arena-roblox-mcp) | 0 | Local AI agent powered by Arena.ai models for controlling Roblox Studio through MCP. |
 | [ant762/robloxAItest](https://github.com/ant762/robloxAItest) | 0 | testing out the tag system for an AI |
@@ -300,9 +303,12 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Archey-Dev/Ollama-Vibecoder-Roblox-Studio-](https://github.com/Archey-Dev/Ollama-Vibecoder-Roblox-Studio-) | 0 | (geen omschrijving op GitHub) |
 | [arkanz4idan/roblox-ai-api](https://github.com/arkanz4idan/roblox-ai-api) | 0 | Roblox API for AI npc (it use gemini) |
 | [artemdibil/Image-to-parts-in-roblox-studio.github.io](https://github.com/artemdibil/Image-to-parts-in-roblox-studio.github.io) | 0 | All the pixels in the image are transferred to Roblox Studio, and it's all in the script. (creator is gemini and chatgpt) |
+| [artur7799aa-dev/Roblox-AI-Bridge](https://github.com/artur7799aa-dev/Roblox-AI-Bridge) | 0 | Для синхронизации кода с Gemini |
+| [Arunhuyadav/roblox-game-for-gemini](https://github.com/Arunhuyadav/roblox-game-for-gemini) | 0 | roblox game for gemini |
 | [Astrablox/astrablox](https://github.com/Astrablox/astrablox) | 0 | Bounded Roblox Studio agent framework with specialist roles, player tools and verified evidence. |
 | [AstralXCode/ROBLOX-MCP-VIA-MOBILE](https://github.com/AstralXCode/ROBLOX-MCP-VIA-MOBILE) | 0 | Connect OpenCode on Android (Termux) to Roblox MCP server running on PC |
 | [Aus1273/arcane-fishing-bot](https://github.com/Aus1273/arcane-fishing-bot) | 0 | An auto-fish built for Arcane Odyssey on Roblox, honestly im not a programmer this entire thing is like AI hallucinations on Jack Daniels. V1 Release now, it... |
+| [auwdhausd/Neverdies-updated-wt-ai-](https://github.com/auwdhausd/Neverdies-updated-wt-ai-) | 0 | roblox ui lib 2026 updated with ai |
 | [avgexploiter/Ai-rivals](https://github.com/avgexploiter/Ai-rivals) | 0 | Trying to make an ai for roblox rivals im kinda bad at coding |
 | [awaisashfaq12/reblix-ai](https://github.com/awaisashfaq12/reblix-ai) | 0 | the smart reblix ai talk roblox agents lua scripts talk agents help roblox games make help console table web the app about of all roblox.player make pro leve... |
 | [awantony3/Roblox-Hackathon-Agent](https://github.com/awantony3/Roblox-Hackathon-Agent) | 0 | (geen omschrijving op GitHub) |
@@ -310,19 +316,23 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [ayyar/awesome-robloxdev-connectors](https://github.com/ayyar/awesome-robloxdev-connectors) | 0 | Claude connectors useful for Roblox game development. |
 | [babajou/shiftlock-ai](https://github.com/babajou/shiftlock-ai) | 0 | shiftlock for mobile in any game (roblox lua), made with google AI studio |
 | [badscarz/roblox](https://github.com/badscarz/roblox) | 0 | roblox ai algorithm plays itself testscripts luau and luau in one testing tool legal. |
+| [Badtzi/Modified-Game-Environment](https://github.com/Badtzi/Modified-Game-Environment) | 0 | modified roblox studio repository scripts for a weapon system meant to be compatible with AI humanoids |
 | [BaronGEV/roblox-openai-proxy](https://github.com/BaronGEV/roblox-openai-proxy) | 0 | (geen omschrijving op GitHub) |
 | [BBRenxo/TITAN](https://github.com/BBRenxo/TITAN) | 0 | TITAN AI Game Studio — beats Nilo, Meshy, Tripo, World Machine, ElevenLabs, Suno combined. Roblox plugin + Electron desktop + MCP server. |
 | [bcffo2436-byte/Combat-warrior-](https://github.com/bcffo2436-byte/Combat-warrior-) | 0 | สคริปต์ AI ช่วยเล่น Combat Warriors (Roblox) มีระบบล็อกเป้า หลบอัตโนมัติ ตีเป็นจังหวะ พร้อม GUI เปิดปิดฟังก์ชัน |
 | [Beast432/Chatgpt](https://github.com/Beast432/Chatgpt) | 0 | Roblox External made by chatgpt |
 | [beeeegi/AI-NPC-System](https://github.com/beeeegi/AI-NPC-System) | 0 | Simple AI driven NPC, which talks to you. Can be adjusted to literally any character. |
+| [BEEEPX/roblox-cod-game](https://github.com/BEEEPX/roblox-cod-game) | 0 | Professional Roblox Call of Duty Game with 25 Weapons, AI, and Full Game Systems |
 | [BielBSB/ClaudeRoblox](https://github.com/BielBSB/ClaudeRoblox) | 0 | Testes com base na integração do Claude Code ao Roblox Studio. |
 | [bikotoru/roblox-ai-genkidama-pipeline](https://github.com/bikotoru/roblox-ai-genkidama-pipeline) | 0 | Full AI agent setup for Roblox R6 animations + VFX (Genkidama style) using Claude/Cursor skills + Blender MCP + Roblox Studio MCP. Includes README with all i... |
 | [blablajir/Roblox-ai-coder](https://github.com/blablajir/Roblox-ai-coder) | 0 | It's just ChatGPT dummies |
 | [blacktippen/AI-Funcaptcha-Solver](https://github.com/blacktippen/AI-Funcaptcha-Solver) | 0 | Uses AI to solve the captcha on roblox. AI Model needs to be re-trained every time funcaptcha changes images or the accuracy will decrease |
+| [BlissDirective/Roblox-Game-Design](https://github.com/BlissDirective/Roblox-Game-Design) | 0 | Semi-Autonomous Claude Roblox Game Development Project |
 | [BlueHarper/AI-UnstableREM](https://github.com/BlueHarper/AI-UnstableREM) | 0 | AI World Generation on Blinking in Roblox |
 | [BlurpleClub/Chatbot](https://github.com/BlurpleClub/Chatbot) | 0 | A Roblox Chat Bot Made By tkhMogbFcxe743t And LOFICAT |
 | [blushneybusiness-glitch/roblox-omniskills](https://github.com/blushneybusiness-glitch/roblox-omniskills) | 0 | 254 Claude Code skills for Roblox game development: scripting, building, UI, VFX, psychology, monetization, cross-project memory, and Cowork handoffs. |
 | [bluzername/pacblox](https://github.com/bluzername/pacblox) | 0 | 🎮 A complete Pac-Man style game for Roblox with ghost AI, power-ups, and mobile support |
+| [bmontt/roblox_bot](https://github.com/bmontt/roblox_bot) | 0 | I wanted to build a bot that can play Roblox (including fast-paced FPS games) where high-level decision-making is delegated to a Large Language Model (LLM). |
 | [BNDPA/PerryUI](https://github.com/BNDPA/PerryUI) | 0 | Lua roblox library (Created Ai in these library i can meet bugs and we working with it) |
 | [BoastfulJR/RobloxAI](https://github.com/BoastfulJR/RobloxAI) | 0 | Roblox Studio AI. Make Scripts & UI Faster |
 | [Bonzi2-wd/Bubble-Aqua-Browser.](https://github.com/Bonzi2-wd/Bubble-Aqua-Browser.) | 0 | Gemini said Bubble Aqua is a glossy 2004-themed browser with liquid glass buttons and Frutiger Aero vibes. It features real-time security checks, smooth tab ... |
@@ -341,6 +351,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Charliefdgfdgfd/RBLX-but-AI-made.](https://github.com/Charliefdgfdgfd/RBLX-but-AI-made.) | 0 | yes you heard me right, Roblox but if ai made it entirely and it is FULLY working.. I think... |
 | [chaseMckenzie88/rigbridge](https://github.com/chaseMckenzie88/rigbridge) | 0 | Animate Roblox characters in Blender, with Claude driving the rig and you taking over whenever you want |
 | [chaseMckenzie88/studio-hud](https://github.com/chaseMckenzie88/studio-hud) | 0 | A Roblox Studio plugin showing what Claude is doing right now, and pushing your Explorer selection back to it |
+| [ChenYu0220/Roblox_Agents](https://github.com/ChenYu0220/Roblox_Agents) | 0 | Agents for roblox to develop games by kiro |
 | [chi-town-java-guru/airplane-combat-roblox](https://github.com/chi-town-java-guru/airplane-combat-roblox) | 0 | A Roblox game where players fight bad people inside an airplane. Features combat system, enemy AI, and multiple win conditions. |
 | [chi-town-java-guru/roblox-airplane-combat-game](https://github.com/chi-town-java-guru/roblox-airplane-combat-game) | 0 | A Roblox game where players fight bad people inside an airplane. Features combat system, enemy AI, and multiple win conditions. |
 | [Chrrxs/roblox-mcp-primitives](https://github.com/Chrrxs/roblox-mcp-primitives) | 0 | Three Studio-only utilities that bridge gaps in the Roblox Studio MCP: server eval, client eval, and a unified log buffer. |
@@ -359,6 +370,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [cosmicdespair42-dotcom/gemini-roblox-copy](https://github.com/cosmicdespair42-dotcom/gemini-roblox-copy) | 0 | roblox copy made with gemini ai |
 | [Cpleasance/roblox-studio-mcp-bridge](https://github.com/Cpleasance/roblox-studio-mcp-bridge) | 0 | Update-proof MCP bridge connecting Claude, Cursor & other AI IDEs to Roblox Studio |
 | [CrayzzFr/AI-Engine](https://github.com/CrayzzFr/AI-Engine) | 0 | Customizable API for Roblox Pathfinding AIs |
+| [crownedwithbloodytears/Goldenrokakakaka](https://github.com/crownedwithbloodytears/Goldenrokakakaka) | 0 | a scripts on some roblox game maded by AI |
 | [cspnetohermes-web/roblox-mcp-guide](https://github.com/cspnetohermes-web/roblox-mcp-guide) | 0 | Guia completo: Roblox Studio + Hermes MCP |
 | [cubeofice7/Program-RNG](https://github.com/cubeofice7/Program-RNG) | 0 | RNG Game where you can roll different programming languages. Inspired by Sol's RNG on roblox. Made using ChatGPT |
 | [cvden/ai-rating-server](https://github.com/cvden/ai-rating-server) | 0 | Roblox AI avatar rating server |
@@ -381,6 +393,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Deltarax/RobloxJumpRope](https://github.com/Deltarax/RobloxJumpRope) | 0 | A little roblox jumprope game to test AI development |
 | [DelzDevRoblox/skills-iris-roblox](https://github.com/DelzDevRoblox/skills-iris-roblox) | 0 | Set of AI skills for Iris - Immediate-mode GUI library for Roblox |
 | [DemiOlushola/Roblox-Zombie-Game](https://github.com/DemiOlushola/Roblox-Zombie-Game) | 0 | A wave-based zombie survival system built in Roblox Lua. Includes state machine, NPC AI, remote events, and server-side game logic. |
+| [devmello/snapblox](https://github.com/devmello/snapblox) | 0 | a fully autonomous system of AI agents that will plan, build, and test your newest roblox idea while you sleep. |
 | [dinochkakhv-create/ROBLOXisblocked](https://github.com/dinochkakhv-create/ROBLOXisblocked) | 0 | Generated by InstantWeb AI |
 | [diogo2806/iluau](https://github.com/diogo2806/iluau) | 0 | Local Roblox MCP plugin and Studio bridge for Codex, with dashboard, selection tree, property editor, attributes, tags, and sync tools. |
 | [djezyon/roblox_resource_improvement](https://github.com/djezyon/roblox_resource_improvement) | 0 | part of AI sprint prototype |
@@ -389,6 +402,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [dmae97/roblox-studio-mcp-server-improved](https://github.com/dmae97/roblox-studio-mcp-server-improved) | 0 | Improved Roblox Studio MCP Server implementation with authentication, Docker support, testing, and CI/CD |
 | [dmae97/roblox-studio-mcp-server-perplexity](https://github.com/dmae97/roblox-studio-mcp-server-perplexity) | 0 | Roblox Studio MCP Server updated with Perplexity MCP integration |
 | [dnezero/zeroGPT](https://github.com/dnezero/zeroGPT) | 0 | Best AI tool on Roblox?! |
+| [doge78966/roblox-audio-downloader-extension](https://github.com/doge78966/roblox-audio-downloader-extension) | 0 | An AI-Slopped Chrome Extension for downloading Roblox Assets |
 | [Dogewowkay/seeing-if-I-can-make-a-better-game-than-ai-can](https://github.com/Dogewowkay/seeing-if-I-can-make-a-better-game-than-ai-can) | 0 | I was curious about wither I could make a better game than ai, as someone who hasn't coded in c++ in so long that I've literally forgot how. This is ai's gam... |
 | [donkeykong84/roblox-ai-npc-village](https://github.com/donkeykong84/roblox-ai-npc-village) | 0 | full ai npc village with 20 npcs of different values when spawn we can see them run the town hands free and see what they do and say to each othe |
 | [dreamy9x9x/Nxght-AI-Roblox](https://github.com/dreamy9x9x/Nxght-AI-Roblox) | 0 | Simple project. Definitely not a 100% real LLM, but i think you'll like it. |
@@ -396,6 +410,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [DullerKill3r/RoFPSV1](https://github.com/DullerKill3r/RoFPSV1) | 0 | [AI GENERATED] Simple Batch Fps Booster For Roblox Which Sets the priority to high which can be done normally with task manager in details and right click, T... |
 | [Dyno3862/roblox-voice-and-text-reader](https://github.com/Dyno3862/roblox-voice-and-text-reader) | 0 | roblox voice listener and text listener for locally installed LLM's |
 | [E-The-Real-Dragon/Roblox-Studio-Transfer](https://github.com/E-The-Real-Dragon/Roblox-Studio-Transfer) | 0 | Roblox Studio Transfer - drop AI Lua into a Rojo place and open Roblox Studio. |
+| [eacker33/ccode](https://github.com/eacker33/ccode) | 0 | Roblox mega-project — Rojo-based workspace with Claude Code + Roblox Studio MCP |
 | [echuvyrov/roblox-search-3dmodels](https://github.com/echuvyrov/roblox-search-3dmodels) | 0 | Search Roblox models not with a single keyword, but instead describing and personalizing projects as much as possible and letting AI parse out key search wor... |
 | [EDCALUAGLOL/Roblox-AI-Script](https://github.com/EDCALUAGLOL/Roblox-AI-Script) | 0 | Universal Roblox AI Chatbot with GUI (Educational Purposes Only) |
 | [EDCALUAGLOL/Roblox-AI-Script-](https://github.com/EDCALUAGLOL/Roblox-AI-Script-) | 0 | Universal Roblox AI Chatbot with GUI (Educational Purposes Only) |
@@ -463,11 +478,13 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [hashimnaim/Nextbot-Framework](https://github.com/hashimnaim/Nextbot-Framework) | 0 | Nextbot AI Framework is a modular and scalable AI system for Roblox. It includes pathfinding-based chasing, player detection, combat handling, audio support,... |
 | [Haydebug/Roblox-MCP-Analytics](https://github.com/Haydebug/Roblox-MCP-Analytics) | 0 | MCP server exposing all 168 Roblox Open Cloud analytics metrics to AI agents — retention, engagement, monetization, funnels, performance and more, with valid... |
 | [Hazeyy5/lumen-studio](https://github.com/Hazeyy5/lumen-studio) | 0 | Lumen — créer des jeux Roblox avec des agents IA |
+| [Hcoder10/cybus-arcade](https://github.com/Hcoder10/cybus-arcade) | 0 | Multi-agent Roblox game generator — email a request, agents build a playable place in 90s. OpenClaw hackathon (Eragon × Nozomio × AgentMail). |
 | [hello665656765/roblox-chatgpt-server](https://github.com/hello665656765/roblox-chatgpt-server) | 0 | (geen omschrijving op GitHub) |
 | [HgDeveloper13/Roblox-WalkingAI](https://github.com/HgDeveloper13/Roblox-WalkingAI) | 0 | Walking humanoid AI script in Roblox that can overcome terrain. |
 | [hihouhou/huginn_roblox_agent](https://github.com/hihouhou/huginn_roblox_agent) | 0 | huginn agent for interacting with Roblox api |
 | [Hiryo12/roblox-studio-agent-bridge](https://github.com/Hiryo12/roblox-studio-agent-bridge) | 0 | Local bridge and Roblox Studio plugin for agent-driven Studio automation |
 | [Hizzam/ropix](https://github.com/Hizzam/ropix) | 0 | AI Roblox Thumbnail Generator SaaS |
+| [horrorfans20/Roblox-Luau-Deprecated-stuff-and-their-working-counterparts](https://github.com/horrorfans20/Roblox-Luau-Deprecated-stuff-and-their-working-counterparts) | 0 | Hello, if you're reading this just know this is currently a bitttt bare bones. it will be changed overtime. you can use this for all sorts of cases, especial... |
 | [howmanysmall/roblox-tooling-mcp](https://github.com/howmanysmall/roblox-tooling-mcp) | 0 | MCP for Luau LSP and Selene. |
 | [hpagni/cryptlings](https://github.com/hpagni/cryptlings) | 0 | A co-op extraction-horror and blind-box trading game for Roblox, built end to end by orchestrating autonomous AI agent pipelines. ~57k lines of Luau across 1... |
 | [Hubs-dev/script-do-chat-gpt](https://github.com/Hubs-dev/script-do-chat-gpt) | 0 | criei um script de roblox com o chat gpt para eu usar no meu jogo nao use em outros jogos que nao ira funcionar em outros jogos pois foi feito para o meu jog... |
@@ -507,6 +524,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [johnvibe3300/Brookhaven-RP-Chatbot](https://github.com/johnvibe3300/Brookhaven-RP-Chatbot) | 0 | Interactive Roblox Brookhaven RP Chatbot powered by Google Gemini AI. Multiple character personalities with locked prompts for consistent roleplay interactions. |
 | [jokagametv/aurora-ai-roblox](https://github.com/jokagametv/aurora-ai-roblox) | 0 | 🤖 AURORA AI - System Prompt para criar jogos Roblox com ChatGPT / Série 1 - Iniciantes / Open Source (MIT) |
 | [jonaskolacsrac-debug/roblox-ai-automation-extension](https://github.com/jonaskolacsrac-debug/roblox-ai-automation-extension) | 0 | Browser extension for AI-powered Roblox game automation |
+| [jordenpierre0-gif/roblox-game](https://github.com/jordenpierre0-gif/roblox-game) | 0 | You are an expert Roblox Developer and AI Agent. I want you to create the easiest, most robust Roblox game that you can build entirely by yourself using stan... |
 | [Joshlegaldocapa/ZeroGPT](https://github.com/Joshlegaldocapa/ZeroGPT) | 0 | AI System for Roblox - ZeroGPT |
 | [jotafe810/roblox-chatbot-server](https://github.com/jotafe810/roblox-chatbot-server) | 0 | (geen omschrijving op GitHub) |
 | [joxan2137/ogsync-sync](https://github.com/joxan2137/ogsync-sync) | 0 | AI agent framework for Roblox Studio: token-lean MCP server, two-way live script sync, self-installing Studio plugin |
@@ -529,23 +547,30 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Kenxiz/RoboBrain](https://github.com/Kenxiz/RoboBrain) | 0 | A Roblox AI ChatBot Module. |
 | [kevinswint/roblox-opencloud-mcp-server](https://github.com/kevinswint/roblox-opencloud-mcp-server) | 0 | MCP server exposing Roblox Open Cloud APIs as tools for AI agents |
 | [kevinzor/ClankerBlox](https://github.com/kevinzor/ClankerBlox) | 0 | ClankerBlox, Community driven agent powered roblox builder. |
+| [Kevs122/safeplay-dashboard](https://github.com/Kevs122/safeplay-dashboard) | 0 | 707 - Dashboard B2B for child safety in online games. Real-time Roblox moderation powered by Azure OpenAI and Cosmos DB. |
 | [khunchaiyakorn/Ai-Auto-Fishing](https://github.com/khunchaiyakorn/Ai-Auto-Fishing) | 0 | For bloxburg Game in Roblox. |
 | [kiet50524/My-TW-Coverage](https://github.com/kiet50524/My-TW-Coverage) | 0 | Map Taiwan-listed companies with a searchable equity research database, supply chain links, and financial data across 99 industry sectors |
 | [Kifflomist/RobloxAiReportGen](https://github.com/Kifflomist/RobloxAiReportGen) | 0 | Use the power of modern LLM's to auomaically generate reports for rule breaking roblox users through the "illegal-content-reporting" form! |
 | [KingCreeper531/roblox-ai](https://github.com/KingCreeper531/roblox-ai) | 0 | Behavioural cloning AI that learns to play Roblox from your gameplay recordings and YouTube videos |
 | [Kingtrap4209/AI-learning](https://github.com/Kingtrap4209/AI-learning) | 0 | I'm working on a Roblox game about rimworld |
 | [kinjakitanzawi-wq/Roblox-Tower-defense-FK](https://github.com/kinjakitanzawi-wq/Roblox-Tower-defense-FK) | 0 | se systeModular Roblox tower defenms built in Luau, including AI, combat, abilities, waves, upgrades, and client-server architecture. |
+| [Kitsune-Lucky18/Asistent-Roblox](https://github.com/Kitsune-Lucky18/Asistent-Roblox) | 0 | best ai website for you in roblox studio free |
+| [Kitsune-Lucky18/Asistent-Roblox-ST](https://github.com/Kitsune-Lucky18/Asistent-Roblox-ST) | 0 | This ai BY Kitsune_Lucky18 or https:/youtube.com/@Kitsune_Lucky18 |
+| [Kitsune-Lucky18/ScriptRobloxV3-ai](https://github.com/Kitsune-Lucky18/ScriptRobloxV3-ai) | 0 | Asistent ai - and Free ScriptsRoblox |
 | [kkloiuy675/amroro-ai-backend](https://github.com/kkloiuy675/amroro-ai-backend) | 0 | AMRORO AI Assistant Pro is an intelligent AI copilot built for Roblox Studio. Turn plain-text prompts into working Luau scripts, dynamic VFX, and sound setup... |
 | [kko89-s2410907-code/roblox-gpt-proxy](https://github.com/kko89-s2410907-code/roblox-gpt-proxy) | 0 | (geen omschrijving op GitHub) |
 | [kotipieskurwa123-eng/ClarityUiLibrary](https://github.com/kotipieskurwa123-eng/ClarityUiLibrary) | 0 | Ui Library For Roblox written by ai |
 | [Kritofer/chatgpt-roblox-code](https://github.com/Kritofer/chatgpt-roblox-code) | 0 | chagpt generated code feel free to refine some |
 | [krmayn/roblox-pp-cli](https://github.com/krmayn/roblox-pp-cli) | 0 | Unified CLI for Roblox's public web APIs (users, games, thumbnails, friends, groups, catalog, avatar, badges, inventory, presence, economy) — generated from ... |
+| [Kub4-dev/Start-Screen-For-Roblox-Games](https://github.com/Kub4-dev/Start-Screen-For-Roblox-Games) | 0 | Code generated by Copilot Edited and expanded with new features & GUI implementation by JK‑Dev , enjoy beuty gui |
 | [KURVOX/roblox-ai-npc](https://github.com/KURVOX/roblox-ai-npc) | 0 | AI-driven NPC behaviors and adaptive gameplay systems for Roblox. |
 | [kuy58995-a11y/Uuuhhbhh](https://github.com/kuy58995-a11y/Uuuhhbhh) | 0 | สคริปต์ AI ช่วยเล่น Combat Warriors (Roblox) มีระบบล็อกเป้า หลบอัตโนมัติ ตีเป็นจังหวะ พร้อม GUI เปิดปิดฟังก์ชัน |
+| [Kxlq2/Bluesito-AI](https://github.com/Kxlq2/Bluesito-AI) | 0 | talk with a AI on Roblox! |
 | [KyberWolffe/roblox-studio-mcp-multisession](https://github.com/KyberWolffe/roblox-studio-mcp-multisession) | 0 | Experimental explicit-target, concurrent multi-session Roblox Studio MCP for Apple Silicon macOS |
 | [larpedd/rblx-unofficial-genai-framework](https://github.com/larpedd/rblx-unofficial-genai-framework) | 0 | Unofficial implementation of Google's generative AI API built in lua for roblox |
 | [leagames0221-sys/roblox-port-doctor](https://github.com/leagames0221-sys/roblox-port-doctor) | 0 | AI-assisted debug assistant for Luau/Roblox: server-authority/security rules, UE5->Luau port pitfalls, runtime error->fix triage. Complements official toolin... |
 | [leagames0221-sys/roblox-spec-compass](https://github.com/leagames0221-sys/roblox-spec-compass) | 0 | Natural-language feature request -> full design spec + PERT effort estimate. Domain-agnostic core + Roblox/Luau pack. Free, local-first LLM, zero runtime deps. |
+| [Leandro-M4/RobloxDevPro](https://github.com/Leandro-M4/RobloxDevPro) | 0 | A roblox AI Dev that help you coding and do multiple things to help you create your game ! |
 | [legionstudiosroblox/Simple-Roblox-Workflow-MCP-Addon](https://github.com/legionstudiosroblox/Simple-Roblox-Workflow-MCP-Addon) | 0 | Rules template + a few non-aggressive useful mcp tools to use along built-in-roblox-studio MCP for optimized game dev workflow. |
 | [Leks2000/KnigtFreejs](https://github.com/Leks2000/KnigtFreejs) | 0 | Procedural Three.js Roblox-style dark fantasy knight character viewer with GLB export. |
 | [leoultrapultra/roblot-website](https://github.com/leoultrapultra/roblot-website) | 0 | ai chatbot for roblox players in python |
@@ -553,15 +578,20 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [lera09390-netizen/roblox-NPC](https://github.com/lera09390-netizen/roblox-NPC) | 0 | A simple Python tool that simulates a Roblox NPC using random keyboard inputs. No AI, no pathfinding, and no obstacle detection. The character simply perform... |
 | [Lexon1221/nexus-ai-roblox-plugin](https://github.com/Lexon1221/nexus-ai-roblox-plugin) | 0 | Nexus AI Roblox Studio Plugin - Connect Studio to the Nexus AI Platform |
 | [lexsf/rbxsync](https://github.com/lexsf/rbxsync) | 0 | Sync Roblox games between Studio and VS Code with MCP integration |
+| [lguddeti/BTTF](https://github.com/lguddeti/BTTF) | 0 | Hill Valley — Roblox game built with Claude Code Game Studios agent architecture |
 | [lhuizach/roblox-studio-api-gemini](https://github.com/lhuizach/roblox-studio-api-gemini) | 0 | Bridj — Build Roblox games with natural language. Chat with Gemini AI to generate scripts, GUIs, parts, tools, and complete systems (leaderstats, DataStores,... |
 | [linusbloch44448/roblox-lite-boss-fight](https://github.com/linusbloch44448/roblox-lite-boss-fight) | 0 | Ein komplettes Boss-Fight System für Roblox Lite mit AI, Angriffe und Health-System |
+| [loganlowhorn1-del/roblox-ai-server](https://github.com/loganlowhorn1-del/roblox-ai-server) | 0 | this is an ai |
+| [loganlowhorn1-del/roblox-ai-server2](https://github.com/loganlowhorn1-del/roblox-ai-server2) | 0 | this is an ai |
 | [loguelegendstartnow-code/FNAF-Coop-Roblox](https://github.com/loguelegendstartnow-code/FNAF-Coop-Roblox) | 0 | A cooperative FNAF game script for Roblox with multiplayer synchronization, door systems, cameras, power management, and animatronic AI |
 | [lolad610/scriptix-site](https://github.com/lolad610/scriptix-site) | 0 | Scriptix — Roblox AI helper static site |
 | [lopierrep/RobloxWithClaude](https://github.com/lopierrep/RobloxWithClaude) | 0 | (geen omschrijving op GitHub) |
 | [LordsDestiny1/roblox-npc-ai-system](https://github.com/LordsDestiny1/roblox-npc-ai-system) | 0 | (geen omschrijving op GitHub) |
 | [loresky-dev/ollama-roblox](https://github.com/loresky-dev/ollama-roblox) | 0 | Local AI chat for Roblox - proximity chat, player blacklist, 15 roleplay presets |
+| [luisitoys12/devtools-mcp-kus](https://github.com/luisitoys12/devtools-mcp-kus) | 0 | 🚀 KUS DevTools MCP Server — Playwright, Roblox Docs, Git, Filesystem y más. 100% remoto en Fly.io para Claude Code + Gemma4. |
 | [luisitoys12/roblox-avatar-studio](https://github.com/luisitoys12/roblox-avatar-studio) | 0 | ☁️ Cloud workspace: Blender + Roblox Studio + MCP AI — crea assets UGC para Roblox desde cualquier PC |
 | [luismemo648-alt/fluffy-umbrella](https://github.com/luismemo648-alt/fluffy-umbrella) | 0 | twilight sparkle i (and gemini) made for roblox |
+| [lukesystems/HudForge](https://github.com/lukesystems/HudForge) | 0 | AI-powered Roblox UI workflow platform - Ship professional UI in minutes |
 | [luucasdy-blip/mon-script-roblox](https://github.com/luucasdy-blip/mon-script-roblox) | 0 | j'ai crée mon propre script |
 | [MafionistaKarchis/Api](https://github.com/MafionistaKarchis/Api) | 0 | Api Roblox studio > Render > Gemini |
 | [magnet78/bloxscout](https://github.com/magnet78/bloxscout) | 0 | Reconnaissance for Roblox game devs and their agents — open-source MCP server + CLI for Roblox game analytics. |
@@ -571,6 +601,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [mario-2507/ElementAI](https://github.com/mario-2507/ElementAI) | 0 | Roblox Element Ai Tester |
 | [martinsdiogo4848-hue/roblox-ai-api](https://github.com/martinsdiogo4848-hue/roblox-ai-api) | 0 | Roblox AI API for script generation |
 | [masiharobux-cell/roblox-ai-proxy](https://github.com/masiharobux-cell/roblox-ai-proxy) | 0 | سرور واسط برای اتصال روبلاکس به هوش مصنوعی ChatGPT |
+| [masonlcornwell/Bloxorama](https://github.com/masonlcornwell/Bloxorama) | 0 | A bootlegged roblox made half with ai don't judge |
 | [masterbaitercoder/game](https://github.com/masterbaitercoder/game) | 0 | a ai Roblox like game |
 | [masterbaitercoder/games](https://github.com/masterbaitercoder/games) | 0 | a ai Roblox like game |
 | [matkicyt-coder/studio](https://github.com/matkicyt-coder/studio) | 0 | This is Blauberia A project i made using firebase studio and ai t make a roblox replica but i ran into errors and not good things so anyone can now take this |
@@ -609,16 +640,19 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [MuhWldns/Roblox-Mcp-Gateway](https://github.com/MuhWldns/Roblox-Mcp-Gateway) | 0 | (geen omschrijving op GitHub) |
 | [mvvthw/roblox-claude-skills](https://github.com/mvvthw/roblox-claude-skills) | 0 | Production-ready Claude Code skills for Roblox: safe DataStore persistence (ProfileStore) + a modular economy design partner. Verified in a live Studio. |
 | [mwklein/roblox-cheese-puff-obby](https://github.com/mwklein/roblox-cheese-puff-obby) | 0 | Roblox obby with 9 zones of increasing difficulty. Collect Cheeto puffs. Only one player can hold The One Puff. Built with Rojo, Luau, and Claude Code. |
+| [nanlulu/roblox-games-vault](https://github.com/nanlulu/roblox-games-vault) | 0 | A personal wiki on Roblox game design, maintained by an LLM agent. Drop in articles and papers; get back a structured, cross-referenced, bilingual (EN/中文) kn... |
 | [nanlulu/roblox-studio-cli](https://github.com/nanlulu/roblox-studio-cli) | 0 | CLI wrapper for Roblox Studio's MCP server — reduces Claude Code token usage by 68-80% by replacing MCP tool schemas with lightweight Bash commands |
 | [Naphetzz/milkshake](https://github.com/Naphetzz/milkshake) | 0 | Connect Ai to Roblox studio! |
 | [NarenDawar/roblox-ai-proxy](https://github.com/NarenDawar/roblox-ai-proxy) | 0 | For the new Roblox AI tool! |
 | [Nathan1521/DerrenAI](https://github.com/Nathan1521/DerrenAI) | 0 | Roblox derren ai provider |
 | [nathanplt/agent-zero](https://github.com/nathanplt/agent-zero) | 0 | vibe-coded roblox agent (fail) |
+| [nawzaysfinah/ai-project-fair](https://github.com/nawzaysfinah/ai-project-fair) | 0 | Interactive 3D student project fair with Roblox aesthetic — Three.js + TypeScript + Vite |
 | [Naymmmm/ai.luau](https://github.com/Naymmmm/ai.luau) | 0 | Google Vertex AI module for Lune (and soon Roblox) |
 | [nekoruki04/roblox-intelligence-layer](https://github.com/nekoruki04/roblox-intelligence-layer) | 0 | A portable knowledge, reasoning and agent framework for Roblox Studio. |
 | [Nenecosturan/Titanium-Optimizer-Gen2-V3-AI-ELITE](https://github.com/Nenecosturan/Titanium-Optimizer-Gen2-V3-AI-ELITE) | 0 | Performance boost script for all kind of Roblox executors, especially modified for mobile |
 | [NeonAI-RobloxAssistant/NeonAI](https://github.com/NeonAI-RobloxAssistant/NeonAI) | 0 | NeonAI is a Roblox Studio AI Assistant |
 | [newphoneitslee/roblox-voicechat-flushed-](https://github.com/newphoneitslee/roblox-voicechat-flushed-) | 0 | yooo just found this while making ai |
+| [newtryer7w537r63/gracebutclaude](https://github.com/newtryer7w537r63/gracebutclaude) | 0 | the Roblox game called grace but made by claude |
 | [Nfa2022a/StudioAssetHub-AI-Powered-Roblox-Asset-Downloader](https://github.com/Nfa2022a/StudioAssetHub-AI-Powered-Roblox-Asset-Downloader) | 0 | Ai Powered Search Asset Companion |
 | [nicholasosto/roblox-ts-flamework-ai-template-single](https://github.com/nicholasosto/roblox-ts-flamework-ai-template-single) | 0 | (geen omschrijving op GitHub) |
 | [NICKISBAD/Scripts-by-GPT](https://github.com/NICKISBAD/Scripts-by-GPT) | 0 | A set of roblox luau scripts made by both Chat GPT and DAN (ie. Do anything now) |
@@ -661,6 +695,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [pbib12321/chatbot-python-server](https://github.com/pbib12321/chatbot-python-server) | 0 | Python server for chatbot integration with Roblox |
 | [peyronth/ia-roblox](https://github.com/peyronth/ia-roblox) | 0 | This script permit to play Rasende Roboter against a prediction AI with a graphical interface. This project was made during the IA41 semester project of UTBM... |
 | [phan47635670-debug/RobloxStudio-MCP-Rebridge](https://github.com/phan47635670-debug/RobloxStudio-MCP-Rebridge) | 0 | Utility application designed for resolving Roblox studio MCP problem |
+| [philameaglesllc-ops/BigCreatureCollector](https://github.com/philameaglesllc-ops/BigCreatureCollector) | 0 | An AI-powered Roblox fishing game |
 | [PhilippsssPhels/crafty-mind](https://github.com/PhilippsssPhels/crafty-mind) | 0 | Crafty Minds is a site where you can find games of a solo-developer on roblox! Find also a community on discord running and more! AI contact coming soon! |
 | [PhilippsssPhels/crafty-minders](https://github.com/PhilippsssPhels/crafty-minders) | 0 | Crafty Minds is a site where you can find games of a solo-developer on roblox! Find also a community on discord running and more! AI contact coming soon! |
 | [PhilippsssPhels/roblox-crafty](https://github.com/PhilippsssPhels/roblox-crafty) | 0 | Crafty Minds is a site where you can find games of a solo-developer on roblox! Find also a community on discord running and more! AI contact coming soon! |
@@ -684,10 +719,12 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [rapharoblox/mapa-do-roblox-usando-apenas-o-chat-GPT](https://github.com/rapharoblox/mapa-do-roblox-usando-apenas-o-chat-GPT) | 0 | Olá eu queria saber se alguem poderia me ajudar em um código pq o chat gpt não consegue fazer códigos 100% perfeito queria saber se alguem ajudaria a aura qu... |
 | [RavenAttack/Roblox-Parrot-AI](https://github.com/RavenAttack/Roblox-Parrot-AI) | 0 | Hello this is for a roblox game!!! |
 | [Razekiza/roblox-ai-server](https://github.com/Razekiza/roblox-ai-server) | 0 | Serveur Node.js pour chatbot Roblox |
+| [razgreenhalimi-pixel/chat-gptea-server](https://github.com/razgreenhalimi-pixel/chat-gptea-server) | 0 | AI server for Roblox game chat gptea |
 | [Razzleberrytt/atlas-game-development](https://github.com/Razzleberrytt/atlas-game-development) | 0 | AI-first development framework and home of the Living Kingdoms Roblox RTS |
 | [rbxpay95/Bloxy.AI](https://github.com/rbxpay95/Bloxy.AI) | 0 | The #1 Roblox AI Bot, For all your Development Needs. |
 | [RealBorz/Roblox](https://github.com/RealBorz/Roblox) | 0 | Fake Roblox gpt ga,e parkour |
 | [realcatfries/luau-lsp-plugin-a](https://github.com/realcatfries/luau-lsp-plugin-a) | 0 | Luau language server (luau-lsp) plugin for Claude Code — code intelligence for Roblox and plain Luau, with automatic Roblox API type definitions |
+| [realestpeppinoever67/FuckOffBigCorporations](https://github.com/realestpeppinoever67/FuckOffBigCorporations) | 0 | Fuck off OpenAI, Google, Meta, Amazon, Apple, Roblox, Netflix, Microsoft. |
 | [realNasser9229/NasoroAI](https://github.com/realNasser9229/NasoroAI) | 0 | Meet the new AI agent, that is outside of Roblox; Nasoro AI! This noble AI chatbot will help you with everything you struggle in. |
 | [RecreatingMinecraft/PyAGS-Roblox-doors-Ai-](https://github.com/RecreatingMinecraft/PyAGS-Roblox-doors-Ai-) | 0 | An Ai for the game Roblox Doors |
 | [reimlox66-ops/Roblox-Studio-MCP](https://github.com/reimlox66-ops/Roblox-Studio-MCP) | 0 | When I go to the MCP section in Roblox to connect, it says "MCP Server not supported." Why is that? |
@@ -697,6 +734,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [rhodespapademetropoulos/robloxeconomy](https://github.com/rhodespapademetropoulos/robloxeconomy) | 0 | ai project for predicting future economy values based on mnist |
 | [rib3ye/roblox-architect](https://github.com/rib3ye/roblox-architect) | 0 | An agent skill (Cursor / Claude Code) that turns the agent into an elite Roblox engineering architect, anchored on the Order framework. |
 | [Ridlaa/Roblox-AI-Bridge](https://github.com/Ridlaa/Roblox-AI-Bridge) | 0 | I have no clue if this is even working, but the idea is that you can use Rojo W/ this to use programs like antigravity to automatically code for you or somth... |
+| [rip-kamran/voxel.gg](https://github.com/rip-kamran/voxel.gg) | 0 | AI-powered Luau script generator for Roblox |
 | [RobloxAIGames/ai-roblox-game-builder](https://github.com/RobloxAIGames/ai-roblox-game-builder) | 0 | Roblox games with ai |
 | [robloxluakrnlaccount/ChatbotrblxForums.github.io](https://github.com/robloxluakrnlaccount/ChatbotrblxForums.github.io) | 0 | Forums of AI Chatbot roblox game |
 | [RobotFuryNO9/Roblox.ai](https://github.com/RobotFuryNO9/Roblox.ai) | 0 | A game thatis just like roblox |
@@ -708,6 +746,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Roquefeller/Juego-de-Futbol-en-Roblox-y-Blender-mediante-MCP](https://github.com/Roquefeller/Juego-de-Futbol-en-Roblox-y-Blender-mediante-MCP) | 0 | Hecho por los alumnos: Alaracon Agustina, Gudiño Thomas |
 | [roushou/gox](https://github.com/roushou/gox) | 0 | An AI agent runtime for Roblox Studio exposed over MCP |
 | [rowanbateman24-lab/Roblox-AI-Luau-Framework](https://github.com/rowanbateman24-lab/Roblox-AI-Luau-Framework) | 0 | An open-source framework, template system, and utility toolkit for Roblox Studio designed entirely using AI-assisted Luau workflows. |
+| [royerzachary022-cpu/roblox-ai](https://github.com/royerzachary022-cpu/roblox-ai) | 0 | idk just working on it |
 | [RudraIV/BloxSync](https://github.com/RudraIV/BloxSync) | 0 | Local-first Roblox Studio control plane for humans and coding agents — two-way script sync, live DataModel inspection, capture, playtests, and Studio-aware l... |
 | [Rushabh-Runwal/Roblox-Outfit-Marketplace-Agents](https://github.com/Rushabh-Runwal/Roblox-Outfit-Marketplace-Agents) | 0 | (geen omschrijving op GitHub) |
 | [Rxuser2/Roblox-MCP-Unified](https://github.com/Rxuser2/Roblox-MCP-Unified) | 0 | Comprehensive MCP Server for Roblox Development |
@@ -732,6 +771,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [shivsiddhacontact-coder/Roblox-2.o](https://github.com/shivsiddhacontact-coder/Roblox-2.o) | 0 | Build “Roblox 2.0”, a hyper-realistic next-gen gaming platform with AAA 3D graphics, multiplayer, open-world, racing, survival, RPG, sports, horror and actio... |
 | [sigma-byte21/textgen-proxy](https://github.com/sigma-byte21/textgen-proxy) | 0 | Simple AI textgen proxy for Roblox |
 | [Sillyboi2016/roblox-sfx-pack](https://github.com/Sillyboi2016/roblox-sfx-pack) | 0 | Sound effects for Roblox AI video system |
+| [singhavisheksingh1000-debug/careerpilot-aii](https://github.com/singhavisheksingh1000-debug/careerpilot-aii) | 0 | My Roblox YouTube Shorts AI system |
 | [Skibdiidii/roblox-ai-studio](https://github.com/Skibdiidii/roblox-ai-studio) | 0 | Roblox AI Studio - AI development environment for Roblox games with Luau code generation, 3D preview, and Open Cloud publishing. |
 | [Skibdiidii/roblox-vc-backend](https://github.com/Skibdiidii/roblox-vc-backend) | 0 | Roblox Voice Chat AI Backend server and control dashboard |
 | [skivivivs/AnimAI](https://github.com/skivivivs/AnimAI) | 0 | A text-to-animation AI Roblox Studio Plugin that generates procedural animations from text prompts |
@@ -744,6 +784,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [spavdigital/roblox-npc-ai](https://github.com/spavdigital/roblox-npc-ai) | 0 | Server-authoritative NPC AI for Roblox — patrol, line-of-sight detection, pathfinding chase and combat. MIT. |
 | [Spectra625/ATM-ROBLOX](https://github.com/Spectra625/ATM-ROBLOX) | 0 | maybe the ai helps ? |
 | [SqWmOldLab/LocalDirSoftwareSqW_m](https://github.com/SqWmOldLab/LocalDirSoftwareSqW_m) | 0 | Also scripts in this page made by SqW_m with support AI assistent for games roblox, the UI of this scripts can be stolen by other autors cuz im lazy for maki... |
+| [srter0001/ROBLOX-ROJO-CONTEXT](https://github.com/srter0001/ROBLOX-ROJO-CONTEXT) | 0 | A complete context and workflow guide for AI coding agents working on Roblox & Rojo projects |
 | [sssynk/robloxmcp](https://github.com/sssynk/robloxmcp) | 0 | The Roblox MCP server for everything. |
 | [Stanheeg/OllaLama](https://github.com/Stanheeg/OllaLama) | 0 | OllaLama is a AI powered Roblox Studio Game Coder/Builder Plugin that integrates with Ollama. |
 | [StarGazerDevelopment/roblox-hand-tracking-ai](https://github.com/StarGazerDevelopment/roblox-hand-tracking-ai) | 0 | (geen omschrijving op GitHub) |
@@ -755,6 +796,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [straight12/roblox-portfolio](https://github.com/straight12/roblox-portfolio) | 0 | Commission-ready Roblox Systems Developer portfolio - Luau, Combat, AI, DataStores, Discord bots |
 | [strandedlukas/Coding-Expert-Roblox-studio-helper-](https://github.com/strandedlukas/Coding-Expert-Roblox-studio-helper-) | 0 | Hello! This is a easy to use file that is a safe Roblox Studio helper. This repository is purely made for helping and teaching you how to code. With a built ... |
 | [StudioWizz/Claude-Rbx](https://github.com/StudioWizz/Claude-Rbx) | 0 | Claude Library for use with Roblox Studio MCP |
+| [SunnyAero3/aeroblox2011old](https://github.com/SunnyAero3/aeroblox2011old) | 0 | an attempt to make a roblox 2011 recreation with ChatGPT. |
 | [SuperHackerYT/Claude-UI](https://github.com/SuperHackerYT/Claude-UI) | 0 | A roblox UILibrary made with Claude Sonnet 4.5 |
 | [SuperInstance/hermes-roblox-construct](https://github.com/SuperInstance/hermes-roblox-construct) | 0 | Lua framework for AI-driven Roblox agents and games — voice control, event simulation, GPU asset generation |
 | [SuperInstance/lucineer-roblox](https://github.com/SuperInstance/lucineer-roblox) | 0 | 🎮 Lucineer Roblox client — Lua modules for in-game AI companion with live build execution |
@@ -782,6 +824,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [THEHAKER-crypto/Roblox-minigames](https://github.com/THEHAKER-crypto/Roblox-minigames) | 0 | a fun little Roblox minigames like js script made by ai |
 | [thiscube/cubes-roblox-mcp](https://github.com/thiscube/cubes-roblox-mcp) | 0 | A next-gen MCP server for Roblox Studio — cheap calls, smart server, full Studio surface. |
 | [tinsleyjames43-dotcom/RobloxStore](https://github.com/tinsleyjames43-dotcom/RobloxStore) | 0 | practical AI tools, honest reviews, and ready‑to‑use prompts that help creators, freelancers, and small businesses save time and automate work. Get step‑by‑s... |
+| [tk9412745-ctrl/roblox-valorant](https://github.com/tk9412745-ctrl/roblox-valorant) | 0 | Roblox FPS inspired by Valorant — 12 agents, 6 maps, 19 weapons, 102 sprints, full UI presentation |
 | [tkosdina/roblox-rant-ai](https://github.com/tkosdina/roblox-rant-ai) | 0 | AI-powered Roblox rant video generator with TrollTower gameplay |
 | [toileca/roblox-ai-proxy](https://github.com/toileca/roblox-ai-proxy) | 0 | Serveur proxy pour connecter Roblox à l'API OpenAI |
 | [tokbceliwemers/mcp_roblox](https://github.com/tokbceliwemers/mcp_roblox) | 0 | mcp for roblox using darkdexp(beta) |
@@ -804,14 +847,18 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Uts3344/roblox-animator](https://github.com/Uts3344/roblox-animator) | 0 | its an about ai prompt animation in roblox studio |
 | [uzairalikazi/Roblox-Infamy-Script](https://github.com/uzairalikazi/Roblox-Infamy-Script) | 0 | 🌟 Infamy Script – Auto Spawn Criminal Ai, Auto Equip Cellphone |
 | [valrinx/raven-roblox-mcp](https://github.com/valrinx/raven-roblox-mcp) | 0 | A fast shared-daemon MCP bridge for Roblox executors, Codex, and multiple AI agents |
+| [victorcarmo2003/TSMap](https://github.com/victorcarmo2003/TSMap) | 0 | A simple Auto-Sync between roblox workspace and VSCode. Made for RobloxTS and made totally with AI. |
 | [VictoriaXXD/RoGPT](https://github.com/VictoriaXXD/RoGPT) | 0 | A GPT model meant to run under Roblox ENV conditions |
 | [viEnvy333/RobloxExportScripts_OPENSOURCE](https://github.com/viEnvy333/RobloxExportScripts_OPENSOURCE) | 0 | ▎ Roblox Studio plugin to export Lua scripts (Script, LocalScript, ModuleScript) to the local filesystem. Supports individual .lua files, .zip archives, and ... |
 | [vincent-situ/API-Documentation-Agent](https://github.com/vincent-situ/API-Documentation-Agent) | 0 | Autonomous RAG agent that crawls the Roblox Engine API docs and answers natural language queries using OpenAI tool calling and ChromaDB vector search. |
+| [vinkius-labs/awesome-mcp-servers](https://github.com/vinkius-labs/awesome-mcp-servers) | 0 | A curated list of 370+ production-ready MCP servers across 44 categories — from NASA to Roblox, from FDA to Formula 1. All managed and one-click deployable v... |
 | [vinybnb/roblox](https://github.com/vinybnb/roblox) | 0 | do tôi và AI viết |
 | [vishnuvkintali/roblox-sword-combat-game](https://github.com/vishnuvkintali/roblox-sword-combat-game) | 0 | Roblox PvP game with sword combat and enemy AI. Built in Lua. |
 | [vivaanchauhan1969/Velocity-Rush](https://github.com/vivaanchauhan1969/Velocity-Rush) | 0 | Velocity Rush is an adrenaline-pumping racing game in Roblox where players compete in high-speed challenges across dynamic tracks. Customize your vehicles, m... |
 | [VixianSchool/studio-claude](https://github.com/VixianSchool/studio-claude) | 0 | Cursor-style Claude Code chat panel inside Roblox Studio (plugin + local bridge, no API key) |
 | [vo1dleaf/roblox-claude-kit](https://github.com/vo1dleaf/roblox-claude-kit) | 0 | Open-source Roblox architecture kit for Claude Code + Roblox Studio MCP. |
+| [voidluax/Orion](https://github.com/voidluax/Orion) | 0 | Orion AI for roblox |
+| [vraafi/Nexus-DualBrain-AI](https://github.com/vraafi/Nexus-DualBrain-AI) | 0 | Autonomous AI Coding Agent with Dual-Brain Architecture: Brain #1 (OmniSynthesizerAgent) for Roblox/Luau, Brain #2 (PolyglotSynthesizerAgent) for universal c... |
 | [vraafi/Robloxotonom](https://github.com/vraafi/Robloxotonom) | 0 | Nexus - Roblox Autonomous AI Game Generator System |
 | [watcharaponthod-code/roblox-dragon-combat](https://github.com/watcharaponthod-code/roblox-dragon-combat) | 0 | Roblox aerial dragon PvP — a behaviour-based bot AI tuned to pass for a human player and stay beatable. Flight brain, steering, dodging and shared dragon sys... |
 | [webdev-css/Roblox-Studio-Agent](https://github.com/webdev-css/Roblox-Studio-Agent) | 0 | A Powerful, Roblox_Studio-Agent that everybody needs. For there Roblox game. Available for Studio Lite & Studio X, Users also. |
@@ -824,6 +871,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [XenoKarma/GalleryRoblox](https://github.com/XenoKarma/GalleryRoblox) | 0 | Disini saya coba membuat web gallery ala ala pinterest setelah belajar HTML Dasar dan CSS dasar yang dimana dibantu juga oleh AI tentunya wkwkwkwk :D |
 | [xxi774253-ops/MobEngine](https://github.com/xxi774253-ops/MobEngine) | 0 | A modular and extensible AI framework for Roblox. |
 | [XXXT3/Grand-Agent-Library-UI-](https://github.com/XXXT3/Grand-Agent-Library-UI-) | 0 | a roblox lua ui library made by grand and agent. |
+| [Xznder1984/CodeBlox-AI-Studio](https://github.com/Xznder1984/CodeBlox-AI-Studio) | 0 | a local roblox game maker |
 | [Y46ne/RobloxChatGpt](https://github.com/Y46ne/RobloxChatGpt) | 0 | (geen omschrijving op GitHub) |
 | [Yameteshka/3D-Connect-4](https://github.com/Yameteshka/3D-Connect-4) | 0 | 3D Connect-4 AI with minimax. Play in Python or in Roblox soon! |
 | [Yangkai1545/roengine](https://github.com/Yangkai1545/roengine) | 0 | An AI engineering framework for Roblox Studio that plans, writes, tests, and reviews Luau code using structured workflows, MCP tools, and intelligent model r... |
