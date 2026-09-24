@@ -86,7 +86,7 @@ Entity Component Systems en frameworks voorbij Knit.
 | [zblox164/Scrypt](https://github.com/zblox164/Scrypt) | 1 | Scrypt-framework |
 | [ZacharyVanier/VZNCore-Template](https://github.com/ZacharyVanier/VZNCore-Template) | 0 | Batteries-included ECS-framework template |
 
-## Uitgebreide index (378)
+## Uitgebreide index (381)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -248,6 +248,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [0xsteak/nova-ui](https://github.com/0xsteak/nova-ui) | 0 | An advanced component-based UI framework for Roblox. |
 | [1Humza/evolve-framework](https://github.com/1Humza/evolve-framework) | 0 | ROBLOX Luau custom framework object oriented in nature featuring classes and inheritance. |
 | [3xp0x3d/Horus](https://github.com/3xp0x3d/Horus) | 0 | An all-in-one framework for Roblox development |
+| [abdulsenlik/roblox-game-factory](https://github.com/abdulsenlik/roblox-game-factory) | 0 | Roblox Game Factory — autonomous GDD-to-game pipeline architecture flowchart |
 | [Adr1z/Adr1z_PokemonFW](https://github.com/Adr1z/Adr1z_PokemonFW) | 0 | Pokemon FrameWork for Roblox made by Adr1z |
 | [akashswarnkar012-glitch/sparky-portfolio](https://github.com/akashswarnkar012-glitch/sparky-portfolio) | 0 | SPARKY — Roblox builder & map designer portfolio. Pure HTML/CSS/JS, no frameworks. |
 | [AlexeyLegasov63/TinyFrameworkRbx](https://github.com/AlexeyLegasov63/TinyFrameworkRbx) | 0 | Tiny Roblox Framework would be the best solution for fast start. |
@@ -321,6 +322,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [henryrem/secLITE](https://github.com/henryrem/secLITE) | 0 | A revolutionary all-in-one experience framework for Roblox in the LuaU language. A deep dive in the read me is required for use and modification. |
 | [I2rys/Roteract](https://github.com/I2rys/Roteract) | 0 | [Prerelease] Powerful Roblox framework. |
 | [iceeburr/runtime](https://github.com/iceeburr/runtime) | 0 | Powerful utility for managing modular service architectures in Roblox |
+| [ifanhakm/sentimentanalysis-roblox-playstore-deeplearning](https://github.com/ifanhakm/sentimentanalysis-roblox-playstore-deeplearning) | 0 | Sentiment analysis of Roblox user reviews using a deep learning architecture (Bi-LSTM & GRU). This project designed a highly efficient text pre-processing pi... |
 | [ilililliliilililililiili/rayworks](https://github.com/ilililliliilililililiili/rayworks) | 0 | A light-weight Roblox framework. |
 | [ImAvafe/RoRoomsOld](https://github.com/ImAvafe/RoRoomsOld) | 0 | An all-in-one social/RP framework for Roblox / WIP 🚧 |
 | [imlaurensdev-ops/gorillakit](https://github.com/imlaurensdev-ops/gorillakit) | 0 | Roblox backend framework. Powerfull, easy and reliable. |
@@ -467,6 +469,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [xyvnz05/roblox-framework](https://github.com/xyvnz05/roblox-framework) | 0 | [ROBLOX] Framework for the systems |
 | [yann-lephay/roblox-game-architect](https://github.com/yann-lephay/roblox-game-architect) | 0 | Framework pour architecturer un jeu Roblox de A à Z avant d'écrire une seule ligne de code. 5 phases, 13 PRD de game design, scoring Oracle. |
 | [yasharik13/Luna-New](https://github.com/yasharik13/Luna-New) | 0 | Luna: New Quantum-Grade Roblox Execution Framework |
+| [YoeChii/scopeplus-docs](https://github.com/YoeChii/scopeplus-docs) | 0 | ScopePlus documentation - Advanced lifecycle & resource management for Roblox |
 | [z13ak/BrickAPI](https://github.com/z13ak/BrickAPI) | 0 | Zero-config Roblox/Luau backend framework: auto-loading services for player data, currencies, inventory, pets, quests, gacha RNG, shop, and boosts. |
 | [zayddd666/ShellUI](https://github.com/zayddd666/ShellUI) | 0 | A UI Framework in roblox |
 | [zyilet/Roblox-TS-Flamework-Template](https://github.com/zyilet/Roblox-TS-Flamework-Template) | 0 | (geen omschrijving op GitHub) |

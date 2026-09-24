@@ -22,7 +22,7 @@ Full-body VR, SteamVR-trackers en webcam-tracking.
 | [mathken029/vr-roblox-kit](https://github.com/mathken029/vr-roblox-kit) | 0 | Open-source VR game-development kit |
 | [Metatable-Games/MetaVR](https://github.com/Metatable-Games/MetaVR) | 0 | VR-framework in Luau |
 
-## Uitgebreide index (40)
+## Uitgebreide index (43)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -46,6 +46,8 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Boyquotes/SoundSpaceReborn](https://github.com/Boyquotes/SoundSpaceReborn) | 0 | Originally a ROBLOX game, Sound Space is a game which takes Beat Saber's mechanics into a 3D, non-VR environment for people who can't afford VR headsets. It'... |
 | [CalicoKitty/RobloxVRw1](https://github.com/CalicoKitty/RobloxVRw1) | 0 | iDtech Roblox VR AU Week 1 |
 | [DataEncoded/Tactile-Engine](https://github.com/DataEncoded/Tactile-Engine) | 0 | A roblox VR engine being developed. |
+| [ddiydbjeihebddmdi82782-wq/Roblox-VR-Support](https://github.com/ddiydbjeihebddmdi82782-wq/Roblox-VR-Support) | 0 | VR Support which can be added to any Roblox Game |
+| [Dohkoh4/Crashout-VR-game](https://github.com/Dohkoh4/Crashout-VR-game) | 0 | Yeah, so you all think I copied that one game, CRASHOUT on roblox, and well, yeah. I did. Deal with it. I just wanted to create something like that in VR. |
 | [EthanMahaja/special-game](https://github.com/EthanMahaja/special-game) | 0 | A Roblox inspired game in which you can interact with the Roblox world in VR. |
 | [freitasrachal734-afk/RobloxVR-Shinecon](https://github.com/freitasrachal734-afk/RobloxVR-Shinecon) | 0 | Meu novo roblox vr |
 | [Funymeam/Roblox-VR-Toggle](https://github.com/Funymeam/Roblox-VR-Toggle) | 0 | A tool to help with changing from VR mode to Desktop mode without having to go into a game |
@@ -59,6 +61,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Nicontm/VRBridge](https://github.com/Nicontm/VRBridge) | 0 | A Roblox VR API |
 | [Nights-shadow-roblox/vr-script-roblox](https://github.com/Nights-shadow-roblox/vr-script-roblox) | 0 | A vr script made for roblox |
 | [Offline0909/RobloxSteamVRFixer](https://github.com/Offline0909/RobloxSteamVRFixer) | 0 | Fixes issue with SteamVR launching every time Roblox process is opened. |
+| [Ossian1091/CuboidsStuff](https://github.com/Ossian1091/CuboidsStuff) | 0 | A little github which i made for my Roblox VR game Cuboids! |
 | [QuoniamVR/LuauXR](https://github.com/QuoniamVR/LuauXR) | 0 | Open-Source VR Module for Roblox |
 | [QuoniamVR/RobloxVR](https://github.com/QuoniamVR/RobloxVR) | 0 | Some shit for Roblox VR (sorry GitHub!) |
 | [QuoniamVR/VR-Chassis](https://github.com/QuoniamVR/VR-Chassis) | 0 | An A-Chassis derivative for VR cars in Roblox! |

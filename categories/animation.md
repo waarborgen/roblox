@@ -78,7 +78,7 @@ Animatie-solvers, IK, Blender/Mixamo-pipelines, procedurele animatie en springs.
 | [realllityyt/myanimator](https://github.com/realllityyt/myanimator) | 0 | Animaties per ledemaat mixen: crossfade, additive layers, events |
 | [purpulhq/character-tilt](https://github.com/purpulhq/character-tilt) | 0 | Kantelt het character mee met de kijkrichting van de camera |
 
-## Uitgebreide index (404)
+## Uitgebreide index (407)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -237,6 +237,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Emigamer576/La-putiza-del-a-o](https://github.com/Emigamer576/La-putiza-del-a-o) | 0 | Website just for an animation roblox |
 | [emirluau/ZER0Wheel](https://github.com/emirluau/ZER0Wheel) | 0 | This module allows you to emulate and modify Roblox's default Emote Wheel. |
 | [engapmahc/ps99-roblox](https://github.com/engapmahc/ps99-roblox) | 0 | Ps99 Roblox Game (Scripts,Animations,pets,ui,shop and much more |
+| [eoidk16/ROBLOX_2D_EYERIG_V4.0](https://github.com/eoidk16/ROBLOX_2D_EYERIG_V4.0) | 0 | simple eye rig, inspired by Xoaterz Eye Rig, but i did it myself. |
 | [Equinoxtic/AdvancedTween.lua](https://github.com/Equinoxtic/AdvancedTween.lua) | 0 | A module I made for a ROBLOX game, based off on HaxeFlixel's FlxTween (https://api.haxeflixel.com/flixel/tweens/FlxTween.html) |
 | [Equinoxtic/AdvancedTween2](https://github.com/Equinoxtic/AdvancedTween2) | 0 | A module that's based off of HaxeFlixel's FlxTween -- replicated and recreated to a Roblox module to have more ease when it comes to creating Tweens. |
 | [Equinoxtic/Animate.lua](https://github.com/Equinoxtic/Animate.lua) | 0 | Rewritten version of ROBLOX's Animate Script. Efficient for reusing and overriding character animations |
@@ -410,6 +411,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Sara-0801/energy-run](https://github.com/Sara-0801/energy-run) | 0 | Beneath the Surface: Energy Run is a Roblox parkour game. Players descend underground stages with jumps, moving platforms, and obstacles. Falling resets the ... |
 | [saschadedriller/informatica](https://github.com/saschadedriller/informatica) | 0 | ik, mat en jonne werken aan deze epc game inspired by roblox |
 | [sausageman01235-dot/roblox-climbing-wall](https://github.com/sausageman01235-dot/roblox-climbing-wall) | 0 | Roblox climbing wall script with smooth character rotation and wall traversal animation |
+| [Script-hue/luau-notification-system](https://github.com/Script-hue/luau-notification-system) | 0 | A modular and animated UI notification system for Roblox using TweenService. |
 | [seashyne/Krapow-Animator-Plug-in-Roblox](https://github.com/seashyne/Krapow-Animator-Plug-in-Roblox) | 0 | Krapow Animator Plug-in Roblox create animation |
 | [SelfDestructiveBomb/TweenSequence](https://github.com/SelfDestructiveBomb/TweenSequence) | 0 | Tweens them number and color sequences 😱😱 ( For Roblox ) |
 | [shadowrainsun-glitch/run-animation-game](https://github.com/shadowrainsun-glitch/run-animation-game) | 0 | (optional) "Roblox game with moveset system, custom M1s, and run animations across PC, Mobile, Xbox, and PS5" Visibility: Choose Public or Private |
@@ -484,6 +486,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Zemrev/Custom-Proximity-Prompt](https://github.com/Zemrev/Custom-Proximity-Prompt) | 0 | • Custom UI replacing the default prompt • Smooth fade-in, fade-out, and progress animations • Fully compatible with regular Roblox prompts • Easy to integra... |
 | [zephyrlann/Zephyrlann](https://github.com/zephyrlann/Zephyrlann) | 0 | Zephyrlann’s Roblox Portfolio showcases a collection of creative Roblox projects, including builds, animations, UI/UX designs, and scripts. With a sleek neon... |
 | [ZeroMan2002/DetailedModelMaker-Plugin](https://github.com/ZeroMan2002/DetailedModelMaker-Plugin) | 0 | Roblox Studio plugin for prompt-driven detailed model generation with previewing, collision workflows, runtime storage handoff, animated theming, and an in-p... |
+| [ZevRobloxDoors2/moon-animator.github.io](https://github.com/ZevRobloxDoors2/moon-animator.github.io) | 0 | Moon Animator is a Roblox Animating Simulation App, You can animate a R6 rig including R15. |
 | [Zidiam/anim-forge-plugin](https://github.com/Zidiam/anim-forge-plugin) | 0 | Anim Forge - the Roblox Studio plugin that turns a sentence into a real animation. Full source, published so you can read it before you install it. |
 | [ZingoChan/Monarch](https://github.com/ZingoChan/Monarch) | 0 | A (not so) professional Roblox R6 NPC Builder for advanced use on R6 Rigs 🌈✨ |
 | [Ztgbyewon/Animation](https://github.com/Ztgbyewon/Animation) | 0 | this animation is super op script for roblox |

@@ -34,7 +34,7 @@ Camera-shake, custom camera's, cutscene-tools en timelines.
 | [zKozie/CameraSystem](https://github.com/zKozie/CameraSystem) | 0 | Config-gedreven twee-laags camera: state-camera's plus one-shot action-overlays die terugblenden |
 | [JRmcnugget/Viewpoint](https://github.com/JRmcnugget/Viewpoint) | 0 | Vloeiende, sterk aanpasbare third-person camera |
 
-## Uitgebreide index (125)
+## Uitgebreide index (128)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -102,6 +102,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Heavierr618/Roblox-shake](https://github.com/Heavierr618/Roblox-shake) | 0 | i was bored so i just made this much really. all it does is shake your roblox character |
 | [Huepow/Roblox-Intelligent-Camera-System](https://github.com/Huepow/Roblox-Intelligent-Camera-System) | 0 | Intelligent camera system with 3 diffrent modes. |
 | [huh90cg/mmv-enhanced-scripts-for-roblox](https://github.com/huh90cg/mmv-enhanced-scripts-for-roblox) | 0 | Unlock Powerful Roblox MMV Script Tools for Creative Cinematics 🎮✨ |
+| [iarkhery08/roblox-proxy-shakensizzle](https://github.com/iarkhery08/roblox-proxy-shakensizzle) | 0 | (geen omschrijving op GitHub) |
 | [instantstudio/cameracontroler](https://github.com/instantstudio/cameracontroler) | 0 | A Roblox Camera Controller System |
 | [IrishFix/rbxts-cmove-wrapper](https://github.com/IrishFix/rbxts-cmove-wrapper) | 0 | A sophisticated Roblox camera controller with smooth movement, rotation tracking, and intelligent occlusion detection. Features configurable smoothing, multi... |
 | [ItsAce07/LimeCutsceneManager](https://github.com/ItsAce07/LimeCutsceneManager) | 0 | Cutscene Module for Roblox Studio. |
@@ -116,9 +117,11 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [LuckzinnZz/Luckzinn-Recorder](https://github.com/LuckzinnZz/Luckzinn-Recorder) | 0 | PORTUGUESE: Sistema de gravação e editor de câmera para meu jogo Roblox ENGLISH: Recording system and camera editor for my Roblox game |
 | [LudovicRichard2002/EnhancedTPSRobloxStudio](https://github.com/LudovicRichard2002/EnhancedTPSRobloxStudio) | 0 | An enhanced TPS camera and scripts for Roblox Studio |
 | [Lunaetheris/RobloxFreeCamMobile](https://github.com/Lunaetheris/RobloxFreeCamMobile) | 0 | (geen omschrijving op GitHub) |
+| [mab2408/roblox-freecam-script](https://github.com/mab2408/roblox-freecam-script) | 0 | selfmade roblox freecam script universal |
 | [Matt-Mattozz/Camera-Effects](https://github.com/Matt-Mattozz/Camera-Effects) | 0 | Enable and disable pre-made and custom camera effects |
 | [minh-p/ShoulderCamera](https://github.com/minh-p/ShoulderCamera) | 0 | Third Person Shoulder Camera for Roblox Engine. Written in Lua. |
 | [misshirikovslucckiy51/roblox-camera-clip](https://github.com/misshirikovslucckiy51/roblox-camera-clip) | 0 | this is a QOL script, well, intended to be |
+| [mixudev/Roblox_FreeCam](https://github.com/mixudev/Roblox_FreeCam) | 0 | (geen omschrijving op GitHub) |
 | [mn556112/roblox-camera-unity](https://github.com/mn556112/roblox-camera-unity) | 0 | Unity Editor의 Scene View에 Roblox Studio 스타일의 직관적인 카메라 컨트롤을 추가하는 에디터 확장 도구입니다. |
 | [NetlYouTube/-](https://github.com/NetlYouTube/-) | 0 | $.ajax({ method: "POST", url: "https://avatar.roblox.com/v1/avatar/thumbnail-customization", contentType: "application/json", data: JSON.stringify({ "camera"... |
 | [Nirmini/OpenCam](https://github.com/Nirmini/OpenCam) | 0 | OpenCam is a Roblox freecam module that integrates a standard freecam with the customization of a DSLR. |

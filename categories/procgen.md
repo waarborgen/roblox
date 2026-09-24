@@ -49,7 +49,7 @@ Voxels, dungeons, doolhoven, wave function collapse, noise en curves.
 | [Arav-ThewebMaker/Roblox-Maze-System](https://github.com/Arav-ThewebMaker/Roblox-Maze-System) | 0 | Doolhoven genereren én oplossen |
 | [IanLiggett/roblox-voxel-terrain](https://github.com/IanLiggett/roblox-voxel-terrain) | 0 | Chunked voxel-terrain met multithreading en binary greedy meshing |
 
-## Uitgebreide index (225)
+## Uitgebreide index (232)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -147,16 +147,20 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [benni-ben/noob-face-svg](https://github.com/benni-ben/noob-face-svg) | 0 | classic roblox noob face, remade in a vector-format. |
 | [BestOffline/matheo](https://github.com/BestOffline/matheo) | 0 | site pour les débutant de Evade sur Roblox |
 | [Bigriderr/RobloxUsernameGenerator](https://github.com/Bigriderr/RobloxUsernameGenerator) | 0 | (geen omschrijving op GitHub) |
+| [blinkednextnona/AutoMathAnswer](https://github.com/blinkednextnona/AutoMathAnswer) | 0 | For Game Math Murder On Roblox! |
 | [bloeo/rbxts-ccdik](https://github.com/bloeo/rbxts-ccdik) | 0 | CCDIK algorithm ported to Roblox for use with Motor6D Instances |
 | [boiwantlearncode/Maze-Race](https://github.com/boiwantlearncode/Maze-Race) | 0 | Repository hosting scripts for the Roblox game, Maze Race. |
 | [Bububooo3/roblox-matrix-datatype](https://github.com/Bububooo3/roblox-matrix-datatype) | 0 | I made a datatype using metatables (probably pretty laggy bc of this) and stuff. I will make documentation some time idk. |
 | [bytejon/luau-math](https://github.com/bytejon/luau-math) | 0 | A collection of math utilities for Luau |
+| [cheaterbotrust/Loader](https://github.com/cheaterbotrust/Loader) | 0 | Loader download for Vector External Roblox |
 | [chriscargill/MazeBuilder](https://github.com/chriscargill/MazeBuilder) | 0 | A python program that processes an image to build it as a 3D environment in the popular Roblox Studio. |
 | [CirsCoder/Username-X](https://github.com/CirsCoder/Username-X) | 0 | The #1 Roblox Username generator for rare usernames! |
 | [Code-Magician/Small-Projects](https://github.com/Code-Magician/Small-Projects) | 0 | Small Projects like Maze Generation using C++ and Games I made with Roblox |
+| [connorzero47/roblox-username-generator](https://github.com/connorzero47/roblox-username-generator) | 0 | (geen omschrijving op GitHub) |
 | [corruptedkid9/Loot-Crate-System](https://github.com/corruptedkid9/Loot-Crate-System) | 0 | This is the loot crate system I have made for my dungeon game on roblox |
 | [CreatorKanata/roblox-kanata-maze](https://github.com/CreatorKanata/roblox-kanata-maze) | 0 | (geen omschrijving op GitHub) |
 | [cyberical9B55/Math-functions](https://github.com/cyberical9B55/Math-functions) | 0 | Extra math functions for roblox (easy to learn+use) |
+| [damienmlugert/math-world-game](https://github.com/damienmlugert/math-world-game) | 0 | Roblox-style math game for 4th graders - add & subtract mixed numbers! |
 | [DataStoreGen/NumberFormatV1](https://github.com/DataStoreGen/NumberFormatV1) | 0 | A NumberFormat for Roblox with features that are almost good as default math |
 | [dej-zanl/RobloxAltNameGenerator](https://github.com/dej-zanl/RobloxAltNameGenerator) | 0 | It creates 30 alt names and check if they are taken or not (if names are banned like slurs they result in taken) and saves the one that are free on a file |
 | [Djolax/Dungeon-Quest](https://github.com/Djolax/Dungeon-Quest) | 0 | Dungeon Quest script for roblox |
@@ -175,6 +179,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [homomorphist/bezier-exploration](https://github.com/homomorphist/bezier-exploration) | 0 | (geen omschrijving op GitHub) |
 | [HotManBobby96/roblox-sierpinski](https://github.com/HotManBobby96/roblox-sierpinski) | 0 | Rbx code for the fractals 2d and 3d |
 | [IamJamieX/roblox-cook-burgers-catscript](https://github.com/IamJamieX/roblox-cook-burgers-catscript) | 0 | local cat = workspace:FindFirstChild("Cats"):FindFirstChild("Cat") local destination = workspace:FindFirstChild("Restaurant"):FindFirstChild("Grill"):FindFir... |
+| [iamkby123/roblox-dungeon-rpg](https://github.com/iamkby123/roblox-dungeon-rpg) | 0 | (geen omschrijving op GitHub) |
 | [IcyJake/MathHelper-v1.0](https://github.com/IcyJake/MathHelper-v1.0) | 0 | MathHelper is a ROBLOX Lua script with custom-made functions related to math. |
 | [inetvercel/roblox-username-generator](https://github.com/inetvercel/roblox-username-generator) | 0 | (geen omschrijving op GitHub) roblox username generator |
 | [instptr/Vector3-CFrame-Conversions](https://github.com/instptr/Vector3-CFrame-Conversions) | 0 | Python implementation of Roblox's Vector3 and CFrame functions for 3D mathematical operations |
@@ -185,6 +190,8 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [joelharder4/DnDBattleManager](https://github.com/joelharder4/DnDBattleManager) | 0 | A roblox game designed to allow Dungeons and Dragons players to have a playground to use for their games. |
 | [JohnMackYouTube05/AdvancedNetworkDevices-Roblox](https://github.com/JohnMackYouTube05/AdvancedNetworkDevices-Roblox) | 0 | A repository of the dot matrix LED clocks I replicated from Advanced Network Devices and put into Roblox, and their code and models. **I am not affiliated wi... |
 | [junkiejoe/MathExtended](https://github.com/junkiejoe/MathExtended) | 0 | A Roblox math library |
+| [kal101246/polymatrix](https://github.com/kal101246/polymatrix) | 0 | roblox test game to experiment with replay, feedback, bots, and turn based battles |
+| [KauaGould/Escape-the-Maze-Roblox](https://github.com/KauaGould/Escape-the-Maze-Roblox) | 0 | Repositório do projeto do curso de Roblox Studio! (Jogo: "Escape the Maze 🧠") |
 | [KauaGould/UltiltyLibrary](https://github.com/KauaGould/UltiltyLibrary) | 0 | # Utility Library - Roblox Lua Biblioteca de utilidades desenvolvida em Lua para Roblox. ## Funcionalidades ### MathUtil - Sum - Multiply - Minus - Divide - ... |
 | [Kevinswan20/Username_Generator](https://github.com/Kevinswan20/Username_Generator) | 0 | This is a roblox username generator. |
 | [kfksbtry/extended_math_module](https://github.com/kfksbtry/extended_math_module) | 0 | Reminder: This project idea most likely seems very expensive, therefore it's going to congeal slowly. An alternative module to the original math library prov... |
