@@ -21,8 +21,11 @@ Particles, shaders, lighting, portalen, raytracing en canvas-rendering.
 | [zilibobi/forge-vfx](https://github.com/zilibobi/forge-vfx) | 17 | Emit-module van de VFX Forge plugin: complete VFX-rigs (particles, beams, meshes) afvuren vanuit code |
 | [AnotherSubatomo/RbxShader](https://github.com/AnotherSubatomo/RbxShader) | 17 | Een shader-engine in Luau (fragment-shaders via EditableImage) |
 | [Razorboot/luau-2016-shadow-engine](https://github.com/Razorboot/luau-2016-shadow-engine) | 12 | Schaduw-engine in Luau |
+| [olaffx/VineShade](https://github.com/olaffx/VineShade) | 12 | Shaders voor Roblox op Linux |
 | [boatbomber/ImageMask](https://github.com/boatbomber/ImageMask) | 8 | Images clippen/masken met een ViewportFrame-truc |
 | [KalaYoScripting/Ember](https://github.com/KalaYoScripting/Ember) | 7 | Particle-emitter gemaakt van UI-elementen (particles op elke GUI) |
+| [KloBraticc/RiShade](https://github.com/KloBraticc/RiShade) | 7 | Brengt client-shaders terug voor mooiere visuals |
+| [dogevspenguin/StudioShader](https://github.com/dogevspenguin/StudioShader) | 6 | 3DMigoto-shaders in Roblox Studio |
 | [diigit/EmitYourParticles](https://github.com/diigit/EmitYourParticles) | 4 | Geoptimaliseerde 2D GUI particle-emitter |
 | [thom463s/2D-Particle-Emitter](https://github.com/thom463s/2D-Particle-Emitter) | 4 | 2D particle-emitter oplossing |
 | [cg955gtr/PartCache](https://github.com/cg955gtr/PartCache) | 4 | Linked-list part cache (snel parts hergebruiken voor projectielen/VFX) |
@@ -33,6 +36,10 @@ Particles, shaders, lighting, portalen, raytracing en canvas-rendering.
 | [hexa0/lighting-profile](https://github.com/hexa0/lighting-profile) | 2 | Lighting-profielen opslaan/wisselen (plugin) |
 | [nightcycle/editable-image-util](https://github.com/nightcycle/editable-image-util) | 2 | Snel EditableImages bewerken |
 | [rookie-codes/WindLines](https://github.com/rookie-codes/WindLines) | 2 | Geanimeerde windlijnen met Attachments en Trails |
+| [prominly/moontrace](https://github.com/prominly/moontrace) | 2 | Experimentele raytracer in Luau (Lute) |
+| [kitsuu-ne/tokeru](https://github.com/kitsuu-ne/tokeru) | 2 | Fade in/out-effecten voor instances |
+| [Blupo/SimulationLoader](https://github.com/Blupo/SimulationLoader) | 2 | Holo-simulatie loader |
+| [Blupo/DayAtmos](https://github.com/Blupo/DayAtmos) | 2 | Lighting-script op basis van een DevForum-post |
 | [Y-Workplace/DissolveEffect](https://github.com/Y-Workplace/DissolveEffect) | 1 | Pixel-dissolve/materialize effect met gloeiende randen via EditableImage |
 | [PAKILA0/RBX-SpaceDust](https://github.com/PAKILA0/RBX-SpaceDust) | 1 | Screenspace VFX: ruimtestof rond de camera |
 | [Tsukeruu/rock-spawn-roblox](https://github.com/Tsukeruu/rock-spawn-roblox) | 1 | Krater/rotsen-ring effect (populaire anime-VFX trend) |

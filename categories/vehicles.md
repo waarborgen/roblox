@@ -9,6 +9,7 @@ Chassis, suspensie, hover, raketten, drijfvermogen en treinen.
 | [LeehamsonThe3rd/raycastsuspensionwheel](https://github.com/LeehamsonThe3rd/raycastsuspensionwheel) | 16 | Wielen met raycast-suspensie i.p.v. physics-wielen (stabieler, arcade) |
 | [chedsapp/rowheel](https://github.com/chedsapp/rowheel) | 8 | Rust-app: echt racestuur + force feedback in Roblox |
 | [anthony0br/RocketSys](https://github.com/anthony0br/RocketSys) | 7 | Realistische raket- en projectiel-physics |
+| [s-wick/FORTUNE_Products](https://github.com/s-wick/FORTUNE_Products) | 6 | Gratis assets voor de Roblox-autocommunity |
 | [OpenChassis/OpenChassis](https://github.com/OpenChassis/OpenChassis) | 5 | Open-source gemotoriseerd voertuig-chassis |
 | [ribzix/nomernoy-trainkit](https://github.com/ribzix/nomernoy-trainkit) | 4 | Trein-kit gebaseerd op Roblox-physics |
 | [totallyahuman445/Roblox-Entity-RA](https://github.com/totallyahuman445/Roblox-Entity-RA) | 2 | Entity's RA land-voertuig chassis (auto's, motoren) |

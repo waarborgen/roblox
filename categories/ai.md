@@ -13,6 +13,8 @@ Neurale netwerken, behavior trees, pathfinding, boids en LLM-NPC's.
 | [snipcola/Roblox-AI](https://github.com/snipcola/Roblox-AI) | 17 | Word een AI in Roblox (LLM bestuurt een character) |
 | [littensy/nanoai](https://github.com/littensy/nanoai) | 9 | Minimale library voor neurale netwerken |
 | [Project-Ptolemy/ProjectUAI](https://github.com/Project-Ptolemy/ProjectUAI) | 9 | Universele AI-agent die in Roblox draait (Claude Code-achtige loop) |
+| [Aerodymier/Pathfinder](https://github.com/Aerodymier/Pathfinder) | 7 | Pathfinding-karaktercontrol met PathfindingService |
+| [AqwamCreates/DataPredict-Neural](https://github.com/AqwamCreates/DataPredict-Neural) | 4 | TensorFlow-achtige deep learning library in Lua |
 | [Axp3cter/Arbor](https://github.com/Axp3cter/Arbor) | 3 | Composable, getypeerde behavior trees voor NPC-AI |
 | [Echolewron/rbx-enemy-ai](https://github.com/Echolewron/rbx-enemy-ai) | 3 | Vijand-AI: patrouilleren, achtervolgen, verstoppen |
 | [elcapykkzxd/NavPathX](https://github.com/elcapykkzxd/NavPathX) | 3 | Geoptimaliseerde fork van SimplePath |
@@ -20,6 +22,7 @@ Neurale netwerken, behavior trees, pathfinding, boids en LLM-NPC's.
 | [Daemon6109/AStarPathfinding](https://github.com/Daemon6109/AStarPathfinding) | 2 | A* zoekalgoritme in Luau (eigen grids) |
 | [glindberg2000/roblox_ai](https://github.com/glindberg2000/roblox_ai) | 2 | AI-gestuurd NPC-systeem (LLM) |
 | [ProtonDev-sys/StridePath](https://github.com/ProtonDev-sys/StridePath) | 2 | Strict pathfinding met cached navgrid en jump-aware waypoints |
+| [Infrear/roblox-ac-based-npc-follower](https://github.com/Infrear/roblox-ac-based-npc-follower) | 2 | Client-side NPC-follower met physics en animatie-blending |
 | [regibus361/AIBusPassengers](https://github.com/regibus361/AIBusPassengers) | 1 | NPC-passagiers voor bus-games |
 | [luandrew66-ctrl/SmartNPC](https://github.com/luandrew66-ctrl/SmartNPC) | 1 | AI-NPC's met gesprekken, geheugen en behavior trees |
 | [nsawill1405/Pathfinding-Plus](https://github.com/nsawill1405/Pathfinding-Plus) | 1 | Crowd-aware pathfinding met replanning en agent-coördinatie |

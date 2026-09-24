@@ -13,6 +13,7 @@ Animatie-solvers, IK, Blender/Mixamo-pipelines, procedurele animatie en springs.
 | [chriscerie/roact-spring](https://github.com/chriscerie/roact-spring) | 73 | react-spring voor react-lua |
 | [evaera/roblox-animation-transfer](https://github.com/evaera/roblox-animation-transfer) | 53 | Animaties overzetten naar een andere eigenaar/groep |
 | [TylerAtStarboard/AnimationPublisher](https://github.com/TylerAtStarboard/AnimationPublisher) | 37 | Widget om custom animaties te updaten/uploaden |
+| [Dawgra/Facial-Unification](https://github.com/Dawgra/Facial-Unification) | 33 | Zet dynamic faces om naar klassieke 2D-gezichten, zonder HTTP |
 | [TylerAtStarboard/AssetReuploader](https://github.com/TylerAtStarboard/AssetReuploader) | 32 | Images, meshes en animaties van je eigen games opnieuw uploaden en vervangen |
 | [astrealRBLX/RoUI3](https://github.com/astrealRBLX/RoUI3) | 30 | GUI-animatie plugin met timeline |
 | [TK-DZ/Roblox-IK-R15](https://github.com/TK-DZ/Roblox-IK-R15) | 24 | R15-rig met IK voor animeren in Blender |
@@ -30,6 +31,7 @@ Animatie-solvers, IK, Blender/Mixamo-pipelines, procedurele animatie en springs.
 | [sivert-io/fbx-action-exporter](https://github.com/sivert-io/fbx-action-exporter) | 6 | Alle Blender-actions als losse FBX exporteren |
 | [jackTabsCode/bau](https://github.com/jackTabsCode/bau) | 5 | Bulk animatie-uploader |
 | [sentinel69402/Anima](https://github.com/sentinel69402/Anima) | 5 | Lichtgewicht animatie-library zonder boilerplate |
+| [CavefulGames/rbxclothing](https://github.com/CavefulGames/rbxclothing) | 5 | Kleding zonder Humanoid (EditableImage) |
 | [NotBlackrus/PlayerAnimator](https://github.com/NotBlackrus/PlayerAnimator) | 4 | Eigen animator-replicatie |
 | [wes-BAN/crux-animation](https://github.com/wes-BAN/crux-animation) | 4 | Animatie-engine geïnspireerd op Unity's animatie-API |
 | [jiwonz/anim2rbx](https://github.com/jiwonz/anim2rbx) | 4 | Animatiebestanden (FBX e.d.) omzetten naar KeyframeSequence |
@@ -40,6 +42,8 @@ Animatie-solvers, IK, Blender/Mixamo-pipelines, procedurele animatie en springs.
 | [TaseenA09/Dynamic-Walk-Animations-and-Footing-for-Roblox](https://github.com/TaseenA09/Dynamic-Walk-Animations-and-Footing-for-Roblox) | 3 | Dynamische loopanimaties met voetplaatsing |
 | [RAMPAGELLC/ProceduralAnimator](https://github.com/RAMPAGELLC/ProceduralAnimator) | 2 | Modellen procedureel laten opbouwen/exploderen |
 | [Jessdevzz/ROBLOX-Dynamic-Npc-Animations](https://github.com/Jessdevzz/ROBLOX-Dynamic-Npc-Animations) | 2 | Dynamische NPC-animaties |
+| [infinitypacific/PaintRig-InfEdit](https://github.com/infinitypacific/PaintRig-InfEdit) | 2 | Blender-rigs voor Roblox |
+| [prepsure/Spranimate](https://github.com/prepsure/Spranimate) | 2 | 2D sprite-animator die Roblox' Animator nabootst |
 | [Moonpigguy/hl2strider](https://github.com/Moonpigguy/hl2strider) | 1 | Half-Life 2 Strider met IK-procedurele animatie |
 | [Ehonix/Dynamo](https://github.com/Ehonix/Dynamo) | 1 | Procedurele animator |
 | [skatingii/PerfectSequencer](https://github.com/skatingii/PerfectSequencer) | 1 | Frame-accurate events, ook gelockt aan de timeline van een AnimationTrack |

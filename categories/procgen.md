@@ -11,13 +11,18 @@ Voxels, dungeons, doolhoven, wave function collapse, noise en curves.
 | [Sleitnick/RDC2019-Procedural-Generation](https://github.com/Sleitnick/RDC2019-Procedural-Generation) | 14 | Materiaal van de RDC2019 talk over procedurele generatie |
 | [bstummer/bezier](https://github.com/bstummer/bezier) | 12 | Bézier-curves van elke graad met arc-length parametrisatie |
 | [vocksel/geo](https://github.com/vocksel/geo) | 12 | Geometrische vormherkenning (gebaren tekenen → vorm) |
+| [Bytebit-Org/lua-linalg](https://github.com/Bytebit-Org/lua-linalg) | 8 | Lineaire algebra (matrices) voor Lua/Roblox |
 | [bstummer/matrix](https://github.com/bstummer/matrix) | 4 | Matrix-wiskunde (determinant, inverse, transformaties) |
 | [sammy0127/WavyRobloxObby](https://github.com/sammy0127/WavyRobloxObby) | 4 | Obby procedureel gegenereerd met Python |
+| [veloii/roblox-random-gen](https://github.com/veloii/roblox-random-gen) | 4 | Genereert een willekeurige Roblox-game |
+| [Daniele-Cangi/worldloop-technical-showcase](https://github.com/Daniele-Cangi/worldloop-technical-showcase) | 4 | Procedurele architectuur, semantische CAD en terrain-compilatie |
+| [chocolate-bar2410/numluau](https://github.com/chocolate-bar2410/numluau) | 4 | Wetenschappelijk rekenen (NumPy-achtig) in Luau |
 | [AshR-03/Greedy-Procedural-Maze-Generation-in-Lua](https://github.com/AshR-03/Greedy-Procedural-Maze-Generation-in-Lua) | 3 | Stack-gebaseerde procedurele doolhoven |
 | [RyanChang25/Dungeon-Generation-Service](https://github.com/RyanChang25/Dungeon-Generation-Service) | 3 | Semi-procedurele dungeon-layouts |
 | [nightcycle/node](https://github.com/nightcycle/node) | 3 | Node-netwerken + wave function collapse generatie |
 | [nightcycle/noise](https://github.com/nightcycle/noise) | 3 | Meerdere noise-stijlen (Perlin, Simplex...) met seeds |
 | [ffrostfall/polybool-luau](https://github.com/ffrostfall/polybool-luau) | 2 | Polygon boolean-operaties in Luau |
+| [Kvil-git/Luau-Catmull-Rom-Spline](https://github.com/Kvil-git/Luau-Catmull-Rom-Spline) | 2 | Catmull-Rom splines voor NPC-paden en camera's |
 | [AidenTran900/markov-luau](https://github.com/AidenTran900/markov-luau) | 1 | MarkovJunior / Wave Function Collapse in Luau |
 | [Mythus-Z/Procedural-Dungeon-Generation-Roblox-](https://github.com/Mythus-Z/Procedural-Dungeon-Generation-Roblox-) | 1 | Voxel-dungeons: 2000 kamers / 100k voxels in < 1 seconde |
 | [Bryan0-0AG/Procedural-Dungeon-Generator_Roblox-Studio](https://github.com/Bryan0-0AG/Procedural-Dungeon-Generator_Roblox-Studio) | 1 | Vertakkende dungeons met gewogen kamer-templates en collision-checks |

@@ -17,9 +17,11 @@ MCP-servers, AI-agents en skills die in Studio kunnen bouwen.
 | [princeofscale/bloxforge](https://github.com/princeofscale/bloxforge) | 7 | Open-source AI-agent toolkit voor Studio |
 | [andrian-syh/roblox-best-practices-skill](https://github.com/andrian-syh/roblox-best-practices-skill) | 7 | Roblox/Luau best-practices skill voor AI-agents |
 | [JustineDevs/roblox-ai-os](https://github.com/JustineDevs/roblox-ai-os) | 7 | Roblox AI OS: skills voor Codex, Claude, Cursor |
+| [PathOnAIOrg/game-arena-roblox-starter](https://github.com/PathOnAIOrg/game-arena-roblox-starter) | 7 | Starter-code voor Game Arena (AI speelt Roblox-games) |
 | [EL4CTEO/rbx-studio-mcp](https://github.com/EL4CTEO/rbx-studio-mcp) | 6 | Gratis MCP-server voor Studio (35 tools, coding agents in een console-paneel) |
 | [iamthebestts/RoDocs-MCP](https://github.com/iamthebestts/RoDocs-MCP) | 5 | MCP die je AI de juiste Roblox-docs geeft |
 | [dig1t/skills](https://github.com/dig1t/skills) | 5 | AI-agent skills voor Roblox-development |
+| [Roxlit/installer](https://github.com/Roxlit/installer) | 5 | Launcher die AI-tools aan Studio koppelt (Rojo, MCP, context packs) |
 | [Onur45500/blockforge](https://github.com/Onur45500/blockforge) | 3 | Desktop-app om Roblox-games te bouwen met AI-agents |
 | [EL4CTEO/roblox-devforum-mcp](https://github.com/EL4CTEO/roblox-devforum-mcp) | 3 | Geeft je AI-agent toegang tot de DevForum en docs |
 | [Underscoretime/OpenBlox](https://github.com/Underscoretime/OpenBlox) | 3 | AI-systemen koppelen aan Roblox Studio |
@@ -27,7 +29,13 @@ MCP-servers, AI-agents en skills die in Studio kunnen bouwen.
 | [aliboIly/Tripwire](https://github.com/aliboIly/Tripwire) | 3 | Agentic MCP: tests draaien en exploits in je eigen game vinden |
 | [dillydog580/animate-roblox-characters](https://github.com/dillydog580/animate-roblox-characters) | 3 | AI-skill: R6/R15-animaties maken via Blender-rigs met GIF-preview |
 | [gogolumo/rbsmithy-roblox-claude-skill](https://github.com/gogolumo/rbsmithy-roblox-claude-skill) | 3 | Claude-skill voor Luau, Rojo, multiplayer, QA en releases |
+| [chahat1709/professional-game-developer.skill](https://github.com/chahat1709/professional-game-developer.skill) | 3 | Game-developer skill voor coding agents (ook Roblox) |
+| [imezx/luau-bench](https://github.com/imezx/luau-bench) | 3 | Benchmark voor door LLM's gegenereerde Luau-code |
 | [IvanKuria/bloxscout](https://github.com/IvanKuria/bloxscout) | 2 | MCP-server + CLI voor Roblox game-analytics |
+| [zhsj0089944/roblox-game-studios](https://github.com/zhsj0089944/roblox-game-studios) | 2 | Zet je AI-assistent om in een gestructureerde game-studio |
+| [HungryKelvin123/dstack](https://github.com/HungryKelvin123/dstack) | 2 | AI-skills voor Roblox-development |
+| [furkangulbeyaz/nakruflogic](https://github.com/furkangulbeyaz/nakruflogic) | 2 | AI-systeem: code-debugger, dynamische NPC's |
+| [DeftSolutions-dev/mcp-serotonin](https://github.com/DeftSolutions-dev/mcp-serotonin) | 2 | MCP-server die LLM-agents aan een Lua-runtime koppelt |
 | [frrazer/roblox-analytics-mcp](https://github.com/frrazer/roblox-analytics-mcp) | 1 | MCP-server voor experience-analytics (DAU, revenue, retentie) |
 | [egwmiadg/luau-gemini](https://github.com/egwmiadg/luau-gemini) | 1 | Google Gemini in Roblox |
 | [rbxrootx/roxo-mcp](https://github.com/rbxrootx/roxo-mcp) | 1 | MCP-native Rojo: filesystem-sync die AI-agents kunnen besturen |
@@ -36,6 +44,8 @@ MCP-servers, AI-agents en skills die in Studio kunnen bouwen.
 | [rengcor/SwordFactory-LuauAI](https://github.com/rengcor/SwordFactory-LuauAI) | 1 | Open-source multiplayer game als testbed voor AI-coding agents |
 | [BokX1/RbxLuauLLM](https://github.com/BokX1/RbxLuauLLM) | 1 | LLM-wrapper: natuurlijke taal naar Luau/admin-acties via proxy |
 | [szlay/roblox-base](https://github.com/szlay/roblox-base) | 1 | Claude Code starter: Rojo, Luau-checks, Studio-MCP en 32 skills |
+| [3m4rio/GDev](https://github.com/3m4rio/GDev) | 1 | Claude-klare workspace met skills, templates en MCP-gids |
+| [HuntaPrizle/vibeblox](https://github.com/HuntaPrizle/vibeblox) | 1 | Starter-template om met een AI-agent Roblox-games te bouwen |
 | [10kkyvl/studioforge](https://github.com/10kkyvl/studioforge) | 0 | Project-workflow voor Claude Code + Studio: context, orchestratie, validatie |
 | [cortex-rbx/roblox-ai-kit](https://github.com/cortex-rbx/roblox-ai-kit) | 0 | Plugin: Engels naar Luau + SDK voor pratende NPC's en moderatie |
 

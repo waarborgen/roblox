@@ -13,6 +13,8 @@ Luau-in-Luau, emulators, DOOM, N64, video, Python-in-Luau en game-ports.
 | [MaximumADHD/Rbx2Source](https://github.com/MaximumADHD/Rbx2Source) | 88 | Roblox-assets naar Source Engine compileren |
 | [MaximumADHD/Super-Nostalgia-Zone](https://github.com/MaximumADHD/Super-Nostalgia-Zone) | 65 | Broncode van Super Nostalgia Zone (oude Roblox nagebouwd) |
 | [kosuke14/vLuau](https://github.com/kosuke14/vLuau) | 63 | Luau VM + compiler die in Luau draait (loadstring-alternatief) |
+| [Fumohouse/godot-luau-script](https://github.com/Fumohouse/godot-luau-script) | 63 | Luau als scriptingtaal in Godot (GDExtension) |
+| [tp-link-extender/MercuryCore](https://github.com/tp-link-extender/MercuryCore) | 63 | Self-hostbaar MMO-platform: 'bouw je eigen Roblox' |
 | [RadiatedExodus/LuauCeption](https://github.com/RadiatedExodus/LuauCeption) | 56 | Luau draaien in Luau (via Wasynth/WebAssembly) |
 | [jackhexed/luaup](https://github.com/jackhexed/luaup) | 56 | Lossless Luau-parser in Luau |
 | [roblox-rs/roblox-rs](https://github.com/roblox-rs/roblox-rs) | 56 | Rust-bindings voor Roblox (Rust → WebAssembly → Luau) |
@@ -60,6 +62,7 @@ Luau-in-Luau, emulators, DOOM, N64, video, Python-in-Luau en game-ports.
 | [Word30210/luau-hangul](https://github.com/Word30210/luau-hangul) | 8 | Koreaans (Hangul) verwerken in Luau |
 | [TigersUniverse/LuauSharp](https://github.com/TigersUniverse/LuauSharp) | 8 | C#-interpreter voor Luau |
 | [SovereignSatellite/LuauJBC](https://github.com/SovereignSatellite/LuauJBC) | 8 | Luau-bytecode naar Java-bytecode vertalen |
+| [Asleum/moonsweeper](https://github.com/Asleum/moonsweeper) | 8 | Minesweeper in MoonScript voor Roblox |
 | [yoits9090/plumber](https://github.com/yoits9090/plumber) | 7 | Nintendo 64-emulator in Roblox (R4300 + Fast3D op EditableImage) |
 | [wizevaxel/pnguin](https://github.com/wizevaxel/pnguin) | 7 | Snelle PNG-library in pure Luau |
 | [mrparkerlol/script-builder](https://github.com/mrparkerlol/script-builder) | 7 | Complete script-builder in één ModuleScript |
@@ -70,19 +73,26 @@ Luau-in-Luau, emulators, DOOM, N64, video, Python-in-Luau en game-ports.
 | [TornadoCookie/OpenRBLX](https://github.com/TornadoCookie/OpenRBLX) | 6 | Open-source kloon van Roblox Studio/Player |
 | [schphe/embrik](https://github.com/schphe/embrik) | 6 | Scriptbare server-first 2D-game-engine |
 | [Yumacide/yum](https://github.com/Yumacide/yum) | 6 | Rust-achtige getypeerde taal die compileert naar Luau |
+| [R-unic/RoGems](https://github.com/R-unic/RoGems) | 6 | Ruby-naar-Lua transpiler |
 | [nrmu9/Ro2DEngine](https://github.com/nrmu9/Ro2DEngine) | 5 | Software-renderer + physics-engine op EditableImage |
 | [nightcycle/editable-clothing-util](https://github.com/nightcycle/editable-clothing-util) | 5 | Klassieke clothing naar EditableImages vertalen |
 | [Zytharian/RbxStargate](https://github.com/Zytharian/RbxStargate) | 5 | Stargates (werkende poorten) in Roblox, v20 |
 | [magicoal-nerb/luvm](https://github.com/magicoal-nerb/luvm) | 5 | Lua 5.1 opnieuw geïmplementeerd in getypeerde Luau |
 | [LUSharp/LUSharp](https://github.com/LUSharp/LUSharp) | 5 | C# compileren naar Luau |
+| [C-Cody/roblox-py](https://github.com/C-Cody/roblox-py) | 5 | Nog een Python-naar-Luau compiler |
 | [boatbomber/Decant](https://github.com/boatbomber/Decant) | 4 | Decompressie in pure Luau |
 | [Pimpoli/GodotLuau](https://github.com/Pimpoli/GodotLuau) | 4 | Luau in Godot 4, programmeren zoals in Roblox Studio |
 | [not-nullptr/Ropen-Backend](https://github.com/not-nullptr/Ropen-Backend) | 4 | Open-source, reverse-engineered Roblox-backend |
 | [littensy/logify](https://github.com/littensy/logify) | 4 | Minimalistische logic-gate simulator |
 | [R-unic/ion](https://github.com/R-unic/ion) | 4 | Statisch getypeerde taal die naar Luau compileert |
+| [alphafantomu/Love-Universe](https://github.com/alphafantomu/Love-Universe) | 4 | Roblox-achtige object-environment engine voor LÖVE |
+| [Sezei/ff-kate-engine](https://github.com/Sezei/ff-kate-engine) | 4 | Modding-engine voor Funky Friday |
+| [astomih/sinen](https://github.com/astomih/sinen) | 4 | Creative coding framework voor Luau |
 | [pon331/qr-luau](https://github.com/pon331/qr-luau) | 3 | QR-codes genereren in Luau |
 | [decompi/Pixel-Stream-Player](https://github.com/decompi/Pixel-Stream-Player) | 3 | Video afspelen in Roblox: frames als pixeldata streamen via Node.js |
 | [travisdmathis/quake-3-arena-engine-luau-roblox](https://github.com/travisdmathis/quake-3-arena-engine-luau-roblox) | 3 | Quake 3 Arena-engine geport naar Luau voor Roblox |
+| [roblox-aurora/zirconium-ast](https://github.com/roblox-aurora/zirconium-ast) | 3 | AST-parser voor de Zirconium-DSL |
+| [orblua/RobloxCore](https://github.com/orblua/RobloxCore) | 3 | Platform dat een Roblox-runtime en infrastructuur simuleert |
 | [Dekkonot/rbx-binary-luau](https://github.com/Dekkonot/rbx-binary-luau) | 2 | Roblox binair bestandsformaat (.rbxm) lezen in pure Luau |
 | [filoxen/workspace-detector](https://github.com/filoxen/workspace-detector) | 2 | .rbxm-bestanden analyseren om oude games te vinden |
 | [AnotherSubatomo/luau_qoi](https://github.com/AnotherSubatomo/luau_qoi) | 2 | QOI-afbeeldingsformaat encoder/decoder |
@@ -91,6 +101,13 @@ Luau-in-Luau, emulators, DOOM, N64, video, Python-in-Luau en game-ports.
 | [shrjrd/rbxcad](https://github.com/shrjrd/rbxcad) | 2 | JSCAD (CSG/3D-modelleren in code) geport naar roblox-ts |
 | [FXDuke/Lua2D](https://github.com/FXDuke/Lua2D) | 2 | 2D game-editor geïnspireerd op Roblox Studio |
 | [ntech-org/Nova07](https://github.com/ntech-org/Nova07) | 2 | Clean-room herimplementatie van de Roblox-engine anno 2007 |
+| [alloy-luau/alloy](https://github.com/alloy-luau/alloy) | 2 | Strikte superset van Luau die regel-voor-regel naar Luau compileert |
+| [R-unic/roblox-cr](https://github.com/R-unic/roblox-cr) | 2 | Crystal-naar-Luau compiler |
+| [HilthonTT/LuaScript](https://github.com/HilthonTT/LuaScript) | 2 | Lua-achtige taal met stack-VM en Luau-types, in Go |
+| [wendoo-lang/wendoo-lang](https://github.com/wendoo-lang/wendoo-lang) | 2 | Tile-based visuele taal met WHEN/DO-regels |
+| [sbeltranc/Kerosene](https://github.com/sbeltranc/Kerosene) | 2 | Roblox Service-API's emuleren in Ruby on Rails |
+| [roblox-csharp/types](https://github.com/roblox-csharp/types) | 2 | Type-definities en generator voor Roblox C# |
+| [cubacadabra/web](https://github.com/cubacadabra/web) | 2 | Browser-client van Cubacadabra (Luau-gamepackages) |
 | [pon331/luau-vm](https://github.com/pon331/luau-vm) | 1 | Moderne Luau VM in Luau |
 | [PhantomShift/rbx-pen-showcase](https://github.com/PhantomShift/rbx-pen-showcase) | 1 | Tablet-pen druk in Roblox via een geëmuleerde controller |
 | [crownaintanoob/VideoToRobloxPlayer](https://github.com/crownaintanoob/VideoToRobloxPlayer) | 1 | Video naar frames/pixels omzetten en in Roblox tonen |
