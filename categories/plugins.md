@@ -99,7 +99,7 @@ Handige plugins voor bouwen, terrain, UI en workflow.
 | [Dekkonot/camera-light-plugin](https://github.com/Dekkonot/camera-light-plugin) | 0 | Plugin die een lamp aan de Studio-camera hangt |
 | [Mystifine/ModelLens](https://github.com/Mystifine/ModelLens) | 0 | Render en exporteer PNG-thumbnails van modellen in Studio (transparant, batch) |
 
-## Uitgebreide index (404)
+## Uitgebreide index (405)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -246,6 +246,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [AlGhozaliRamadhan/fer](https://github.com/AlGhozaliRamadhan/fer) | 0 | i hate how roblox studio cant connect to vscode and other plugin are not just quiet right for me |
 | [Alts-Alt/Variable-Editor](https://github.com/Alts-Alt/Variable-Editor) | 0 | Roblox Plugin that uses the new widgets to create a quick changes to tagged variables within scripts. |
 | [amindez74/Script-Analyzer-roblox-studio](https://github.com/amindez74/Script-Analyzer-roblox-studio) | 0 | A plugin that analyzes scripts. |
+| [andreasv21982/dev](https://github.com/andreasv21982/dev) | 0 | Minecraft Developer ┃ Discord Developer ┃ Roblox Developer ┃ Photo Editor ┃ Web Developer |
 | [ankix86/SyncForge](https://github.com/ankix86/SyncForge) | 0 | Live two-way sync between your local editor and Roblox Studio. |
 | [Antboi123/Roblox_Blockly_Plugin_Antboi_V1](https://github.com/Antboi123/Roblox_Blockly_Plugin_Antboi_V1) | 0 | Roblox lua plugin (technically not) that generates code for roblox lua. |
 | [appleeroblox-lab/Applee-s-Space-Developer-Plugin](https://github.com/appleeroblox-lab/Applee-s-Space-Developer-Plugin) | 0 | This is a plugin data base for Applee's Space Developer Plugin in Roblox Studio |

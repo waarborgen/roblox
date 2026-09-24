@@ -95,7 +95,7 @@ Buffer-netcode, IDL-compilers, encryptie en eigen replicatie.
 | [thekingofspace/Reflect](https://github.com/thekingofspace/Reflect) | 0 | Sync-systeem |
 | [ocauapaz/BTYN](https://github.com/ocauapaz/BTYN) | 0 | Networking-compiler: schema naar gebatchte, delta-encoded Luau |
 
-## Uitgebreide index (283)
+## Uitgebreide index (287)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -228,6 +228,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [ASEC-Team/FortRoute](https://github.com/ASEC-Team/FortRoute) | 0 | Safe & Advanced Roblox Networking. |
 | [AshtonK5/roblox-net](https://github.com/AshtonK5/roblox-net) | 0 | ⚠️ This repo is completely unusable but I don't care if you want to fork or modify it in anyway ⚠️ |
 | [b-smyers/rolytics](https://github.com/b-smyers/rolytics) | 0 | Analytics and control tool for Roblox developers to monitor engagement, social, and performance metrics, with A/B testing and remote command features. |
+| [bakbaklaruk/Roblox-client-replication-script](https://github.com/bakbaklaruk/Roblox-client-replication-script) | 0 | Not made by me |
 | [banan2114/RBX-LagCompensation](https://github.com/banan2114/RBX-LagCompensation) | 0 | Roblox lag compensation library |
 | [beters02/States](https://github.com/beters02/States) | 0 | A light-weight replicated States module for Roblox |
 | [Bikzmal/Roblox-Inventory-Demo](https://github.com/Bikzmal/Roblox-Inventory-Demo) | 0 | Roblox inventory framework with DataStore persistence, item management, equipping, and client-server synchronization. |
@@ -339,6 +340,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [revvy02/TrueSignal](https://github.com/revvy02/TrueSignal) | 0 | Roblox Luau Signal class that is designed to replicate RBXScriptSignal behavior as close as possible including queueing behavior |
 | [Rexouss/RexDPI](https://github.com/Rexouss/RexDPI) | 0 | Open-source Windows network utility for Roblox, Roblox Studio and Discord. No VPN, no traffic tunneling, focused on low latency. |
 | [RioDevGroup/Discord-API](https://github.com/RioDevGroup/Discord-API) | 0 | A roblox luau script that let's you send commands to the local Discord RPC server. |
+| [robertmsale/roblox-data-model-generator](https://github.com/robertmsale/roblox-data-model-generator) | 0 | Generates strongly typed data models locally or across the client-server boundary |
 | [robloxjw02-dev/roblox-network-benchmark](https://github.com/robloxjw02-dev/roblox-network-benchmark) | 0 | (geen omschrijving op GitHub) |
 | [rod-higgins/robloxguard](https://github.com/rod-higgins/robloxguard) | 0 | Roblox client companion app for Windows to monitor local scripts and network traffic. |
 | [RoFearHypno/BufferWriter_v1.0](https://github.com/RoFearHypno/BufferWriter_v1.0) | 0 | A Buffer Writer for the older versions of ByteNet (a popular roblox networking module). |
@@ -364,6 +366,8 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [tenx29/Roblox.NET](https://github.com/tenx29/Roblox.NET) | 0 | .NET wrapper for the Roblox Web APIs |
 | [tenx29/router](https://github.com/tenx29/router) | 0 | Routing implementation for Roblox cross-server messaging |
 | [test123qsaxscdvfg/Roblox.network](https://github.com/test123qsaxscdvfg/Roblox.network) | 0 | Roblox is a network... |
+| [TheCoderZai/The-Strongest-Battle-Ground](https://github.com/TheCoderZai/The-Strongest-Battle-Ground) | 0 | This are all the remotes from https://www.roblox.com/games/10449761463 (A.K.A. The Strongest Battlegrounds) |
+| [TheCoolestStarfox/furhang_httpmessagetest](https://github.com/TheCoolestStarfox/furhang_httpmessagetest) | 0 | Furhang on Roblox - HTTP Remote Message Test |
 | [TheFrogGod/NaNet](https://github.com/TheFrogGod/NaNet) | 0 | A small, type-checked networking library for Roblox *MIRROR* |
 | [TheGatwickDirector/Project-Control](https://github.com/TheGatwickDirector/Project-Control) | 0 | An ATC Training Academy based on providing ATC services of some Roblox Aviation Networks. |
 | [themusaigen/Talkie](https://github.com/themusaigen/Talkie) | 0 | Roblox remote communication module. |

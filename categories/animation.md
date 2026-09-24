@@ -78,7 +78,7 @@ Animatie-solvers, IK, Blender/Mixamo-pipelines, procedurele animatie en springs.
 | [realllityyt/myanimator](https://github.com/realllityyt/myanimator) | 0 | Animaties per ledemaat mixen: crossfade, additive layers, events |
 | [purpulhq/character-tilt](https://github.com/purpulhq/character-tilt) | 0 | Kantelt het character mee met de kijkrichting van de camera |
 
-## Uitgebreide index (388)
+## Uitgebreide index (390)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -257,6 +257,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [glolglol/Roblox-animation](https://github.com/glolglol/Roblox-animation) | 0 | I make this animation for fun |
 | [goldenstein64/Animate2](https://github.com/goldenstein64/Animate2) | 0 | Roblox's Animate script rewritten into a library-loaded structure |
 | [grider588/artic-animation-pack](https://github.com/grider588/artic-animation-pack) | 0 | 2025's Hottest Roblox Artic Scripts for Windows 🌟 |
+| [GusFringsLeftToeNail/viable-emotes](https://github.com/GusFringsLeftToeNail/viable-emotes) | 0 | emotes for the hit children game roblox |
 | [hadiranadev/monster-battler-demo](https://github.com/hadiranadev/monster-battler-demo) | 0 | Pokémon-inspired turn-based battle prototype built in Roblox with custom UI, animations, and battle systems. |
 | [heathyboobs/sine-animator](https://github.com/heathyboobs/sine-animator) | 0 | roblox animating plugin. by heather. |
 | [Hexcede/tween](https://github.com/Hexcede/tween) | 0 | Promisified tween library for Roblox |
@@ -412,6 +413,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Spl4ash/Tohru-Tween](https://github.com/Spl4ash/Tohru-Tween) | 0 | A Roblox tween module for instance/table tweens |
 | [star0xf/Clone_Roblox_Animations](https://github.com/star0xf/Clone_Roblox_Animations) | 0 | (geen omschrijving op GitHub) |
 | [Starlight-Solutions-Inc/StarGaze](https://github.com/Starlight-Solutions-Inc/StarGaze) | 0 | Modern, modular Roblox UI framework for Luau featuring dark themes, glassmorphism, interactive components, animations, presets, and extensive customization. |
+| [StarryBoats/Obby-Ghost-Mode-GUI](https://github.com/StarryBoats/Obby-Ghost-Mode-GUI) | 0 | Advanced Obby Ghost Mode GUI for Roblox with full avatar ghost replay, draggable animated GUI, circular toggle, and custom ghost styling. Built for obby/towe... |
 | [Stiexeno/roblox-csharp-tween](https://github.com/Stiexeno/roblox-csharp-tween) | 0 | DOTween-style fluent tweening for roblox-csharp |
 | [syaaikoo/emote-script](https://github.com/syaaikoo/emote-script) | 0 | get roblox emotes and animations for free |
 | [syncronicc/roblox-projects](https://github.com/syncronicc/roblox-projects) | 0 | A collection of roblox gameplay mechanisms, UI animations and games. |
