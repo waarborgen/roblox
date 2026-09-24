@@ -93,6 +93,14 @@ DEV_SCRIPT = re.compile(
 GENERIC_WORDS = set("""roblox rblx rbx robloxstudio studio script scripts game games project projects test tests
 testing my main repo repository place files file dev lua luau stuff the an of and for new old simple basic first second own
 personal public private source code src master ts js hello world github io web website site app""".split())
+ROJO_CTX = re.compile(
+    r"rojo[-_ ]?(project|template|serve|sync|plugin|tree|schema|build|workflow|tools?|manager|converter|boilerplate|"
+    r"resolver|ts|typescript|knit|debug|renamer|visualizer|scanner|intellij|schema)|"
+    r"\b(to|for|with|using|via|and|in|of|official)[ -]rojo\b|\+ ?rojo|rojo ?([67]\b|&|\+|and\b|-?based)|"
+    r"\brbx|\bwally\b|\bknit\b|\blune\b|\brokit\b|\baftman\b|\bforeman\b", re.I)
+SPANISH = re.compile(
+    r"\b(el|la|los|las|del|para|con|una|proyecto|p[aá]gina|restaurante|comida|juego|verde|azul|negro|amarillo|"
+    r"cabo|drag[oó]n|toro|pollito|libro|museo|grupo|estudio|c[oó]digo|paginas|clinic|realty|landscaping|website|portfolio|mockup|lopez|genomes?|lamps?|addon|site|student)\b", re.I)
 CODE_LANGS = {"Lua", "Luau", "TypeScript", "Rust", "C#", "Python", "JavaScript", "Go", "C++", "Java", "Kotlin", "Swift"}
 
 
@@ -158,9 +166,10 @@ def main(pool_path):
         no_desc = len(desc) < 12 or (len(desc.split()) < 4 and int(it.get("stars") or 0) < 5)
         if no_desc and not descriptive_name(it, name, text):
             skip("geen/te korte omschrijving"); continue
+        # "rojo" is ook Spaans ("rood"): alleen meenemen met duidelijke Roblox-dev-context
         rojo_ok = re.search(r"\brojo\b", topics, re.I) or (
             re.search(r"\brojo\b", f"{name} {desc}", re.I)
-            and (it.get("lang") in ("Luau", "Lua", "Rust", "TypeScript") or re.search(r"roblox|studio", text, re.I)))
+            and ROJO_CTX.search(f"{name} {desc}") and not SPANISH.search(f"{name} {desc}"))
         if not (RELEVANT.search(text) or rojo_ok or it.get("lang") == "Luau"):
             skip("niet roblox"); continue
         if NOT_ROBLOX.search(text) and not re.search(r"roblox", text, re.I):

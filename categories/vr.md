@@ -22,7 +22,7 @@ Full-body VR, SteamVR-trackers en webcam-tracking.
 | [mathken029/vr-roblox-kit](https://github.com/mathken029/vr-roblox-kit) | 0 | Open-source VR game-development kit |
 | [Metatable-Games/MetaVR](https://github.com/Metatable-Games/MetaVR) | 0 | VR-framework in Luau |
 
-## Uitgebreide index (45)
+## Uitgebreide index (47)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of spamfarms), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving; "(geen omschrijving op GitHub)" = opgenomen op basis van een duidelijke reponaam.
 
@@ -40,10 +40,12 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [200Tigersbloxed/tigerVR](https://github.com/200Tigersbloxed/tigerVR) | 0 | A VR Library for Roblox |
 | [ahaanlimaye/offCampus](https://github.com/ahaanlimaye/offCampus) | 0 | A multiplayer Roblox Virtual Reality experience (that runs on mobile, PC, and console) where students at the University of Windsor can join in and explore th... |
 | [AptAlbatross/OpenHorizon](https://github.com/AptAlbatross/OpenHorizon) | 0 | The GitHub release of the Open Horizon VR open source project files for Roblox. |
+| [aquadeve/MirageBridge](https://github.com/aquadeve/MirageBridge) | 0 | Lenovo Mirage Solo Tests |
 | [Aweloop/Roblox-SteamVr-disable](https://github.com/Aweloop/Roblox-SteamVr-disable) | 0 | Made a short Power shell script to rename the Steam VR folder. This way Roblox cant find it, and doesnt start in VR mode. |
 | [Ben132231/Ben132231s-VR-Rooms-Game-Old-Unity-Version](https://github.com/Ben132231/Ben132231s-VR-Rooms-Game-Old-Unity-Version) | 0 | A game that combines Roblox Rooms and VR with Gorilla Locomotion. |
 | [Boyquotes/SoundSpaceReborn](https://github.com/Boyquotes/SoundSpaceReborn) | 0 | Originally a ROBLOX game, Sound Space is a game which takes Beat Saber's mechanics into a 3D, non-VR environment for people who can't afford VR headsets. It'... |
 | [CalicoKitty/RobloxVRw1](https://github.com/CalicoKitty/RobloxVRw1) | 0 | iDtech Roblox VR AU Week 1 |
+| [chi-trung/Dungeon-Quest-2](https://github.com/chi-trung/Dungeon-Quest-2) | 0 | (geen omschrijving op GitHub) |
 | [DataEncoded/Tactile-Engine](https://github.com/DataEncoded/Tactile-Engine) | 0 | A roblox VR engine being developed. |
 | [ddiydbjeihebddmdi82782-wq/Roblox-VR-Support](https://github.com/ddiydbjeihebddmdi82782-wq/Roblox-VR-Support) | 0 | VR Support which can be added to any Roblox Game |
 | [Dohkoh4/Crashout-VR-game](https://github.com/Dohkoh4/Crashout-VR-game) | 0 | Yeah, so you all think I copied that one game, CRASHOUT on roblox, and well, yeah. I did. Deal with it. I just wanted to create something like that in VR. |

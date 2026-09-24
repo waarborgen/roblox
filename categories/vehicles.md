@@ -30,7 +30,7 @@ Chassis, suspensie, hover, raketten, drijfvermogen en treinen.
 | [cassicoder/boat-game](https://github.com/cassicoder/boat-game) | 0 | Boot-game: Matter ECS + Gerstner-oceaan + drijfvermogen + vissen |
 | [HassanJN66/roblox-vehicle-framework](https://github.com/HassanJN66/roblox-vehicle-framework) | 0 | Raycast-wielen + soft physics body, FWD/RWD/AWD |
 
-## Uitgebreide index (285)
+## Uitgebreide index (297)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of spamfarms), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving; "(geen omschrijving op GitHub)" = opgenomen op basis van een duidelijke reponaam.
 
@@ -38,6 +38,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 |---|---:|---|
 | [Treelon/ptfs-charts](https://github.com/Treelon/ptfs-charts) | 93 | Charts for the Roblox game Pilot Training Flight Simulator |
 | [ptfstools/Vector24](https://github.com/ptfstools/Vector24) | 10 | A simple beginner alternative vector client used for ATC24. Used for giving a precision compass heading to planes in the Roblox game Pilot Training Flight Si... |
+| [boatbeaker/BoatTEST](https://github.com/boatbeaker/BoatTEST) | 8 | Boat's TrulyEasySimpleTesting - A Luau unit testing framework. Inspired by Elttob's FusionCI |
 | [jake-baxter/rblx-train-driving-system](https://github.com/jake-baxter/rblx-train-driving-system) | 8 | A WIP Roblox Train Driving System simply for anyone to use. |
 | [paswa-dev/ViewspaceToPng](https://github.com/paswa-dev/ViewspaceToPng) | 6 | Takes a Viewspace/Plane area, and creates a roblox image out of it. This is a work in progress and is not fully optimized, so feel free to assist in optimizi... |
 | [regibus361/OpenRoSig](https://github.com/regibus361/OpenRoSig) | 5 | UK-based rail signalling system for Roblox train simulators. |
@@ -99,6 +100,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [antoineassaf25/speedboat-racing-game-video](https://github.com/antoineassaf25/speedboat-racing-game-video) | 0 | Contains a video and screenshots of my Speedboat Racing game! Written in Lua powered by Roblox Studio game engine. |
 | [APGSwizzVR/Atlas-Flight-Simulator](https://github.com/APGSwizzVR/Atlas-Flight-Simulator) | 0 | Official website for Atlas Flight Simulator (Atlas FS), a Roblox flight simulator. |
 | [Ares259/SportCar](https://github.com/Ares259/SportCar) | 0 | Using Roblox Studio to create a car, to race against bot or by yourself. |
+| [Ashtonite365/Ashtonite-Core-Drone](https://github.com/Ashtonite365/Ashtonite-Core-Drone) | 0 | Acro and Classic FPV drone camera script for Orion Drift Spectator |
 | [ataraxia-min/lucky-kart-site](https://github.com/ataraxia-min/lucky-kart-site) | 0 | Official Lucky Kart Roblox kart racing website — verified information and parent guidance. |
 | [autowattage/fifth_stride](https://github.com/autowattage/fifth_stride) | 0 | a multiplayer parkour racing game |
 | [Auxnos/roblox-train](https://github.com/Auxnos/roblox-train) | 0 | no fucking way??!//1 roblox train??!? |
@@ -120,6 +122,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [Chard2512/AntigravityVehicleSystem](https://github.com/Chard2512/AntigravityVehicleSystem) | 0 | Roblox antigravity vehicle system |
 | [cjcgervais/paper-plane-roblox](https://github.com/cjcgervais/paper-plane-roblox) | 0 | (geen omschrijving op GitHub) |
 | [ClairD3Lune/SCR-Shift-Terminal](https://github.com/ClairD3Lune/SCR-Shift-Terminal) | 0 | A terminal-based shift tracker for the Roblox Game Stepford County Railway drivers |
+| [Cluvonix/RealisticVehicleAssembly](https://github.com/Cluvonix/RealisticVehicleAssembly) | 0 | (geen omschrijving op GitHub) |
 | [cruzill/scr-signal-timer](https://github.com/cruzill/scr-signal-timer) | 0 | An app for timing setup and signal desk time on Roblox's Stepford County Railway |
 | [dabl7/framework](https://github.com/dabl7/framework) | 0 | Tool for calculating and building framework in build a boat for treasure on roblox |
 | [dabl7/shapes](https://github.com/dabl7/shapes) | 0 | Calculator for making some shapes in build a boat |
@@ -141,6 +144,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [engarnet63/RbxCarFix](https://github.com/engarnet63/RbxCarFix) | 0 | Free Roblox Car Repair Simulator Script Download 2025 🚀 |
 | [enormousrblx12-del/rfrx.com](https://github.com/enormousrblx12-del/rfrx.com) | 0 | This is Roblox Formula Racing X's main official website. Made by Avairoyal |
 | [EricsenSemedo/bumper_car](https://github.com/EricsenSemedo/bumper_car) | 0 | (geen omschrijving op GitHub) |
+| [FairyVR/od-caster-fx](https://github.com/FairyVR/od-caster-fx) | 0 | Orion Drift spectator: sideline camera, ODC team logo overlays, and mesh particle VFX |
 | [fashwest990/YeetPlane](https://github.com/fashwest990/YeetPlane) | 0 | Free Roblox Yeet a Plane Simulator Script 🚀 |
 | [FB4Studios/Brisbane-train-sim](https://github.com/FB4Studios/Brisbane-train-sim) | 0 | offical resportay for Brisbane train sim on roblox by me |
 | [fivexyy/WheelAdapter](https://github.com/fivexyy/WheelAdapter) | 0 | A basic application that allows you to use a racing wheel on Roblox car games. |
@@ -153,6 +157,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [gaadadem1-oss/roblox-sports-car-game](https://github.com/gaadadem1-oss/roblox-sports-car-game) | 0 | Un jeu de voiture de sport Roblox en Python avec simulation de physique et gameplay |
 | [ghxjcbhxjcjchchchchchch-dotcom/Car-fly](https://github.com/ghxjcbhxjcjchchchchchch-dotcom/Car-fly) | 0 | Roblox car flying script |
 | [ghxjcbhxjcjchchchchchch-dotcom/roblox-flying-car](https://github.com/ghxjcbhxjcjchchchchchch-dotcom/roblox-flying-car) | 0 | A Roblox flying car script with GUI controls |
+| [giorgi1gignadze/sell-cars-web](https://github.com/giorgi1gignadze/sell-cars-web) | 0 | (geen omschrijving op GitHub) |
 | [GISOjinga/Monowheel](https://github.com/GISOjinga/Monowheel) | 0 | Anti gravity single wheel car |
 | [gogugogiugogu/simple-car-movement](https://github.com/gogugogiugogu/simple-car-movement) | 0 | made a simple script using the MoveTo() function in Roblox Studio that takes the humanoid (in this example, a car) into a loop of driving from 1 point to the... |
 | [goracydelfin164-cmyk/KornelFlight_32](https://github.com/goracydelfin164-cmyk/KornelFlight_32) | 0 | hello i love roblox |
@@ -162,6 +167,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [hello27819-wq/CuongModVIP](https://github.com/hello27819-wq/CuongModVIP) | 0 | AIR MOVEMENT 360° - ROBLOX STUDIO Flight System Script |
 | [henryritz/BRannouncerRBX](https://github.com/henryritz/BRannouncerRBX) | 0 | This is a announcer program for the roblox game 'British Railway'. |
 | [herrydika/Livetopia-RP-Script](https://github.com/herrydika/Livetopia-RP-Script) | 0 | Transform your Roblox Livetopia RP experience with this customizable script! Add dynamic roles, vehicles, NPCs, customizable homes, events, and more. Perfect... |
+| [highspeedtrain/AdvancedChassis](https://github.com/highspeedtrain/AdvancedChassis) | 0 | Control constraints using instance tags |
 | [hunthunt1212/Roblox-Multicrew-Tank-Comdat-artillery-solver](https://github.com/hunthunt1212/Roblox-Multicrew-Tank-Comdat-artillery-solver) | 0 | This is a side project I am working on to calculate fire of gun and where it will land. |
 | [Hypurrnating/hot-slot-inserter](https://github.com/Hypurrnating/hot-slot-inserter) | 0 | A Roblox GUI which allows players to insert and manage their own slots |
 | [iamrykerpierce-art/Luabu](https://github.com/iamrykerpierce-art/Luabu) | 0 | The fast, flexible Luau runtime built for Roblox developers who want to ship small and medium games without the scaffolding overhead of heavier frameworks. |
@@ -226,6 +232,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [noob111111/Paint](https://github.com/noob111111/Paint) | 0 | Paint python script, made to work with "plane crazy" on roblox |
 | [NoodleDeveloper/N-Chassis](https://github.com/NoodleDeveloper/N-Chassis) | 0 | The new generation of vehicle simulation on Roblox. |
 | [norfthalex-bit/norfthalex-bit.github.io](https://github.com/norfthalex-bit/norfthalex-bit.github.io) | 0 | This website is going to present you my ROBLOX portfolio. I specialise in Building, Modelling and importing vehicles. |
+| [Notnips/OD_DriftVision](https://github.com/Notnips/OD_DriftVision) | 0 | (geen omschrijving op GitHub) |
 | [NutMaster828/Trey-Portfolio](https://github.com/NutMaster828/Trey-Portfolio) | 0 | 👋 Hi there! I’m Trey, a Roblox developer and game designer. - 🧱 Experienced in **low & mid-poly building**, **terrain design**, and **car modeling** - 🎮 Focu... |
 | [OffedulDev/autonomous-car-driving](https://github.com/OffedulDev/autonomous-car-driving) | 0 | Roblox Autonomous Car Driving System, to learn more visit the devforum. |
 | [okeanskiy/x-chassis-tune](https://github.com/okeanskiy/x-chassis-tune) | 0 | (geen omschrijving op GitHub) |
@@ -281,9 +288,11 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [stanislawkorzeb13-bit/junkyard-legends](https://github.com/stanislawkorzeb13-bit/junkyard-legends) | 0 | Junkyard Legends - Roblox Car Simulator Game. From Scrap to Legend. Modular game architecture for long-term development. |
 | [StarTheProot/wastonrailway](https://github.com/StarTheProot/wastonrailway) | 0 | Test website for Waston Railway, the roblox game |
 | [STEN0000/SeMIDI](https://github.com/STEN0000/SeMIDI) | 0 | just software to play on piano in roblox plane crazy |
+| [superacidjax/car-wash-rush](https://github.com/superacidjax/car-wash-rush) | 0 | (geen omschrijving op GitHub) |
 | [SwiftlyFast-exe/Tennis-pickle-ball-sideline-](https://github.com/SwiftlyFast-exe/Tennis-pickle-ball-sideline-) | 0 | This is a script for Orion Drifts Spectator Camera. Unlike the versions I will post in OD channels, here I will update constantly broken or fixed allowing an... |
 | [swishzez/Roblox-VC-anti-suspension](https://github.com/swishzez/Roblox-VC-anti-suspension) | 0 | no more suspensions :)))))) |
 | [SxtTxch/train_showcase](https://github.com/SxtTxch/train_showcase) | 0 | (geen omschrijving op GitHub) train_showcase |
+| [Syatram/FlightModule](https://github.com/Syatram/FlightModule) | 0 | I saw how hideous my old code was and spent the evening making it better. I wouldn't use this in a game I feel like there's better ways of implementing it. B... |
 | [TanguyComent/rbxts-car-test](https://github.com/TanguyComent/rbxts-car-test) | 0 | (geen omschrijving op GitHub) |
 | [TANK679/Tank-Roblox-Virus-](https://github.com/TANK679/Tank-Roblox-Virus-) | 0 | Please read the READ ME. |
 | [tatudobenkenee/roblox-flight-system](https://github.com/tatudobenkenee/roblox-flight-system) | 0 | Sistema de voo para Roblox - Script Lua do zero |
@@ -308,7 +317,10 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [vibecodingmaker/roblox-mario-kart](https://github.com/vibecodingmaker/roblox-mario-kart) | 0 | Mario Kart-style racing game for Roblox with drifting, items, and multiplayer |
 | [Vinayak-Gamerzz/F1-RACING-TRACK](https://github.com/Vinayak-Gamerzz/F1-RACING-TRACK) | 0 | (geen omschrijving op GitHub) |
 | [VoidFM/roblox-flight-tracker](https://github.com/VoidFM/roblox-flight-tracker) | 0 | Roblox Flight Tracker code |
+| [voldexroblox/AChassisSoundsLib-Public](https://github.com/voldexroblox/AChassisSoundsLib-Public) | 0 | Luau library for updating A-Chassis-style vehicle sounds based on vehicle state. This is a focused extraction/modification of the original A-Chassis Sounds.l... |
+| [VR-Octo/Emote-Wheel-for-Orion-Drift](https://github.com/VR-Octo/Emote-Wheel-for-Orion-Drift) | 0 | This is the first system in Orion Drift that its Emote Wheel for spetators |
 | [W1lteGameYT/WiltedHub---BEST-GOLD-BLOCK-FARM-Build-A-Boat-For-Treasure-Roblox](https://github.com/W1lteGameYT/WiltedHub---BEST-GOLD-BLOCK-FARM-Build-A-Boat-For-Treasure-Roblox) | 0 | (geen omschrijving op GitHub) Tutorial: (coming soon) |
+| [warthUnda/Battleship-core-system](https://github.com/warthUnda/Battleship-core-system) | 0 | a battle ship core system i made for a client (He doesnt have any money so i made the most out of it) |
 | [Weloxs/roblox-car-fuck](https://github.com/Weloxs/roblox-car-fuck) | 0 | roblox-car-fuck script you can drive you can fast |
 | [werder1256/Dovedale-line-index-system](https://github.com/werder1256/Dovedale-line-index-system) | 0 | System made for the Roblox game Dovedale railways. |
 | [Winnie7050/roblox-car-pulling-game](https://github.com/Winnie7050/roblox-car-pulling-game) | 0 | A Roblox game where players pull cars with physics-based rope mechanics |

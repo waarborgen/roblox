@@ -187,7 +187,7 @@ Artikelen, complete open-source games, templates en curated lijsten.
 | [SofiSubbotina/BridgeRun](https://github.com/SofiSubbotina/BridgeRun) | 0 | Multiplayer bruggenbouw-runner met object pooling |
 | [uxabix/TFC-Horror](https://github.com/uxabix/TFC-Horror) | 0 | Open-source coöp-horrorgame (drive-thru, bewakingscamera's, anomalieën) |
 
-## Uitgebreide index (4242)
+## Uitgebreide index (4381)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of spamfarms), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving; "(geen omschrijving op GitHub)" = opgenomen op basis van een duidelijke reponaam.
 
@@ -212,14 +212,17 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [hansalemaos/mousekey](https://github.com/hansalemaos/mousekey) | 15 | Automates mouse/keyboard, works with games like Roblox! |
 | [Jianbe-03/Pesto](https://github.com/Jianbe-03/Pesto) | 15 | Connect Your Entire Roblox Game To Visual Studio Code And All Other IDE's |
 | [Icy-Monster/Screen-Sharing-in-Roblox](https://github.com/Icy-Monster/Screen-Sharing-in-Roblox) | 13 | A small project for screen sharing in Roblox |
+| [Luwow-Project/Core](https://github.com/Luwow-Project/Core) | 13 | Small runtime / engine with the goal to make it easy to create and deploy applications or games in Luau with static or dynamic C++ libraries. |
 | [r1a9c8c4/luau-guide](https://github.com/r1a9c8c4/luau-guide) | 11 | Guide to Luau, a modification of Lua used in Roblox scripting |
 | [randexlabs/roblox-boilerplate](https://github.com/randexlabs/roblox-boilerplate) | 11 | Personal Roblox game boilerplate |
+| [synpixel/luau-style-guide](https://github.com/synpixel/luau-style-guide) | 11 | The ultimate solution to horrendous-looking code |
 | [foxxosnoot/laravel-roblox-clone](https://github.com/foxxosnoot/laravel-roblox-clone) | 10 | June 2021 Avasquare code |
 | [AstroGamesAtSchool/robloxforschool](https://github.com/AstroGamesAtSchool/robloxforschool) | 9 | here is where you can play roblox unblocked on school computers |
 | [BakonBot/plentiBlox](https://github.com/BakonBot/plentiBlox) | 9 | Port images to your Roblox games with frames |
 | [denkodin/roblox](https://github.com/denkodin/roblox) | 9 | My Roblox projects |
 | [kyle-emmerich/blueshift-engine](https://github.com/kyle-emmerich/blueshift-engine) | 9 | Old game engine project, stopped because I got hired at Roblox. Now I think it's terrible, but it's where I was at in college |
 | [OttoHatt/colorrng](https://github.com/OttoHatt/colorrng) | 9 | Simple RNG Roblox game, demonstrating the Nevermore ecosystem. |
+| [CompeyDev/lei](https://github.com/CompeyDev/lei) | 8 | 🌸 A collection of Go bindings to Luau |
 | [Intelinsidecom/roblox-master-2016](https://github.com/Intelinsidecom/roblox-master-2016) | 8 | My own fork of the leaked 2016 Gametest2 Roblox Source Code, focuses on getting all projects compiling, reverse engineered |
 | [TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos](https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos) | 8 | List of videos that break Roblox’s Terms of Use |
 | [ActualMasterOogway/Wax-Bundler-Example](https://github.com/ActualMasterOogway/Wax-Bundler-Example) | 7 | (geen omschrijving op GitHub) |
@@ -231,6 +234,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [NobleDraconian/Roblox-LibModules](https://github.com/NobleDraconian/Roblox-LibModules) | 7 | Just a lib that has stuff that a lot of my projects depend on. |
 | [PlattinumBees/BeeSwarmSimulatorTimer](https://github.com/PlattinumBees/BeeSwarmSimulatorTimer) | 7 | This is a simple timer to control the various respawn timers for Mobs and Loot in Roblox Bee Swarm Simulator |
 | [HarukaTea/TRIA-Map-Runner](https://github.com/HarukaTea/TRIA-Map-Runner) | 6 | A project that allows you to run TRIA maps that you created in Roblox Studio. |
+| [matthew-brewer/luau-extended-table](https://github.com/matthew-brewer/luau-extended-table) | 6 | A simple class designed to provide additional features for working with Luau tables. |
 | [vocksel/Sugar](https://github.com/vocksel/Sugar) | 6 | A library of helpful utility functions for use in Roblox games |
 | [Bitl/other-roblox-projects-src](https://github.com/Bitl/other-roblox-projects-src) | 5 | A repo containing my other ROBLOX projects: Origins06, RBXPri2, and RBX2008. |
 | [DarkBlueStealth/BlueCoin](https://github.com/DarkBlueStealth/BlueCoin) | 5 | This is a Centralized digital currency for a Roblox game called Waste of Space. |
@@ -242,6 +246,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [nexusunderground/Nexus-Roblox-External-DEMO](https://github.com/nexusunderground/Nexus-Roblox-External-DEMO) | 5 | (geen omschrijving op GitHub) |
 | [PacktPublishing/Roblox-Game-Development-Cookbook](https://github.com/PacktPublishing/Roblox-Game-Development-Cookbook) | 5 | Roblox Game Development Cookbook by Packt Publishing |
 | [Reb0rnEnder/ScreenBlox](https://github.com/Reb0rnEnder/ScreenBlox) | 5 | Send video data to roblox games. |
+| [rijkvanzanten/luaus](https://github.com/rijkvanzanten/luaus) | 5 | 🚨 Online scoreboard for all your favorite games 🚨 |
 | [rollerozxa/OpenBlox](https://github.com/rollerozxa/OpenBlox) | 5 | Roblox-inspired game using the Minetest engine |
 | [Sayemum/Roblox-Game-Development](https://github.com/Sayemum/Roblox-Game-Development) | 5 | This is the journey of how I became a Roblox developer and how it first got me into programming and video game development. |
 | [SeenKid/roblox-petsystem](https://github.com/SeenKid/roblox-petsystem) | 5 | An easy pet system for your roblox game |
@@ -305,6 +310,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [saulmontealvo/Arachnophobia](https://github.com/saulmontealvo/Arachnophobia) | 3 | A failed Roblox game |
 | [SirDroffilc/Visual-Novel-by-Worst-Generation](https://github.com/SirDroffilc/Visual-Novel-by-Worst-Generation) | 3 | A psychological horror and drama visual novel game mainly developed using Ren'Py and Roblox Studio. |
 | [STR-1/SBS-RBX](https://github.com/STR-1/SBS-RBX) | 3 | SCHOOL BUS SIMULATOR @ ROBLOX DISTRICT WHITELISTING |
+| [TERIHAX/Scripts](https://github.com/TERIHAX/Scripts) | 3 | List of Scripts (Not Mine) |
 | [U-M9/Roblox-Useful-Libraries](https://github.com/U-M9/Roblox-Useful-Libraries) | 3 | these are just some libraries i made to hopefully be found useful in your game development or projects |
 | [Zerbaib/ChampionsFarmerForAnimeFightingSimulatorRoblox](https://github.com/Zerbaib/ChampionsFarmerForAnimeFightingSimulatorRoblox) | 3 | (geen omschrijving op GitHub) |
 | [ZoteTheMighty/platformer-adventure-game](https://github.com/ZoteTheMighty/platformer-adventure-game) | 3 | A Roblox game that's an odd point-and-click adventure / side-scrolling platformer blend |
@@ -321,6 +327,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [Bytebit-Org/roblox-ExtendedCollectionService](https://github.com/Bytebit-Org/roblox-ExtendedCollectionService) | 2 | Added functionality to layer on top of Roblox's CollectionService |
 | [CeaselessQuokka/RobloxTextTutorials](https://github.com/CeaselessQuokka/RobloxTextTutorials) | 2 | Tutorials I make about Roblox. |
 | [chris12902/GameReleaseNotifier](https://github.com/chris12902/GameReleaseNotifier) | 2 | Notifies the user when a Roblox game releases (only works if the game gets multiple servers upon release) |
+| [cloristonezar/machslut](https://github.com/cloristonezar/machslut) | 2 | Template for using my Luau conversion |
 | [Conikku/AntiWS](https://github.com/Conikku/AntiWS) | 2 | Highly configurable and modular Anti W+S system for Roblox games |
 | [deadfry42/rubylox](https://github.com/deadfry42/rubylox) | 2 | Recreating Pokemon Ruby in the Roblox game engine (source code only) |
 | [delphe/JoJoGame](https://github.com/delphe/JoJoGame) | 2 | Orion's JoJo Roblox Game |
@@ -387,6 +394,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [TaylorsRus/RoBits](https://github.com/TaylorsRus/RoBits) | 2 | A collection of Roblox, and sometimes pure Luau, libraries and utilities |
 | [TaylorsRus/template-roblox-project](https://github.com/TaylorsRus/template-roblox-project) | 2 | Roblox project boilerplate to fast track new codebases. |
 | [teano/roblox_project_template](https://github.com/teano/roblox_project_template) | 2 | Шаблонный проект для Roblox игр |
+| [TechHog8984/luautricks](https://github.com/TechHog8984/luautricks) | 2 | A curated list of Luau tricks and/or optimizations |
 | [TheFlamingBlaster/FDK](https://github.com/TheFlamingBlaster/FDK) | 2 | Class-based Roblox development, made easy. |
 | [Thomas-Chabot/RbxToGit](https://github.com/Thomas-Chabot/RbxToGit) | 2 | An application for porting Roblox game scripts to a local directory, which can then be pushed onto GitHub. |
 | [tobycm/merge-shop-energy-auto-collector](https://github.com/tobycm/merge-shop-energy-auto-collector) | 2 | A very simple script to automate energy collecting in Merge Shop Roblox game hehe |
@@ -398,8 +406,10 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [x6nny/signal](https://github.com/x6nny/signal) | 2 | A lightweight signal class for replacing BindableEvents & BindableFunctions. |
 | [y29r/Tome](https://github.com/y29r/Tome) | 2 | An object-oriented garbage collection module for luau |
 | [0rtizSys/PwC-Wiki](https://github.com/0rtizSys/PwC-Wiki) | 1 | This is the un-official Wikipedia of the game called Plant with Coding from roblox |
+| [1-dnt/Nobis-Luau-Init](https://github.com/1-dnt/Nobis-Luau-Init) | 1 | If you copy part of the project, you must mention me. Failure to do so could result in your project/account being terminated |
 | [1VitaliOn/Roblox-PSS](https://github.com/1VitaliOn/Roblox-PSS) | 1 | Roblox Project Structure Scanner |
 | [2C-P/Roblox-5-letter-user-finder](https://github.com/2C-P/Roblox-5-letter-user-finder) | 1 | Makes 5 letter Roblox usernames fast and efficiently. And has a banned terms list. |
+| [4812571/graph](https://github.com/4812571/graph) | 1 | A general purpose Luau graph class |
 | [59-61/roblox](https://github.com/59-61/roblox) | 1 | Play Roblox On a School Chromebook |
 | [7pedrich/minesweeper](https://github.com/7pedrich/minesweeper) | 1 | Customizable minesweeper game in Roblox |
 | [9kwr/Paradox](https://github.com/9kwr/Paradox) | 1 | Various scripts for roblox games i make. |
@@ -410,6 +420,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [Accutrix/Roax](https://github.com/Accutrix/Roax) | 1 | An object-orientation module for game development on the ROBLOX platform |
 | [acidiccatnip/cathook](https://github.com/acidiccatnip/cathook) | 1 | cathook - some game scripts for roblox externals. (˶>⩊<˶) |
 | [Adaaks/QuickStats](https://github.com/Adaaks/QuickStats) | 1 | Provides you with game statistics of your chosen ROBLOX game |
+| [Aimstarooo/RbxMagic](https://github.com/Aimstarooo/RbxMagic) | 1 | RbxMagic Script For Project Lodzkie By Aimstar |
 | [akuz-dev/-1-Strength-To-Hunt-Treasure-Incremental-Game-Code](https://github.com/akuz-dev/-1-Strength-To-Hunt-Treasure-Incremental-Game-Code) | 1 | (geen omschrijving op GitHub) |
 | [alexiswa/raise-a-bnuuy](https://github.com/alexiswa/raise-a-bnuuy) | 1 | The code for my "Raise a Bnuuy" project |
 | [Alienduck/Luau_engine](https://github.com/Alienduck/Luau_engine) | 1 | A pretty cool game engine which is scriptable in Luau like Roblox Studio without Roblox boring things (without hard feelings) |
@@ -432,6 +443,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [Argonomic/Haunt](https://github.com/Argonomic/Haunt) | 1 | Hidden Roles Roblox game |
 | [asceius/stars-of-fate-roblox](https://github.com/asceius/stars-of-fate-roblox) | 1 | Public workspace for the Roblox game, Stars of Fate |
 | [Asia0204/NINJA-GAIDEN-SURVIVAL-roblox](https://github.com/Asia0204/NINJA-GAIDEN-SURVIVAL-roblox) | 1 | NINJA GAIDEN SURVIVAL Roblox Studio 忍者外傳 忍者龍劍傳 |
+| [astriaInight/LuaClass](https://github.com/astriaInight/LuaClass) | 1 | Basic class system for Luau |
 | [ATF1511/Roblox-Global-Ban-List](https://github.com/ATF1511/Roblox-Global-Ban-List) | 1 | Bans users from a certain list. I made this a while ago lol. |
 | [Atheria-Revolution/2DMap-Maker](https://github.com/Atheria-Revolution/2DMap-Maker) | 1 | A beta project for a 2D editor in Roblox using Tilemaps |
 | [AtmosMP/RobloxResources](https://github.com/AtmosMP/RobloxResources) | 1 | Leaked Roblox Games, Opensourced Games, My games. |
@@ -482,16 +494,19 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [Cod3-D/Learning_Luau](https://github.com/Cod3-D/Learning_Luau) | 1 | Repositorio de apuntes, prácticas y mejores prácticas de Luau para el desarrollo de videojuegos en Roblox Studio. |
 | [coincracker/roblox-monitor](https://github.com/coincracker/roblox-monitor) | 1 | Monitors a roblox user and alerts you when they're in game using the presence api. |
 | [ColombiaDzZ/Roblox-Farm](https://github.com/ColombiaDzZ/Roblox-Farm) | 1 | Projeto Simples Roblox Game |
+| [Crabzzai/LuauBlocks](https://github.com/Crabzzai/LuauBlocks) | 1 | Generate luau code using Blockly and manage your extern projects |
 | [Craxelgaming2100/roblox-luau-code](https://github.com/Craxelgaming2100/roblox-luau-code) | 1 | Roblox Lua examples by me |
 | [Crazyblox/crazytracer_2025](https://github.com/Crazyblox/crazytracer_2025) | 1 | Roblox Pathtracer project that lay dormant for a year. It runs. |
 | [creepersaur/QuickList](https://github.com/creepersaur/QuickList) | 1 | A better lua list class. |
 | [Crzy-Milano/Project-Battle-War](https://github.com/Crzy-Milano/Project-Battle-War) | 1 | Upcoming Realistic War Game on Roblox! |
 | [CSC-3380-Spring-2025/Team-23](https://github.com/CSC-3380-Spring-2025/Team-23) | 1 | Empire Tycoon - a Roblox Game. |
+| [cutehamster290-tech/day-2-of-js](https://github.com/cutehamster290-tech/day-2-of-js) | 1 | since i lose mottivation fast, i came back after a few months, i have been coding in luau those months in a game where i got 1k followers in 3 days (with a f... |
 | [Cyerc/123demands-Value-Fetcher](https://github.com/Cyerc/123demands-Value-Fetcher) | 1 | Retrieves and parses item value data from the 123demands API for Roblox games such as Murderers vs Sheriffs and Blox Fruits. |
 | [d23dev/videostream2](https://github.com/d23dev/videostream2) | 1 | Impractical Roblox video streaming demo |
 | [Dahao12/theforgotten](https://github.com/Dahao12/theforgotten) | 1 | 🎮 Roblox Clone Platform - 3D Multiplayer Game Platform |
 | [Daichi-lua/GetScan](https://github.com/Daichi-lua/GetScan) | 1 | Offers a High-Performance Hex-mapped Single-Entry-Point (SEP) alongside Class & Attribute Scans. API-Wrapper. |
 | [DaniiTheFox/RoQuake](https://github.com/DaniiTheFox/RoQuake) | 1 | this is a roblox Quake-like controller I made, enjoy creating quake-like games with it |
+| [danishramesh/sx_engine](https://github.com/danishramesh/sx_engine) | 1 | lightweight 2D game engine - DirectX 11, Luau |
 | [DannyLinx/working-flashlight-for-lua](https://github.com/DannyLinx/working-flashlight-for-lua) | 1 | Working flashlight script for Roblox Studio. (put in startercharacterscripts.) |
 | [darryldejong/bluewar](https://github.com/darryldejong/bluewar) | 1 | A roblox game made in lua |
 | [David504FD/Longview-County-CAD-MDT](https://github.com/David504FD/Longview-County-CAD-MDT) | 1 | A Dispatch CAD for my Roblox Game. |
@@ -536,6 +551,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [firzal098/aethera](https://github.com/firzal098/aethera) | 1 | Aethera is a roblox MMORPG game |
 | [FlamePlusScript/krobarmod](https://github.com/FlamePlusScript/krobarmod) | 1 | This is the modification for the game roblox called 'krobar' |
 | [FloofyIV/tracker](https://github.com/FloofyIV/tracker) | 1 | A roblox game update tracker in golang. |
+| [FlowAshley/luau-electron-template](https://github.com/FlowAshley/luau-electron-template) | 1 | a template for creating luau apps with electron |
 | [frandonacc/rivalsgame](https://github.com/frandonacc/rivalsgame) | 1 | THIS IS A NON COPYRIGHTED VERSION OF ROBLOX RIVALS. THIS IS NOT THE CLIENT DO NOT USE THIS USE THE OTHER "rivals-game-client" REPOSITORY TO INSTALL THE CLIEN... |
 | [fwilliames/ColheitaFeliz](https://github.com/fwilliames/ColheitaFeliz) | 1 | Jogo criado em Luau/Lua na Game Engine Roblox |
 | [g0ofycat/GuildService](https://github.com/g0ofycat/GuildService) | 1 | GuildService is used for creating clans / guilds inside of Roblox Games |
@@ -545,6 +561,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [gameboyso/grow-a-garden-roblox](https://github.com/gameboyso/grow-a-garden-roblox) | 1 | Grow a Garden – The Ultimate Roblox Simulation Game |
 | [gameuniverse5p9/Roblox](https://github.com/gameuniverse5p9/Roblox) | 1 | This is a remake of roblox... I HOPE YOU LIKE IT |
 | [girlmagnet123/sutz-spotlight](https://github.com/girlmagnet123/sutz-spotlight) | 1 | tutorial spotlight for screen and world targets |
+| [github-user123456789/roblocks-movie-maker](https://github.com/github-user123456789/roblocks-movie-maker) | 1 | bad movie maker remake in luau |
 | [gled64/Raise-a-batched-floppa](https://github.com/gled64/Raise-a-batched-floppa) | 1 | Inspired in the game Raise a Floppa from Roblox |
 | [government2/The-Ultimate-Gear-Machine-Project](https://github.com/government2/The-Ultimate-Gear-Machine-Project) | 1 | This is the project that I made, that plans to make a very huge gear machine, for developers on ROBLOX that want to make a gear game. This will be free to th... |
 | [Graysen1216/Linglox-Ultimate-Companion](https://github.com/Graysen1216/Linglox-Ultimate-Companion) | 1 | The soon-to-be-Ultimate Guide to the Roblox game: Linglox, a MASSIVE word puzzle game. This guide is intended to act as a companion to a casual playthrough. ... |
@@ -588,6 +605,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [IsaacSShade/Canopy](https://github.com/IsaacSShade/Canopy) | 1 | A first foray into creating well-made games in Roblox with a friend of mine |
 | [isaiahxlks/custom-gab-ideas](https://github.com/isaiahxlks/custom-gab-ideas) | 1 | private config ideas for our game on Roblox |
 | [isLenk/LNKs-Lua-Raycast-Playground](https://github.com/isLenk/LNKs-Lua-Raycast-Playground) | 1 | A simple roblox prototype game that demonstrates the usage of raycasts to handle player states. |
+| [Issactly/MECHA-Pre-Alpha](https://github.com/Issactly/MECHA-Pre-Alpha) | 1 | Working on what was meant to be my final project |
 | [ItsAltus/Slick-Escape](https://github.com/ItsAltus/Slick-Escape) | 1 | A ROBLOX stealth demo written in Luau. |
 | [ItzKuroYT/JJS-Libraries](https://github.com/ItzKuroYT/JJS-Libraries) | 1 | This is made for the roblox game JJS, an experimental pages to create/share moveset codes |
 | [ivanbaradi/Ninja-Arena-2](https://github.com/ivanbaradi/Ninja-Arena-2) | 1 | Ninja Arena 2 is a Roblox RPG game where opposing teams challenge Ninja Heroes 101 team in a battle. |
@@ -649,6 +667,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [LightViper/roblox-portfolio](https://github.com/LightViper/roblox-portfolio) | 1 | my portfolio for roblox commissions etc |
 | [lizamanaguing0-ctrl/grow-a-garden-roblox](https://github.com/lizamanaguing0-ctrl/grow-a-garden-roblox) | 1 | A Roblox simulator game where players grow plants, harvest them, and earn currency |
 | [lucidgamesstudio-official/Lost-Signal-DEMO](https://github.com/lucidgamesstudio-official/Lost-Signal-DEMO) | 1 | The open source code for the first demo of Lucid Games |
+| [Lyte3075/SingulaX](https://github.com/Lyte3075/SingulaX) | 1 | An easy to learn, yet capable programming language inspired by Luau. |
 | [MafuSaku/RobloxTutorials](https://github.com/MafuSaku/RobloxTutorials) | 1 | This repository contains scripts of all of my Roblox Tutorials. |
 | [Maneetbal/roblox-server-locations](https://github.com/Maneetbal/roblox-server-locations) | 1 | Community maintained list for roblox's server locations and datacenters. |
 | [markjohndelacruz036-wq/Sell-A-Studs-Simulator-Code-Roblox-Game](https://github.com/markjohndelacruz036-wq/Sell-A-Studs-Simulator-Code-Roblox-Game) | 1 | 🎁 Code 🏆 Reward MARKYARMY 1× DesertGemStud JUNGLE 2× JadeStud DESERT 2× GoldenStud SASS 3× RareStud WELCOME 5× CommonStud UPDATE 2× RootStud |
@@ -656,6 +675,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [mastershadow547/GreatSignal](https://github.com/mastershadow547/GreatSignal) | 1 | A high-performance, strictly typed linked-list signal utility for Roblox Luau. |
 | [MathematicalDessert/Storybook](https://github.com/MathematicalDessert/Storybook) | 1 | Roblox game engine for story-driven games |
 | [MaximumADHD/Roblox-Deploy-History](https://github.com/MaximumADHD/Roblox-Deploy-History) | 1 | A small submodule blob of files shared across some of my projects, for interpreting Roblox's DeployHistory.txt file. |
+| [Maxwell317898/Luau-wiki](https://github.com/Maxwell317898/Luau-wiki) | 1 | A luau wiki with a guide ready to use Right now and the source of are old wiki |
 | [MaxyousScripts/Portfolio](https://github.com/MaxyousScripts/Portfolio) | 1 | This is my personal portfolio for the progression and experience of my journey on Roblox as a Scripter! Commisions are open. |
 | [mayveiscous/oddity-engine](https://github.com/mayveiscous/oddity-engine) | 1 | Oddity Engine is a game engine and editor, written in Lua and C++, inspired by Roblox Studio |
 | [mbti0n/Roblox-Shortcut-Creator](https://github.com/mbti0n/Roblox-Shortcut-Creator) | 1 | A simple Qt5 app to add Roblox game shortcuts to Windows desktop, running in Python. |
@@ -721,6 +741,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [Phaliion/WordBomb-AutoTyper](https://github.com/Phaliion/WordBomb-AutoTyper) | 1 | Made this auto-typer for Wordbomb (ROBLOX game) a while ago... looks bad because it's just for the function. |
 | [Photograph3r/GameGuardian](https://github.com/Photograph3r/GameGuardian) | 1 | Description: Roblox Activity & Safety Monitor - PP4 Project |
 | [pigxity/badge-chain](https://github.com/pigxity/badge-chain) | 1 | The serverside code for the roblox game: Piggy's Badge Chain |
+| [PizzaLvr49/EntityEngine](https://github.com/PizzaLvr49/EntityEngine) | 1 | Luau game engine for Rust |
 | [PlacidityIsEpic/jme-speedrun-setup](https://github.com/PlacidityIsEpic/jme-speedrun-setup) | 1 | A list of utilities and resources for speedrunning the game "JJT Money Empire" on Roblox |
 | [PlacidityIsEpic/jmewiki](https://github.com/PlacidityIsEpic/jmewiki) | 1 | A wiki for the roblox game called "JJT Money Empire". |
 | [Planispheric/BattleOnTheIcedCanyon](https://github.com/Planispheric/BattleOnTheIcedCanyon) | 1 | This is a Roblox game, I'll post code for it here, open sourced I guess. |
@@ -793,6 +814,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [softmodded/whiplash](https://github.com/softmodded/whiplash) | 1 | a quick and dirty jackbox quiplash clone in roblox |
 | [softwarerblx/ViewportFrameUtility](https://github.com/softwarerblx/ViewportFrameUtility) | 1 | A strictly-typed utility class for displaying models in ViewportFrames. |
 | [SoulSej10/StoreEmpire](https://github.com/SoulSej10/StoreEmpire) | 1 | A roblox game: A typical store simulator game that let users feel the essence of being in retail and owning a business. |
+| [spectronal/Time-After-Time](https://github.com/spectronal/Time-After-Time) | 1 | Simple game for waste your time. I've created this game before, but I used the Luau Language, and now I'll only use JavaScript for training |
 | [spenox15/Roblox-Research](https://github.com/spenox15/Roblox-Research) | 1 | Roblox Game Researching Deposits |
 | [StayOutOfTheLadiesRestroom/Groups-That-Broke-Roblox-TOS](https://github.com/StayOutOfTheLadiesRestroom/Groups-That-Broke-Roblox-TOS) | 1 | A list of Roblox Group removed or flagged for violating Roblox Community Standards and TOS |
 | [StayOutOfTheLadiesRestroom/Users-That-Broke-Roblox-TOS](https://github.com/StayOutOfTheLadiesRestroom/Users-That-Broke-Roblox-TOS) | 1 | A list of Roblox users removed or flagged for violating Roblox Community Standards and TOS (Rotector & TASE) |
@@ -846,6 +868,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [untroublua/EToH-V5.5-V6-Conversion-Kit](https://github.com/untroublua/EToH-V5.5-V6-Conversion-Kit) | 1 | A collection of scripts (credit given) made to assist in converting EToH client objects from v5.5 to v6 |
 | [UrsulPOLARKing/RobloxLost](https://github.com/UrsulPOLARKing/RobloxLost) | 1 | Here I Post all my New Updates for My Roblox Game called Lost. |
 | [useeryous/roblox-clone](https://github.com/useeryous/roblox-clone) | 1 | something i wanted to work on for fun |
+| [valad47/vengine](https://github.com/valad47/vengine) | 1 | Simple game engine that uses Luau as scripting language |
 | [Valkrz/Roblox-Word-bomb-assistant](https://github.com/Valkrz/Roblox-Word-bomb-assistant) | 1 | open source word bomb (roblox game) assistant |
 | [VampireDragon555/top5gamesinroblox](https://github.com/VampireDragon555/top5gamesinroblox) | 1 | top 5 games in roblox created by an 11 year old |
 | [vanbarros76/Desafio-Roblox-Obby](https://github.com/vanbarros76/Desafio-Roblox-Obby) | 1 | Jogo de obstáculos criado para minha filha Isa, super aprovado!! =D |
@@ -865,6 +888,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [vyxonq-dev/rbx-runtime](https://github.com/vyxonq-dev/rbx-runtime) | 1 | Lightweight Luau runtime validation layer for Roblox compatibility. Verifies proper in-game context and helps reduce external runtime logging or unsupported ... |
 | [WANTED-EMPEROR/wanted-wiki](https://github.com/WANTED-EMPEROR/wanted-wiki) | 1 | An open-source wiki repository for the Roblox game Wanted. Contributions are welcome! Help us document items and more for the community! |
 | [WarriorKiller1098/WarriorBlox-2014](https://github.com/WarriorKiller1098/WarriorBlox-2014) | 1 | Another version of my game WarriorBlox but based on Roblox, not Godot. |
+| [weebweeb/weebRBX](https://github.com/weebweeb/weebRBX) | 1 | A short collection of generic luau classes/modules I've worked on that I've released to the public |
 | [Whale64/Roadblocks](https://github.com/Whale64/Roadblocks) | 1 | the games for the goofy ahh vibe coded roblox clone |
 | [while-kaique/roblox-game](https://github.com/while-kaique/roblox-game) | 1 | Um breve projeto em .Lua para fins de diversão e passar tempo :D |
 | [Windows81/Roblox-Runnerer](https://github.com/Windows81/Roblox-Runnerer) | 1 | [MINIMAL WORKING CODE] Ambitious research project to run Rōblox clients and servers from RobloxStudioBeta.exe's executable code. |
@@ -928,6 +952,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [2016BLOX/.2016](https://github.com/2016BLOX/.2016) | 0 | 2016BLOX Lets You Play 2016 ROBLOX games |
 | [2016BLOX/.BLOX2016](https://github.com/2016BLOX/.BLOX2016) | 0 | 2016BLOX Lets You Play 2016 ROBLOX games With Your Friends |
 | [2024-25-Allen-ISD-Computer-Science/7th-period-isp-face-your-fears-roblox-game](https://github.com/2024-25-Allen-ISD-Computer-Science/7th-period-isp-face-your-fears-roblox-game) | 0 | 7th-period-isp-face-your-fears-roblox-game created by GitHub Classroom |
+| [212omar/212_portfolio](https://github.com/212omar/212_portfolio) | 0 | this my portfolio , i'm luau |
 | [22-nicolas/MiningGame](https://github.com/22-nicolas/MiningGame) | 0 | A Roblox Game coded in Lua |
 | [223Win/LuauMonacoEditor](https://github.com/223Win/LuauMonacoEditor) | 0 | LuauMonacoEditor with every single luau class in it. |
 | [2ansdwanjw-eng/Roblox-Rich-Player-List-Communities](https://github.com/2ansdwanjw-eng/Roblox-Rich-Player-List-Communities) | 0 | (geen omschrijving op GitHub) |
@@ -948,6 +973,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [4idn/RoHunter](https://github.com/4idn/RoHunter) | 0 | Searches Roblox game for user |
 | [4kromm/SPYGAME](https://github.com/4kromm/SPYGAME) | 0 | A Roblox social deduction game where one player is secretly the Spy find them out through clues, deduction, and voting before it's too late. |
 | [4opt-alt/roblox-streamer-life-simulator](https://github.com/4opt-alt/roblox-streamer-life-simulator) | 0 | (geen omschrijving op GitHub) |
+| [4Raul/luau-script-projects](https://github.com/4Raul/luau-script-projects) | 0 | repository with sum of my lua codes |
 | [4sakenme/Luau-for-example](https://github.com/4sakenme/Luau-for-example) | 0 | a code for my job :D |
 | [4uaw/symbolhub](https://github.com/4uaw/symbolhub) | 0 | A roblox utility script designed to enhance user in-game experience |
 | [4x8Matrix/Roblox-Boilerplate](https://github.com/4x8Matrix/Roblox-Boilerplate) | 0 | A simple boilerplate repository I can use when creating a game |
@@ -958,6 +984,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [7kAndyy/shiny-succotash](https://github.com/7kAndyy/shiny-succotash) | 0 | Server/Client Autorun scripts for Deadline (a Roblox game) |
 | [7kayoh/hander](https://github.com/7kayoh/hander) | 0 | simple hand-to utility for your roblox game's needs |
 | [7nfy1055-hub/automation-for-last-letter](https://github.com/7nfy1055-hub/automation-for-last-letter) | 0 | it an automation for the roblox game last letter |
+| [7z99/luau-style-guide](https://github.com/7z99/luau-style-guide) | 0 | Another Luau style guide |
 | [81117105108108/Roblox-Luau-Style-Guide](https://github.com/81117105108108/Roblox-Luau-Style-Guide) | 0 | An In-depth style guide similar to googles cpp style guide but for roblox's luau-lang |
 | [8jbgkmxpx9-ui/viboravx.github.io](https://github.com/8jbgkmxpx9-ui/viboravx.github.io) | 0 | Vibora - Roblox 3D Scene Artist & Thumbnail Creator Portfolio |
 | [A4DI30/Mallu-hangout-place-](https://github.com/A4DI30/Mallu-hangout-place-) | 0 | A Roblox mallu game |
@@ -982,6 +1009,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [AboodQAZ/roblox-egg-heist-game](https://github.com/AboodQAZ/roblox-egg-heist-game) | 0 | Advanced Roblox game: Steal eggs, battle bosses, gain power-ups. Features keyboard mapping, 5 levels with unique bosses, spawn creatures from eggs, and progr... |
 | [AboudEy96/Makera-Riyadh](https://github.com/AboudEy96/Makera-Riyadh) | 0 | a Roleplay game for Makera Studios |
 | [abstractmadness/ROBLOX-Lua-Projects](https://github.com/abstractmadness/ROBLOX-Lua-Projects) | 0 | Everything I do on ROBLOX will be displayed here. Only mini projects that are useful though |
+| [AcceIerate2/TycoonIncrementTemplate](https://github.com/AcceIerate2/TycoonIncrementTemplate) | 0 | (geen omschrijving op GitHub) |
 | [Ace4332432423/VoR-Catalog](https://github.com/Ace4332432423/VoR-Catalog) | 0 | Catalog for HIT ROBLOX ROLEPLAY GAME VoR |
 | [acegef/RobloxExternal](https://github.com/acegef/RobloxExternal) | 0 | Why would you choose to use external bases? Go ahead and learn external development yourself. This is my simple guide on developing Roblox Externals. This is... |
 | [acerrah002/Roblox-Collab](https://github.com/acerrah002/Roblox-Collab) | 0 | This is a Roblox Collab section for students to explore and learn together |
@@ -1069,6 +1097,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [Aliyahks/Aliyah-](https://github.com/Aliyahks/Aliyah-) | 0 | I’m Aliyah and I make Roblox games |
 | [alla2001/Paper-Shredder-Roblox](https://github.com/alla2001/Paper-Shredder-Roblox) | 0 | Shred, Sweep, Repeat - Roblox incremental game about turning a mountain of bureaucracy into confetti |
 | [Allanzin178/ProjetoRobloxTycoon](https://github.com/Allanzin178/ProjetoRobloxTycoon) | 0 | Primeiro jogo no roblox, ainda em desenvolvimento |
+| [alldaysloth-luau/backend-showcase](https://github.com/alldaysloth-luau/backend-showcase) | 0 | A showcase of back-end code |
 | [allene-03/hatched](https://github.com/allene-03/hatched) | 0 | A project I worked on over a period of some months for a pet-breeding based game on Roblox, written in Lua. |
 | [allowedcen/ac](https://github.com/allowedcen/ac) | 0 | this is for roblox. could work on other games too (sometimes) |
 | [almondjoycam/Roblox-CNBurke](https://github.com/almondjoycam/Roblox-CNBurke) | 0 | Resources for beginning game development using Roblox Studio at Code Ninjas in Burke, VA. |
@@ -1117,6 +1146,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [angeluciel/Lua1](https://github.com/angeluciel/Lua1) | 0 | A Lua project, studying "THE ADVANCED ROBLOX CODING BOOK" and other personal things. |
 | [anhhoangsibidi-hash/roblox](https://github.com/anhhoangsibidi-hash/roblox) | 0 | 1 số script có thể với game |
 | [Aniibryant/1st-roblox-game-](https://github.com/Aniibryant/1st-roblox-game-) | 0 | This is my first time trying to make a roblox game |
+| [animatoranimation060-star/LoadingScreen.Luau](https://github.com/animatoranimation060-star/LoadingScreen.Luau) | 0 | LoadingScreen Script to put in startergui |
 | [AnimeRebornCodes/Anime-Reborn-Codes](https://github.com/AnimeRebornCodes/Anime-Reborn-Codes) | 0 | Latest Anime Reborn Codes for Roblox Reborn game with active Anime Reborn code, tier lists, and tips. Redeem to level up your units, explore Anime Reborn wiki |
 | [anisonred/Roblox-Wiki-33](https://github.com/anisonred/Roblox-Wiki-33) | 0 | The Roblox Wiki is a free Windows program about Roblox that anyone can read and edit. It contains information about aspects of Roblox, about ing and the API. |
 | [Annin-z/ANI](https://github.com/Annin-z/ANI) | 0 | A Roblox Game Enhancer |
@@ -1184,6 +1214,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [Atharvakdm/Python-Learning-Portfolio](https://github.com/Atharvakdm/Python-Learning-Portfolio) | 0 | Python Projects I made during high school! |
 | [Atheria-Revolution/FlappyBlox-Project](https://github.com/Atheria-Revolution/FlappyBlox-Project) | 0 | A flappy bird clone in roblox... |
 | [Atheria-Revolution/Toolibs-Utils](https://github.com/Atheria-Revolution/Toolibs-Utils) | 0 | A library for Roblox Studio Projects |
+| [Atheryx/predictive-turret-demo-showcase](https://github.com/Atheryx/predictive-turret-demo-showcase) | 0 | (geen omschrijving op GitHub) |
 | [athom-dev/the-experiment-directory](https://github.com/athom-dev/the-experiment-directory) | 0 | This repository is designed to maintain and develop a Wiki for the game The Experiment, by Deponist36 (available on Roblox). |
 | [athom-dev/the-experiment-solvers](https://github.com/athom-dev/the-experiment-solvers) | 0 | The proposal of this repository is to develop helpers and solvers for the puzzles around "The Experiment", a puzzle Roblox game developed by Deponist36. |
 | [AtishBhattacharjee/RobloxTennisGame](https://github.com/AtishBhattacharjee/RobloxTennisGame) | 0 | This is a simple tennis game that I made using Roblox Studio through Lua Code. Player can be moved through WASD, serve by pressing L, hit forehand through ri... |
@@ -1197,6 +1228,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [AveryRyan21/race-of-pb](https://github.com/AveryRyan21/race-of-pb) | 0 | Races of pb is a mod based on the races of platform battles a roguelite turn based roblox game |
 | [Avibah/Azalea-Editor](https://github.com/Avibah/Azalea-Editor) | 0 | A chart editor for the upcoming 4K mania ROBLOX game Azalea! |
 | [Avrohandri/Kaliurangs-Whisper](https://github.com/Avrohandri/Kaliurangs-Whisper) | 0 | A Roblox horror game inspired by the Kaliurang forest in Sleman, Yogyakarta. |
+| [AwakeSL/Cue](https://github.com/AwakeSL/Cue) | 0 | Super awesome event system |
 | [axloz23/roblox-copier](https://github.com/axloz23/roblox-copier) | 0 | copy and roblox game for free |
 | [AxonMega/Starfighting](https://github.com/AxonMega/Starfighting) | 0 | A cool game I'm making on Roblox |
 | [axtan64/xea-game-services](https://github.com/axtan64/xea-game-services) | 0 | Backend microservices for my Roblox games |
@@ -1211,6 +1243,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [AZURE231/Portfolio](https://github.com/AZURE231/Portfolio) | 0 | Azure231's toymaker portfolio · Unity + Roblox games |
 | [azuritelol6/DOORS-Rush-Spawn-Calculator](https://github.com/azuritelol6/DOORS-Rush-Spawn-Calculator) | 0 | This repository is used to estimate in which door rush will spawn in the roblox horror game "DOORS" |
 | [Azuuu/roblox-virtual-scroll-list](https://github.com/Azuuu/roblox-virtual-scroll-list) | 0 | (geen omschrijving op GitHub) |
+| [azzzxc1/openLuaus](https://github.com/azzzxc1/openLuaus) | 0 | Lib/repo for modules and utilities for Luau/RBX games |
 | [B1RKZ3N/FiveR-DK-](https://github.com/B1RKZ3N/FiveR-DK-) | 0 | This is a Click Game of FiveR [DK] On Roblox |
 | [b3rgman/roblox](https://github.com/b3rgman/roblox) | 0 | Developing Roblox levels and games |
 | [bababooey-interactive/running-from-bababooey](https://github.com/bababooey-interactive/running-from-bababooey) | 0 | a Roblox survival horror game where rules change. heavily inspired by Cobb Can Move by abho at itch.io |
@@ -1231,6 +1264,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [barlu3/Lost-Blox](https://github.com/barlu3/Lost-Blox) | 0 | lost ark inspired roblox game |
 | [Barnadict/rodict](https://github.com/Barnadict/rodict) | 0 | Roblox games statistics tracker and behavior forecasting. |
 | [barrs1303/contoh-iklan](https://github.com/barrs1303/contoh-iklan) | 0 | contoh trailer game roblox sederhana yang bisa dibuat oleh pemula yang baru mengenal dunia programmer |
+| [bartek1009x/SimpleEnum](https://github.com/bartek1009x/SimpleEnum) | 0 | A simple Enum pseudo-class implementation for both Lua and Luau |
 | [Basherdan/lua-project](https://github.com/Basherdan/lua-project) | 0 | Roblox like game designed in Lua |
 | [BasicallyArch/RoQube-Repo](https://github.com/BasicallyArch/RoQube-Repo) | 0 | An open source Roblox Rhythm game |
 | [basilpuglisi/Roblox-Luau](https://github.com/basilpuglisi/Roblox-Luau) | 0 | Just a Project to help teach my kid how to code for Luau for his roblox game |
@@ -1282,6 +1316,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [BielGamerSega/Conheca-mais-sobre-o-Biel-Gamer-Sega](https://github.com/BielGamerSega/Conheca-mais-sobre-o-Biel-Gamer-Sega) | 0 | 🎮 Biel Gamer Sega é um canal dedicado ao mundo dos games, com foco especial na franquia Sonic the Hedgehog e em outros jogos incríveis. Aqui compartilho game... |
 | [Bielzz34/Event-Generator](https://github.com/Bielzz34/Event-Generator) | 0 | This is for an roblox project |
 | [Big-Fat-Cats-Studios/Reach-1-Billion](https://github.com/Big-Fat-Cats-Studios/Reach-1-Billion) | 0 | Goland server for managing count on roblox game |
+| [biggaboy212/Class](https://github.com/biggaboy212/Class) | 0 | C++ classes in Luau. |
 | [BigGooss/wkey-spawner-assignment](https://github.com/BigGooss/wkey-spawner-assignment) | 0 | (geen omschrijving op GitHub) |
 | [Biglulux/Roblox-Item-Generator](https://github.com/Biglulux/Roblox-Item-Generator) | 0 | An item generator written in Roblox Luau for an unreleased hobby game project. |
 | [BigThePitman/roblox-aotr-utility-suite](https://github.com/BigThePitman/roblox-aotr-utility-suite) | 0 | Unlock Roblox AotR Script for Powerful In-Game Advantages and Enhanced Gameplay |
@@ -1364,6 +1399,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [BrunoDev2003/Roblox_Game](https://github.com/BrunoDev2003/Roblox_Game) | 0 | Um mini prototipo desafio sobre fazer um jogo ou experiencia no roblox. |
 | [bruvie-fr/roblox-video-player](https://github.com/bruvie-fr/roblox-video-player) | 0 | Fun little project I did. |
 | [bryantfriend/RobloxPortfolio](https://github.com/bryantfriend/RobloxPortfolio) | 0 | A portfolio of my work |
+| [brylesantos38-cell/Recreation-Vynixus-function-](https://github.com/brylesantos38-cell/Recreation-Vynixus-function-) | 0 | (geen omschrijving op GitHub) |
 | [BrysonAddis/NHF-Services](https://github.com/BrysonAddis/NHF-Services) | 0 | Buy online trainers or helpers for different games on Roblox |
 | [bsgowan36-lang/I-Hallway-EZ](https://github.com/bsgowan36-lang/I-Hallway-EZ) | 0 | Smt for Project: SCP |
 | [Bshilks/Bradleyland](https://github.com/Bshilks/Bradleyland) | 0 | I’m going to be making a game on Roblox |
@@ -1473,6 +1509,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [Chipzryum/DigDownRBLX](https://github.com/Chipzryum/DigDownRBLX) | 0 | The rblx file saves of the roblox game "Dig Straight Down" |
 | [chloemaevalenzuela8-cmd/Roblox](https://github.com/chloemaevalenzuela8-cmd/Roblox) | 0 | A game similar To a Called Roblox |
 | [choke-dev/wubby-resources](https://github.com/choke-dev/wubby-resources) | 0 | open sourced code of the things i contributed to a roblox game called "wubby" |
+| [chonkylord/CoralCove](https://github.com/chonkylord/CoralCove) | 0 | Coral Cove, A Bricklayer project by noobisprofruit |
 | [choo-choo-booger/Roblox-booger](https://github.com/choo-choo-booger/Roblox-booger) | 0 | game on Roblox called basket ball town. |
 | [chrisatm/banking-experience](https://github.com/chrisatm/banking-experience) | 0 | A Roblox game with funny features within a Bank Setting |
 | [ChrisMelgarMorales/RobloxGradFinal](https://github.com/ChrisMelgarMorales/RobloxGradFinal) | 0 | Roblox game for CSUF graduation event |
@@ -1503,6 +1540,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [Clouds2737/Basic-Brute-force-script-for-Roblox](https://github.com/Clouds2737/Basic-Brute-force-script-for-Roblox) | 0 | Not automated also if your gonna use it/showcase it please give me credit (ty) |
 | [Cloudsyv/Roblox-Projects](https://github.com/Cloudsyv/Roblox-Projects) | 0 | A public version of some models I programmed on roblox. |
 | [CloudyOutside/TopSpin](https://github.com/CloudyOutside/TopSpin) | 0 | Top arena Roblox game |
+| [Cluvonix/PickASideTemplate](https://github.com/Cluvonix/PickASideTemplate) | 0 | (geen omschrijving op GitHub) |
 | [ClxpzCheatz/AHKForAFNROBLOX](https://github.com/ClxpzCheatz/AHKForAFNROBLOX) | 0 | AHK script for project afternight on roblox |
 | [cmanironman/bloxstrap-heavan](https://github.com/cmanironman/bloxstrap-heavan) | 0 | so this is a modding thing for roblox watch yt tutorials for it but this should start you off |
 | [cnehm006/roblox-game](https://github.com/cnehm006/roblox-game) | 0 | game im working on |
@@ -1516,6 +1554,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [codecraftsx/Roblox-Scripting-Guide](https://github.com/codecraftsx/Roblox-Scripting-Guide) | 0 | Roblox scripting examples from the book 'Roblox Scripting Guide'. |
 | [CodeMan924/Roblop](https://github.com/CodeMan924/Roblop) | 0 | This is not assosiated by roblox. This is an unofficial roblox fanbase game. |
 | [CodePilotYT/3Dprints-library](https://github.com/CodePilotYT/3Dprints-library) | 0 | for my roblox game! |
+| [coderererere/Return-Class-Replacement-for-Bindable-Functions-](https://github.com/coderererere/Return-Class-Replacement-for-Bindable-Functions-) | 0 | Return is a module that utilizes the OOP paradigm and replaces the default Bindable function Instance. Since it is made using pure lua it is inherently faste... |
 | [Codergirl10/Harry-Potter-world](https://github.com/Codergirl10/Harry-Potter-world) | 0 | A Harry Potter obby and hang out on Roblox |
 | [CODERZDEV67/Ayaan-s-Roblox-Repository](https://github.com/CODERZDEV67/Ayaan-s-Roblox-Repository) | 0 | A collection of my Roblox games, and development work. |
 | [CodeWJake/jakedev](https://github.com/CodeWJake/jakedev) | 0 | My Portfolio For Roblox Scripting. |
@@ -1528,6 +1567,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [coffeewolf106/Roblox-games-](https://github.com/coffeewolf106/Roblox-games-) | 0 | All Roblox games will be in here |
 | [coinpectare-source-scripts/mymenu_dueling_grounds](https://github.com/coinpectare-source-scripts/mymenu_dueling_grounds) | 0 | A demo list of the same map is available on Roblox, but be careful while using it as your account may be banned. Therefore, use a dedicated demo account. |
 | [colbert2677/ColbertRbx](https://github.com/colbert2677/ColbertRbx) | 0 | Collection of public code resources written or modified for Roblox. |
+| [ColingJK/My-Global-System-Project](https://github.com/ColingJK/My-Global-System-Project) | 0 | Automation scripts for Raspberry Pi server management and logic systems in Python and Luau. |
 | [colopatiron/roblox-intro-to-coding](https://github.com/colopatiron/roblox-intro-to-coding) | 0 | Intro to Coding project for Roblox development |
 | [CommanderDev/ROBLOX-Utility](https://github.com/CommanderDev/ROBLOX-Utility) | 0 | My utility for my ROBLOX projects |
 | [CommanderJackR/ellievelly-interactive](https://github.com/CommanderJackR/ellievelly-interactive) | 0 | Roblox Game Development Studio |
@@ -1537,6 +1577,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [CompilerErrorRBX/Project-WWII-Changelog](https://github.com/CompilerErrorRBX/Project-WWII-Changelog) | 0 | Changelogs for Project WWII on Roblox |
 | [Connectednow1/connected.github.io](https://github.com/Connectednow1/connected.github.io) | 0 | Portfolio for ROBLOX scripting! |
 | [Connectednow1/Portfolio](https://github.com/Connectednow1/Portfolio) | 0 | Portfolio for ROBLOX scripting. |
+| [Connor-Valley/wishing-well-tycoon](https://github.com/Connor-Valley/wishing-well-tycoon) | 0 | (geen omschrijving op GitHub) |
 | [connorbieszk/roblox-game](https://github.com/connorbieszk/roblox-game) | 0 | Fully code-generated Roblox game. Studio not used to create models, or create the set |
 | [connorpuhala/Bushman](https://github.com/connorpuhala/Bushman) | 0 | Multiplayer Online Roblox Game written in Lua |
 | [conorbro1/redwood](https://github.com/conorbro1/redwood) | 0 | a game on roblox. submit bugs and issues here. |
@@ -1573,6 +1614,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [cristianeanjos773-cyber/Secret-GMAE-FOR-TBR-2-Reborn-](https://github.com/cristianeanjos773-cyber/Secret-GMAE-FOR-TBR-2-Reborn-) | 0 | This is a project i have started working late march, 2026. |
 | [CrownCatt/SpookyRbx-s-Portfolio](https://github.com/CrownCatt/SpookyRbx-s-Portfolio) | 0 | A portfolio for a roblox developer called SpookyRBX |
 | [CroxyMoxy/drinving_empire](https://github.com/CroxyMoxy/drinving_empire) | 0 | A script for Drinving empire game on roblox 0% UNC |
+| [Crystalflxme/Cooldown](https://github.com/Crystalflxme/Cooldown) | 0 | A simple Luau class to manage cooldowns |
 | [cshokri/Roblox-Learner](https://github.com/cshokri/Roblox-Learner) | 0 | Uses OpenCV to gather data for fine tuning the resnet34 model from fastai to play Roblox obbys |
 | [csnproaster/smlaaaaaaaaa](https://github.com/csnproaster/smlaaaaaaaaa) | 0 | sml 1 hour for a roblox game |
 | [CTHGit/Mortus](https://github.com/CTHGit/Mortus) | 0 | Official repo for the Roblox game, Mortus. |
@@ -1583,6 +1625,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [cvipdebug/roblox-tray-killer](https://github.com/cvipdebug/roblox-tray-killer) | 0 | Roblox has added a new feature that will add itself to the tray this script will kill it when you close the game because if you dont and reopen it roblox wil... |
 | [cwillsey06/UserCSS](https://github.com/cwillsey06/UserCSS) | 0 | A growing collection of UserCSS styles I've made. |
 | [cx2pr/sf2-wiki](https://github.com/cx2pr/sf2-wiki) | 0 | The official Silly Fishing 2 Wiki - The Roblox game. |
+| [Cy3erdan/rblx-obby-code](https://github.com/Cy3erdan/rblx-obby-code) | 0 | my luau code for a game :) |
 | [cyberfoxx168/aft-wiki](https://github.com/cyberfoxx168/aft-wiki) | 0 | a smol wiki about aft roblox game |
 | [CyberLifeYT/BrickWorks](https://github.com/CyberLifeYT/BrickWorks) | 0 | BrickWorks is a Roblox Styled Project |
 | [cyberray0198/Liminal](https://github.com/cyberray0198/Liminal) | 0 | Roblox game development project with Chase. Liminal game (name TBD). |
@@ -1590,7 +1633,9 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [cylizardagency/devlucas-portfolio](https://github.com/cylizardagency/devlucas-portfolio) | 0 | Dev Lucas - Roblox scripter portfolio (Next.js + R3F) |
 | [CynicalBusiness/CapitRoblox](https://github.com/CynicalBusiness/CapitRoblox) | 0 | Capit Software's Roblox games' script sources. |
 | [Cyril-Toa/Roblox](https://github.com/Cyril-Toa/Roblox) | 0 | My Roblox Project with dad. |
+| [cyrus01337/objects](https://github.com/cyrus01337/objects) | 0 | Collection of (personally useful) classes in luau |
 | [cyrus01337/roblox-pipeline](https://github.com/cyrus01337/roblox-pipeline) | 0 | Example project that automates template/place modification and publishing for Roblox games |
+| [cyrus01337/script-templates](https://github.com/cyrus01337/script-templates) | 0 | Reusable boilerplate that can't easily be modularised and are better off left alone as standalone files |
 | [cyruschen8888-sketch/Wanted-trading-centre](https://github.com/cyruschen8888-sketch/Wanted-trading-centre) | 0 | Get some nice firepower in roblox server - wanted in the project! |
 | [cytauxzoonosis/ROBLOX-wb-dict](https://github.com/cytauxzoonosis/ROBLOX-wb-dict) | 0 | the dictionary of roblox word bomb, fetched online on a scratch project |
 | [cytrexa/DisasterMinigames](https://github.com/cytrexa/DisasterMinigames) | 0 | Project for Envia designed on Roblox Studio (Jun 2020) |
@@ -1606,6 +1651,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [dafienko/game-jam](https://github.com/dafienko/game-jam) | 0 | Created for Roblox Ads & Discovery 2025 Game Jam |
 | [DaHoodShooters3D/DHS3D](https://github.com/DaHoodShooters3D/DHS3D) | 0 | Super cool game based on a roblox game called "Da hood" you can play it with friends in early access |
 | [Daimonfire1/IndustrialistFacSim](https://github.com/Daimonfire1/IndustrialistFacSim) | 0 | Currently private so hiiiiii, making a proper factory sim for industrialist, a very neat game on roblox |
+| [dakemoxydo/Lucky-Shop-Tycoon](https://github.com/dakemoxydo/Lucky-Shop-Tycoon) | 0 | (geen omschrijving op GitHub) |
 | [Daksh3211/roblox_obby](https://github.com/Daksh3211/roblox_obby) | 0 | Roblox obby parkur game |
 | [DalisonTheBone/Roblox-Portfolio](https://github.com/DalisonTheBone/Roblox-Portfolio) | 0 | My Portfolio for Roblox and a collection of some of the programming projects I've undertaken |
 | [damas-k/2d-roblox-clone](https://github.com/damas-k/2d-roblox-clone) | 0 | 2d roblox clone inspired by social paridise, incomplete. |
@@ -1615,6 +1661,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [dangabrielsasmanuel-hub/Roblox-Trading-Core-Values](https://github.com/dangabrielsasmanuel-hub/Roblox-Trading-Core-Values) | 0 | A sie that shows roblox games cross trasing values |
 | [DanieiR/Plot-System-Roblox](https://github.com/DanieiR/Plot-System-Roblox) | 0 | Purchase and own different plots in a Roblox game. Similar to the virtual land metaverse system. |
 | [DanieiR/ReadableBooksRoblox](https://github.com/DanieiR/ReadableBooksRoblox) | 0 | A Roblox system for making readable books in-game. |
+| [daniel-c-harvey/ReaLearn-Presets](https://github.com/daniel-c-harvey/ReaLearn-Presets) | 0 | A home for luau-based preset code for ReaLearn, targeting a Novation SL MkIII for diplay feedback |
 | [Daniel-Hanrahan-Tools-and-Games/Bowling_Mega_Mix_GCSE](https://github.com/Daniel-Hanrahan-Tools-and-Games/Bowling_Mega_Mix_GCSE) | 0 | A Game Creation System Version of Bowling_Mega_Mix_Compacted for Roblox. |
 | [Daniel-Hanrahan-Tools-and-Games/Bug_Invasion_GCSE](https://github.com/Daniel-Hanrahan-Tools-and-Games/Bug_Invasion_GCSE) | 0 | A Game Creation System Version of Bug_Invasion_Compacted for Roblox. |
 | [Daniel-Hanrahan-Tools-and-Games/Guide_The_Marble_GCSE](https://github.com/Daniel-Hanrahan-Tools-and-Games/Guide_The_Marble_GCSE) | 0 | A Game Creation System Version of Guide_The_Marble_Compacted for Roblox. |
@@ -1647,7 +1694,9 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [DarthSharkie/catapult-intro](https://github.com/DarthSharkie/catapult-intro) | 0 | Exploring Roblox game dev by extending the basic Catapult Intro |
 | [DashKetch/7th-training_roblox](https://github.com/DashKetch/7th-training_roblox) | 0 | Roblox game called 7th Training [FREE DT] |
 | [datushamamptuan-boop/Roblox-game-finder](https://github.com/datushamamptuan-boop/Roblox-game-finder) | 0 | game finder for me lol |
+| [davelindqvist/luigi-luau-shop](https://github.com/davelindqvist/luigi-luau-shop) | 0 | This is the tenth independent project assessing the implementation of Ruby on Rails, creating a database to include a one-to-many relationship between 'Produ... |
 | [davidawodeji579-svg/CODE](https://github.com/davidawodeji579-svg/CODE) | 0 | CODE TO A GAME EXACTLY LIKE IRON MAN SIMULATOR ON ROBLOX |
+| [daviddavdavid/Pws_Project](https://github.com/daviddavdavid/Pws_Project) | 0 | A project written in luau that visualises an approximating via the euler method of the n-body-problem. |
 | [DavidPowers2022/GameCreations](https://github.com/DavidPowers2022/GameCreations) | 0 | This is a repository to show off all the game software I have made over the years as well as a few other projects |
 | [DavidPressler/Roblox_Game](https://github.com/DavidPressler/Roblox_Game) | 0 | Game design project with my son using Roblox Studio |
 | [davidrobpeace-del/Roblox-Studio-Tutorials](https://github.com/davidrobpeace-del/Roblox-Studio-Tutorials) | 0 | This is for beginners, and to teach others. |
@@ -1660,6 +1709,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [Death68093/Foblox-V1.0.0](https://github.com/Death68093/Foblox-V1.0.0) | 0 | A Remake of the popular Roblox |
 | [Death68093/Learning-Roblox](https://github.com/Death68093/Learning-Roblox) | 0 | Just for me to learn roblox scripting |
 | [DeathRowStudios/Dead-zone-Apocalypse-](https://github.com/DeathRowStudios/Dead-zone-Apocalypse-) | 0 | RBX Game currently under development. Visit LittoGaming22 in roblox. |
+| [deeeity/luau-oop](https://github.com/deeeity/luau-oop) | 0 | Simple example of inheritance in Luau. My personal snippet. |
 | [Deepak123bharat/roblox-obby-game](https://github.com/Deepak123bharat/roblox-obby-game) | 0 | Time trial Obby game with checkpoints. |
 | [DeezyInc-Real/Crittermon](https://github.com/DeezyInc-Real/Crittermon) | 0 | A Roblox tycoon of pokemon |
 | [DELETIONSs/RSS](https://github.com/DELETIONSs/RSS) | 0 | Roblox Styling Sheet / Not Affiliated with the official roblox company; this was an individual project. |
@@ -1778,6 +1828,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [Dthesle/beeswarmsimulator](https://github.com/Dthesle/beeswarmsimulator) | 0 | Bee Swarm Simulator from Roblox (PORT) |
 | [Duaxir/RAPIX](https://github.com/Duaxir/RAPIX) | 0 | RESTful API in Roblox games to get database information. |
 | [ducccbb/Roblox-studio-Source](https://github.com/ducccbb/Roblox-studio-Source) | 0 | My Roblox Game Source |
+| [duckcodesever/Lua-Farming-Script-Comp](https://github.com/duckcodesever/Lua-Farming-Script-Comp) | 0 | These scripts are only for a gardening game, so please do not misuse them or sell them. |
 | [Duckie2123/Roblox-studio-learning-3](https://github.com/Duckie2123/Roblox-studio-learning-3) | 0 | Just me trying to learn roblox studio:3 |
 | [DuckySensei/Paranormal-Finder](https://github.com/DuckySensei/Paranormal-Finder) | 0 | This is the code repository for the roblox game about finding moving objects and resetting them :) |
 | [dudeax/Luau-Utilities](https://github.com/dudeax/Luau-Utilities) | 0 | A collection of utilities I find myself writing and reusing on the Roblox platform, although many of them are not intrinsically tied to the platform. Feel fr... |
@@ -1785,6 +1836,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [Duder-coolman/Needoh-Factory](https://github.com/Duder-coolman/Needoh-Factory) | 0 | Game created for the Stardance Hackclub Challenge and to learn more about roblox game design. |
 | [Dundershock/Daybreakdle](https://github.com/Dundershock/Daybreakdle) | 0 | Wordle-like game based on the ROBLOX game Daybreak |
 | [duniaabukhadra85-gif/Survival-of-the-fittest](https://github.com/duniaabukhadra85-gif/Survival-of-the-fittest) | 0 | I want to make a map inside the Roblox game to earn a living |
+| [dvtzoe/aoharu-defense](https://github.com/dvtzoe/aoharu-defense) | 0 | Blue Arhive fan game |
 | [dwarfdancing9/PushSim](https://github.com/dwarfdancing9/PushSim) | 0 | Free Roblox PUSH SIMULATOR Script Download 2025 🚀 |
 | [DwifahmaYTROBLOX/Robloxia](https://github.com/DwifahmaYTROBLOX/Robloxia) | 0 | Play game for Robloxia |
 | [dxmnlxrdd/geode-collector](https://github.com/dxmnlxrdd/geode-collector) | 0 | geode collector for prospecting game in roblox |
@@ -1803,6 +1855,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [EduardoCostaEXE/Curso-Lua-Luau-comRoblox](https://github.com/EduardoCostaEXE/Curso-Lua-Luau-comRoblox) | 0 | Curso da Digital Innovation One de Game Developer |
 | [eduzimgamer3014-wq/SHAULINN-games](https://github.com/eduzimgamer3014-wq/SHAULINN-games) | 0 | Site de games brawl stars e roblox |
 | [edwardmolnar09-code/The-Forge](https://github.com/edwardmolnar09-code/The-Forge) | 0 | Scripts for the roblox game "The Forge" |
+| [Edwnrn/HiddenDevs-Example](https://github.com/Edwnrn/HiddenDevs-Example) | 0 | Applying for "</> Luau Scripter" Role. |
 | [eeghorf/Roblox-Open-Source-Modules](https://github.com/eeghorf/Roblox-Open-Source-Modules) | 0 | Making this so I can use these in future game jams |
 | [Eegleeyes/Coding-Stuff](https://github.com/Eegleeyes/Coding-Stuff) | 0 | A collection of open-source coding things I did in Roblox. |
 | [ehdrms3535/DIG-EVOLVE](https://github.com/ehdrms3535/DIG-EVOLVE) | 0 | roblox demo game mode |
@@ -1850,6 +1903,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [Encythe/RobloxSplitter](https://github.com/Encythe/RobloxSplitter) | 0 | An in-progress project for creating your own autosplitter on the Roblox platform |
 | [EnderFire101/Real-Estate-Tycoon](https://github.com/EnderFire101/Real-Estate-Tycoon) | 0 | My latest project on ROBLOX |
 | [Endergamer20071/Desktop](https://github.com/Endergamer20071/Desktop) | 0 | An installer For YOSHI.LAND, a game simalar to roblox. |
+| [endneverbegins/working-tp-code-LUAU-](https://github.com/endneverbegins/working-tp-code-LUAU-) | 0 | tp code from game A to game B |
 | [enducary/ENDU](https://github.com/enducary/ENDU) | 0 | ENDU / LUA Aim Course, Typically Used For ROBLOX Games. |
 | [EngineerGienek/Engineer-Gienek-Portfolio](https://github.com/EngineerGienek/Engineer-Gienek-Portfolio) | 0 | A Indie Roblox Game Developer Portfolio |
 | [englishrobot/roblox-actualizacion-halloween-daniela](https://github.com/englishrobot/roblox-actualizacion-halloween-daniela) | 0 | Roblox Actualizacion Haloween by Daniel at EnglishRobot School |
@@ -1858,6 +1912,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [eolimpiew/LearnGameMechanics](https://github.com/eolimpiew/LearnGameMechanics) | 0 | Learn Lua Roblox Game Mechanics as described by "Coding with Roblox Lua in 24 Hours" by Pearson |
 | [ephraommonroe866-del/FRESNO-FAX-ROBLOX](https://github.com/ephraommonroe866-del/FRESNO-FAX-ROBLOX) | 0 | this game where game players wanted fresno fax game team changer partransit could perfice get new roblox gamepasses for areas if you noob bacon like me guess... |
 | [epicdaviddarapi-ux/roblox](https://github.com/epicdaviddarapi-ux/roblox) | 0 | create my a game to roblox that you chase tornados whit ominator 1,2,3 tiv 1 2 ... make the game looks goo |
+| [epierdav-spec/Community-cats-](https://github.com/epierdav-spec/Community-cats-) | 0 | 3D social cat game |
 | [Eqicness/rbx-template](https://github.com/Eqicness/rbx-template) | 0 | Template for Roblox games |
 | [EraGamer/Games](https://github.com/EraGamer/Games) | 0 | Various Roblox Sports Games |
 | [erazias/ROBLOX](https://github.com/erazias/ROBLOX) | 0 | Roblox projects that are made for public use. |
@@ -1894,9 +1949,11 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [evxryyy/Portfolio-work-exemple](https://github.com/evxryyy/Portfolio-work-exemple) | 0 | Modules/Video that show stuff i made |
 | [ewasion137/bss-calculator](https://github.com/ewasion137/bss-calculator) | 0 | Calculator for Bee Swarm Simulator Roblox game. It calculates needed items to craft instruments. |
 | [ExcludedDignity/LuaRoblox](https://github.com/ExcludedDignity/LuaRoblox) | 0 | My public repository of random Roblox projects. |
+| [executor-ts/template](https://github.com/executor-ts/template) | 0 | Simple template for TS to Luau for executors |
 | [exemnn1/portfolio](https://github.com/exemnn1/portfolio) | 0 | i am a roblox programmer with html and css and js experience |
 | [Exodus12f8/VS-Studios](https://github.com/Exodus12f8/VS-Studios) | 0 | Professional Roblox game development studio |
 | [exstrxct/old-2000s-rblx-game-files](https://github.com/exstrxct/old-2000s-rblx-game-files) | 0 | A large amount of roblox games from the 2000s archived. |
+| [externalwrd/LUAU-Code-Portfolio](https://github.com/externalwrd/LUAU-Code-Portfolio) | 0 | Coded fully by me. |
 | [Exzol/Exzol.github.io](https://github.com/Exzol/Exzol.github.io) | 0 | Portfolio — Roblox systems engineer |
 | [Facetscripting/Facet-sab](https://github.com/Facetscripting/Facet-sab) | 0 | My first project! I will create my first script on roblox |
 | [Fahadbin-Alam/Roblox-Islamic-Game](https://github.com/Fahadbin-Alam/Roblox-Islamic-Game) | 0 | This is going to be a game of teaching Islamic history to Kids ages 9-17. |
@@ -1926,12 +1983,14 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [FilipoMC/onps-turbine-demand-calculator](https://github.com/FilipoMC/onps-turbine-demand-calculator) | 0 | Per-turbine demand calculator for the Oakridge Nuclear Power Station game on Roblox |
 | [FilteredAsync/outage-gameplay-blueprint](https://github.com/FilteredAsync/outage-gameplay-blueprint) | 0 | Design specification for Outage, a Roblox murder-mystery social deduction game built around darkness and uncertain identity |
 | [finlay6/Moga-Moga](https://github.com/finlay6/Moga-Moga) | 0 | The official repo for the Moga Moga game |
+| [finnagen/customer-system](https://github.com/finnagen/customer-system) | 0 | A customer system I have for a project I'm working on - includes a controller and a library for creating the objects. |
 | [fioskho-hub/Dashbord-Roblox](https://github.com/fioskho-hub/Dashbord-Roblox) | 0 | Roblox dashbord gestion you roblox game |
 | [firancly/Animal-Game](https://github.com/firancly/Animal-Game) | 0 | Roblox game about incubating animals and selling them |
 | [firancly/Hangman](https://github.com/firancly/Hangman) | 0 | A roblox Hangman game |
 | [firatseyrek35/Roblox-Obby-Game](https://github.com/firatseyrek35/Roblox-Obby-Game) | 0 | This repository contain obby game codes |
 | [Fireblox450/steal-a-joler-site](https://github.com/Fireblox450/steal-a-joler-site) | 0 | A site for a Roblox game |
 | [FireExtravasate/roblox](https://github.com/FireExtravasate/roblox) | 0 | A repository where I store Roblox Luau projects. |
+| [fishstick15/LuaU-portfolio](https://github.com/fishstick15/LuaU-portfolio) | 0 | This repo is a portfolio. |
 | [fixfox12345/runing-with-timer-roblox-game](https://github.com/fixfox12345/runing-with-timer-roblox-game) | 0 | this is my roblox game i made pls go check this is really fun. |
 | [Fizzyhex/mouse-and-cat](https://github.com/Fizzyhex/mouse-and-cat) | 0 | Roblox 24h GameJam project, written in partially-typed Luau |
 | [fjatnika5-coder/FIGLI](https://github.com/fjatnika5-coder/FIGLI) | 0 | DEVELOPER SCRIPT GAME ROBLOX LUA |
@@ -1939,6 +1998,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [flansito580/Shot-or-die-beta](https://github.com/flansito580/Shot-or-die-beta) | 0 | Game a shoot style fornite and rivals Roblox. |
 | [flashcsgroups/QuizGameRoblox](https://github.com/flashcsgroups/QuizGameRoblox) | 0 | Making a Quiz Game in Roblox Using Exon and an External Api |
 | [flaviofmh/collect-coins-roblox](https://github.com/flaviofmh/collect-coins-roblox) | 0 | game para coletar moedas |
+| [FleetPoint/gdk](https://github.com/FleetPoint/gdk) | 0 | Game Development Kit to connect Telemetry functionality to Fleetpoint |
 | [FLeMiDieF/python-learning](https://github.com/FLeMiDieF/python-learning) | 0 | My journey from Lua/Roblox to Python backend |
 | [flexeykinDev/rbx-game-restarter](https://github.com/flexeykinDev/rbx-game-restarter) | 0 | Roblox fast game restarer with a configuration on Python |
 | [flexxgn/portfolio](https://github.com/flexxgn/portfolio) | 0 | flexxgn portfolio for roblox :D |
@@ -1947,6 +2007,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [FlNNARD/Rise-To-Riches](https://github.com/FlNNARD/Rise-To-Riches) | 0 | Repository for an entrepreneurship Roblox game i'm working on "Rise to Riches" |
 | [Floppicus/Flop-Engine](https://github.com/Floppicus/Flop-Engine) | 0 | A game on roblox about Source Engine |
 | [floqzl/flo-portfolio](https://github.com/floqzl/flo-portfolio) | 0 | For hire scripter portfolio (Roblox) |
+| [FlowAshley/luau-tauri-template](https://github.com/FlowAshley/luau-tauri-template) | 0 | a template for creating luau apps with tauri |
 | [FlR0X/Horror](https://github.com/FlR0X/Horror) | 0 | Horror, My new roblox project. |
 | [fluffbyte57/Village-Destroyer-Roblox-game-Archived-](https://github.com/fluffbyte57/Village-Destroyer-Roblox-game-Archived-) | 0 | A Roblox game I made when I had a good 4 days to spare last year and I haven't touched the project since. May try a little later to remake the game. |
 | [FluffyStreusel/RBXIntegratedAPIs](https://github.com/FluffyStreusel/RBXIntegratedAPIs) | 0 | Creating scripts to allow for API triggers and such in ROBLOX games. |
@@ -2006,6 +2067,8 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [gabrielerampinelli/FreedomValley](https://github.com/gabrielerampinelli/FreedomValley) | 0 | An immersive Roblox open-world game, where the game can enjoy fast races along the desert, adrenaline-fueled battles in the city, esplorations under the sea ... |
 | [gabriell767/roblox-bug-toolkit](https://github.com/gabriell767/roblox-bug-toolkit) | 0 | Essential Roblox Bug Script Guide: Boost Your Experience with Top Bug Fixes |
 | [gaby3xD/roblox-portfolio](https://github.com/gaby3xD/roblox-portfolio) | 0 | my roblox development portfolio |
+| [gaebey/StandSystem](https://github.com/gaebey/StandSystem) | 0 | basic stand system for jojo games |
+| [gaebey/Villain-Tower-Defense](https://github.com/gaebey/Villain-Tower-Defense) | 0 | ongoing game that im working on |
 | [GALAXY-Z-SCRIPTS/GALAXY_STRAF3](https://github.com/GALAXY-Z-SCRIPTS/GALAXY_STRAF3) | 0 | basically an AutoStrafe for the roblox game called "Surf" |
 | [galaxybuster2212/tower-of-hell-my-roblox-game-made-by-me](https://github.com/galaxybuster2212/tower-of-hell-my-roblox-game-made-by-me) | 0 | (geen omschrijving op GitHub) |
 | [GalazySide/Roblox-Portfolio](https://github.com/GalazySide/Roblox-Portfolio) | 0 | My Roblox portfolio for work |
@@ -2065,6 +2128,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [goiidfnhhticvymgz-web/Dev-roblox-guide](https://github.com/goiidfnhhticvymgz-web/Dev-roblox-guide) | 0 | This app teaches you how scripts work; you can make posts, ask for help, and more. |
 | [GokuAtTheHoopz/portfolio](https://github.com/GokuAtTheHoopz/portfolio) | 0 | A portfolio for Roblox development. |
 | [GoldenPig1205/Tycoon](https://github.com/GoldenPig1205/Tycoon) | 0 | Roblox Tycoon Simulator for SCP:SL |
+| [goldenSlendermen1/Void-s-LuaU-Class-Standard](https://github.com/goldenSlendermen1/Void-s-LuaU-Class-Standard) | 0 | (geen omschrijving op GitHub) |
 | [Goldfish-Boi/RobloxSpaceSim](https://github.com/Goldfish-Boi/RobloxSpaceSim) | 0 | All of the scripts I've made for my roblox space simulator |
 | [GoldyPepper/VL](https://github.com/GoldyPepper/VL) | 0 | Experimental Value List for Tap SImulator on ROBLOX. |
 | [Golomichel/ASCEND](https://github.com/Golomichel/ASCEND) | 0 | Roblox game - ASCEND |
@@ -2137,6 +2201,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [harry2342098/harry](https://github.com/harry2342098/harry) | 0 | to creat a game on roblox |
 | [harrydoestechonyt/AsymEngine](https://github.com/harrydoestechonyt/AsymEngine) | 0 | Let's see if i can make an engine to port Asym Roblox games to the 3ds family |
 | [Harukai33/Specter2-EMF-with-Arduino-Uno](https://github.com/Harukai33/Specter2-EMF-with-Arduino-Uno) | 0 | First part of my personal project to recreate the equipment from the game "Specter 2" (Roblox game), here I provide all the codes to assemble the EMF READER |
+| [hashimnaim/Random-Utility](https://github.com/hashimnaim/Random-Utility) | 0 | A small random utility library used for RNG-based games. |
 | [Hawa2738/Roblox-Game-Code-](https://github.com/Hawa2738/Roblox-Game-Code-) | 0 | A roblox guessing game |
 | [Hawkking-cloud/cm2js](https://github.com/Hawkking-cloud/cm2js) | 0 | cm2js is a javascript registry manipulator for the roblox game Circuit Maker 2 |
 | [hayden-droid/Roblox-Development](https://github.com/hayden-droid/Roblox-Development) | 0 | A collection of things I have open-sourced related to Roblox development |
@@ -2161,6 +2226,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [herobate5a-art/Roblox-Timer-System](https://github.com/herobate5a-art/Roblox-Timer-System) | 0 | A lightweight Luau module for managing Timers, Game Rounds, and Reward countdowns in Roblox with built-in time formatting |
 | [Hewoo-cmd/FightPlantsRoblox](https://github.com/Hewoo-cmd/FightPlantsRoblox) | 0 | This is about the game Fight Plants in Roblox. As of right now the game is not out yet; hence we have a countdown! |
 | [Hexcede/owned](https://github.com/Hexcede/owned) | 0 | A broad collection of utilities for some bookkeeping/cleanup stuff |
+| [Hexcede/polywog-playground](https://github.com/Hexcede/polywog-playground) | 0 | A playground demo for the WIP polywog engine. |
 | [hexium-softworks/TextChatService](https://github.com/hexium-softworks/TextChatService) | 0 | A game-agnostic, server-first wrapper around Roblox TextChatService for NevermoreEngine projects. |
 | [HeyJohnweed/Alexis_Alex384](https://github.com/HeyJohnweed/Alexis_Alex384) | 0 | Murder mystery new it's a new app game on Roblox |
 | [heylogscript/dodgeball-zero](https://github.com/heylogscript/dodgeball-zero) | 0 | Dodgeball game for Roblox with arena mechanics |
@@ -2176,6 +2242,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [hirosglab/roblox-learning-journal](https://github.com/hirosglab/roblox-learning-journal) | 0 | Roblox Learning Journey Exploring mechanics, space design, and cultural adaptation (Singapore/Japan-inspired). |
 | [hkavortex/roblox-games](https://github.com/hkavortex/roblox-games) | 0 | terminer un jeux pour jouer a un autre jeux |
 | [HKLua/Balls](https://github.com/HKLua/Balls) | 0 | Projects for the Roblox Game called Blade Ball |
+| [hlpdev/perch-mod-steam-count](https://github.com/hlpdev/perch-mod-steam-count) | 0 | A mod for Perch™ that shows the live player count of a Steam game. The first workshop mod for Perch™. |
 | [hmam20ha-cloud/Homam20](https://github.com/hmam20ha-cloud/Homam20) | 0 | Made Roblox games hush-hush shrieked juror judged on your phone and you don't want me 0 or the house to go out to the rest and the house and the girls and yo... |
 | [hnarvaez1233-ai/GameCopierforRoblox](https://github.com/hnarvaez1233-ai/GameCopierforRoblox) | 0 | you can copy any game from roblox |
 | [HoangNhan247/rbxstudio](https://github.com/HoangNhan247/rbxstudio) | 0 | Random stuff from my roblox studio projects |
@@ -2243,6 +2310,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [IIReverseIl/Reverse-s-Paintball](https://github.com/IIReverseIl/Reverse-s-Paintball) | 0 | A custom map for the roblox game "Bad Business" |
 | [IKHIZIROV/case-opening-simulator](https://github.com/IKHIZIROV/case-opening-simulator) | 0 | a roblox game where you have to open cases to get items, then sell the items and buy more expensive cases. You can also keep the item to showcase it to other... |
 | [Ikolzzq/Memories-RBX](https://github.com/Ikolzzq/Memories-RBX) | 0 | Wondering what to do play memories a game on roblox |
+| [Ikrytoupajk/Matchmaking](https://github.com/Ikrytoupajk/Matchmaking) | 0 | Matchmaking in my game |
 | [ilesdmm/ilesdmm.github.io](https://github.com/ilesdmm/ilesdmm.github.io) | 0 | Public Roblox systems development portfolio for Renolicious. |
 | [ilikecoding1232/fisch](https://github.com/ilikecoding1232/fisch) | 0 | a game based on the roblox game "fisch" written in C++ with the library sdl2 |
 | [ILoveCatz/Roblox](https://github.com/ILoveCatz/Roblox) | 0 | All of my Roblox Projects |
@@ -2259,6 +2327,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [imsickk/deadline](https://github.com/imsickk/deadline) | 0 | roblox modding for the game called deadline |
 | [ImSoKolako/Reactive-Programming-Guide](https://github.com/ImSoKolako/Reactive-Programming-Guide) | 0 | (geen omschrijving op GitHub) |
 | [imunrealyournot-arch/Robloxjoincode-72cg8378fx94g774h347934bn10f107privateserver](https://github.com/imunrealyournot-arch/Robloxjoincode-72cg8378fx94g774h347934bn10f107privateserver) | 0 | roblox game join code |
+| [ImWillStill/Luau-Obby-Generator](https://github.com/ImWillStill/Luau-Obby-Generator) | 0 | obby gen source code |
 | [IndahMaharoh/sumatif1](https://github.com/IndahMaharoh/sumatif1) | 0 | game roblox aysha, publish roblox perlu menunggu beberapa hari lagi |
 | [indigohutterstu-hub/Cathulu](https://github.com/indigohutterstu-hub/Cathulu) | 0 | I like to draw and love boba tea I also love to play Roblox here are some games I play Survive 99 nights in the forest,Dandy's world, Adopt me, and steal the... |
 | [indranilbiswas2006/NindoRepo](https://github.com/indranilbiswas2006/NindoRepo) | 0 | Repo for NindoBattlegrounds a game made in roblox. |
@@ -2328,6 +2397,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [jacksonevans543/New-game](https://github.com/jacksonevans543/New-game) | 0 | Im making a new game on roblox studio |
 | [jacksonludwig/Roblox-Lua-Projects](https://github.com/jacksonludwig/Roblox-Lua-Projects) | 0 | Misc. Roblox Lua Script project files |
 | [Jacksxity/Roblox-Misc-Systems](https://github.com/Jacksxity/Roblox-Misc-Systems) | 0 | A collection of singular/very small projects. These are less likely to work out-the-box. |
+| [JacobSLeon/Scrap2Super](https://github.com/JacobSLeon/Scrap2Super) | 0 | Personal Conceptual Game Project |
 | [jadenbn/Autofisher](https://github.com/jadenbn/Autofisher) | 0 | Automatic fisher for Roblox Fishing Simulator |
 | [jadjabbour950/Snake-for-2007-ROBLOX-August](https://github.com/jadjabbour950/Snake-for-2007-ROBLOX-August) | 0 | I made this for fun during school :D. |
 | [JADOO1234/ROBLOX-](https://github.com/JADOO1234/ROBLOX-) | 0 | Get Admin in any game |
@@ -2383,6 +2453,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [jerebea/Tower-defense](https://github.com/jerebea/Tower-defense) | 0 | Tower defense game roblox studio |
 | [jeremy-w/roblox-auto](https://github.com/jeremy-w/roblox-auto) | 0 | Automating some Roblox games |
 | [Jerkmate19729/Islands-dupe-v](https://github.com/Jerkmate19729/Islands-dupe-v) | 0 | An dupe for the Roblox games island |
+| [jerr3n/source-inspired-essence-example](https://github.com/jerr3n/source-inspired-essence-example) | 0 | (geen omschrijving op GitHub) |
 | [jesseamess/Shocked](https://github.com/jesseamess/Shocked) | 0 | The first project we're working on is a Roblox game based on being an electrician called Shocked. |
 | [Jfibox1/Roblox-Modules](https://github.com/Jfibox1/Roblox-Modules) | 0 | A list of modules I made and have made public for Roblox Studio |
 | [jgoetzmann/jlore-jlame](https://github.com/jgoetzmann/jlore-jlame) | 0 | Roblox Game: Jlore Jlame |
@@ -2404,6 +2475,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [Jkleo425/Forgotten](https://github.com/Jkleo425/Forgotten) | 0 | You average roblox game. |
 | [jkupferer/roblox-oop](https://github.com/jkupferer/roblox-oop) | 0 | Roblox Object Oriented Programming Example |
 | [JmathiasOTU/Jianghu](https://github.com/JmathiasOTU/Jianghu) | 0 | Murim Roblox Parry based game. |
+| [JmathiasOTU/Murim-Ascent-REBUILD-](https://github.com/JmathiasOTU/Murim-Ascent-REBUILD-) | 0 | Rebuilding the systems within the game Murim Ascent |
 | [jo-madrid/RobloxSoccerGame](https://github.com/jo-madrid/RobloxSoccerGame) | 0 | A Roblox soccer game |
 | [Jo23u/Hangoutcityroblox](https://github.com/Jo23u/Hangoutcityroblox) | 0 | A hangout game on roblox |
 | [Joao-Batista-S/Obby](https://github.com/Joao-Batista-S/Obby) | 0 | Pratica da linguagem lua, criando um mapa obby no roblox |
@@ -2480,10 +2552,12 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [Kalandraa24/Portofolio-Rizky](https://github.com/Kalandraa24/Portofolio-Rizky) | 0 | Disini saya akan menampilkan Portofolio saya sebagai developer di map game roblox |
 | [Kalebo45/calebRobloxApp.github.io](https://github.com/Kalebo45/calebRobloxApp.github.io) | 0 | java projects, programs and reasons |
 | [Kam1kadz/bss-source-code2](https://github.com/Kam1kadz/bss-source-code2) | 0 | bee swarm simulator source code place roblox |
+| [Kanarz/games](https://github.com/Kanarz/games) | 0 | scripts for gmaes luau |
 | [kanhadewangan53-tech/country-guessing-game](https://github.com/kanhadewangan53-tech/country-guessing-game) | 0 | a roblox coutry guessing game |
 | [kannbob/HelixProductions](https://github.com/kannbob/HelixProductions) | 0 | HelixProductions is a Roblox development community that makes roblox games and need developers for up and coming games. |
 | [katekh-rad/fumu](https://github.com/katekh-rad/fumu) | 0 | fumu - Roblox game |
 | [kathmarkittyact/hiyu-.](https://github.com/kathmarkittyact/hiyu-.) | 0 | I want more op pets in pet simulator x and i am kathmarkittycat in roblox |
+| [KatieTeix/Hatch-a-Critter](https://github.com/KatieTeix/Hatch-a-Critter) | 0 | First time learning lua |
 | [KatsunomOfficial/erynd.github.io](https://github.com/KatsunomOfficial/erynd.github.io) | 0 | official site repo of "Erynd" an upcoming roblox game |
 | [Katywar/The-best-game-to-Roblox-](https://github.com/Katywar/The-best-game-to-Roblox-) | 0 | Hello this la my first game |
 | [kauci/skorchive](https://github.com/kauci/skorchive) | 0 | An archive of the data of around 50,000 roblox games from 2006-2010, collected by me. |
@@ -2519,6 +2593,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [kikiIsSans/forsaken-sim](https://github.com/kikiIsSans/forsaken-sim) | 0 | A simulator game based on the roblox game forsaken |
 | [Kikki-dev/Pressure-Wash-Simulator](https://github.com/Kikki-dev/Pressure-Wash-Simulator) | 0 | (geen omschrijving op GitHub) |
 | [kiku-film/Abra-s-Portfolio](https://github.com/kiku-film/Abra-s-Portfolio) | 0 | My Roblox work portfolio |
+| [Killerjeremy07/AnimalHospitalHub](https://github.com/Killerjeremy07/AnimalHospitalHub) | 0 | (geen omschrijving op GitHub) anomaly horror game |
 | [killjoy37/NewProjectDiscussion](https://github.com/killjoy37/NewProjectDiscussion) | 0 | Discussion of Roblox project. |
 | [kinexdev/Luau-Snake](https://github.com/kinexdev/Luau-Snake) | 0 | Snake game written completely in luau using luau raylib bindings |
 | [KingBl4ze/ImNotRohail](https://github.com/KingBl4ze/ImNotRohail) | 0 | I just play Roblox and I make some random games in Roblox |
@@ -2567,9 +2642,11 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [KondyDev/roblox-ts-template](https://github.com/KondyDev/roblox-ts-template) | 0 | Template for making Roblox games with typescrript |
 | [kontentcreator/RobloxLuau](https://github.com/kontentcreator/RobloxLuau) | 0 | Luau Game scripts for Roblox. |
 | [Koreshikddos/robloxcam](https://github.com/Koreshikddos/robloxcam) | 0 | robloxcam for my game |
+| [kosine/HiddenDevs-OOP-Showcase](https://github.com/kosine/HiddenDevs-OOP-Showcase) | 0 | (geen omschrijving op GitHub) |
 | [KotJonya/shrimp-game-roblox-scripting-lab](https://github.com/KotJonya/shrimp-game-roblox-scripting-lab) | 0 | Shrimp Game Script Roblox Latest Working Code for Fun Gameplay 🦐🎮 |
 | [kouo1337-a11y/squid-game-dormitory-roblox-squid-game-addon](https://github.com/kouo1337-a11y/squid-game-dormitory-roblox-squid-game-addon) | 0 | Crée une map squid game toute une map |
 | [kovalchukillya97-ui/Releted-site](https://github.com/kovalchukillya97-ui/Releted-site) | 0 | New Game in Roblox Soom |
+| [koyolid/wtrgscriptzeee](https://github.com/koyolid/wtrgscriptzeee) | 0 | scripts for a luau project |
 | [Krainbow/EO-Game-devopment-2023](https://github.com/Krainbow/EO-Game-devopment-2023) | 0 | Emergency Operations is an upcoming ROBLOX game where players must help others |
 | [KrasinShuriken/roblox-game](https://github.com/KrasinShuriken/roblox-game) | 0 | all code for roblox game of block blast |
 | [Kreativscripts/WinMouseKeys](https://github.com/Kreativscripts/WinMouseKeys) | 0 | Inspired by White Hives, Bee Swarm simulator " Roblox |
@@ -2586,6 +2663,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [kurokuukyo/conductor](https://github.com/kurokuukyo/conductor) | 0 | Conductor is a WIP scheduler for Roblox games. |
 | [KuromiMDCXI/motel13-horror-game](https://github.com/KuromiMDCXI/motel13-horror-game) | 0 | Roblox horror game MOTEL 13 |
 | [Kuskus95/muslim-simulator-game-roblox](https://github.com/Kuskus95/muslim-simulator-game-roblox) | 0 | muslim simulator game roblox |
+| [Kvil-git/The-Kitchen-luau-style-guide](https://github.com/Kvil-git/The-Kitchen-luau-style-guide) | 0 | Luau code style guide, as used by The Kitchen. |
 | [kw1983-maker/brickwords](https://github.com/kw1983-maker/brickwords) | 0 | BrickWords — Roblox-style English learning game for Malaysian primary pupils |
 | [KyleConger/Oath-Of-Office-Prompts](https://github.com/KyleConger/Oath-Of-Office-Prompts) | 0 | This is a prompt generator created for the team at Oath of Office, a Roblox political simulator |
 | [Kynexlz/Cobra-Kai-Karate](https://github.com/Kynexlz/Cobra-Kai-Karate) | 0 | Scripts only for the Roblox game Cobra Kai Karate by LUTEROMS |
@@ -2597,6 +2675,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [ladderuser123/Roblox-Destroyer](https://github.com/ladderuser123/Roblox-Destroyer) | 0 | You can destroy roblox game So people can get angry |
 | [laihen12/roblox](https://github.com/laihen12/roblox) | 0 | add friend to join my game |
 | [lainarchive/Inkbound](https://github.com/lainarchive/Inkbound) | 0 | A hand-drawn fantasy Roblox game where a tiny ink creature brings drawings to life. |
+| [LaitPortfolio/LaitPortfolio.github.io](https://github.com/LaitPortfolio/LaitPortfolio.github.io) | 0 | A portfolio for Lait's Luau developing experience. |
 | [lakeshaya75/roblox-scripting-portfolio](https://github.com/lakeshaya75/roblox-scripting-portfolio) | 0 | Hello, viewer! This is a compilation of some of the various systems I have scripted using Lua, Roblox's language used to make games! If this is for a commiss... |
 | [Laky2k8/Patak-Server](https://github.com/Laky2k8/Patak-Server) | 0 | A federated game platform, basically Roblox but for indie games. |
 | [Lam89-Pass/ROBLOX_STUDIO_2025](https://github.com/Lam89-Pass/ROBLOX_STUDIO_2025) | 0 | Documentasi Pengembangan Game Roblox Studio |
@@ -2607,8 +2686,10 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [Larry6oy/Roblox_Lua-learning](https://github.com/Larry6oy/Roblox_Lua-learning) | 0 | This repository will be used to save my lua codes for roblox |
 | [Larsen-dev/collections](https://github.com/Larsen-dev/collections) | 0 | Implementation of common data structures (sets, queues, stacks) tailored for Roblox Studio and Luau. |
 | [lasketeen/development](https://github.com/lasketeen/development) | 0 | Welcome! This is where my roblox portfolio is and where you may find my personal projects and games I've made along with whats upcoming and kits for others t... |
+| [Lasssek/CPP-ReasonTo-Library](https://github.com/Lasssek/CPP-ReasonTo-Library) | 0 | Ported to C++ from my other project in Luau, allows for adding reasons to do something or not to do something. |
 | [Lasuki01/6-Kings-roblox](https://github.com/Lasuki01/6-Kings-roblox) | 0 | this is a 100% vibe coded roblox game . |
 | [latatan/roblox-verify](https://github.com/latatan/roblox-verify) | 0 | All of my projects are published and open source ;) : Python only |
+| [LatteCappuchino/Learning-LuaU-With-Me](https://github.com/LatteCappuchino/Learning-LuaU-With-Me) | 0 | in this Repository, You will Learn LuaU with Me! |
 | [LatTo12/Latto-game-page](https://github.com/LatTo12/Latto-game-page) | 0 | "Latto" Roblox Game HTML PAGE |
 | [Lavelius/Roller-Dome-Tycoon](https://github.com/Lavelius/Roller-Dome-Tycoon) | 0 | boot.dev personal project / roblox game where you can roll dice and buy upgrades |
 | [Lawrencee12/roblox](https://github.com/Lawrencee12/roblox) | 0 | Making game on roblox. Day1 // THIS IS ROBLOX |
@@ -2717,6 +2798,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [LuaEXploitCoder/roblox-school-downloader](https://github.com/LuaEXploitCoder/roblox-school-downloader) | 0 | download roblox in school and play unblocked |
 | [LuaLG/roblo-mator](https://github.com/LuaLG/roblo-mator) | 0 | Some key automatin' crap designed for ROBLOX that might be usable in other games |
 | [luau/luau.github.io](https://github.com/luau/luau.github.io) | 0 | Homepage. Independent project, not affiliated with Roblox. |
+| [LuauApp/Luau-server](https://github.com/LuauApp/Luau-server) | 0 | Back-end server project for Luau. |
 | [luayrbx-afk/SpaceLib](https://github.com/luayrbx-afk/SpaceLib) | 0 | Bem isso não vai pra frente mesmo mas abaixo um tutorial se quiser 🫠 |
 | [Luca-rblxdev/Change-logs-ChillPlace](https://github.com/Luca-rblxdev/Change-logs-ChillPlace) | 0 | See here all Change logs of the Roblox game „Chill Place" |
 | [luca0770/My-Scripting-World](https://github.com/luca0770/My-Scripting-World) | 0 | This repository contains all the scripts I utilise in my Roblox game "My Scripting World". You can find it under "Creations" under my Roblox account "Luca_07... |
@@ -2735,12 +2817,13 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [LuisMagania/A.U.L.A-ROBLOX-GAME](https://github.com/LuisMagania/A.U.L.A-ROBLOX-GAME) | 0 | Repositorio para cambios, mecanicas, etc... |
 | [luizfelippe-dev/Roblox_DDTank](https://github.com/luizfelippe-dev/Roblox_DDTank) | 0 | DDTank 3D Project Inside Roblox |
 | [LuizHilario/Hello_Farmland-Roblox-Studio](https://github.com/LuizHilario/Hello_Farmland-Roblox-Studio) | 0 | Meu primeiro game no roblox studio |
+| [lukadev-0/luau-guide](https://github.com/lukadev-0/luau-guide) | 0 | A work in progress guide to Luau. |
 | [lukascoutelle-droid/guide-complet-roblox-studio](https://github.com/lukascoutelle-droid/guide-complet-roblox-studio) | 0 | C'est un guide complet sur toute les fonctionnalité de Roblox Studio. |
 | [LukeCreeperGOATed172/Forsaken](https://github.com/LukeCreeperGOATed172/Forsaken) | 0 | A fun game made to be like a mini version of Roblox Forsaken. |
 | [LukeDevsE/GoodroomsV6Game](https://github.com/LukeDevsE/GoodroomsV6Game) | 0 | goodrooms is basically like a roblox clone but made in unity so use this for your projects basically like roblox in unity |
-| [lukeislukewarm/Roblox-Lua-Portfolio](https://github.com/lukeislukewarm/Roblox-Lua-Portfolio) | 0 | This is my portfolio |
 | [LukeTheWind/LinuxTransport-Charts](https://github.com/LukeTheWind/LinuxTransport-Charts) | 0 | Charts for the Roblox game LinuxTransport |
 | [lukipq-dev/The-Last-Kid](https://github.com/lukipq-dev/The-Last-Kid) | 0 | Game on roblox : The Last Kid |
+| [lumiMiNK/luau-config](https://github.com/lumiMiNK/luau-config) | 0 | A collection of settings/configs and shell scripts that I use for my Luau projects. |
 | [lun-lun-lun-lun/new-smash](https://github.com/lun-lun-lun-lun/new-smash) | 0 | new smash game. simpler |
 | [lunamatthew/CPSC466_SoftwareProcess](https://github.com/lunamatthew/CPSC466_SoftwareProcess) | 0 | CPSC 466 Software Process semester project. Roblox Game |
 | [LunarConsortium/LunarConsortium.github.io](https://github.com/LunarConsortium/LunarConsortium.github.io) | 0 | Roblox scripting portfolio for Jordan Curran (Lunar) |
@@ -2753,6 +2836,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [lydia7878/RobloxGame](https://github.com/lydia7878/RobloxGame) | 0 | All lua scripts and project files for this Roblox game I created: |
 | [lyingbird/RobMoba](https://github.com/lyingbird/RobMoba) | 0 | a demo project for moba in roblox studio |
 | [lyler210/roblox-game-recommender](https://github.com/lyler210/roblox-game-recommender) | 0 | A Roblox game recommendation system |
+| [Lynx-1111/hens](https://github.com/Lynx-1111/hens) | 0 | learning luau and a lot more |
 | [LyphersX/DUPELOADER](https://github.com/LyphersX/DUPELOADER) | 0 | this application used for a game to be able to duplicate their pets and not dont use too violet the roblox rules and dont abuse this !!! |
 | [lyvali/rblx-version](https://github.com/lyvali/rblx-version) | 0 | current roblox version for a project |
 | [lzhang4672/RobloxStore](https://github.com/lzhang4672/RobloxStore) | 0 | Roblox Store Recreation in VBNET |
@@ -2774,6 +2858,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [madgenerator/RobloxSpeedRun](https://github.com/madgenerator/RobloxSpeedRun) | 0 | Roblox Studio SpeedRun Game Code |
 | [MadiLucey/Roblox-Game-Project-Ghost-in-the-Grave-Yard-](https://github.com/MadiLucey/Roblox-Game-Project-Ghost-in-the-Grave-Yard-) | 0 | This game is for my portfolio and not a cash grab |
 | [Madmangone/portfolio](https://github.com/Madmangone/portfolio) | 0 | My roblox devoloper portfolio! |
+| [madn0/The-House-That-Lies](https://github.com/madn0/The-House-That-Lies) | 0 | LETS GO Passion project!! |
 | [MADUKO16/MysticalProwess](https://github.com/MADUKO16/MysticalProwess) | 0 | Roblox based Tower Defense game |
 | [mafiabomma67-beep/DrunostMM2](https://github.com/mafiabomma67-beep/DrunostMM2) | 0 | Drunost project for Roblox games. |
 | [MagelessMayhem/Roblox-WINE-DB](https://github.com/MagelessMayhem/Roblox-WINE-DB) | 0 | Database for the performance of numerous Roblox games under Grapejuice's WINE-TKG. |
@@ -2786,6 +2871,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [Mago51/Player-Teleporter-LuaU-Roblox-Studio](https://github.com/Mago51/Player-Teleporter-LuaU-Roblox-Studio) | 0 | I made a teleporter script that is useful for different Roblox game idea. Step-by-step explanation of how to set it up correctly. |
 | [Maguethh/Tsubasa_Games](https://github.com/Maguethh/Tsubasa_Games) | 0 | Tsubasa games is a Roblox game set in a school where 12 students compete in a thrilling battle royale mode. |
 | [mahadinur/roblox-sens](https://github.com/mahadinur/roblox-sens) | 0 | convert sensitivity across multiple ROBLOX games and from Source Engine or Valorant! |
+| [mahmood1996/clean_code_c_sharp](https://github.com/mahmood1996/clean_code_c_sharp) | 0 | This Repository for "Code Luau" project for Course "Clean Coding Principles in C#" (after refactoring). |
 | [MahmoudLikesToForkClients/zeroday4roblox](https://github.com/MahmoudLikesToForkClients/zeroday4roblox) | 0 | zeroday client project i made for roblox bedwars, i dont expect this to go released. I only did this for my fun. |
 | [MaiconJustoFernandes/Distrito-38-projeto1-DIO](https://github.com/MaiconJustoFernandes/Distrito-38-projeto1-DIO) | 0 | Primeiro projeto entregue da trilha Formação Game Developer: Roblox & Metaverse |
 | [MakeOutHill696/roblox-game-systems-portfolio](https://github.com/MakeOutHill696/roblox-game-systems-portfolio) | 0 | Professional Roblox game development portfolio |
@@ -2801,6 +2887,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [ManatonGames/roblox-projects](https://github.com/ManatonGames/roblox-projects) | 0 | A collection of my Roblox development projects and systems. |
 | [manciarancor6688/GoalKick](https://github.com/manciarancor6688/GoalKick) | 0 | Free Roblox Goal Kick Simulator Script Download 2025 🚀 |
 | [mandistep2026/roblox-clone](https://github.com/mandistep2026/roblox-clone) | 0 | An game engine that is similar to roblox |
+| [maneetoo/Logger](https://github.com/maneetoo/Logger) | 0 | An improved logger written in pure Luau, ideally suited for OSS Luau projects. |
 | [maneulgonzalez1012-cyber/Hola-Roblox-game](https://github.com/maneulgonzalez1012-cyber/Hola-Roblox-game) | 0 | Una buena y avanzada |
 | [Mango67-syabu/Syabu-tech](https://github.com/Mango67-syabu/Syabu-tech) | 0 | Toko online yang menjual design digital/Template, digital flashcard, dan bisa mengajari scripting atau membuat game di roblox studio |
 | [Mangod4435/project-dasher](https://github.com/Mangod4435/project-dasher) | 0 | This is a rhythm game where you need to hit the incoming note using any key. Inspired by project rusher in Roblox. |
@@ -2812,6 +2899,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [Maratyla/ms-plus-roblox](https://github.com/Maratyla/ms-plus-roblox) | 0 | Please credit Jorel (and others that participated in their project) and me in the game description. |
 | [Marc92020/roblox_game_log](https://github.com/Marc92020/roblox_game_log) | 0 | here is my roblox game development log |
 | [Marcel899/portfolio](https://github.com/Marcel899/portfolio) | 0 | One-page portfolio for Marcel_899 — Roblox wiki designer and community manager |
+| [marceldabek/football-club-tycoon](https://github.com/marceldabek/football-club-tycoon) | 0 | (geen omschrijving op GitHub) |
 | [marchware/Pet-Obby-Core-Systems](https://github.com/marchware/Pet-Obby-Core-Systems) | 0 | Core game systems for Pet Obby, featuring a custom pet management system and secure data handling. |
 | [MarcosAbbadev/Projeto-RO-obby](https://github.com/MarcosAbbadev/Projeto-RO-obby) | 0 | Outra parte de estudos utilziando um projeto de mapa no roblox, consiste na criação de um mapa de obstáculos utilizando scripts para manter o funcionamento d... |
 | [MarcSpectrum/SubterraRaid](https://github.com/MarcSpectrum/SubterraRaid) | 0 | Project for 'Mini Jam 166: Earth' |
@@ -2838,6 +2926,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [MarkVladislavovich/Blast-Zone-Randomizer](https://github.com/MarkVladislavovich/Blast-Zone-Randomizer) | 0 | A passion project for the roblox game Blast Zone. |
 | [marleeseverson/RobloxPlateGame](https://github.com/marleeseverson/RobloxPlateGame) | 0 | Project repo for my first roblox game |
 | [Marley7hehe/Roll-A-Fish](https://github.com/Marley7hehe/Roll-A-Fish) | 0 | My roblox game called "ROLL A FISH" by Marley7hehe |
+| [martinhoereira-sys/qualquer-outra-coisa-](https://github.com/martinhoereira-sys/qualquer-outra-coisa-) | 0 | Help study for school |
 | [martyh1234567890-commits/BLOX-BLASTERS](https://github.com/martyh1234567890-commits/BLOX-BLASTERS) | 0 | The main code of my 1st ever game on Roblox. My childhood creation |
 | [masa54910/AnimalLodge](https://github.com/masa54910/AnimalLodge) | 0 | Animal Lodge - Roblox wildlife lodge simulation game |
 | [mashkakashka-oss/snezinck-rp](https://github.com/mashkakashka-oss/snezinck-rp) | 0 | RP Project по Roblox |
@@ -2874,6 +2963,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [maxum7809/Tap-N-Hatch-Value-List-](https://github.com/maxum7809/Tap-N-Hatch-Value-List-) | 0 | Value List for Roblox game Tap N Hatch! |
 | [MaynorB/Video-Game-One](https://github.com/MaynorB/Video-Game-One) | 0 | Very simple two level course, imagine a roblox obby. This was done in Unreal Engine |
 | [maysunyoung/vvultimatum-site](https://github.com/maysunyoung/vvultimatum-site) | 0 | Independent guide and wiki resource for the Roblox action RPG VV: ULTIMATUM. |
+| [mayveiscous/delve](https://github.com/mayveiscous/delve) | 0 | A simple RPG based around a mining system akin to that of "Mining Simulator 2"! |
 | [maziAIRobloxDev/FashionVerse](https://github.com/maziAIRobloxDev/FashionVerse) | 0 | A Roblox game with avatar customization like the catalog avatar creator |
 | [mboomer/roblox-obby](https://github.com/mboomer/roblox-obby) | 0 | Basic obstacle course game |
 | [mckornfield/two-people-games](https://github.com/mckornfield/two-people-games) | 0 | Our Roblox gaming team site |
@@ -2918,6 +3008,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [MichaelServices/shiny-tribble](https://github.com/MichaelServices/shiny-tribble) | 0 | Makes your Roblox game look better and more "Clean" |
 | [michaelwong3049/dig-n-clean-radioactive](https://github.com/michaelwong3049/dig-n-clean-radioactive) | 0 | dig-n-clean but radioactive roblox game |
 | [MiguelProm/desafio-roblox-2](https://github.com/MiguelProm/desafio-roblox-2) | 0 | Obby que fiz no Roblox para o protejo da DIO. 13/07/24 |
+| [miguelsaldanha1213-byte/Luau-project-for-games](https://github.com/miguelsaldanha1213-byte/Luau-project-for-games) | 0 | Lucas Henrique and me will edit some things. |
 | [mikebornd-cell/Happy-scrp](https://github.com/mikebornd-cell/Happy-scrp) | 0 | This script is for heavyweight fishing Game in Roblox |
 | [Milan-max1/roblox-guide](https://github.com/Milan-max1/roblox-guide) | 0 | Le guide ultime pour créer ton jeu Roblox rentable ! |
 | [milly8156/DynamicFacesRoblox](https://github.com/milly8156/DynamicFacesRoblox) | 0 | There is Dynamic heads coming to Roblox, but that's not the point. Here's how you add it to your game! |
@@ -2986,6 +3077,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [MvMSOLO/FishtheFishies](https://github.com/MvMSOLO/FishtheFishies) | 0 | This game called Fish the Fishies for Roblox made by MvMSOLO |
 | [MWBSHOPZ/MWB-SHOPZ](https://github.com/MWBSHOPZ/MWB-SHOPZ) | 0 | THIS IS A SW2 ROBLOX GAME SO U CAN BUY MONEY |
 | [mwendaryan/roblox](https://github.com/mwendaryan/roblox) | 0 | my favorite game is roblox |
+| [mxciv/matcha-luau](https://github.com/mxciv/matcha-luau) | 0 | Luau projects for matcha external |
 | [mynameisanis/roblox-hot-potato-game](https://github.com/mynameisanis/roblox-hot-potato-game) | 0 | Un jeu Roblox Hot Potato - Prendre l'arme et survivre 15 secondes! |
 | [MYSPACEEE/roblox-lua-final-project](https://github.com/MYSPACEEE/roblox-lua-final-project) | 0 | Final project for Lua course |
 | [MYSPACEEE/roblox-lua-final-projectt](https://github.com/MYSPACEEE/roblox-lua-final-projectt) | 0 | Final project for Lua course. The project demonstrates variables, functions, conditionals, and basic game logic. |
@@ -3000,6 +3092,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [nabesoates-boop/roblox-king-of-monsters](https://github.com/nabesoates-boop/roblox-king-of-monsters) | 0 | A story-driven Roblox adventure game inspired by Godzilla: King of the Monsters |
 | [nabileslam/aotr-roblox-auto-script-enhancer](https://github.com/nabileslam/aotr-roblox-auto-script-enhancer) | 0 | Unlock Advanced Roblox AotR Script Guide Explore Exclusive Features 🚀🕹️ |
 | [NadeKill/Roblox-Lua](https://github.com/NadeKill/Roblox-Lua) | 0 | Lua Scripts For learning |
+| [nadimahmad-nve/Wrenches-And-Souls-Showcase](https://github.com/nadimahmad-nve/Wrenches-And-Souls-Showcase) | 0 | A selection of scripts from my asymmetrical game "Wrenches & Souls." |
 | [nafa436/Dragon-Ball-Final-Rebirth](https://github.com/nafa436/Dragon-Ball-Final-Rebirth) | 0 | Roblox Dragon Ball Final Stand-style game. |
 | [Nalz-Rc/project-sambung-kata](https://github.com/Nalz-Rc/project-sambung-kata) | 0 | Project untuk game roblox yang mapnya bernama "Sambung Kata" |
 | [Nam10R/History-of-The-Chosen-One-Roblox-Clan-ZK](https://github.com/Nam10R/History-of-The-Chosen-One-Roblox-Clan-ZK) | 0 | This is the story of Nam—how he went from merely understanding the game mechanics to saving a glorious battle in *The Chosen One* (Spanish)... |
@@ -3042,9 +3135,11 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [Neksarr/Most-Played-Roblox-Games](https://github.com/Neksarr/Most-Played-Roblox-Games) | 0 | shows the list of games that is most played |
 | [Nekthegeek/roblox-street-control](https://github.com/Nekthegeek/roblox-street-control) | 0 | 3D Roblox open-world action game with Street Rep + Crew Influence system |
 | [neobyat/Demo-Fruit-](https://github.com/neobyat/Demo-Fruit-) | 0 | Um jogo incrível de Roblox |
+| [NeoloveEngine/NeoLOVE](https://github.com/NeoloveEngine/NeoLOVE) | 0 | FOSS Game Engine written in Rust that can run games written in Luau |
 | [Neonicf/Hit-box-expander-Roblox-Neonicf](https://github.com/Neonicf/Hit-box-expander-Roblox-Neonicf) | 0 | This is an Roblox hit box expander for many games on Roblox, you can edit size and colors |
 | [neostant/StudioExplorer](https://github.com/neostant/StudioExplorer) | 0 | Contains every image and ExplorerOrder id for each Roblox class in a lua table. |
 | [NeoStudioX/Roblox-game](https://github.com/NeoStudioX/Roblox-game) | 0 | Trying to make a popular roblox game. |
+| [Neshma29/Neshma](https://github.com/Neshma29/Neshma) | 0 | i cant code :) i wanna learn Luau and python tho |
 | [NetronScripting/nentroadmin](https://github.com/NetronScripting/nentroadmin) | 0 | A Roblox Admin Script for many games. |
 | [NeuronJohn/Farm-or-DIE](https://github.com/NeuronJohn/Farm-or-DIE) | 0 | Roblox game began development on 5/8/2025 |
 | [Neuz77/Neuro](https://github.com/Neuz77/Neuro) | 0 | Neuro - Script for roblox games: The Strongest Battlegrounds, Arcenal etc... |
@@ -3074,6 +3169,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [nightcycle/sketcher](https://github.com/nightcycle/sketcher) | 0 | Inspired by @Quenty 's Draw class |
 | [nightcycle/studio-sequence](https://github.com/nightcycle/studio-sequence) | 0 | the intro-sequence I used for my game, you don't have the right to use it for your own, but if you want to read the code to see how I did it in constructing ... |
 | [nightfallz54321-ctrl/DiscDropAnalyzer](https://github.com/nightfallz54321-ctrl/DiscDropAnalyzer) | 0 | DiscDrop Analyzer - Real-time Roblox game analyzer that predicts best moves using Monte Carlo simulation & adaptive learning. Features live overlay recommend... |
+| [NihalG-U/LUAU-code-to-clone-objects-for-a-certain-time](https://github.com/NihalG-U/LUAU-code-to-clone-objects-for-a-certain-time) | 0 | This LUAU program clones Objects inside a game for a set time limit |
 | [nikitsenka/roblox-game1](https://github.com/nikitsenka/roblox-game1) | 0 | simple roblox game with sources |
 | [NikiUrmra/ROBLOX-](https://github.com/NikiUrmra/ROBLOX-) | 0 | A Game That You Search Games Or Invite friends Player does join game Host does Create Game and When Bad Players Write bad notes and spamming hosts hosts coul... |
 | [NikiUrmraB-O-M-B-H-A-C-K-E-R/ROBLOX](https://github.com/NikiUrmraB-O-M-B-H-A-C-K-E-R/ROBLOX) | 0 | A Game where you play servers and buy costumes and other stuff |
@@ -3102,6 +3198,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [NMHUBONTOP/CloneLineChallenge](https://github.com/NMHUBONTOP/CloneLineChallenge) | 0 | a script for a roblox game called "Clone Line Challenge" |
 | [NMSU-CS-CS371/team-project-real-roblox-tower-defense-simulator](https://github.com/NMSU-CS-CS371/team-project-real-roblox-tower-defense-simulator) | 0 | team-project-real-roblox-tower-defense-simulator created by GitHub Classroom |
 | [noahmaddoxsuchomski-beep/Tircx](https://github.com/noahmaddoxsuchomski-beep/Tircx) | 0 | TIRCX is a roblox-like game that has many bugs but works! FINISHED SOON. |
+| [noahrepublic/RbxModules](https://github.com/noahrepublic/RbxModules) | 0 | A repository of modules I use on a day to day basis in my game workflow |
 | [noahrobloxdev/Roblox-Code-Examples](https://github.com/noahrobloxdev/Roblox-Code-Examples) | 0 | Examples of my Roblox coding experience. |
 | [noahweiss-boop/RblxProj](https://github.com/noahweiss-boop/RblxProj) | 0 | I create Roblox game projects and decided I wanted to make a JS.ORG for this to store them. |
 | [noahyounggi2012-pixel/roblox-scripting-portfolio](https://github.com/noahyounggi2012-pixel/roblox-scripting-portfolio) | 0 | Beginner Roblox Lua scripting portfolio |
@@ -3146,6 +3243,8 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [nutella-pro-max/RoStocks-Backend](https://github.com/nutella-pro-max/RoStocks-Backend) | 0 | Used as a backend to my Roblox game RoStocks. |
 | [nversargsyansargsyan-cmyk/Roblox-nver](https://github.com/nversargsyansargsyan-cmyk/Roblox-nver) | 0 | My Roblox project for you I love you my. |
 | [nxfx21/rmf](https://github.com/nxfx21/rmf) | 0 | RMF - A modern approach to Roblox modding. This project also provides a fully featured mod creator and editor. |
+| [Nyapaw/lua-ordered-dict](https://github.com/Nyapaw/lua-ordered-dict) | 0 | A table that remembers the order of key-value pair assignments, for use in Luau |
+| [nyxari-dev/Luau-Projects](https://github.com/nyxari-dev/Luau-Projects) | 0 | Showcasing my Luau projects. |
 | [Nyxo-0/Roblox-tower-project](https://github.com/Nyxo-0/Roblox-tower-project) | 0 | A page linking to a roblox game and the game files downloadable |
 | [nzchris/duckgame](https://github.com/nzchris/duckgame) | 0 | Owen's Roblox duck game |
 | [NZLouislu/house-seeker-roblox](https://github.com/NZLouislu/house-seeker-roblox) | 0 | A Roblox hide-and-seek game set inside a real scanned NZ house floor plan. Built with Luau for 2-8 players. |
@@ -3191,6 +3290,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [Oskarbayy/MagnetSimulator](https://github.com/Oskarbayy/MagnetSimulator) | 0 | Code for roblox game |
 | [oskarnylen/RobloxGuide](https://github.com/oskarnylen/RobloxGuide) | 0 | Guide for the ROBLOX project |
 | [osvathdenes854-afk/steal-a-lucky-block](https://github.com/osvathdenes854-afk/steal-a-lucky-block) | 0 | Still Lucky Block is a fast-paced Roblox game where every block can change your fate. Break Lucky Blocks to get random powers, traps, or rare items, steal pr... |
+| [otaldoneto/PROJECT-STEAL-LOOT-ESCAPE](https://github.com/otaldoneto/PROJECT-STEAL-LOOT-ESCAPE) | 0 | (geen omschrijving op GitHub) |
 | [otil12/Roblox-Backend-Portfolio](https://github.com/otil12/Roblox-Backend-Portfolio) | 0 | My roblox Backend Portfolio |
 | [ovchinnikovnikitakonst/hide-the-loot](https://github.com/ovchinnikovnikitakonst/hide-the-loot) | 0 | A social treasure hunting game built with Roblox and Luau. |
 | [overworded/Luau-Buff-Table](https://github.com/overworded/Luau-Buff-Table) | 0 | Buff tables in luau. Uses a linked list. |
@@ -3198,6 +3298,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [OwenC042006/OwenCrokieExample](https://github.com/OwenC042006/OwenCrokieExample) | 0 | Owen Crokie Roblox Code |
 | [owenhoagie/luaModules](https://github.com/owenhoagie/luaModules) | 0 | a collection of modules written in Luau, intended to be used in Roblox to aid creation. |
 | [oworob/roblox-screenshots](https://github.com/oworob/roblox-screenshots) | 0 | Screenshots of my projects on Roblox |
+| [OxygenIsTheGoat/OxygenIsTheGoat.portfolio.io](https://github.com/OxygenIsTheGoat/OxygenIsTheGoat.portfolio.io) | 0 | my portfolio for luau! |
 | [OxygenIsTheGoat/Portfolio](https://github.com/OxygenIsTheGoat/Portfolio) | 0 | portfolio for roblox scripting |
 | [ozarusU/ArcaneHorizons](https://github.com/ozarusU/ArcaneHorizons) | 0 | Roblox and EXE MMORPG Game Files for Arcane Horizons |
 | [OzodN/tire-engine-simulator](https://github.com/OzodN/tire-engine-simulator) | 0 | (geen omschrijving op GitHub) |
@@ -3252,6 +3353,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [PetitLouisleroi/LightHub](https://github.com/PetitLouisleroi/LightHub) | 0 | LightHub for all game (roblox) |
 | [pewitsjosh/Xalrou-main-project](https://github.com/pewitsjosh/Xalrou-main-project) | 0 | My Roblox Development Portfolio #2 |
 | [PewterZz/AnimalMasters](https://github.com/PewterZz/AnimalMasters) | 0 | Animal Kaiser inspired project on roblox. |
+| [PH0S0/LUAU-LEARNING](https://github.com/PH0S0/LUAU-LEARNING) | 0 | Site de apresentação da linguagem luau |
 | [PhantomDave/dave-factory-tycoon](https://github.com/PhantomDave/dave-factory-tycoon) | 0 | Roblox factory tycoon game |
 | [phantomfills/naughts-and-crosses](https://github.com/phantomfills/naughts-and-crosses) | 0 | a fun little naughts and crosses game on roblox |
 | [phasenull/cecot-suggestions](https://github.com/phasenull/cecot-suggestions) | 0 | Simple suggestions API using NestJS for roblox games |
@@ -3263,11 +3365,13 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [phonemyanmar2008-sys/Ti-Htwin](https://github.com/phonemyanmar2008-sys/Ti-Htwin) | 0 | A Roblox Studio Service In Myanmar. Do you want to create games, want to attend Roblox Studio Class? Just check it out! We worked together with1.5B+ experien... |
 | [photobooth-rbx/generate-lut-cube](https://github.com/photobooth-rbx/generate-lut-cube) | 0 | A project to generate LUTs for all colors in Roblox studio |
 | [phungthuc/collect-and-unlock](https://github.com/phungthuc/collect-and-unlock) | 0 | This is my first Roblox game!!! |
+| [phupoom-cpu/my-lua-project](https://github.com/phupoom-cpu/my-lua-project) | 0 | i dont know also luau |
 | [pidgeydevRBX/Roblox-Game](https://github.com/pidgeydevRBX/Roblox-Game) | 0 | For my new roblox game |
 | [pig-pro/info-about-adopt-me](https://github.com/pig-pro/info-about-adopt-me) | 0 | Adopt me is a famous and attractive game on the platform roblox. It is about pets, adoption, and hatching eggs. It is a completely healthy game that all chil... |
 | [Pigmester/Roblox](https://github.com/Pigmester/Roblox) | 0 | For my personal projects. |
 | [pigxity/robloxbadgecreator](https://github.com/pigxity/robloxbadgecreator) | 0 | Python flask application to automatically create badges for a Roblox game |
 | [piotekkibelkupa-lab/Wither-storm-script-remake](https://github.com/piotekkibelkupa-lab/Wither-storm-script-remake) | 0 | This script is an remarked version to the wither storm script for roblox |
+| [piramistbusiness-oss/Become-a-Soldier](https://github.com/piramistbusiness-oss/Become-a-Soldier) | 0 | Copyright © 2026 Piramist. All rights reserved. This repository is provided for portfolio and application-review purposes. Unauthorized copying, redistributi... |
 | [Piroshocheck/RobloxSkillsShowcase](https://github.com/Piroshocheck/RobloxSkillsShowcase) | 0 | A repository of my lua projects. Here is a code and demonstration of code work |
 | [pitedgy/Dev](https://github.com/pitedgy/Dev) | 0 | My Roblox game dev |
 | [Pitiphol-Gann/gann-roblox-studio-portfolio](https://github.com/Pitiphol-Gann/gann-roblox-studio-portfolio) | 0 | คลังผลงานและการบันทึกการเรียนรู้ระบบตรรกและการพัฒนาด้วย Roblox Studio ของ Gann (Pitiphol) |
@@ -3324,6 +3428,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [probrogamer1/learning-1](https://github.com/probrogamer1/learning-1) | 0 | roblox luau , basic learning of .touched with a dissapearing coin and leaderstats coin value addition |
 | [PrOdIgY-CaRcAsS/rblx-dance-club](https://github.com/PrOdIgY-CaRcAsS/rblx-dance-club) | 0 | ROBLOX Dance Club project |
 | [profa-janaina/Desafio-Toolbox-no-Roblox-Studio](https://github.com/profa-janaina/Desafio-Toolbox-no-Roblox-Studio) | 0 | Projeto para o curso Formação Game Developer: Roblox e Metaverso da DIO. |
+| [professionalskiderson/ChipX](https://github.com/professionalskiderson/ChipX) | 0 | An entire list of scripts that which you can execute made by ChipX |
 | [ProgrammerTG/RobloxDoorCode](https://github.com/ProgrammerTG/RobloxDoorCode) | 0 | Roblox Code Example to Scripter Role |
 | [proisgwhiwhhjaoh-bit/Farm-de-tycon-](https://github.com/proisgwhiwhhjaoh-bit/Farm-de-tycon-) | 0 | Esse script será utilizado em jogos como Tycoon do Roblox sendo assim um script para aquele jogo que de mora muito pra zerar |
 | [ProIvano/PetSimulator99Gamba](https://github.com/ProIvano/PetSimulator99Gamba) | 0 | Casino gambling with gems and pets from game named Pet Simulator 99 (Roblox) where you can find some fun! |
@@ -3397,6 +3502,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [randompythonscripter/cultivation.py](https://github.com/randompythonscripter/cultivation.py) | 0 | a cultivation game like the ones on roblox, but in python. |
 | [RandomVOTVplayer/Goober-Generating-Station](https://github.com/RandomVOTVplayer/Goober-Generating-Station) | 0 | A repository for my Roblox game Goober Generating Station (GGS) and much more! |
 | [Ransomwave/mad-carousel](https://github.com/Ransomwave/mad-carousel) | 0 | Source code for the game "Mad Carousel" |
+| [rasen46/rasen-obby-kit](https://github.com/rasen46/rasen-obby-kit) | 0 | a somewhat advanced client-side object handler for a game named "Vortex" |
 | [Rasmuswinterhag/SBS_Clone](https://github.com/Rasmuswinterhag/SBS_Clone) | 0 | A clone of Super Bomb Survival from Roblox |
 | [Ratatui-DSA/MonOptimisator](https://github.com/Ratatui-DSA/MonOptimisator) | 0 | Ez optimisator for roblox games - 16-18% ram per client |
 | [rattakorn1459-bit/-Roblox-Maps-Portfolio](https://github.com/rattakorn1459-bit/-Roblox-Maps-Portfolio) | 0 | Dashboard to manage my Roblox Map projects |
@@ -3409,6 +3515,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [RazeMuse/portfolio](https://github.com/RazeMuse/portfolio) | 0 | Roblox game developer portfolio — Moosa Bukhari |
 | [Razzleberrytt/outpostroblox](https://github.com/Razzleberrytt/outpostroblox) | 0 | a survival base defense game for roblox |
 | [rbarnes123/Lab-Rats](https://github.com/rbarnes123/Lab-Rats) | 0 | Lab Rats Roblox Game |
+| [RBLXUtils/Binder](https://github.com/RBLXUtils/Binder) | 0 | Binder is a class which handles callbacks which need to be called in a certain order, which one with a custom priority. It shaped as a ScriptSignal class, ex... |
 | [rbx-forge/rbx-observe](https://github.com/rbx-forge/rbx-observe) | 0 | Observe the public storefronts of Roblox experiences: passes, products, prices, badges, update cadence. Game-level public data only, never person-level. |
 | [RBXBazaar/cuddly-parakeet](https://github.com/RBXBazaar/cuddly-parakeet) | 0 | a digital marketplace for in-game items such as Roblox: Murder Mystery, Adopt Me, Royal HIgh, and etc |
 | [rbxpi/stdlib-list](https://github.com/rbxpi/stdlib-list) | 0 | A list of RbxPI Standard Libraries. |
@@ -3465,6 +3572,8 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [rhehei3osjb3/Portfolio--Lugia](https://github.com/rhehei3osjb3/Portfolio--Lugia) | 0 | Roblox (lua) scripting experience |
 | [RHHJDJGDFJJHDFGJDGHDJHJFUHJFHUFJFHJFH/OptimizationBB](https://github.com/RHHJDJGDFJJHDFGJDGHDJHJFUHJFHUFJFHJFH/OptimizationBB) | 0 | Optimization for the bite by night game on roblox |
 | [Rhyrne/RNG-Mechanic-For-Tower-Defense-Game](https://github.com/Rhyrne/RNG-Mechanic-For-Tower-Defense-Game) | 0 | A Random Number Generator(RNG) mechanic i am gonna make for the tower defense game in Roblox |
+| [Rhyz152/Luau_Showcase-Incremental_System](https://github.com/Rhyz152/Luau_Showcase-Incremental_System) | 0 | This repository is a showcase of a idle coin system (coin every second) programmed by me |
+| [Rhyz152/Luau_Showcase-Mining_System](https://github.com/Rhyz152/Luau_Showcase-Mining_System) | 0 | This repository is a showcase of a Mining system programmed in Luau, by Rhyz152 |
 | [Rhyz152/Luau_Showcase-Placement_System](https://github.com/Rhyz152/Luau_Showcase-Placement_System) | 0 | This repository is a showcase of a placement system that is coded using Luau in Roblox Studio |
 | [ribeiroadailson82-pixel/roblox_game](https://github.com/ribeiroadailson82-pixel/roblox_game) | 0 | game plaining for roblox |
 | [Ribino-Verdadeiro/Game-synerfy](https://github.com/Ribino-Verdadeiro/Game-synerfy) | 0 | Roadmap do jogo Ashes of Synerfy para Roblox |
@@ -3501,6 +3610,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [RMITpat/Phase-10](https://github.com/RMITpat/Phase-10) | 0 | Phase 10 card game created in Roblox |
 | [rnemzek/roblox-tycoon-helloworld](https://github.com/rnemzek/roblox-tycoon-helloworld) | 0 | My son's initial roblox tycoon adventure |
 | [rniraclefire/make-icecream](https://github.com/rniraclefire/make-icecream) | 0 | 2022 Roblox game gifted to my brother's birthday |
+| [rniraclefire/zero](https://github.com/rniraclefire/zero) | 0 | Comprehensive 3D game engine, scriptable using Luau. |
 | [rnmichealmc/Roblox-Commuity-Plaza](https://github.com/rnmichealmc/Roblox-Commuity-Plaza) | 0 | This is a private group only used for Roblox Pokemon And More well known games |
 | [Roberth1409/Roblox-Games](https://github.com/Roberth1409/Roblox-Games) | 0 | Aquí encontraras la mayoría de scripts que pueden ayudarte a determinados cometidos dentro de Roblox Studio |
 | [robertozoia/word-blaster](https://github.com/robertozoia/word-blaster) | 0 | Roblox-style 3D vocabulary game (German/English/Spanish) |
@@ -3536,9 +3646,11 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [RobotCdd/UNO](https://github.com/RobotCdd/UNO) | 0 | Multiplayer UNO card game made using Roblox engine (Lua) |
 | [Robox-inc/Robox](https://github.com/Robox-inc/Robox) | 0 | This is an crossplatform game. A Russian equivalent to Roblox. |
 | [RobsPlayz/robloxguide](https://github.com/RobsPlayz/robloxguide) | 0 | A guide for Roblox. |
+| [Rodotdalboeb/lstd](https://github.com/Rodotdalboeb/lstd) | 0 | Experimental Luau Standard Library Project |
 | [Rodzyneiro/RobloxSchoolSystem](https://github.com/Rodzyneiro/RobloxSchoolSystem) | 0 | Basic school system that I made as a module script |
 | [Roee3011/robloxstreamlitappV2](https://github.com/Roee3011/robloxstreamlitappV2) | 0 | single game case study |
 | [romeywesty/roblox](https://github.com/romeywesty/roblox) | 0 | a really cool and social game |
+| [ronchatt/Pressure-Washing-Simulator](https://github.com/ronchatt/Pressure-Washing-Simulator) | 0 | (geen omschrijving op GitHub) |
 | [roommate6/roblox-dev-kit](https://github.com/roommate6/roblox-dev-kit) | 0 | A roblox dev kit full of Luau Scripts/Examples and Projects |
 | [Roori1/roblox-tag-1v1](https://github.com/Roori1/roblox-tag-1v1) | 0 | A simple 1vs1 tag game (Mom vs. Child) for Roblox. Includes TagGame.lua and README. |
 | [ROOTCODE-bit/RobloxGame](https://github.com/ROOTCODE-bit/RobloxGame) | 0 | A game in roblox! |
@@ -3571,8 +3683,10 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [s0lver88/Roblox-Leaderstats-Script](https://github.com/s0lver88/Roblox-Leaderstats-Script) | 0 | Adds a saving leaderstats into your game |
 | [S0u1y/Roblox-Spells-Template](https://github.com/S0u1y/Roblox-Spells-Template) | 0 | This is a very basic template and description of its functions |
 | [s1deline/roblox-place-fetcher](https://github.com/s1deline/roblox-place-fetcher) | 0 | a bookmarklet to list all subplaces of a roblox game |
+| [s1ja-dev/rng-rewards-round-demo](https://github.com/s1ja-dev/rng-rewards-round-demo) | 0 | (geen omschrijving op GitHub) |
 | [saadsaeed9877-cloud/rbxfolio](https://github.com/saadsaeed9877-cloud/rbxfolio) | 0 | Roblox Developer Portfolio Platform - MVP Phase 2 |
 | [Saarth09/Roblox-Farm-Simulator](https://github.com/Saarth09/Roblox-Farm-Simulator) | 0 | Harvest Vault — Roblox farming simulator (crops, pets, private estate, rebirths) |
+| [Sabare-g/LearnLuau](https://github.com/Sabare-g/LearnLuau) | 0 | Learn Luau coding languge |
 | [sachivinsmokes/roblox-journey-log](https://github.com/sachivinsmokes/roblox-journey-log) | 0 | Hello im learning lua language and i wanted to be a gamedev in future |
 | [sadiehellokitty693-glitch/Og-Roblox](https://github.com/sadiehellokitty693-glitch/Og-Roblox) | 0 | This game is the og Roblox game where you get deja vu |
 | [Sae0wa/Criminality-Custom-Skin-Fleasion](https://github.com/Sae0wa/Criminality-Custom-Skin-Fleasion) | 0 | Custom Skins For Criminality Game On Roblox |
@@ -3642,6 +3756,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [Senutoken/Roblox-Objects](https://github.com/Senutoken/Roblox-Objects) | 0 | A list of objects created from scratch using Roblox Studio as the IDE and Lua for the programming language. |
 | [sept729/Block-or-Drop](https://github.com/sept729/Block-or-Drop) | 0 | my first game in roblox |
 | [Sequal32/OPM-Evolution](https://github.com/Sequal32/OPM-Evolution) | 0 | Code for the ROBLOX game OPM: Evolution |
+| [sequidhunter/Portfolio-Project](https://github.com/sequidhunter/Portfolio-Project) | 0 | Hello. This is my portfolio project. This is gonna contain some scripts that abide by the rules of developer servers. My scripts aren't super great, so don't... |
 | [serbanghita/roblox-lua](https://github.com/serbanghita/roblox-lua) | 0 | Functional Roblox lua script examples |
 | [sercaz/Microsoft](https://github.com/sercaz/Microsoft) | 0 | All-In One Loader for Several Roblox Games / made by me :) |
 | [SERVER24-dot/GameThingy-DONTUSE-](https://github.com/SERVER24-dot/GameThingy-DONTUSE-) | 0 | For a roblox game |
@@ -3660,6 +3775,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [shayaanjamil10-unfico/Roblox-game-projects](https://github.com/shayaanjamil10-unfico/Roblox-game-projects) | 0 | Showcase of Roblox video game projects I created |
 | [shayanthrn/HorrorRobloxGame](https://github.com/shayanthrn/HorrorRobloxGame) | 0 | Horror Survival Roblox Game developed in Lua |
 | [SheeshWOW/Roblox-OOP](https://github.com/SheeshWOW/Roblox-OOP) | 0 | just a simple showcase of the roblox OOP |
+| [shellprompt/luau-guide](https://github.com/shellprompt/luau-guide) | 0 | A helpful tutorial set for those wishing to learn the Luau Programming Language! |
 | [Shepp04/woolly-systems-repo](https://github.com/Shepp04/woolly-systems-repo) | 0 | contains self-contained systems ready to import into your woolly roblox projects |
 | [ShibaiC/Tower-Defense-Placement-Script](https://github.com/ShibaiC/Tower-Defense-Placement-Script) | 0 | Placement script for a roblox tower defense game |
 | [ShidoOnTop/Roblox-game](https://github.com/ShidoOnTop/Roblox-game) | 0 | roblox anime inc game |
@@ -3777,6 +3893,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [srihari200624/slime-rng](https://github.com/srihari200624/slime-rng) | 0 | Slime RNG Roblox game |
 | [srimuthukumarsami-creator/roblox-guide](https://github.com/srimuthukumarsami-creator/roblox-guide) | 0 | Cute step-by-step Roblox game creation guide |
 | [sriraachaa/Tiny-Pond](https://github.com/sriraachaa/Tiny-Pond) | 0 | Small game made for a school project. |
+| [ssdwmt/luau-util](https://github.com/ssdwmt/luau-util) | 0 | A collection of utilities for Luau. |
 | [sshar1/The-Spy](https://github.com/sshar1/The-Spy) | 0 | A Roblox game called "The Spy" |
 | [SSSROBLEXyt/Roblox-Flying](https://github.com/SSSROBLEXyt/Roblox-Flying) | 0 | This allows you to fly in any Roblox game |
 | [St3amyEggroll/Game-mk1](https://github.com/St3amyEggroll/Game-mk1) | 0 | i dont know yet |
@@ -3794,6 +3911,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [stealakpopdemonhunter-dev/steal-a-kpop-demon-hunter](https://github.com/stealakpopdemonhunter-dev/steal-a-kpop-demon-hunter) | 0 | Fast-paced Roblox arena game where humor meets chaos. Automates resource collection and base protection, giving players more time for battles, upgrades, and ... |
 | [StefanRumpe/California-Roleplay](https://github.com/StefanRumpe/California-Roleplay) | 0 | California Roleplay ist ein Deutsch basierter Server auf der Platform Roblox in dem Game ERLC |
 | [Stellar72/MSpy](https://github.com/Stellar72/MSpy) | 0 | Spies on all module scripts within a Roblox game. |
+| [stelluminthegreat-netizen/Filipino_School_Hangout](https://github.com/stelluminthegreat-netizen/Filipino_School_Hangout) | 0 | (geen omschrijving op GitHub) |
 | [stelluminthegreat-netizen/Tick_Integrated_Template](https://github.com/stelluminthegreat-netizen/Tick_Integrated_Template) | 0 | (geen omschrijving op GitHub) |
 | [Stepanchicko/roblox-boss-template](https://github.com/Stepanchicko/roblox-boss-template) | 0 | A template for an 10-series attacking boss. (Roblox) |
 | [stephenkwok85/RobloxBurgerSimulator](https://github.com/stephenkwok85/RobloxBurgerSimulator) | 0 | Roblox Burger Simulator Game |
@@ -3806,6 +3924,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [Stochy/ActiveEntertainment.](https://github.com/Stochy/ActiveEntertainment.) | 0 | Welcome to Active Entertainment Roblox Game Studio. |
 | [stolljackson6-maker/Jackson](https://github.com/stolljackson6-maker/Jackson) | 0 | I make games on roblox |
 | [Stonehill76/Roblox-Charlobby](https://github.com/Stonehill76/Roblox-Charlobby) | 0 | an Obby for Charlotte |
+| [Stoppedwumm-Studios/rbxmodulescripts](https://github.com/Stoppedwumm-Studios/rbxmodulescripts) | 0 | An modulescript collection of my favorite Module Scripts |
 | [stormmaster9090/Stormmaster9090S-Library](https://github.com/stormmaster9090/Stormmaster9090S-Library) | 0 | A conglomerate of all my projects that I created in Roblox. |
 | [stormr-doteth/table-games](https://github.com/stormr-doteth/table-games) | 0 | Roblox table games lobby - players sit at tables and play games against each other |
 | [stpotp/costudio](https://github.com/stpotp/costudio) | 0 | CoStudio is a script for Studio Lite Roblox, with more helpful features to develop your game! |
@@ -3847,6 +3966,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [SuperRanger-Max/Seb](https://github.com/SuperRanger-Max/Seb) | 0 | I am making my own game for Roblox. |
 | [Supersyya/kanashii_irusu](https://github.com/Supersyya/kanashii_irusu) | 0 | here to just get tinytask and more stuff to help me on my roblox games |
 | [Supmach/ProximityActivator](https://github.com/Supmach/ProximityActivator) | 0 | A custom class that is made to be a replacement of Roblox's "ProximityPrompts." |
+| [surpriseseaside/DoorsMenuRemake](https://github.com/surpriseseaside/DoorsMenuRemake) | 0 | (geen omschrijving op GitHub) |
 | [SusanYT00/zrumlock](https://github.com/SusanYT00/zrumlock) | 0 | a lock that is performed for roblox games |
 | [svozumerok/roblox-Examples](https://github.com/svozumerok/roblox-Examples) | 0 | hello developers, i create this cause i think, people need examples of code |
 | [sw4gi/roblox-steal-an-egg](https://github.com/sw4gi/roblox-steal-an-egg) | 0 | A Roblox heist game where players steal an egg while avoiding guards and obstacles |
@@ -3882,8 +4002,11 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [Tactycl/Stack](https://github.com/Tactycl/Stack) | 0 | A simple Stack class for Roblox |
 | [tadasms/OPUNISCIRPT](https://github.com/tadasms/OPUNISCIRPT) | 0 | This script scans for the game you are in on roblox for e.g (Dahood, Phantom forces, Arsenal ETC.) |
 | [Taigryz/whatdiditblox](https://github.com/Taigryz/whatdiditblox) | 0 | Check if your favorite roblox game is a copy! |
+| [taiwanpanda/demo](https://github.com/taiwanpanda/demo) | 0 | improving luau demo file |
 | [TakahitoChujo/hunted-horror-obby](https://github.com/TakahitoChujo/hunted-horror-obby) | 0 | (geen omschrijving op GitHub) |
+| [takaven/hide](https://github.com/takaven/hide) | 0 | HIDE! by TAKAVEN — social panic survival game |
 | [Tamasina07/RobloxInstallDirectoryFinder](https://github.com/Tamasina07/RobloxInstallDirectoryFinder) | 0 | A project I made back in 2021 that tries (poorly) to help you find your Roblox install directory. I think this was made due to a texture pack I was making on... |
+| [tanema/luaf](https://github.com/tanema/luaf) | 0 | Lua for learning and laufs |
 | [TanguyComent/my-giant-tower](https://github.com/TanguyComent/my-giant-tower) | 0 | My giant tower roblox game codebase |
 | [tanisha-ahl/theVayns_hackhub](https://github.com/tanisha-ahl/theVayns_hackhub) | 0 | Roblox studio game which consists of two worlds inside it. One world is for TDM and other is for zombie apocalypse. There is teleportation available between ... |
 | [TAPIOKA-JP/ROBLOX-Unwavering-Soul-Private-Server](https://github.com/TAPIOKA-JP/ROBLOX-Unwavering-Soul-Private-Server) | 0 | This app rents a private server for the game Roblox's Unwavering Soul for free, please use it!! It's free!! |
@@ -3928,6 +4051,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [terrencerun/steal-an-egg-research](https://github.com/terrencerun/steal-an-egg-research) | 0 | Auditable Steal An Egg observation data, methodology, and source notes. |
 | [TerrorSkin/labubu-script-collection-for-roblox](https://github.com/TerrorSkin/labubu-script-collection-for-roblox) | 0 | Latest Labubu Script Roblox Guide Unlock Exclusive Features Easily 🚀🐾 |
 | [terryrenekdavis/epicpatches](https://github.com/terryrenekdavis/epicpatches) | 0 | they are very good patches for sum roblox games and stuff |
+| [tessa-says-hi/auto-strat](https://github.com/tessa-says-hi/auto-strat) | 0 | Tower Defense Simulator strategy recorder and replay core |
 | [tester999scripts/gang-up-on-people-mod-Darkness-](https://github.com/tester999scripts/gang-up-on-people-mod-Darkness-) | 0 | mod (Darkness) - gang up on people simulator (Roblox) |
 | [tester999scripts/gang-up-on-people-script-trainer-](https://github.com/tester999scripts/gang-up-on-people-script-trainer-) | 0 | script trainer v0.1 - gang up on people simulator (Roblox) |
 | [tester999scripts/gang-up-on-people-script-trainer-v0.2](https://github.com/tester999scripts/gang-up-on-people-script-trainer-v0.2) | 0 | script trainer v0.2 - gang up on people simulator (Roblox) |
@@ -3953,6 +4077,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [thecasualdev/the-part-experience](https://github.com/thecasualdev/the-part-experience) | 0 | the part experience is a joke game i created in 2024, this is a quick and dirty recode |
 | [thecreare/WasteOfSpace-API](https://github.com/thecreare/WasteOfSpace-API) | 0 | Personal API for Waste of Space (Roblox game) |
 | [TheCreeKnight/Calamity](https://github.com/TheCreeKnight/Calamity) | 0 | My work for the Roblox game "Calamity". |
+| [TheCuteAxolotl/realistic-detailing-simulator](https://github.com/TheCuteAxolotl/realistic-detailing-simulator) | 0 | (geen omschrijving op GitHub) |
 | [thedestined55-hash/Roblox-portfolio](https://github.com/thedestined55-hash/Roblox-portfolio) | 0 | My roblox games scripts and projects |
 | [TheDestroyerBlox/RbxCodes](https://github.com/TheDestroyerBlox/RbxCodes) | 0 | Get Roblox game codes easy you can just copy and paste |
 | [TheFadGhost/rebirth-chronicles-public](https://github.com/TheFadGhost/rebirth-chronicles-public) | 0 | Open systems and progression design for a Roblox incremental game. |
@@ -3965,7 +4090,9 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [TheIllusionist77/save-the-citrus](https://github.com/TheIllusionist77/save-the-citrus) | 0 | My submission for the 2025 Congressional App Challenge. This app is a game that models the Florida citrus greening issue in Roblox, helping bring awareness t... |
 | [TheInevitableBoy/TheInevitableBoy.github.io](https://github.com/TheInevitableBoy/TheInevitableBoy.github.io) | 0 | Welcome to TheInevitableBoy's Portfolio on his entire career on roblox lua coding. I hope you enjoy! |
 | [thekingofspace/ATF-Suite](https://github.com/thekingofspace/ATF-Suite) | 0 | A suite for ATF fan game development |
+| [thekingofspace/Luv](https://github.com/thekingofspace/Luv) | 0 | A new luau game engine that is blazingly fast |
 | [thekingofspace/NactariLibs](https://github.com/thekingofspace/NactariLibs) | 0 | A useful collection of nactari modules + nactari itself. |
+| [TheKitXD/LUAU-Keyword-Reader](https://github.com/TheKitXD/LUAU-Keyword-Reader) | 0 | This project can search through a string and detect if it has specific keywords |
 | [TheLeakerScripts/Kick-bab-script-FE-](https://github.com/TheLeakerScripts/Kick-bab-script-FE-) | 0 | Roblox kick ban script *FE* needed:(Items like rp games will be a good target) |
 | [themictech/fart-knight-](https://github.com/themictech/fart-knight-) | 0 | A Roblox gaming project. |
 | [thenexusgamer69-crypto/GBLOXIA.ge](https://github.com/thenexusgamer69-crypto/GBLOXIA.ge) | 0 | GAME OF COPPY ROBLOX FOR NO RESTRICTIONS |
@@ -4007,6 +4134,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [timwright12/roblox-the-void](https://github.com/timwright12/roblox-the-void) | 0 | Roblox game where you fight zombies and robots - always WIP |
 | [Tin-Ko/advanced-software-processing-roblox-project](https://github.com/Tin-Ko/advanced-software-processing-roblox-project) | 0 | Course project for CPSC-544. A Roblox game that introduces the CSUF MSE program |
 | [tinsleyjames43-dotcom/ScriptForge](https://github.com/tinsleyjames43-dotcom/ScriptForge) | 0 | Premium Roblox maps, scripts, and systems designed to upgrade your game instantly. Simple, powerful, and ready to use—just drop in and play. |
+| [tinydev-pixel/Past-Works](https://github.com/tinydev-pixel/Past-Works) | 0 | Collection of scripts written in Luau, representing different systems I have coded over time :) |
 | [tisoypantonial89-lgtm/Bilibid-RP-Roblox](https://github.com/tisoypantonial89-lgtm/Bilibid-RP-Roblox) | 0 | A complete Bilibid Prison Roleplay game for Roblox with multiple systems |
 | [TK-A369/uv-stuff](https://github.com/TK-A369/uv-stuff) | 0 | Some utilities for my Roblox game called Universe Vastness |
 | [Tkdriverx/Roblox-Projects](https://github.com/Tkdriverx/Roblox-Projects) | 0 | Roblox Files, Images, etc. |
@@ -4052,6 +4180,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [Tranquanto/the-draconic-depths](https://github.com/Tranquanto/the-draconic-depths) | 0 | An infinite 3-D mining game constructed with babylon.js. Inspired by Roblox games such as Azure Mines and REx: Reincarnated. |
 | [Travisscott3607/Tap](https://github.com/Travisscott3607/Tap) | 0 | This game is for all Roblox players |
 | [TrebleScripts/Treble-Portfolio](https://github.com/TrebleScripts/Treble-Portfolio) | 0 | Professional Roblox scripting portfolio |
+| [tredaman5/golf-empire-tycoon](https://github.com/tredaman5/golf-empire-tycoon) | 0 | (geen omschrijving op GitHub) |
 | [TrendonRobinson/into-the-abyss](https://github.com/TrendonRobinson/into-the-abyss) | 0 | Final reboot of my Roblox based passion RPG project |
 | [trenthp/scorch-rblx](https://github.com/trenthp/scorch-rblx) | 0 | Flashlight freeze tag game on Roblox |
 | [trevtemba/ArenaFightingGame](https://github.com/trevtemba/ArenaFightingGame) | 0 | A game built using Roblox Studio Engine that is meant to combine elements of Teamfight Tactics, League of Legends, and Rogue Lineage |
@@ -4130,6 +4259,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [UnNamedRBScripts/Roblox-Simplity-Remake](https://github.com/UnNamedRBScripts/Roblox-Simplity-Remake) | 0 | Made by me with the work of simplity |
 | [UnNamedRBScripts/Steal-Roblox-Games](https://github.com/UnNamedRBScripts/Steal-Roblox-Games) | 0 | Execute In Game and then check workspace for a Roblox Studio |
 | [UnoTheKidd999/JuiceTheKidd999](https://github.com/UnoTheKidd999/JuiceTheKidd999) | 0 | FischHub - Fishing and Hunt Controller for my Roblox game |
+| [UnrealKaitlyn/UK-Style-Luau](https://github.com/UnrealKaitlyn/UK-Style-Luau) | 0 | A large, organised style guide, just for me. |
 | [unsettled01/Roblox-Game](https://github.com/unsettled01/Roblox-Game) | 0 | scripts for Roblox tycoon |
 | [UnStops/SCP-008PSCP](https://github.com/UnStops/SCP-008PSCP) | 0 | Just A room for project:SCP on roblox |
 | [unverifiediscool/Unverifieds-Utilities](https://github.com/unverifiediscool/Unverifieds-Utilities) | 0 | This utilizes in quality when attempting to reverse a game on the well-known game engine, "Roblox" |
@@ -4167,7 +4297,9 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [vanschm6-lgtm/Girls-only-Roblox-game-no-boys-if-there-is-a-boy-you-are-getting-banned-from-the-game](https://github.com/vanschm6-lgtm/Girls-only-Roblox-game-no-boys-if-there-is-a-boy-you-are-getting-banned-from-the-game) | 0 | This is a girls only game if there's any boy you're getting banned straight away so every boy has to stay out or else this game is completely safe no bad thi... |
 | [Vatsa889/cyberpunk-roblox-game](https://github.com/Vatsa889/cyberpunk-roblox-game) | 0 | me and jojo making a roblox game basically |
 | [Vaxian/Grow_A_Garden_Codes](https://github.com/Vaxian/Grow_A_Garden_Codes) | 0 | New Codes In Game Grow A Garden In Roblox |
+| [vdlald/restaraunt-tycoon-esc](https://github.com/vdlald/restaraunt-tycoon-esc) | 0 | (geen omschrijving op GitHub) |
 | [vdWiIl/portfolio](https://github.com/vdWiIl/portfolio) | 0 | My ROBLOX Portfolio of development |
+| [vectortorque/Illumination-Libraries](https://github.com/vectortorque/Illumination-Libraries) | 0 | A collection of my libraries |
 | [veldhovenroleplaynl-cmyk/YerxMarket.nl](https://github.com/veldhovenroleplaynl-cmyk/YerxMarket.nl) | 0 | I am a reseler for roblox games |
 | [Velmozza/my-first-project](https://github.com/Velmozza/my-first-project) | 0 | that is just my place in roblox with standart mechanic,pls wite comment,i'm learning lua |
 | [velumix/velumix.github.io](https://github.com/velumix/velumix.github.io) | 0 | Roblox gameplay engineer and software engineer portfolio |
@@ -4179,6 +4311,8 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [Vermaji89555/reblox-backend](https://github.com/Vermaji89555/reblox-backend) | 0 | THis game is so amzing just like roblox |
 | [Vermale713/roblox-game-template](https://github.com/Vermale713/roblox-game-template) | 0 | A game template for roblox |
 | [Versejj/NeedlesDivisionHub](https://github.com/Versejj/NeedlesDivisionHub) | 0 | Some .txt files regarding announcements and update logs for my Roblox game. |
+| [veternitzz/luau-datatypes](https://github.com/veternitzz/luau-datatypes) | 0 | A collection of helpful luau datatypes. |
+| [veternitzz/util](https://github.com/veternitzz/util) | 0 | A collection of lightweight, fast utilities for Luau. |
 | [VexByx/Crushed-Games](https://github.com/VexByx/Crushed-Games) | 0 | Crushed Games is an amazing Roblox group full of great games! |
 | [VexxBeams/ItemGenRoblox](https://github.com/VexxBeams/ItemGenRoblox) | 0 | Generate Any Item (add game link) (add desired item) |
 | [VeztWare/BlockMinigame](https://github.com/VeztWare/BlockMinigame) | 0 | a very complex game to make a script ong |
@@ -4194,6 +4328,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [VisheshRoy17/Kato_County](https://github.com/VisheshRoy17/Kato_County) | 0 | Kato County is a Roblox RP game. In this repository, all the game files (code) is available including all the code. |
 | [vishnuvkintali/roblox-obstacle-course-obby](https://github.com/vishnuvkintali/roblox-obstacle-course-obby) | 0 | 5-phase Roblox obstacle course with checkpoints, coins, moving platforms, and a win screen. Built in Lua. |
 | [VitorPezzete/Grand-Line-Chronicles](https://github.com/VitorPezzete/Grand-Line-Chronicles) | 0 | Sneaks about my work on my game "Grand Line Chronicles" (Roblox) |
+| [VitorPezzete/Untitled-One-Piece-Game](https://github.com/VitorPezzete/Untitled-One-Piece-Game) | 0 | (geen omschrijving op GitHub) |
 | [Vitouliss/Stuff-you-cannot-say](https://github.com/Vitouliss/Stuff-you-cannot-say) | 0 | A little niffy sort of useless script I wrote for ROBLOX games. |
 | [Vitouliss/Vitouliss-s-Lightweight-commands](https://github.com/Vitouliss/Vitouliss-s-Lightweight-commands) | 0 | The full source of my in-game administration commands for my ROBLOX games. |
 | [vitu0089/RobloxPortfolio](https://github.com/vitu0089/RobloxPortfolio) | 0 | This is the portfolio for some of my Roblox endeavors |
@@ -4207,6 +4342,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [vortechindustries/roblox_galaxy_wiki](https://github.com/vortechindustries/roblox_galaxy_wiki) | 0 | A wiki for the amazing game on roblox known as Galaxy, by rcouret |
 | [Vq-x/tycoon-rng](https://github.com/Vq-x/tycoon-rng) | 0 | Rust Program to make best tycoon set ups in the Roblox game Tycoon Rng. |
 | [vrs2210/Cookbook](https://github.com/vrs2210/Cookbook) | 0 | A collection of my example code bundled into one repository for free use. |
+| [vrt4vz7vgs-stack/gamedev-helper](https://github.com/vrt4vz7vgs-stack/gamedev-helper) | 0 | ForgeAI - game dev code generator, Luau error fixer, UE5 templates |
 | [Vsad-Laboratories/Party-Panic](https://github.com/Vsad-Laboratories/Party-Panic) | 0 | Party Panic Roblox Game |
 | [Vultiee/Cornerstone-Arcade-Scripts-Collection](https://github.com/Vultiee/Cornerstone-Arcade-Scripts-Collection) | 0 | Collection of scripts for Cornerstone Arcade I made on Roblox |
 | [walkerrobertben-etc/RBX-Toolbox](https://github.com/walkerrobertben-etc/RBX-Toolbox) | 0 | Collection of useful stuff for the Roblox engine. |
@@ -4214,6 +4350,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [warrior3456/RobloxBanList](https://github.com/warrior3456/RobloxBanList) | 0 | Ban list for my Roblox game |
 | [wasanspapyrus/GarbageUTMMARG](https://github.com/wasanspapyrus/GarbageUTMMARG) | 0 | Webpage used for ARG in small undertale au fangame in roblox called "Garbage UTMM Game" |
 | [Wasayullah/Coin-Collection-in-Roblox](https://github.com/Wasayullah/Coin-Collection-in-Roblox) | 0 | A coins collection game made in Roblox |
+| [wassay817-ux/vapour](https://github.com/wassay817-ux/vapour) | 0 | a luau 1 to 1 guide |
 | [watiokta/roblox-wati-oktaviani](https://github.com/watiokta/roblox-wati-oktaviani) | 0 | Aplikasi CRUD Game Roblox |
 | [watmelonn/karma.lol](https://github.com/watmelonn/karma.lol) | 0 | karma.lol is a game enhancer for roblox. |
 | [WaxSoftware/SoftwareRepository](https://github.com/WaxSoftware/SoftwareRepository) | 0 | I keep all functions / game mechanics here to save for future use in ROBLOX endeavors. |
@@ -4261,6 +4398,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [Wontonify/Guess-My-Penalty](https://github.com/Wontonify/Guess-My-Penalty) | 0 | Source Code for the Roblox Game Guess My Penalty! |
 | [woodycreblim-collab/roblox-joiner](https://github.com/woodycreblim-collab/roblox-joiner) | 0 | Roblox game instance joiner |
 | [woozy308/Lua-Prompt-Task-with-Cooldown](https://github.com/woozy308/Lua-Prompt-Task-with-Cooldown) | 0 | Used for Yuhario project on Roblox |
+| [Word30210/luau-style-guide](https://github.com/Word30210/luau-style-guide) | 0 | Word의 Luau 스타일 가이드 |
 | [Word30210/virtual_workspace](https://github.com/Word30210/virtual_workspace) | 0 | a collection implementation for store any values |
 | [workspacePWNAGE/2010M-Patching-Guide](https://github.com/workspacePWNAGE/2010M-Patching-Guide) | 0 | mid-2010 roblox patching guide! (STILL A WIP) |
 | [WorldGod69/PsxDupeAndScamXCipex](https://github.com/WorldGod69/PsxDupeAndScamXCipex) | 0 | this script is for a roblox game call preston is big p2w mama |
@@ -4396,6 +4534,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam, geen klonen of sp
 | [zevzack/Snake](https://github.com/zevzack/Snake) | 0 | I made a snake game in roblox |
 | [zeydzS/alien_roblox_game](https://github.com/zeydzS/alien_roblox_game) | 0 | this repository will explain the projects origin, goal and help new developers. |
 | [Zfnintendo/Demo-Studio-Projects](https://github.com/Zfnintendo/Demo-Studio-Projects) | 0 | A collection of small things I scripted in Roblox Studio, these are just files that contain the code for some of the projects. |
+| [Zfnintendo/Interactable-Objects](https://github.com/Zfnintendo/Interactable-Objects) | 0 | A centralized system for having many client objects in a game. |
 | [zgndia/spelling-bee-game](https://github.com/zgndia/spelling-bee-game) | 0 | A game inspired from the roblox game called "Spelling Bee" made with the python terminal. |
 | [ZhackCelestial/RSBZ](https://github.com/ZhackCelestial/RSBZ) | 0 | My attempts to learn Lua and write a script for roblox |
 | [zhafranzainal/gameDev_Roblox](https://github.com/zhafranzainal/gameDev_Roblox) | 0 | A collection of Lua scripts tailored for use in the Roblox game development environment. |
