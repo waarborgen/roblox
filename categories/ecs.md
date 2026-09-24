@@ -86,7 +86,7 @@ Entity Component Systems en frameworks voorbij Knit.
 | [zblox164/Scrypt](https://github.com/zblox164/Scrypt) | 1 | Scrypt-framework |
 | [ZacharyVanier/VZNCore-Template](https://github.com/ZacharyVanier/VZNCore-Template) | 0 | Batteries-included ECS-framework template |
 
-## Uitgebreide index (354)
+## Uitgebreide index (355)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -283,6 +283,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Diabetoss/NotificationSystem](https://github.com/Diabetoss/NotificationSystem) | 0 | An advanced notification framework with a customizable interface and powerful features. |
 | [dieromlo/luauScriptingCore](https://github.com/dieromlo/luauScriptingCore) | 0 | a modular Roblox project focused on avatar systems, UI architecture and reusable gameplay modules |
 | [DMoiPenn/Roblox-Framework](https://github.com/DMoiPenn/Roblox-Framework) | 0 | fully modular and reusable settings framework for Roblox games |
+| [DominoBreaker/BLOXPC](https://github.com/DominoBreaker/BLOXPC) | 0 | PC emulator for Roblox with extendable architecture. |
 | [Doneux/Seth-s-Lua-Script-Collection](https://github.com/Doneux/Seth-s-Lua-Script-Collection) | 0 | Seth's collection of helpful Lua scripts that serve as framework for functions in the Roblox game engine API. |
 | [DontRevealMe/Framework](https://github.com/DontRevealMe/Framework) | 0 | Personal framework I use. |
 | [double0and7n7/n4noware](https://github.com/double0and7n7/n4noware) | 0 | A modular UI framework for Roblox. |

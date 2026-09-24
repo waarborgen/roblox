@@ -22,7 +22,7 @@ Full-body VR, SteamVR-trackers en webcam-tracking.
 | [mathken029/vr-roblox-kit](https://github.com/mathken029/vr-roblox-kit) | 0 | Open-source VR game-development kit |
 | [Metatable-Games/MetaVR](https://github.com/Metatable-Games/MetaVR) | 0 | VR-framework in Luau |
 
-## Uitgebreide index (16)
+## Uitgebreide index (24)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -38,11 +38,19 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Mickelsonny/zombie-infection-treatment-abm-vr](https://github.com/Mickelsonny/zombie-infection-treatment-abm-vr) | 1 | Roblox adaptation of Repast's and Macal's Zombie Apocalypse model |
 | [missciera/Roblox-VR-Toggler](https://github.com/missciera/Roblox-VR-Toggler) | 1 | Toggles the VR option for Roblox without having to open the game. |
 | [200Tigersbloxed/tigerVR](https://github.com/200Tigersbloxed/tigerVR) | 0 | A VR Library for Roblox |
+| [ahaanlimaye/offCampus](https://github.com/ahaanlimaye/offCampus) | 0 | A multiplayer Roblox Virtual Reality experience (that runs on mobile, PC, and console) where students at the University of Windsor can join in and explore th... |
+| [Boyquotes/SoundSpaceReborn](https://github.com/Boyquotes/SoundSpaceReborn) | 0 | Originally a ROBLOX game, Sound Space is a game which takes Beat Saber's mechanics into a 3D, non-VR environment for people who can't afford VR headsets. It'... |
 | [DataEncoded/Tactile-Engine](https://github.com/DataEncoded/Tactile-Engine) | 0 | A roblox VR engine being developed. |
+| [HalloSpaceBoy5/Roblox-SteamVR-Closer](https://github.com/HalloSpaceBoy5/Roblox-SteamVR-Closer) | 0 | This is a program that stops the problem where SteamVR opens when you start roblox. |
+| [HgDeveloper13/roblox-vr-tracker](https://github.com/HgDeveloper13/roblox-vr-tracker) | 0 | Tracking the pitfalls, bugs and quirks of Roblox VR for developers. |
 | [Matej-Kocanda/block-quest-game](https://github.com/Matej-Kocanda/block-quest-game) | 0 | Block Quest 3D – Roblox-style 3D platformer game for kids, built with Three.js. Touch-optimized for iPad/tablet/mobile. |
 | [Metatable-Games/RBLXVRGui](https://github.com/Metatable-Games/RBLXVRGui) | 0 | Roblox Virtual Reality Graphical User Interface Management Module |
+| [MrAwesometacular/Roblox-Disable-SteamVR](https://github.com/MrAwesometacular/Roblox-Disable-SteamVR) | 0 | A project made in 2 days to stop Roblox from launching SteamVR when a VR headset is plugged in. Accomplished by renaming SteamVR folder. |
 | [Nicontm/VRBridge](https://github.com/Nicontm/VRBridge) | 0 | A Roblox VR API |
 | [Offline0909/RobloxSteamVRFixer](https://github.com/Offline0909/RobloxSteamVRFixer) | 0 | Fixes issue with SteamVR launching every time Roblox process is opened. |
 | [QuoniamVR/LuauXR](https://github.com/QuoniamVR/LuauXR) | 0 | Open-Source VR Module for Roblox |
+| [QuoniamVR/RobloxVR](https://github.com/QuoniamVR/RobloxVR) | 0 | Some shit for Roblox VR (sorry GitHub!) |
+| [QuoniamVR/VR-Chassis](https://github.com/QuoniamVR/VR-Chassis) | 0 | An A-Chassis derivative for VR cars in Roblox! |
+| [ReBuildVR/ReBuild](https://github.com/ReBuildVR/ReBuild) | 0 | ReBuild is a roblox VR game where the player gets shown objects that he/she has to rebuild within a timelimit |
 
 [← Terug naar overzicht](../README.md)

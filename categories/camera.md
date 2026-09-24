@@ -34,7 +34,7 @@ Camera-shake, custom camera's, cutscene-tools en timelines.
 | [zKozie/CameraSystem](https://github.com/zKozie/CameraSystem) | 0 | Config-gedreven twee-laags camera: state-camera's plus one-shot action-overlays die terugblenden |
 | [JRmcnugget/Viewpoint](https://github.com/JRmcnugget/Viewpoint) | 0 | Vloeiende, sterk aanpasbare third-person camera |
 
-## Uitgebreide index (107)
+## Uitgebreide index (109)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -80,6 +80,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Cbarillas04/Dungeon-Generation-Camera-System](https://github.com/Cbarillas04/Dungeon-Generation-Camera-System) | 0 | Procedural dungeon generation system with branching room logic and a lock-on camera built in Roblox. |
 | [cristophvolt-netizen/-Open-Source-Roblox-Movement-Base](https://github.com/cristophvolt-netizen/-Open-Source-Roblox-Movement-Base) | 0 | A lightweight, modular, object-oriented movement system for Roblox Studio built with Luau. Designed for high responsiveness, camera-based immersion, and easy... |
 | [DARIUSSSSSS-jpg/roblox-fspy-calibrator](https://github.com/DARIUSSSSSS-jpg/roblox-fspy-calibrator) | 0 | fSpy camera calibration ported to Roblox Studio as a plugin. Calculates camera parameters from vanishing points in images. |
+| [Decstarken/freecam](https://github.com/Decstarken/freecam) | 0 | a freecam code for roblox |
 | [dhiyatheprogirl/Roblox-20-anniversary](https://github.com/dhiyatheprogirl/Roblox-20-anniversary) | 0 | A cinematic web experience celebrating Roblox's 20th Anniversary (2006–2026), showcasing its journey, milestones, creator community, and lasting impact throu... |
 | [DoggyPH/Ve-C_DCS-1](https://github.com/DoggyPH/Ve-C_DCS-1) | 0 | A Roblox camera shake module that organizes camera shake functions into an object that contains them all. |
 | [donniehuamani-max/dereus-luau](https://github.com/donniehuamani-max/dereus-luau) | 0 | Dereus Luau — a complete cinematic UI library for Roblox Luau scripts |
@@ -115,6 +116,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Nirmini/OpenCam](https://github.com/Nirmini/OpenCam) | 0 | OpenCam is a Roblox freecam module that integrates a standard freecam with the customization of a DSLR. |
 | [nyxxx383/camlock.lua](https://github.com/nyxxx383/camlock.lua) | 0 | Simple camera lock script for Roblox games. |
 | [Pau1l/Rbx_DynamicCam](https://github.com/Pau1l/Rbx_DynamicCam) | 0 | First person view dynamic camera for Roblox. |
+| [plainenglishh/Roblox-Freecam-Fork](https://github.com/plainenglishh/Roblox-Freecam-Fork) | 0 | Roblox Freecam ported for use on local scripts. |
 | [programmeromaridris/Roblox-Camera-Handlers](https://github.com/programmeromaridris/Roblox-Camera-Handlers) | 0 | This repo consists of two camera scripts: an isometric camera, and a first person camera. |
 | [ProtoAnoWasTaken/CaughtOnCamera](https://github.com/ProtoAnoWasTaken/CaughtOnCamera) | 0 | A Balatro mod based on Roblox mysteries, myths, and web-projects |
 | [ptychugrzanka/roblox-fps-game-camera-settings](https://github.com/ptychugrzanka/roblox-fps-game-camera-settings) | 0 | your head will track where you re looking. |

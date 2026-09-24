@@ -42,7 +42,7 @@ Neurale netwerken, behavior trees, pathfinding, boids en LLM-NPC's.
 | [sebastianboscan/roblox-ai-npc](https://github.com/sebastianboscan/roblox-ai-npc) | 0 | NPC's die natuurlijke taal via TextGenerator omzetten in acties |
 | [Murned/roblox-boid-flocking](https://github.com/Murned/roblox-boid-flocking) | 0 | Drone-zwerm met Reynolds' boids + spatial grid |
 
-## Uitgebreide index (105)
+## Uitgebreide index (108)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -110,6 +110,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [i3Crk/DialogService](https://github.com/i3Crk/DialogService) | 0 | A service to aid Roblox developers in standardizing dialog handlers for their games' NPC interactions. |
 | [iscode0/NanoRBX](https://github.com/iscode0/NanoRBX) | 0 | Nano (or NanoRBX) is a machine learning/deep learning/reinforcement learning library for Roblox studio |
 | [JayJay648/roblox-restaurant-system](https://github.com/JayJay648/roblox-restaurant-system) | 0 | A Roblox restaurant system with ID management for NPCs, items, and locations |
+| [jndewey/Roblot](https://github.com/jndewey/Roblot) | 0 | Training ML models to play Roblox. |
 | [joshdev777/Omega](https://github.com/joshdev777/Omega) | 0 | A NPC system for Roblox, done in a simple way. |
 | [Jxl-s/nn-roblox](https://github.com/Jxl-s/nn-roblox) | 0 | Basic implementation of a neural network in Roblox |
 | [kamilwwwo90/NPC-pathfinding-system](https://github.com/kamilwwwo90/NPC-pathfinding-system) | 0 | A modular NPC pathfinding system for Roblox with four behaviour states. |
@@ -117,12 +118,14 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [kozuidev/PathForge](https://github.com/kozuidev/PathForge) | 0 | A custom grid-based pathfinding module made for Roblox, powered by A* search. Supports walls, clearance checks, and dynamic obstacles. |
 | [LadyCelastia/Pathfinder](https://github.com/LadyCelastia/Pathfinder) | 0 | roblox luau pathfind library (all scripts are modules) |
 | [LeMeeXalFan/jeu-roblox-npc-poursuivants](https://github.com/LeMeeXalFan/jeu-roblox-npc-poursuivants) | 0 | Un jeu Roblox où des NPCs te poursuivent pour te tuer |
+| [LeoStormer/Boids-Project-Demo](https://github.com/LeoStormer/Boids-Project-Demo) | 0 | A client-sided boid simulation making use of Parallel Luau on Roblox. |
 | [liminalsq/HOSTERS-FR-ASTAR](https://github.com/liminalsq/HOSTERS-FR-ASTAR) | 0 | Roblox pathfindings big rival fr fr |
 | [luckydev7/DecorativeNPC-Roblox](https://github.com/luckydev7/DecorativeNPC-Roblox) | 0 | A simple lib for creating decorative client-sided npcs in roblox |
 | [Made4Mischief/Click-To-Move-NPC-RobloxStudio-](https://github.com/Made4Mischief/Click-To-Move-NPC-RobloxStudio-) | 0 | The NPC moves to the position where the player clicks |
 | [mezz-source/KNDataAPI](https://github.com/mezz-source/KNDataAPI) | 0 | Data API used to run KILL NPCS's data. Uses in-game instances to quickly update data without sending datastore calls, with multiple store types loadable. You... |
 | [mezz-source/shopui](https://github.com/mezz-source/shopui) | 0 | Shop/loadout UI created for KILL NPCS, with both server and client code. Is slightly outdated now as the game has been updated and iterated. Feel free to ref... |
 | [mihaiionitabio-alt/Genrmination_Fight](https://github.com/mihaiionitabio-alt/Genrmination_Fight) | 0 | Roblox experience: a procedurally generated nine-storey plant-research laboratory. Two competing roles, an escorted research carrier NPC, and the full engine... |
+| [Missilenight/Boids-Roblox](https://github.com/Missilenight/Boids-Roblox) | 0 | A simple implimentation of Boids in Roblox Lua, containing three extra behaviours; Obstacle Avoidance, Boundaries, and Leadership |
 | [muhammed7mt/roblox-tycoon-map](https://github.com/muhammed7mt/roblox-tycoon-map) | 0 | A Roblox tycoon map with game mechanics, NPCs, and progression systems |
 | [nabilarbee/Kidocode-NPCTeacher](https://github.com/nabilarbee/Kidocode-NPCTeacher) | 0 | Teacher NPC in Roblox that utilises FSM |
 | [npocodes/Cortex](https://github.com/npocodes/Cortex) | 0 | NPC Framework for Roblox |
