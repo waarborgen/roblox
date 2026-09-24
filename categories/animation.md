@@ -78,7 +78,7 @@ Animatie-solvers, IK, Blender/Mixamo-pipelines, procedurele animatie en springs.
 | [realllityyt/myanimator](https://github.com/realllityyt/myanimator) | 0 | Animaties per ledemaat mixen: crossfade, additive layers, events |
 | [purpulhq/character-tilt](https://github.com/purpulhq/character-tilt) | 0 | Kantelt het character mee met de kijkrichting van de camera |
 
-## Uitgebreide index (402)
+## Uitgebreide index (404)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -169,6 +169,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [67564564643/Blender-FBX-Armature-Manager](https://github.com/67564564643/Blender-FBX-Armature-Manager) | 0 | Add-on for blender to export all the animations/actions of a selected armature/rig in one click as an FBX file. Mainly to be used for custom rigs made in ble... |
 | [aaaaakif1/eight-ball-knockout-game](https://github.com/aaaaakif1/eight-ball-knockout-game) | 0 | Multiplayer Roblox arena game featuring Lua gameplay systems, custom user interfaces, animations, minigames and 3D environments. |
 | [abcmateusz/Npc-Animation-Script](https://github.com/abcmateusz/Npc-Animation-Script) | 0 | Simplified Roblox Npc Animation Script |
+| [abisht-14/avatar-viewer](https://github.com/abisht-14/avatar-viewer) | 0 | Browser-based 3D viewer for Roblox avatar rigs, layered clothing, and cage deformers with performance profiling. Built with Three.js. |
 | [AdvBroden/Kikomi](https://github.com/AdvBroden/Kikomi) | 0 | Improved Animation Script for Roblox Studio. |
 | [AdvBroden/Kikomi_](https://github.com/AdvBroden/Kikomi_) | 0 | Improved Animation Script for Roblox Studio. A Script that is Able to be used quicker and more intellect than the Original Roblox Animation Script |
 | [ahmedbatt72-cmd/roblox-punch-tool](https://github.com/ahmedbatt72-cmd/roblox-punch-tool) | 0 | Roblox 2014-style punch tool with animations and modern Lua conventions |
@@ -462,6 +463,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [VVCoder12/Roblox-Animated-Page](https://github.com/VVCoder12/Roblox-Animated-Page) | 0 | Make you're Roblox page look animated with you're custom GIF |
 | [w1nd0wrs/wsanimator](https://github.com/w1nd0wrs/wsanimator) | 0 | The WS Animator plugin for Roblox Studio. Based on Moon Animator Free. |
 | [w3rn/Wizard-UI-Library](https://github.com/w3rn/Wizard-UI-Library) | 0 | A lightweight, modern Lua (Luau) library for creating draggable and interactive user interfaces in Roblox. Features customizable windows, sections, buttons, ... |
+| [waferwawa46-spec/r6-rig](https://github.com/waferwawa46-spec/r6-rig) | 0 | just a roblox r6 rig |
 | [walroo/betterTween](https://github.com/walroo/betterTween) | 0 | Roblox Studio wrapper for TweenService with added quality of life and utility. |
 | [wayaanthecoder23/Roxlo](https://github.com/wayaanthecoder23/Roxlo) | 0 | Roxlo is a Roblox game inspired by classic Roblox, blending nostalgic style with modern features. Explore new items, custom animations, and unique experience... |
 | [Waynely6262/roblox-tween-utilities-package](https://github.com/Waynely6262/roblox-tween-utilities-package) | 0 | Extension of Roblox's TweenService, implemented using RunService |

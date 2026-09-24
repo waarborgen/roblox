@@ -42,7 +42,7 @@ Neurale netwerken, behavior trees, pathfinding, boids en LLM-NPC's.
 | [sebastianboscan/roblox-ai-npc](https://github.com/sebastianboscan/roblox-ai-npc) | 0 | NPC's die natuurlijke taal via TextGenerator omzetten in acties |
 | [Murned/roblox-boid-flocking](https://github.com/Murned/roblox-boid-flocking) | 0 | Drone-zwerm met Reynolds' boids + spatial grid |
 
-## Uitgebreide index (136)
+## Uitgebreide index (137)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -86,6 +86,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [trashpanda027/StateMachine](https://github.com/trashpanda027/StateMachine) | 1 | This is a simple state machine for Roblox. |
 | [umamidayo/BehaviorTree](https://github.com/umamidayo/BehaviorTree) | 1 | (geen omschrijving op GitHub) |
 | [xXGeminiXx/PythonRobloxMachineLearning](https://github.com/xXGeminiXx/PythonRobloxMachineLearning) | 1 | (geen omschrijving op GitHub) |
+| [1ZeroStorm/MachineLearningRobloxStudio](https://github.com/1ZeroStorm/MachineLearningRobloxStudio) | 0 | (geen omschrijving op GitHub) |
 | [abcmateusz/Npc-Chat-Script](https://github.com/abcmateusz/Npc-Chat-Script) | 0 | Roblox Npc Chat Script |
 | [adam-drake1/roblox-lua-state-machine](https://github.com/adam-drake1/roblox-lua-state-machine) | 0 | (geen omschrijving op GitHub) |
 | [Alex91100-cmd/Code-Npc-Corps](https://github.com/Alex91100-cmd/Code-Npc-Corps) | 0 | ce code permet de rendre la mort d'un npc sur roblox beaucoup plus reaslist |

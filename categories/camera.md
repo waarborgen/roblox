@@ -34,7 +34,7 @@ Camera-shake, custom camera's, cutscene-tools en timelines.
 | [zKozie/CameraSystem](https://github.com/zKozie/CameraSystem) | 0 | Config-gedreven twee-laags camera: state-camera's plus one-shot action-overlays die terugblenden |
 | [JRmcnugget/Viewpoint](https://github.com/JRmcnugget/Viewpoint) | 0 | Vloeiende, sterk aanpasbare third-person camera |
 
-## Uitgebreide index (122)
+## Uitgebreide index (125)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -130,6 +130,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [ptychugrzanka/roblox-fps-game-camera-settings](https://github.com/ptychugrzanka/roblox-fps-game-camera-settings) | 0 | your head will track where you re looking. |
 | [Pxterz239/VelvetCam.lua](https://github.com/Pxterz239/VelvetCam.lua) | 0 | VelvetCam brings smoother and faster camera movement to Roblox with customizable sensitivity settings. |
 | [QubeCopyPaste/Roblox-Freecam](https://github.com/QubeCopyPaste/Roblox-Freecam) | 0 | Use the Roblox Studio Freecam, but on roblox. |
+| [Quinari05/Code](https://github.com/Quinari05/Code) | 0 | This code makes your screen shake in roblox, the closer you get to the red glowing part the harder the screen shake gets. You can click the part and it will ... |
 | [rabidraccoon027/CameraService](https://github.com/rabidraccoon027/CameraService) | 0 | A custom Roblox service for camera manipulation. |
 | [realsoftmax/Object-to-Camera](https://github.com/realsoftmax/Object-to-Camera) | 0 | A module made for Roblox games helps developers assign items in front of the client’s camera without having to use any viewport frames or UI objects. |
 | [RICHI-ilya/roblox-camera-server](https://github.com/RICHI-ilya/roblox-camera-server) | 0 | (geen omschrijving op GitHub) |
@@ -152,6 +153,8 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [TheGubBit/CameraGui](https://github.com/TheGubBit/CameraGui) | 0 | This is a Module Script for Roblox that let's you create or convert pre-existing guis into guis that follow the camera around. |
 | [tigerbaernils/roblox-join-menu](https://github.com/tigerbaernils/roblox-join-menu) | 0 | Roblox Join Menu with Camera Animation and Skin Selection |
 | [timoursfoil/Easy-Roblox-Cutscenes](https://github.com/timoursfoil/Easy-Roblox-Cutscenes) | 0 | A simple, modular system for creating cinematic cutscenes in Roblox. Supports smooth camera tweening, player/NPC animations, timed sound playback, and tempor... |
+| [trianmalik3322-cmd/Freecam-Explore](https://github.com/trianmalik3322-cmd/Freecam-Explore) | 0 | You can Freecam With UI (Roblox LocalScripts) |
+| [trianmalik3322-cmd/Freecam-Explore-reupload-test-](https://github.com/trianmalik3322-cmd/Freecam-Explore-reupload-test-) | 0 | You can Freecam With UI (Roblox LocalScripts) |
 | [unixtensor/ROBLOX-Studio-Wayland](https://github.com/unixtensor/ROBLOX-Studio-Wayland) | 0 | Fixes the ROBLOX Studio camera as a plugin that is bugged on the Wayland display server. |
 | [vxxfps/RTX-Cinematic-Roblox](https://github.com/vxxfps/RTX-Cinematic-Roblox) | 0 | (geen omschrijving op GitHub) |
 | [WaffleSpaghetti/custom-roblox-camera](https://github.com/WaffleSpaghetti/custom-roblox-camera) | 0 | a script for a camera with a custom up vector |

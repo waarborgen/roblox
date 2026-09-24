@@ -64,7 +64,7 @@ Melee-hitboxes, projectielen, guns, lag-compensatie en zones.
 | [Aeronautiac/ffRpgLuau](https://github.com/Aeronautiac/ffRpgLuau) | 0 | Fighting/RPG-core met client prediction en ping-compensatie |
 | [Xijum/Xijum-Weapon-System](https://github.com/Xijum/Xijum-Weapon-System) | 0 | Uitgebreid client-server wapensysteem met camera, animaties en modulaire configs |
 
-## Uitgebreide index (584)
+## Uitgebreide index (607)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -233,6 +233,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [AhmedGuesmi1/shot_system_review_ready](https://github.com/AhmedGuesmi1/shot_system_review_ready) | 0 | Shot System demo and Luau submission demonstrates projectile prediction, shot meter, guard contesting, metatable based ShotController. Demo: https://www.robl... |
 | [ahnafmayaz0-design/Shinobi-Life-2](https://github.com/ahnafmayaz0-design/Shinobi-Life-2) | 0 | "A comprehensive Shinobi Life 2 development project featuring custom game mechanics, combat systems, and open-world ninja elements for Roblox. |
 | [AIDENDAMII235/Fighting-game-LUA](https://github.com/AIDENDAMII235/Fighting-game-LUA) | 0 | fighting game scripts for roblox |
+| [alectrum563/Handheld](https://github.com/alectrum563/Handheld) | 0 | An FPS Roblox game. |
 | [Alexander-Duan/ShooterDemo](https://github.com/Alexander-Duan/ShooterDemo) | 0 | Roblox Studio. First game. |
 | [AlexanderKalenderski/Alex4o](https://github.com/AlexanderKalenderski/Alex4o) | 0 | Roblox scripter portfolio with gameplay systems, UI scripting, DataStores, abilities, and commission work. |
 | [alexandertrevino1974-arch/Alexander-](https://github.com/alexandertrevino1974-arch/Alexander-) | 0 | this one is from Roblox studio the app that makes Magic on Roblox |
@@ -242,6 +243,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [aliceblackrose/wggcalc](https://github.com/aliceblackrose/wggcalc) | 0 | A calculator to bruteforce find the best gun for the roblox game "Weird Gun Game". |
 | [alinaldi/demo_project](https://github.com/alinaldi/demo_project) | 0 | Roblox game project with combat and team systems |
 | [alnaqbiimohammed-dot/ROBLOX.COM](https://github.com/alnaqbiimohammed-dot/ROBLOX.COM) | 0 | Roblox is an online game platform and creation system developed by Roblox Corporation. Launched in 2006, it allows users to create, share, and play games mad... |
+| [alq101/Lol-Tweaks](https://github.com/alq101/Lol-Tweaks) | 0 | LOL Tweaks is a one-click batch script toolbox designed to automate dozens of manual optimizations that gamers and power users often apply to Windows systems... |
 | [amandania/Projectile](https://github.com/amandania/Projectile) | 0 | This is a class for simulating projectile motion, designed to be utilized within the Roblox engine. The simulator is capable of accurately depicting curves, ... |
 | [Andreilna/Calculadora-Espada](https://github.com/Andreilna/Calculadora-Espada) | 0 | Uma calculadora interativa feita para jogadores do Arise Crossover, um jogo de combate e evolução dentro do Roblox, onde você precisa combinar espadas para s... |
 | [anhyeutatcacacem55-lang/Roblox-WeaponMenu](https://github.com/anhyeutatcacacem55-lang/Roblox-WeaponMenu) | 0 | Menu lấy vũ khí ( Như Lai Thần Chưởng, Thanh Long Quyền, Giáng Long Thần Chưởng ) |
@@ -277,15 +279,18 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Brew-Softworks/BrewReach](https://github.com/Brew-Softworks/BrewReach) | 0 | A universal sword reach script for Roblox |
 | [BrickEngine/NHMS-2](https://github.com/BrickEngine/NHMS-2) | 0 | Luau FPS movement system |
 | [burhank5/dragon-roblox-essentials](https://github.com/burhank5/dragon-roblox-essentials) | 0 | Unlock Powerful Dragon Abilities in Roblox with This Advanced Script Guide |
+| [C4chasinJ/Project-Roblox-game-Rifted-Realms-](https://github.com/C4chasinJ/Project-Roblox-game-Rifted-Realms-) | 0 | ⚡Rifted Realms: A mysterious energy surge has awakened powers across the city… but not everyone is using them for good. 🌆 Explore a massive open-world city 🔥... |
 | [CalebSchmetzer/rblx-magic-orb-system](https://github.com/CalebSchmetzer/rblx-magic-orb-system) | 0 | Simple Roblox magical orb attack system |
 | [capirav/Interests](https://github.com/capirav/Interests) | 0 | Attack On Titan . Idv . Genshin Impact . Honkai Star Rail . Crk . MLBB . ZZZ . Magical Deathpair . Roblox . House MD . The Promised Neverland . JJBA . Homici... |
 | [CariWithaC/Light-Attack-Module-for-roblox-fighting-game-im-working-on-](https://github.com/CariWithaC/Light-Attack-Module-for-roblox-fighting-game-im-working-on-) | 0 | This is a very messy module that controls all the light attacks for a the specified todo character, there are 3 other modules that look like this to complete... |
 | [Catsuq/Fps-booster-roblox](https://github.com/Catsuq/Fps-booster-roblox) | 0 | FRAMES PER SECOND BOOSTER |
 | [cdg-hue/Anime-Fighting-Simulator-calculator](https://github.com/cdg-hue/Anime-Fighting-Simulator-calculator) | 0 | A calculator/tool site for the Roblox game Anime Fighting Simulator, designed to quickly calculate training gains, upgrade costs, and resource planning—helpi... |
+| [cdg-hue/devilhunter-calculator](https://github.com/cdg-hue/devilhunter-calculator) | 0 | 🎮 Devil Hunter Calculator - Free online tools for Roblox Devil Hunter game. Stats calculator, damage simulator, class progression tracker & more. |
 | [cfreemepq/Roblox-FPS-Improver](https://github.com/cfreemepq/Roblox-FPS-Improver) | 0 | This is a simple FPS Improver for roblox |
 | [chaseMckenzie88/rblx-game](https://github.com/chaseMckenzie88/rblx-game) | 0 | Shinobi Legends — a Naruto-themed Roblox action RPG with combat, chakra natures, quests, and a fully code-generated Konoha village. |
 | [chiiicken5538/RobloxFpsCapper](https://github.com/chiiicken5538/RobloxFpsCapper) | 0 | A simple interactive script that overrides your Roblox Client Settings to change your FPS Cap to the amount you want |
 | [chroma-hade/Hitbox-Module](https://github.com/chroma-hade/Hitbox-Module) | 0 | Hitbox module for roblox games. |
+| [chxllakxlla/prospecting-calculator-2.0](https://github.com/chxllakxlla/prospecting-calculator-2.0) | 0 | Based on AnChedraui's Prospecting Drop Calculator for the Roblox game Prospecting!, containing updated ore probabilities. |
 | [ciecieciecie/CatCast-multithreading-test](https://github.com/ciecieciecie/CatCast-multithreading-test) | 0 | A test build of a client sided projectile module designed for Roblox |
 | [Ciscoroyal/GRID-PANIC-GAME](https://github.com/Ciscoroyal/GRID-PANIC-GAME) | 0 | A visually explosive PvPvE survival arena for Roblox that focuses entirely on a highly polished, adrenaline-pumping evasion and combat loop. Players use rhyt... |
 | [clonkbot/nexus-quest-09cfb4](https://github.com/clonkbot/nexus-quest-09cfb4) | 0 | A Roblox-style 3D adventure game with joystick controls, missions, skills, and an enchanted island map featuring crystals, towers, and floating platforms. |
@@ -320,6 +325,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [DeeChaserr/ChaseDaChaserzz.com](https://github.com/DeeChaserr/ChaseDaChaserzz.com) | 0 | Welcome to CDC (Chase Da Chaserzz) CDC is a Roblox faction built on community, competition, and fun. Our group brings together players from popular hood game... |
 | [DennisMadej/Roblox-RichTextLibrary-hiddenDevs-application-](https://github.com/DennisMadej/Roblox-RichTextLibrary-hiddenDevs-application-) | 0 | This is my repository showing of my richTextLibrary made by me (GameFlame232) as an application for the skill roll developer on hidden devs. |
 | [DestinyKubbyP/Roblox-Combat-Project](https://github.com/DestinyKubbyP/Roblox-Combat-Project) | 0 | Hello, I'm Peter and I am 18 years old and I've been working on game development, reversing, and learning the interworking's of computers for a couple years ... |
+| [devbisonprogramming/Ghost-Step](https://github.com/devbisonprogramming/Ghost-Step) | 0 | A Ghost-Step dash ability in Roblox |
 | [displaynameroblox/local-manager-library](https://github.com/displaynameroblox/local-manager-library) | 0 | A powerful Lua library for Roblox executors providing comprehensive file operations, HTTP downloads, HTML-to-GUI conversion, and media handling capabilities. |
 | [dittequeenidea5/fght-in-schl-scrp](https://github.com/dittequeenidea5/fght-in-schl-scrp) | 0 | Gain the competitive edge in school-themed Roblox games with this combat script. Features include auto-attacks, reach enhancement, and movement speed boosts ... |
 | [DivTheDevv/Roblox-Codes](https://github.com/DivTheDevv/Roblox-Codes) | 0 | This code is for a MLG Gun for Roblox, and it is very advance. |
@@ -349,6 +355,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [FlareReconRoblox10/Fps-Add](https://github.com/FlareReconRoblox10/Fps-Add) | 0 | Add FPS to any of your roblox games |
 | [fork14/Ballistics-Calculator-for-Phantom-Forces](https://github.com/fork14/Ballistics-Calculator-for-Phantom-Forces) | 0 | A little calculator I made for calculating the damage of a certain weapon over a certain range or the range of a certain damage value in the game "Phantom Fo... |
 | [Froredion/Level_System](https://github.com/Froredion/Level_System) | 0 | template level system for your roblox game by SuperbulletAI |
+| [frostyyyy1/Roblox-Freedom-Distribution-Servers](https://github.com/frostyyyy1/Roblox-Freedom-Distribution-Servers) | 0 | Community-maintained list of public Roblox Freedom Distribution servers. Servers are automatically checked every 10 minutes for availability and status, with... |
 | [funnyaltforroblox-art/RBLX-Upper-Body-General-Acessories.20](https://github.com/funnyaltforroblox-art/RBLX-Upper-Body-General-Acessories.20) | 0 | Script that allows users to add models and meshes from the roblox create dashboard. Such as, client side guns for larp or smth |
 | [Fxrzdn/SmoothFPS](https://github.com/Fxrzdn/SmoothFPS) | 0 | A Roblox addon that uncaps FPS. Powered by JSON. |
 | [GANGOj/VolleyLegends](https://github.com/GANGOj/VolleyLegends) | 0 | Enhance your Roblox gameplay with the VolleyLegends script. Enjoy powerful serves, expanded hitboxes, and no cooldowns on both PC and mobile! 🐙💻 |
@@ -413,9 +420,12 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [JointMrsh/Lapiz-v1.0](https://github.com/JointMrsh/Lapiz-v1.0) | 0 | A roblox gun system, made from scratch. |
 | [JonathanKwak/gun-system](https://github.com/JonathanKwak/gun-system) | 0 | An open-source gun system I published for ROBLOX developers. It's a configurable version of the gun system I made from scratch for a previous game. |
 | [joseph3dickinson/ripofbloxschool](https://github.com/joseph3dickinson/ripofbloxschool) | 0 | rip off Roblox shooter for school |
+| [jpXproject/jpXCode-Roblox-Stabilizer](https://github.com/jpXproject/jpXCode-Roblox-Stabilizer) | 0 | 🧠 KONSEP ROBLOX STABILIZER jpXCode 🎯 Tujuan (realistis & kepakai) ✅ Bersihin cache sebelum launch ✅ Monitor FPS (estimasi), CPU, RAM Roblox ✅ Kill Roblox den... |
 | [jsdannyV6engine/Bullet-Simulation-w-commentary](https://github.com/jsdannyV6engine/Bullet-Simulation-w-commentary) | 0 | here i give you a commentary of an old project i've made last year or less. whitehatjr (an online coding school founded in india) gave me a boilerplate.js te... |
+| [jullajah/jullscript](https://github.com/jullajah/jullscript) | 0 | Jull's Roblox Optimizer Script (FPS, Ping, Drag, Toggle) |
 | [jun-ro/Polarix](https://github.com/jun-ro/Polarix) | 0 | A simple, powerful, and optimized third person shooter framework for the Roblox Engine. |
 | [jun-ro/RobloxFightingGameTutorial](https://github.com/jun-ro/RobloxFightingGameTutorial) | 0 | Repository for storing code and roblox game files for my fighting game tutorial. |
+| [junronghuang35-sys/Roblox-fps-beta](https://github.com/junronghuang35-sys/Roblox-fps-beta) | 0 | Download , and start! |
 | [JustACasualNoob/roblox-entity-system](https://github.com/JustACasualNoob/roblox-entity-system) | 0 | A reusable entity system originally developed for a Roblox combat game. |
 | [Kairu7/Kairu7.github.io](https://github.com/Kairu7/Kairu7.github.io) | 0 | Roblox Lua Combat System |
 | [KaoCreate/Roblox-Game-Systems](https://github.com/KaoCreate/Roblox-Game-Systems) | 0 | A collection of modular Roblox Lua systems I’ve built — including shop systems, combat logic, and data management frameworks. |
@@ -428,6 +438,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Kovizim/CsGoFont](https://github.com/Kovizim/CsGoFont) | 0 | Testing for CS:GO weapon icons on Roblox |
 | [lairon1gekata/NinjaSim](https://github.com/lairon1gekata/NinjaSim) | 0 | Free Roblox Ninja Fighting Simulator Script Download 🚀 |
 | [LakshmanChelliah/BeyBlox](https://github.com/LakshmanChelliah/BeyBlox) | 0 | Roblox Metal Fusion beyblade game — port of BeyWeb with campaign, ranked PvP, tournaments, and gacha progression |
+| [leea80603-dotcom/https-create.roblox.com-dashboard-creations-experiences-8580144026-overview](https://github.com/leea80603-dotcom/https-create.roblox.com-dashboard-creations-experiences-8580144026-overview) | 0 | Can place "Spores" that slow down and damage humans. |
 | [LeKea/MagicScreener-Alpha](https://github.com/LeKea/MagicScreener-Alpha) | 0 | MagicScreener Alpha is a all in one theatre technology system for roblox games. This is a beta access and is heavily monitored for prohibited use. |
 | [LeoPrivateRepo/Sword-Fighting-Baseplate](https://github.com/LeoPrivateRepo/Sword-Fighting-Baseplate) | 0 | Scripts for Sword Fighting Baseplate on Roblox |
 | [lilpugdude/Pumpkinrave-s-Roblox-Admin-Script](https://github.com/lilpugdude/Pumpkinrave-s-Roblox-Admin-Script) | 0 | This is a Rbx script that gives you cool abilitys |
@@ -474,6 +485,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [MyModioNameisDigging/FPS-and-Ping-slider-for-roblox](https://github.com/MyModioNameisDigging/FPS-and-Ping-slider-for-roblox) | 0 | Mobile and pc support in beta |
 | [mynameisanis/RobloxGameArena](https://github.com/mynameisanis/RobloxGameArena) | 0 | Jeu Roblox avec Lobby, Arena, Weapon System et Pass System |
 | [N1thinan/FIGHT-FF](https://github.com/N1thinan/FIGHT-FF) | 0 | Roblox Fighting game - https://www.roblox.com/games/5075462811 |
+| [n2vqg7x6ky-web/RobloxFightingGame](https://github.com/n2vqg7x6ky-web/RobloxFightingGame) | 0 | A complete Roblox fighting game with multiple characters and movesets |
 | [NamesDain/Roblox-Sword-Reach-GUI](https://github.com/NamesDain/Roblox-Sword-Reach-GUI) | 0 | Sword Reach cull real not virus script |
 | [nazreenakhtar/REACH](https://github.com/nazreenakhtar/REACH) | 0 | To be able to reach in roblox seord fighting games |
 | [NBTFUser/EscrimaGunStorage](https://github.com/NBTFUser/EscrimaGunStorage) | 0 | Gun Storage for the Roblox Game NBTF |
@@ -497,6 +509,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [NotVirusTotal/BloxFPSWeb.github.io](https://github.com/NotVirusTotal/BloxFPSWeb.github.io) | 0 | BloxFPSWeb:BloxFPS is a performance optimization tool designed to boost FPS and improve gameplay experience in Roblox by reducing lag and enhancing system ef... |
 | [NotZaching/RFU](https://github.com/NotZaching/RFU) | 0 | RFU: Unlock higher FPS in Roblox effortlessly. Open-source. |
 | [o7x/roblox-username-availability-api](https://github.com/o7x/roblox-username-availability-api) | 0 | API for checking Roblox usernames. |
+| [OGGGamer/Examiner](https://github.com/OGGGamer/Examiner) | 0 | A powerful deep-inspection and debugging toolkit for Roblox. Features live state snapshotting, diffing, informer utilities, and reactive variable observation... |
 | [oksouhhhhhhhhh/Hitbox-Visualizer](https://github.com/oksouhhhhhhhhh/Hitbox-Visualizer) | 0 | A repo to store images and a Roblox noob model, for use in the Item Asylum Wiki |
 | [Omer1BC/Roblox-Battle-Royale](https://github.com/Omer1BC/Roblox-Battle-Royale) | 0 | A multiplayer FPS designed for Roblox. |
 | [ominix408-hue/roblox-sword-duel-arena](https://github.com/ominix408-hue/roblox-sword-duel-arena) | 0 | Roblox 1v1 sword duel arena for competitive tournament gameplay with championship coliseum theme |
@@ -506,6 +519,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [PanchoPantera2k/Gun-System-Template](https://github.com/PanchoPantera2k/Gun-System-Template) | 0 | This module is made by @PanchoPantera2k on roblox and @doggo_person on discord. |
 | [pdarleyjr/aetheria-omni-verse](https://github.com/pdarleyjr/aetheria-omni-verse) | 0 | Aetheria: The Omni-Verse - A Roblox multiplayer experience featuring realm building, action combat, spirit collection/breeding, and player-driven economy |
 | [pedor123123/Hitbox-Api-For-Roblox-Studio](https://github.com/pedor123123/Hitbox-Api-For-Roblox-Studio) | 0 | (geen omschrijving op GitHub) Automatics hitbox, just |
+| [pepperman-vic/Realistic-FPS-Tutorial](https://github.com/pepperman-vic/Realistic-FPS-Tutorial) | 0 | This is a txt version of my Roblox Realistic FPS Tutorial, it was made for you to compare the changes between each episodes |
 | [Perthys/DolphinDivingBot](https://github.com/Perthys/DolphinDivingBot) | 0 | cool bot i made for https://www.roblox.com/games/6650331930/new-sword-steal-time-testing |
 | [phatsne/Gun-Gale-Online](https://github.com/phatsne/Gun-Gale-Online) | 0 | design and create game project roblox |
 | [Planderpn/Roblox-Combat-Framework](https://github.com/Planderpn/Roblox-Combat-Framework) | 0 | A modular open-source Roblox combat framework featuring M1 combos, hitboxes, blocking, dashing, stun, knockback, and an easy-to-use API. |
@@ -539,6 +553,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [REDEMPTIONN/REDEMTION](https://github.com/REDEMPTIONN/REDEMTION) | 0 | ROBLOX Sword Fighting Group |
 | [RefinedDev/viewmodel-controller](https://github.com/RefinedDev/viewmodel-controller) | 0 | weapons not done but viewmodel works |
 | [reservetrevionwachira-commits/trevion-roblox-academy](https://github.com/reservetrevionwachira-commits/trevion-roblox-academy) | 0 | .id-friendly Roblox learning project covering gameplay basics, avatar setup, safe online play, and early building skills. Includes simple tutorials, mini cha... |
+| [resetcharacter14-hub/My-Hidden-Devs-Application](https://github.com/resetcharacter14-hub/My-Hidden-Devs-Application) | 0 | Here, I will show my skill to apply and do Roblox commissions! |
 | [RetrixHere/Project-ZENO-Roblox-FPS](https://github.com/RetrixHere/Project-ZENO-Roblox-FPS) | 0 | (geen omschrijving op GitHub) |
 | [RezaGeraldy/Roblox_Fantasy_Game](https://github.com/RezaGeraldy/Roblox_Fantasy_Game) | 0 | roblox game that create using lua,this game is about battle ground using magic and sword with 4 different team. different team represent each races that exis... |
 | [rinme/UntitledGame](https://github.com/rinme/UntitledGame) | 0 | Roblox M1 combat system with 4-hit combo, heavy punch finisher, cooldowns, and auto-respawning dummy |
@@ -550,6 +565,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [RootMantap/Lock-FPS-roblox](https://github.com/RootMantap/Lock-FPS-roblox) | 0 | (geen omschrijving op GitHub) |
 | [RosieSapphire/DoorsRemake](https://github.com/RosieSapphire/DoorsRemake) | 0 | Remaking the DOORS game from Roblox in C, with my own engine. And it has guns. :3 |
 | [rubbish03/WeaponSystem](https://github.com/rubbish03/WeaponSystem) | 0 | Roblox improved Weapon System |
+| [RudsonArruda/FPS-Booster---Roblox](https://github.com/RudsonArruda/FPS-Booster---Roblox) | 0 | FPS Booster - Roblox |
 | [rullinoiz/osvsrg](https://github.com/rullinoiz/osvsrg) | 0 | Roblox RoBeats fork focused on skill |
 | [ruoadhey/BaseBattles-Roblox-](https://github.com/ruoadhey/BaseBattles-Roblox-) | 0 | This Where All The Magic Happens! |
 | [rylvion/unconventional](https://github.com/rylvion/unconventional) | 0 | fully client-side ability analysis tool for the roblox game unconventional. it turns structured ability data into interactive charts, filters, comparisons an... |
@@ -560,15 +576,18 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [santoshhibare-max/roblox-adventure-game](https://github.com/santoshhibare-max/roblox-adventure-game) | 0 | A Roblox adventure game with parkour, puzzle mechanics, combat system, and NPC rescue missions |
 | [scarabhub/Hard-FPS-Booster_SH](https://github.com/scarabhub/Hard-FPS-Booster_SH) | 0 | Hard FPS Booster ScarabHub for Roblox |
 | [seendsarahglass/GLTWEAKS](https://github.com/seendsarahglass/GLTWEAKS) | 0 | Một phần mềm tweak tối ưu window 10/11 và tăng fps cho các game valor, roblox,, minecraft |
+| [Shepp04/craft-all-abilities](https://github.com/Shepp04/craft-all-abilities) | 0 | a potential revive of ability craft on roblox - built to be maintainable but keep the same style as the original |
 | [shieeeesh/Polarus](https://github.com/shieeeesh/Polarus) | 0 | Polarus is a script for Roblox Gun Games that you can use. Hope you guys like it! (made by vyro28 on discord) |
 | [Shomdree/arcane-lineage-roblox-toolkit](https://github.com/Shomdree/arcane-lineage-roblox-toolkit) | 0 | Unlock Powerful Abilities with the Latest Roblox Arcane Lineage Script for Enhanced Gameplay |
 | [Shumani61/Roblox-](https://github.com/Shumani61/Roblox-) | 0 | games skills and create |
 | [SigmaThetaTech/FastCastRedux](https://github.com/SigmaThetaTech/FastCastRedux) | 0 | Open source module of FastCastRedux on Roblox. This module was posted to Roblox instead of GitHub, so the purpose of this module is to get it on GitHub. |
 | [singularityart/FPS-Changer-v.1.1-ROBLOX-](https://github.com/singularityart/FPS-Changer-v.1.1-ROBLOX-) | 0 | literally just an fps changer script for roblox. Also this is on the toolbox but you could also get it here. Soo enjoy if you want it |
+| [sirattack/roblox-cs-fps](https://github.com/sirattack/roblox-cs-fps) | 0 | Counter-Strike Style FPS for Roblox |
 | [SirDoodlesNY/roblox_hide_seek_1](https://github.com/SirDoodlesNY/roblox_hide_seek_1) | 0 | Roblox hide and seek game with a PvP aspect. |
 | [sirpanda7/PandaDamage](https://github.com/sirpanda7/PandaDamage) | 0 | A simple, no-fuss Roblox damage module. |
 | [skyark88/sf5](https://github.com/skyark88/sf5) | 0 | This script is for the roblox game Sword Fighters Simulator *Not Finished* |
 | [SN00P1/Roblox-ability-system.](https://github.com/SN00P1/Roblox-ability-system.) | 0 | Made this as fast as I could since I was in a rush so only have 2 abelites. Don't plan to finish lol |
+| [SN00P1/SN00P1](https://github.com/SN00P1/SN00P1) | 0 | Roblox sScripter experienced in building reliable gameplay systems such as inventory, abilities, data saving and more. |
 | [SnyperHosting/GunMods](https://github.com/SnyperHosting/GunMods) | 0 | [ Lua ] Roblox Gun Mods |
 | [socoolvro/fist-combat](https://github.com/socoolvro/fist-combat) | 0 | A very simple combat system base I wrote for Roblox. Only the fist weapon was implemented. |
 | [Soufyanmakhfi/roblox-gun-tester-script](https://github.com/Soufyanmakhfi/roblox-gun-tester-script) | 0 | Ultimate Roblox Gun Testing Script 🚀 Enhance Your Games with Powerful Tools |
@@ -593,6 +612,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Terrani-3/weapon-system](https://github.com/Terrani-3/weapon-system) | 0 | Ballistic bullet simulator for Roblox — penetration, ricochet, spread and tracers (Luau) |
 | [Theao0/Kure-Raian-Skill-For-Roblox](https://github.com/Theao0/Kure-Raian-Skill-For-Roblox) | 0 | lol Theaho made this one |
 | [TheAvgProgrammer/Roblox-Combat-System](https://github.com/TheAvgProgrammer/Roblox-Combat-System) | 0 | (geen omschrijving op GitHub) |
+| [TheFormid/roblox-fading-blocks-core](https://github.com/TheFormid/roblox-fading-blocks-core) | 0 | High-performance PvP mechanics and hybrid attribute system for Roblox (Luau). |
 | [thegreninja6/Guns-And-Monsters](https://github.com/thegreninja6/Guns-And-Monsters) | 0 | Um jogo de rpg com armas e monstros no roblox de mundo aberto |
 | [TheLeakerScripts/FE-ROBLOX-KICK-BAN-SCRIPT](https://github.com/TheLeakerScripts/FE-ROBLOX-KICK-BAN-SCRIPT) | 0 | Items required like (sword or smfh idk) game to target(games has a inventory or rp gamrs like brookhaven) |
 | [TheLovelyMask/cobyrigthedscript](https://github.com/TheLovelyMask/cobyrigthedscript) | 0 | so it's a remixed script for roblox Combat Warriors, lol. |
@@ -600,6 +620,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [TheRobloxainJacob/RobloxFpsBooster](https://github.com/TheRobloxainJacob/RobloxFpsBooster) | 0 | Boosts Roblox Fps (Frames Per Second) Exponentially. This Project Is Still In Beta, Try At Your Own Risk! |
 | [TheUnknownUser12344/HitBox-Module](https://github.com/TheUnknownUser12344/HitBox-Module) | 0 | Roblox Gets-Parts-Bound-In-Box hitbox handler remade with even more methods and versatility. |
 | [Tonuc1/Roblox-Combat-Test](https://github.com/Tonuc1/Roblox-Combat-Test) | 0 | Old project of mine for a HiddenDevs application |
+| [torresdigital/sopaspades](https://github.com/torresdigital/sopaspades) | 0 | 🍜 SOPA SPADES 🔫🇧🇷 A VOXEL first-person shooter game like Counter-Strike 🔫 + Minecraft 🪟 + Roblox 🤖 |
 | [TotallyNotMax15/RblxGunSystem](https://github.com/TotallyNotMax15/RblxGunSystem) | 0 | Sort of an advanced gun system (hopefully) simillar to ACS. Made in Roblox Studio. |
 | [TRCU-Development/roblox-passport-plz_gun_system_archive](https://github.com/TRCU-Development/roblox-passport-plz_gun_system_archive) | 0 | Legacy gun system archive from roblox passport plz |
 | [truncations/f3x_saving_game](https://github.com/truncations/f3x_saving_game) | 0 | ROBLOX game that utilizes the well-known building system: F3X building tools and provides the ability to save AND whitelist players to prevent griefing. |
@@ -634,6 +655,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [x-up/ShapecastHitbox](https://github.com/x-up/ShapecastHitbox) | 0 | Hitbox Module for ROBLOX using `Shapecast` |
 | [xor-lang-bit/RainBox](https://github.com/xor-lang-bit/RainBox) | 0 | Action-based blind hitboxes for Roblox. Server-sided, lag-compensated, rewindable, customizable, and built for fast-paced combat. |
 | [XY7KKMS2/roblox-fps-boots](https://github.com/XY7KKMS2/roblox-fps-boots) | 0 | (geen omschrijving op GitHub) |
+| [xylon-roblox-services/XYLON](https://github.com/xylon-roblox-services/XYLON) | 0 | XYLON® is a modern Roblox services platform providing stat tracking, avatar and account tools, and developer-focused integrations. Built for performance and ... |
 | [Youohoda/RobloxHacks](https://github.com/Youohoda/RobloxHacks) | 0 | A set of optimized Roblox Lua scripts aimed at enhancing gameplay, including player abilities, speed boosts, and custom features. Developed to provide unique... |
 | [youssefgithupaccount/RobloxEpicGame](https://github.com/youssefgithupaccount/RobloxEpicGame) | 0 | A massive, beautiful Roblox game with advanced systems, combat, quests, and multiplayer features |
 | [YTwezo/quirky-gun-game-scripts-for-roblox](https://github.com/YTwezo/quirky-gun-game-scripts-for-roblox) | 0 | Unlock Unique Weird Gun Game Script for Roblox Fun Edition 🕹️🔫 |
@@ -652,6 +674,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [zerootoad/Basic-Combat-System](https://github.com/zerootoad/Basic-Combat-System) | 0 | basic combat system for roblox im working on |
 | [ZevRobloxDoors2/How-To-Create-SWORDS-BATTLEGROUNDS](https://github.com/ZevRobloxDoors2/How-To-Create-SWORDS-BATTLEGROUNDS) | 0 | This Is How To Create Swords Battlegrounds.... It Takes Coding And Alot of Stuff... (This is Only In OBBY CREATOR IN ROBLOX!!!!!) |
 | [Ziheim51000/Roblox_FPSBooster](https://github.com/Ziheim51000/Roblox_FPSBooster) | 0 | Roblox FPS Booster Script Created By MonkeyVio, has all desired features you would need to get better performance, all features are UNIVERSAL. |
+| [ztsohg/game-dashboard](https://github.com/ztsohg/game-dashboard) | 0 | Roblox Game Dashboard with Search and ability to pin 3 games you want to see. |
 | [zuwd/zsf](https://github.com/zuwd/zsf) | 0 | ZSF Is A Script Used For ROBLOX Games, Generally For Sword Fighting. ZSF Was Created 1 February 2022, And Currently It Is A Big Project. |
 | [Zypher-HQ/LineDevs](https://github.com/Zypher-HQ/LineDevs) | 0 | LineDevs Console Logs is a professional and interactive Discord bot ecosystem built to deliver reliability, automation, and real-time insights in one unified... |
 

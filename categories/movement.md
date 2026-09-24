@@ -72,7 +72,7 @@ Character controllers, ragdolls, destructie, parkour en eigen physics-engines.
 | [Terrani-3/movement-system](https://github.com/Terrani-3/movement-system) | 0 | Movement-feel: camera-tilt, dynamische FOV en directionele animatie-blending |
 | [chroma-hade/Roblox-2D-Movement](https://github.com/chroma-hade/Roblox-2D-Movement) | 0 | 2D-movement en camerasysteem |
 
-## Uitgebreide index (334)
+## Uitgebreide index (346)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -207,6 +207,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [CahilIsmail1/RobloxCharacterStatsGui](https://github.com/CahilIsmail1/RobloxCharacterStatsGui) | 0 | Set the Stats of your Roblox character in games |
 | [CB-Gamer251/unity](https://github.com/CB-Gamer251/unity) | 0 | it's an roblox-style 3D parkour |
 | [cfreemepq/Roblox-Swim](https://github.com/cfreemepq/Roblox-Swim) | 0 | Simple swim script for roblox |
+| [clonkbot/block-dash-65bbac](https://github.com/clonkbot/block-dash-65bbac) | 0 | A Roblox-style 3D coin collection game with a blocky character you can move and jump around a colorful platform. |
 | [CMorrison82z/PhysicsMerger](https://github.com/CMorrison82z/PhysicsMerger) | 0 | An attempt to sync any CFrame manipulation with Roblox's physics update cycle. |
 | [codeninjashilliard/DS-Night-Shift](https://github.com/codeninjashilliard/DS-Night-Shift) | 0 | A game where you are the character. Inspired by The watchtower experience, and night shift experience. Both are Roblox games that inspired me to make this ga... |
 | [codesenseAye/interfaceBuilder](https://github.com/codesenseAye/interfaceBuilder) | 0 | A full fledge UI builder meant for roblox studio integration |
@@ -219,6 +220,8 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [D-123456789/RagDollModule](https://github.com/D-123456789/RagDollModule) | 0 | Roblox Module script for a RagDollService |
 | [DaiViet-vn2/Roblox-Movement-Detection---Discord-Dai-Viet](https://github.com/DaiViet-vn2/Roblox-Movement-Detection---Discord-Dai-Viet) | 0 | A bot that helps you detect people moving in your game, it detects and sends via Discord Webhook :D |
 | [damantesou/roblox-mirror](https://github.com/damantesou/roblox-mirror) | 0 | Simple mirror like the one from Identity Fraud, but fixed. It reflected the right way, and can also reflect tools(and other objects instanced to REAL_CHAR) b... |
+| [daniel476-cmyk/Scripty-roblox](https://github.com/daniel476-cmyk/Scripty-roblox) | 0 | Steal a breinrot double jump lag |
+| [danielsensei087/DeadByRoblox001](https://github.com/danielsensei087/DeadByRoblox001) | 0 | Takes the speed movement to 10 |
 | [dankify-coder/Parkour-Legends](https://github.com/dankify-coder/Parkour-Legends) | 0 | Upcoming Roblox Parkour Game! |
 | [dariyed/DemolitionSimulator](https://github.com/dariyed/DemolitionSimulator) | 0 | Physics-based building demolition simulator in Roblox — real structural engineering, load paths, and realistic collapse. |
 | [ddudh852-sys/Asasaafafw](https://github.com/ddudh852-sys/Asasaafafw) | 0 | script Roblox to control Players walks speed |
@@ -232,6 +235,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [eendje2013/Murders-vs-serifds-duels-in-Roblox](https://github.com/eendje2013/Murders-vs-serifds-duels-in-Roblox) | 0 | Speed x ray jump |
 | [EilaFleuret/Roblox-Test-Project](https://github.com/EilaFleuret/Roblox-Test-Project) | 0 | Simple project to learn how to build and script in Roblox. Small jump game where you collect coins to upgrade your jump and leap across platforms |
 | [elicat310-eng/roblox-invisibility-and-jump-platform](https://github.com/elicat310-eng/roblox-invisibility-and-jump-platform) | 0 | Sistema de invisibilidad y plataformas para Roblox |
+| [EliteGameBoosting/Elite-Boosting](https://github.com/EliteGameBoosting/Elite-Boosting) | 0 | Climb the ranks and unlock rewards in your favorite games with Elite Boosting! We specialize in providing professional boosting services for Apex Legends, Ra... |
 | [ElixNoir/Roblox-Physics2D](https://github.com/ElixNoir/Roblox-Physics2D) | 0 | Physics for 2D objects. I haven't decided how I'm going to structure this yet. |
 | [Emgyz/rpg-framework-principles](https://github.com/Emgyz/rpg-framework-principles) | 0 | Once upon a time I tried to make an RPG in Roblox... That didn't happen. I did learn a lot tho. Lessons about project structure, relevant libraries, design p... |
 | [errorinmysyntax/Roblox-Ragdoll-Service](https://github.com/errorinmysyntax/Roblox-Ragdoll-Service) | 0 | Roblox ragdoll ModuleScript (R6/R15) with toggle ragdoll, recovery, joint limits, and a press-R demo. |
@@ -280,6 +284,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [JoelGebrenigus/roblox-physics-sandbox](https://github.com/JoelGebrenigus/roblox-physics-sandbox) | 0 | (geen omschrijving op GitHub) |
 | [JohnEC3-code/Roblox-air-walk](https://github.com/JohnEC3-code/Roblox-air-walk) | 0 | You can air walk in roblox |
 | [jojojonne/i-want-to-download-gltf-model-from-site-spookslot](https://github.com/jojojonne/i-want-to-download-gltf-model-from-site-spookslot) | 0 | On the Metaverse Efteling Spookslot site, you can walk around the Spookslot. That's a 3D model, and I want to download it for my Efteling Roblox game. If I i... |
+| [jreilly650/roblox-killer-walls](https://github.com/jreilly650/roblox-killer-walls) | 0 | A Roblox game where you can walk through walls but there is a chance they will kill you |
 | [JRmcnugget/Legacy-Movement-Prototype](https://github.com/JRmcnugget/Legacy-Movement-Prototype) | 0 | Early prototype archive of a first person movement system in Roblox |
 | [JRmcnugget/Vertex](https://github.com/JRmcnugget/Vertex) | 0 | Decoupled, component driven character framework for Roblox |
 | [JuanchoGithub/Kirby-Jump-](https://github.com/JuanchoGithub/Kirby-Jump-) | 0 | Vibe coded with my son, he wanted to play some "Obby" (roblox word for hard platformer) with Kirby and he LOVES making mario levels with Mario Maker, so we c... |
@@ -288,6 +293,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [karsonf1/glide-a-rot](https://github.com/karsonf1/glide-a-rot) | 0 | First Roblox game development endeavor / Creature collector with a custom physics-based scalable hang-gliding mechanic. |
 | [kipuki/roblox-character-customization](https://github.com/kipuki/roblox-character-customization) | 0 | Roblox library allowing players to customize and save their character. |
 | [kitdevcs/MovementModule](https://github.com/kitdevcs/MovementModule) | 0 | This is an Roblox Module. |
+| [Kixdev/mouselock-roblox-improvement](https://github.com/Kixdev/mouselock-roblox-improvement) | 0 | MouseLock Overlay for Roblox (Cursor-Free) adds a mouse-lock style character facing system without overriding default Roblox movement. Keeps walk, sprint, an... |
 | [Kixdev/roblox-invisible-hybrid-script](https://github.com/Kixdev/roblox-invisible-hybrid-script) | 0 | Hybrid invisible system with modern draggable UI, depth control slider, and temporary restore for safe interactions. |
 | [kofentse2300-glitch/Speed-booster-X](https://github.com/kofentse2300-glitch/Speed-booster-X) | 0 | When executing the script a UI appears and can set the speed of your Roblox character |
 | [kot1v1pakete/Wall-climbing](https://github.com/kot1v1pakete/Wall-climbing) | 0 | Wall-climbing Roblox lua script |
@@ -298,6 +304,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [lovebirdsx/roblox-tutorial-jump](https://github.com/lovebirdsx/roblox-tutorial-jump) | 0 | (geen omschrijving op GitHub) |
 | [LucasRayo11/Roblox-Ragdoll-System](https://github.com/LucasRayo11/Roblox-Ragdoll-System) | 0 | This is a Roblox R6 Ragdoll System made by lucasrayo111 (LoWolly) |
 | [LucasWhite-Coder/LUA-Sprint](https://github.com/LucasWhite-Coder/LUA-Sprint) | 0 | Sprinting mechanic made within Roblox studio Shift to activate |
+| [maratulaliyah91-creator/MAZE-OF-HATRED](https://github.com/maratulaliyah91-creator/MAZE-OF-HATRED) | 0 | this game is taking character from forsaken roblox game :D |
 | [Marvridan/WalkSpeed-Change-for-maps](https://github.com/Marvridan/WalkSpeed-Change-for-maps) | 0 | For roblox studio (idk) |
 | [maryamkayyyy/Parkour-101](https://github.com/maryamkayyyy/Parkour-101) | 0 | GIVE A FREE Roblox |
 | [mas6y6/GuidelyBot](https://github.com/mas6y6/GuidelyBot) | 0 | A Discord Bot based around the Game ICSCS on ROBLOX with the character Guidely |
@@ -340,6 +347,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [poahsups/Roblox-simple-gui](https://github.com/poahsups/Roblox-simple-gui) | 0 | Fly, Walkspeed, JumpHeight. Simple. |
 | [Pokruk/RobloxAntiGravityManager](https://github.com/Pokruk/RobloxAntiGravityManager) | 0 | Useful roblox service-like ModuleScript to help disable gravity for models or parts |
 | [priyankaaich80-debug/roblox--parkour](https://github.com/priyankaaich80-debug/roblox--parkour) | 0 | roblox- parkour with all upgrades |
+| [programmeromaridris/Simple-Ultrakill-Roblox-Movement-Recreation](https://github.com/programmeromaridris/Simple-Ultrakill-Roblox-Movement-Recreation) | 0 | This script seeks to recreate popular Indie title 'Ultrakill''s movement system. |
 | [pudong8452/Roblox_2D_RPG](https://github.com/pudong8452/Roblox_2D_RPG) | 0 | Roblox 2D Engine Create [Movements, Gravity, Collision] |
 | [Qanuir/orion-ui](https://github.com/Qanuir/orion-ui) | 0 | Clean and customizable Roblox UI Library (Orion) – buttons, toggles, sliders, dropdowns, and more. |
 | [Qquaded/LaunchPhysics](https://github.com/Qquaded/LaunchPhysics) | 0 | LaunchPhysics is a Roblox module where it can weld each part in a model to a center and unanchor them. |
@@ -353,6 +361,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [raxdiusid/RBX-Cloth-Physics](https://github.com/raxdiusid/RBX-Cloth-Physics) | 0 | Cloth physics simulation using various numerical methods and runs in Roblox. |
 | [Rayan28334/RagdollRoblox](https://github.com/Rayan28334/RagdollRoblox) | 0 | Put This in StaterCharScript And make insert a script and paste. |
 | [RbxNoobScripter/Infinity-jump-Script-Rbx](https://github.com/RbxNoobScripter/Infinity-jump-Script-Rbx) | 0 | This script will allow you to jump endlessly in Roblox! |
+| [redpandasrule35/Cute-strawberry-](https://github.com/redpandasrule35/Cute-strawberry-) | 0 | Style your character with the greatest strawberry outfit on Roblox,🍓style your avatar with this now!! |
 | [rfct0r/Infinity-Coasters](https://github.com/rfct0r/Infinity-Coasters) | 0 | Open Source Roblox Roller Coaster Physics (a.k.a. "Coaster CFrame System") |
 | [Rocripts/Inf-Jump-1](https://github.com/Rocripts/Inf-Jump-1) | 0 | Inf Jump for roblox |
 | [Rok574/RagDollEnginerHub](https://github.com/Rok574/RagDollEnginerHub) | 0 | (geen omschrijving op GitHub) https://www.roblox.com/games/6584731191/Ragdoll-Engine |
@@ -381,6 +390,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Sweesy-png/obby-creator-showcase-for-roblox](https://github.com/Sweesy-png/obby-creator-showcase-for-roblox) | 0 | Ultimate Roblox Obby Creator Showcase Script – Build and Share Amazing Parkours |
 | [t0asty/lavajump](https://github.com/t0asty/lavajump) | 0 | A roblox jump-and-run game |
 | [tbega/MathX](https://github.com/tbega/MathX) | 0 | MathX is a comprehensive utility library for Roblox development, extending the standard library with essential game math functions for Scalars, Vectors, Phys... |
+| [thaoNEGuy64/Nullscape-Clone](https://github.com/thaoNEGuy64/Nullscape-Clone) | 0 | A game on roblox, passion project thats about fast movement and getting gifts from around a map intp the middle and progressing up levels. Rougelike. |
 | [Thaovu273/RobloxSystemMovement](https://github.com/Thaovu273/RobloxSystemMovement) | 0 | (geen omschrijving op GitHub) |
 | [thom463s/AmongUsRig](https://github.com/thom463s/AmongUsRig) | 0 | Turns your R6 character into an among us character in Roblox |
 | [Thriples/Grab-and-Throw-Player-Roblox-Studio](https://github.com/Thriples/Grab-and-Throw-Player-Roblox-Studio) | 0 | Alright, so I've decided to make a game on Roblox, but the problem is that / can't make this feature about grabbing and throwing people (in the direction of ... |
@@ -388,6 +398,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [toonrun123/Roblox-2D-Physics-Gui](https://github.com/toonrun123/Roblox-2D-Physics-Gui) | 0 | Just 2d physics, dont ask me how it work. |
 | [Tower-of-Hell-Script/.github](https://github.com/Tower-of-Hell-Script/.github) | 0 | Free Tower of Hell script for Roblox with auto climb and GUI. Boost your gameplay efficiency and complete towers faster. |
 | [Tower-of-Hell-Script/Tower-of-Hell-Script](https://github.com/Tower-of-Hell-Script/Tower-of-Hell-Script) | 0 | Free Tower of Hell script for Roblox with auto climb and GUI. Boost your gameplay efficiency and complete towers faster. |
+| [Trx-ced/Movement-System-by-Trx](https://github.com/Trx-ced/Movement-System-by-Trx) | 0 | Movement system for a blue lock game for Roblox. |
 | [TunmiseCroissant/Intro-to-Physics](https://github.com/TunmiseCroissant/Intro-to-Physics) | 0 | I'm using this to help me get a better understanding at AP Physics 1... I decided to make it on roblox to test a new game engine Note that everything is base... |
 | [Two-Ocean/Roblox-Data-Movement](https://github.com/Two-Ocean/Roblox-Data-Movement) | 0 | (geen omschrijving op GitHub) |
 | [UbuntoGod/roblox-platform](https://github.com/UbuntoGod/roblox-platform) | 0 | Roblox-like multiplayer 3D game — Three.js + Colyseus + Rapier physics |
@@ -396,6 +407,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [unbornylol/robloxtextpackV2](https://github.com/unbornylol/robloxtextpackV2) | 0 | Geometry Dash Roblox face texture pack is a Geometry Dash texture pack that adds Roblox faces to your icons. |
 | [UwU-02/OpenGL-Roblox-Character-Walking](https://github.com/UwU-02/OpenGL-Roblox-Character-Walking) | 0 | (geen omschrijving op GitHub) |
 | [ValueHat-Script/roblox-speed-boost-system](https://github.com/ValueHat-Script/roblox-speed-boost-system) | 0 | A Roblox game script system for speed boosters, sprint mechanics, and enhanced movement |
+| [vasitproject06/vihaansknowledgeworld](https://github.com/vasitproject06/vihaansknowledgeworld) | 0 | This website is all about the subjects I love like Space, Cricket, Roblox and Minecraft |
 | [Vel136/Resonix](https://github.com/Vel136/Resonix) | 0 | Physics-based acoustic simulation engine for Roblox — Beer-Lambert occlusion, frequency-dependent material absorption, and network replication in one library. |
 | [VinzzHubscript/ByVinzzHub](https://github.com/VinzzHubscript/ByVinzzHub) | 0 | Script Roblox auto walk by vinzz |
 | [voidgitts/roblox_character_moving_events](https://github.com/voidgitts/roblox_character_moving_events) | 0 | its a really simple & short code abt the character moving events in roblox |

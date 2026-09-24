@@ -88,7 +88,7 @@ Particles, shaders, lighting, portalen, raytracing en canvas-rendering.
 | [InfernoAmaruq/EasyPool](https://github.com/InfernoAmaruq/EasyPool) | 0 | Object pooling framework |
 | [sudoserver819/ClientCulling](https://github.com/sudoserver819/ClientCulling) | 0 | Camera-gebaseerde occlusion culling voor performance |
 
-## Uitgebreide index (359)
+## Uitgebreide index (379)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -219,6 +219,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Vainalykas/Skill-Ability-System-for-Roblox](https://github.com/Vainalykas/Skill-Ability-System-for-Roblox) | 1 | This script manages player skills/abilities, including granting, usage, cooldowns, and custom effects. |
 | [Vxtiic/roblox-combat-system](https://github.com/Vxtiic/roblox-combat-system) | 1 | Simple Roblox combat system with punch detection, damage, knockback, and visual hit effects. Designed for easy integration without animations. Perfect for le... |
 | [ZoyKad/echo](https://github.com/ZoyKad/echo) | 1 | Echo is a networking library to make effects replication easier |
+| [0Godisser0/BL-PYFLASK-RGB](https://github.com/0Godisser0/BL-PYFLASK-RGB) | 0 | Python flask project to try and see if I can render an image into Roblox |
 | [0xDPE/SimpleRobloxRaytracer](https://github.com/0xDPE/SimpleRobloxRaytracer) | 0 | simpler raytracer used in a roblox game |
 | [1thom/Part-Orbit](https://github.com/1thom/Part-Orbit) | 0 | basically makes a part orbit around another part. specially coded for tf2 unusual effects on roblox |
 | [1tyre/rma-rendered](https://github.com/1tyre/rma-rendered) | 0 | some rendered frame type shit for a roblox rma script lololololo |
@@ -228,6 +229,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Abyssdev12/roblox-jjk-vfx](https://github.com/Abyssdev12/roblox-jjk-vfx) | 0 | VFX de Black Flash e Dismantle (Jujutsu Kaisen) para Roblox Studio |
 | [Adidea/Art-Canvas](https://github.com/Adidea/Art-Canvas) | 0 | Drawing in Roblox has never been more ineffcient! |
 | [Aeronautiac/ODM](https://github.com/Aeronautiac/ODM) | 0 | An old Attack on Titan game implemented within Roblox. Fluid ODM gear, custom physics (to some extent), titan shifting, a basic combat system, client side re... |
+| [AhmedNasserHK/Roblox-Portable-Updater](https://github.com/AhmedNasserHK/Roblox-Portable-Updater) | 0 | Roblox Portable With Control & Cache / Shaders Saver Powered By HK Projects |
 | [akmalriyas/easy-ragdoll](https://github.com/akmalriyas/easy-ragdoll) | 0 | A lightweight module that provides a seamless way to toggle physics-based ragdoll effects on Roblox characters by dynamically swapping Motor6D joints for Bal... |
 | [AlexSamuraiS/scriptPortals-Roblox](https://github.com/AlexSamuraiS/scriptPortals-Roblox) | 0 | Simple script for two portals |
 | [alirobloxxx/rbshade](https://github.com/alirobloxxx/rbshade) | 0 | rbshade uses ROBLOX rbshade to improve the look of the game with high-quality graphics. Over 10+ million downloads. Download now for free! |
@@ -258,6 +260,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [catokbrook60-code/https-USERNAME.github.io-topup-salman-](https://github.com/catokbrook60-code/https-USERNAME.github.io-topup-salman-) | 0 | Top Up Salman APK adalah website top up game dengan tampilan modern dan animasi background halus. Website ini dirancang untuk digunakan sebagai WebView Andro... |
 | [catokbrook60-code/salman-store](https://github.com/catokbrook60-code/salman-store) | 0 | Top Up Salman APK adalah website top up game dengan tampilan modern dan animasi background halus. Website ini dirancang untuk digunakan sebagai WebView Andro... |
 | [cdmxgg-hub/roblox-shaders](https://github.com/cdmxgg-hub/roblox-shaders) | 0 | Roblox Shader Script - Custom visual effects and graphics modifications for enhanced gameplay visuals. Includes fullbright, contrast adjustment, bloom effect... |
+| [cgargil129-blip/Roblox-Matem-tico](https://github.com/cgargil129-blip/Roblox-Matem-tico) | 0 | Roblox para aprender las tablas de multiplicar |
 | [Ch4rb3n/RblxDecal-Downloader](https://github.com/Ch4rb3n/RblxDecal-Downloader) | 0 | Tool // Website to download roblox decals |
 | [Claire320/Roblox-Bounding-Box-Shader](https://github.com/Claire320/Roblox-Bounding-Box-Shader) | 0 | A shading technique that gets the bounding box of a part and scans the pixels in the bounding box, shading in all pixels the part is in. |
 | [CMorrison82z/FieldSimulation](https://github.com/CMorrison82z/FieldSimulation) | 0 | Repository for simulation fields on many particles. Additional module to support simulating Roblox instances in these fields. |
@@ -268,6 +271,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [d23dev/rblx-fractal](https://github.com/d23dev/rblx-fractal) | 0 | Fractal renderer in Roblox |
 | [daireks-dev/GuiTools](https://github.com/daireks-dev/GuiTools) | 0 | A Roblox module that provides several helpful functions for GUI reparenting, positioning, and more! |
 | [daler777232/daler](https://github.com/daler777232/daler) | 0 | create web site for shop doante games like free fire pubg brawl stars roblox genhin impact and td |
+| [danielgouzax14k-hash/Relik.gg](https://github.com/danielgouzax14k-hash/Relik.gg) | 0 | Site de compra de contas de jogos online incluindo roblox e free fire focado na ssegurança do comprador |
 | [Danila0214/Daniel](https://github.com/Danila0214/Daniel) | 0 | I really need help for graphics on roblox |
 | [DapohcaReal/decal-to-texture-roblox-converter](https://github.com/DapohcaReal/decal-to-texture-roblox-converter) | 0 | A lightweight, fast website that converts decal IDs to texture IDs! |
 | [darkestdev/ParticleCast](https://github.com/darkestdev/ParticleCast) | 0 | A simple ParticleEmitter resource! |
@@ -289,7 +293,9 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [emre1791/archive-roblox-thumbnail-renderer](https://github.com/emre1791/archive-roblox-thumbnail-renderer) | 0 | (geen omschrijving op GitHub) |
 | [eovelosomartins-dotcom/cursos-roblox](https://github.com/eovelosomartins-dotcom/cursos-roblox) | 0 | Aqui você aprendera - Informática Do Roblox Studio. |
 | [EricTrantoo/Abyssborne](https://github.com/EricTrantoo/Abyssborne) | 0 | Abyssborne is a fan-made Unreal Engine 5 port of Deepwoken, featuring brutal combat, permadeath, and naval exploration with enhanced graphics and physics. 🔗 ... |
+| [everton802/Everplace-](https://github.com/everton802/Everplace-) | 0 | Creste one marketplace for games Roblox,free fire,etc |
 | [Ewanophobia/pxl](https://github.com/Ewanophobia/pxl) | 0 | Open source Roblox renderer |
+| [ewilliamsh83/pixelymurphy](https://github.com/ewilliamsh83/pixelymurphy) | 0 | juego roblox-like de pixel y murphy hecho por Eduardo |
 | [f4rt0ng/Roblox-Raycast-Fps-Gun](https://github.com/f4rt0ng/Roblox-Raycast-Fps-Gun) | 0 | Roblox raycast gun system with damage, trail, and anti-self-hit |
 | [Facts-Machine/PartEmitter](https://github.com/Facts-Machine/PartEmitter) | 0 | Roblox 3D particle emitter. Currently version 1.0 |
 | [FelonyMane/roblox-gun-tool](https://github.com/FelonyMane/roblox-gun-tool) | 0 | R6 Roblox gun tool with shoot, equip, reload, and effects |
@@ -298,8 +304,11 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Fredydg10/html-evo-electronics](https://github.com/Fredydg10/html-evo-electronics) | 0 | Este proyecto es una página web estática desarrollada como una tienda llamada Evo Electronics, dedicada a la venta de tarjetas de regalo y recargas para vide... |
 | [fsco101/BloxMarket](https://github.com/fsco101/BloxMarket) | 0 | A functional online community platform highlighting trading items (Roblox) |
 | [Fuzzy9997/Zeals-Roblox-Reshaders](https://github.com/Fuzzy9997/Zeals-Roblox-Reshaders) | 0 | https://www.youtube.com/channel/UCfN0Oe5XU6Z8m266xj2jS7Q is Zeal's channel, I take no credit and just want to post this on github |
+| [GenaYT/Curso-de-Roblox-Rivals](https://github.com/GenaYT/Curso-de-Roblox-Rivals) | 0 | Aqui mostraremos tecnicas , trucos , y armas que quizas no desarrollaste tan bien asi que si quieres aprender |
+| [GenaYT/Curso-de-Roblox-Rivals-](https://github.com/GenaYT/Curso-de-Roblox-Rivals-) | 0 | Aqui mostraremos tecnicas , trucos , y armas que quizas no desarrollaste tan bien asi que si quieres aprender solo unete a el curso |
 | [gingerphoenix10/adofai-roblox](https://github.com/gingerphoenix10/adofai-roblox) | 0 | A Dance of Fire and Ice recreation in Roblox |
 | [GJordan416/SaintPalmsRecords](https://github.com/GJordan416/SaintPalmsRecords) | 0 | All EMS & Fire Records of Saint Palms Flordia, Roblox |
+| [GonnaDoItRealQuick/Roblox-Fps-Booster-Script](https://github.com/GonnaDoItRealQuick/Roblox-Fps-Booster-Script) | 0 | Works on every game do not change any graphics when it loaded |
 | [goofyuncle/Chroma](https://github.com/goofyuncle/Chroma) | 0 | The roblox mutli tool to beam accounts bot youtube videos etc |
 | [growth-installations/contraband-airways](https://github.com/growth-installations/contraband-airways) | 0 | Cartoon, Roblox-safe contraband system using stylized crates and fictional labels. Four types (Shiny Rocks, Mystery Powder, Heavy Toolkits, Glow-Disks) drive... |
 | [guagame862/Shopgiatgame](https://github.com/guagame862/Shopgiatgame) | 0 | Shop bán acc free fire,roblox,random roblox.... |
@@ -313,6 +322,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Huzukawaiii/Lightning-Beams](https://github.com/Huzukawaiii/Lightning-Beams) | 0 | Optimised, Lightweight, and highly customisable Lightning Effects for use in Roblox. Uses layered, moving perlin noise, uniform disk-point picking, and bezie... |
 | [I-layder-I/quic-sober-opengl](https://github.com/I-layder-I/quic-sober-opengl) | 0 | Simple OpenGL (old graphics) activator for Sober (Roblox for Linux) |
 | [Iforgotmypasswordlmao/Blitz2D-Demo](https://github.com/Iforgotmypasswordlmao/Blitz2D-Demo) | 0 | Blitz2D is a renderition of my friend's roblox game with the same name |
+| [imanmursyidan13-lab/Gyushop.store](https://github.com/imanmursyidan13-lab/Gyushop.store) | 0 | Top up game murah, Free fire, Roblox |
 | [ImInversed/Sparkly](https://github.com/ImInversed/Sparkly) | 0 | A 3D particle system in Roblox |
 | [intentionaI/enhance-graphics](https://github.com/intentionaI/enhance-graphics) | 0 | Enhances ROBLOX's graphics. Please read README.md for certain fixes. |
 | [Iuliane0/mapshot](https://github.com/Iuliane0/mapshot) | 0 | Top-down orthographic map renders of any Roblox place — no screenshots, no FOV distortion, no fog. Studio plugin + desktop app. |
@@ -325,6 +335,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Josewwije/Shader-Slende](https://github.com/Josewwije/Shader-Slende) | 0 | (geen omschrijving op GitHub) Shader Roblox |
 | [JoxWebDev/PixelMuse](https://github.com/JoxWebDev/PixelMuse) | 0 | Order Custom Roblox GFX |
 | [JPAMXD/FakeRobloxApp.](https://github.com/JPAMXD/FakeRobloxApp.) | 0 | # FakeApp Educativa Este proyecto fue creado con Sketchware Pro como ejemplo educativo para mostrar cómo los usuarios pueden analizar apps y entender los rie... |
+| [juaninsanote7773/roblox-chat-overlay](https://github.com/juaninsanote7773/roblox-chat-overlay) | 0 | JobID based chat overlay for free communication via render.com servers. |
 | [kadecopper2-collab/J-Shades](https://github.com/kadecopper2-collab/J-Shades) | 0 | Advanced Roblox shader engine + FPS booster + smart adaptive system |
 | [kaisummer2k3-eng/Kaiinshop.com](https://github.com/kaisummer2k3-eng/Kaiinshop.com) | 0 | Shop Roblox in free fire |
 | [KeshTGS/Roblox-Superpower-RPG-Team](https://github.com/KeshTGS/Roblox-Superpower-RPG-Team) | 0 | Roblox Superpower RPG: Seeking passionate members for a groundbreaking Roblox superpower RPG. Scripters, modelers, VFX artists, and map designers wanted. Pay... |
@@ -333,6 +344,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [laziithedev/RBXLPortfolio](https://github.com/laziithedev/RBXLPortfolio) | 0 | Project pages for my Roblox dev portfolio (Programming / VFX / Building) |
 | [learfuls/reshade](https://github.com/learfuls/reshade) | 0 | Basic LUA coded shaders for Roblox! |
 | [Legorulez101/roblox-decal-repository](https://github.com/Legorulez101/roblox-decal-repository) | 0 | This is an extensive collection of decals of which you can add to ROBLOX and use in your games. |
+| [LEOSCRIPTSS/RenderLite-V5](https://github.com/LEOSCRIPTSS/RenderLite-V5) | 0 | FPS BOOSTER Script Roblox |
 | [LHbtw/LHshaders](https://github.com/LHbtw/LHshaders) | 0 | goated shaders for roblox run it and follow the prompts and enjoy your glossy roblox experience |
 | [LibreCrea/.github](https://github.com/LibreCrea/.github) | 0 | CreaLibre es una comunidad de 2025 con materiales gratuitos para aprender a crear. Cumple con los Términos de GitHub y Roblox. |
 | [LibreCrea/RobloxCrea](https://github.com/LibreCrea/RobloxCrea) | 0 | RobloxCrea es un recurso gratuito de 2025 para aprender a crear experiencias en Roblox Studio (1.20+). Diseñado para proyectos de un solo jugador, es seguro,... |
@@ -345,6 +357,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [lizana12/Fire-Wolf-Clan](https://github.com/lizana12/Fire-Wolf-Clan) | 0 | bot para bot de discord de roblox |
 | [luankun9/Jao](https://github.com/luankun9/Jao) | 0 | Melhor no free fire e no roblox e no fifa mobile |
 | [LuffyBacon/pixel-questlines](https://github.com/LuffyBacon/pixel-questlines) | 0 | A nice roblox game that is in development. |
+| [mango385/Awaken-](https://github.com/mango385/Awaken-) | 0 | Aprender a programar,modelar y animar para la creación de mi propio juego de admins Roblox. |
 | [marikkomarik938-max/roblox-portal-gun](https://github.com/marikkomarik938-max/roblox-portal-gun) | 0 | Портальная пушка из Rick and Morty для Roblox с эффектами, анимациями и звуками |
 | [Maxtocode/Primera-piedra](https://github.com/Maxtocode/Primera-piedra) | 0 | Mis primeros programas para aprender a hacer juegos en roblox xd |
 | [memvry/Saturn-Shaders](https://github.com/memvry/Saturn-Shaders) | 0 | sum roblox shader idk |
@@ -364,6 +377,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Narutruco-5-0-Free-Fire-Robox/.github](https://github.com/Narutruco-5-0-Free-Fire-Robox/.github) | 0 | Narutruco 5.0 es un juego no oficial o creado por fanáticos que combina mecánicas y elementos de Free Fire, el popular juego de batalla real, y Roblox, la pl... |
 | [Nerirobloxsploiter/Nerixd](https://github.com/Nerirobloxsploiter/Nerixd) | 0 | quiero aprender lua para crear scripts en roblox :D |
 | [nick1319AI/Meu-Portifolio](https://github.com/nick1319AI/Meu-Portifolio) | 0 | Sou programador especializado em LuaU para Roblox Studio, criando sistemas otimizados e escaláveis. Tenho experiência com IA de NPCs, TweenService avançado, ... |
+| [nickgencom/app](https://github.com/nickgencom/app) | 0 | Create aesthetic gaming nicknames with special characters and decorative letters. Perfect for Free Fire, PUBG, Roblox. Organized by game, gender & country. |
 | [Nicolas155/arise-shadow-hunt-roblox-portal-tracker](https://github.com/Nicolas155/arise-shadow-hunt-roblox-portal-tracker) | 0 | Made this script that you can input on your console tab to better track portal and raids timers on Arise Shadow Hunt |
 | [NikolaGluh/BuilderTools](https://github.com/NikolaGluh/BuilderTools) | 0 | A roblox plugin called 'BuilderTools' that I made recently. It has 3 features currently: highlighting all unanchored parts, highlighting all locked parts, an... |
 | [ninjaninja140/Flow](https://github.com/ninjaninja140/Flow) | 0 | A Roblox fire detection system, made in Luau, developed with Rojo and served by Roblox Studio. Giving Flow the rebirth it needed, developers have come togeth... |
@@ -371,6 +385,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Noob-101-8988/super-fast-multithreaded-realtime-renderer-for-roblox](https://github.com/Noob-101-8988/super-fast-multithreaded-realtime-renderer-for-roblox) | 0 | something for like rasterization can be supported on it |
 | [NotRllyRn/CanvasDrawOOP](https://github.com/NotRllyRn/CanvasDrawOOP) | 0 | A OOP module designed to draw screens in Roblox with gradient particle emitters |
 | [OfficialSolarFlare/SolarFlareUI](https://github.com/OfficialSolarFlare/SolarFlareUI) | 0 | SolarFlare UI is a beta-stage Roblox UI project, offering modern, sleek, and immersive player mods. Customize game dynamics like walk speed, jump power, and ... |
+| [omar123abdulaziz123-source/pixelvault](https://github.com/omar123abdulaziz123-source/pixelvault) | 0 | selling roblox gamepasses online . the best and the cheapest |
 | [OmniScripterStorm/Dominion-Naval-Command-Grid-DNCG](https://github.com/OmniScripterStorm/Dominion-Naval-Command-Grid-DNCG) | 0 | Essential libraries for DNCG, a roblox naval warfare fire-control and situational awareness system |
 | [otate3055-del/roblox-optimizer](https://github.com/otate3055-del/roblox-optimizer) | 0 | Minimize your PC to gaming beast mode. Strips Roblox graphics to ultra-low, kills background apps, optimizes network, clears cache. Get 2-4x FPS boost on pot... |
 | [ounacer12/gaming](https://github.com/ounacer12/gaming) | 0 | Responsive Gaming Landing Page for Free Fire, PUBG, Fortnite, CODM, MLBB & Roblox with dynamic themes, logos, rewards, live feed, and ready for OGAds content... |
@@ -379,10 +394,12 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [PatrioticSoldier1944/1906-Orion-Election-Mod-TCT-](https://github.com/PatrioticSoldier1944/1906-Orion-Election-Mod-TCT-) | 0 | A mod for The Campaign Trail browser game, featuring the lead-up 1906 election in the Orion Republic from the CENTAURA/DEAD AHEAD (roblox game) lore |
 | [PeanutButterMilkShake/RobloxRayTracer](https://github.com/PeanutButterMilkShake/RobloxRayTracer) | 0 | (geen omschrijving op GitHub) |
 | [phillipdapaster/Event-System](https://github.com/phillipdapaster/Event-System) | 0 | Roblox styled event system ( renderstepped, stepped, etc ) |
+| [platon18k2-creator/HELLOGRAPHICS-](https://github.com/platon18k2-creator/HELLOGRAPHICS-) | 0 | Script for best graphics For roblox |
 | [POGILITE/RobloxianHigh](https://github.com/POGILITE/RobloxianHigh) | 0 | Get the fire ugcs instant |
 | [polymaxcube/RobloxAddingEffect](https://github.com/polymaxcube/RobloxAddingEffect) | 0 | get all roblox player then apply effect |
 | [prooheckcp/Bezier-Curve-Roblox](https://github.com/prooheckcp/Bezier-Curve-Roblox) | 0 | Creates a bézier curve effect on roblox with its given arguments |
 | [PuppoC/Roblox-Video-Player-OLD](https://github.com/PuppoC/Roblox-Video-Player-OLD) | 0 | Displaying videos using pixel data |
+| [qeyzggads/Portal](https://github.com/qeyzggads/Portal) | 0 | Portal-Visuals. Roblox visual script |
 | [QuantrumStudios/Quantrum---Roblox-Studio-Addon](https://github.com/QuantrumStudios/Quantrum---Roblox-Studio-Addon) | 0 | Delux Voxel Lighting V2 For Roblox Studio |
 | [rafifaisalcoding/visual-explosion-module-for-roblox--open-source](https://github.com/rafifaisalcoding/visual-explosion-module-for-roblox--open-source) | 0 | A module system you can use for tween explosions or vfxs expanding. |
 | [rbxrootx/Spark](https://github.com/rbxrootx/Spark) | 0 | Lua module for managing visual effects in Roblox, specifically designed to control ParticleEmitters and Beams with customized emit durations, delays, and cou... |
@@ -417,6 +434,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [stealabrainrotnerd/Unblocked-Roblox-Fortnite-and-Pixel-Gun-3D](https://github.com/stealabrainrotnerd/Unblocked-Roblox-Fortnite-and-Pixel-Gun-3D) | 0 | Best gaming web EVER! |
 | [Stiexeno/roblox-csharp-networking](https://github.com/Stiexeno/roblox-csharp-networking) | 0 | C# → Luau networking plugin for roblox-csharp. Static [NetworkEvent] delegates that lower to RemoteEvent Connect/Fire wires at compile time. |
 | [SuperStirling/Roblox-Fire-Sys](https://github.com/SuperStirling/Roblox-Fire-Sys) | 0 | (geen omschrijving op GitHub) |
+| [SVG-CARLOS/-SHADES---ROBLOX-SHADERS-SCRIPT-](https://github.com/SVG-CARLOS/-SHADES---ROBLOX-SHADERS-SCRIPT-) | 0 | Just some good Shaders that You can make |
 | [swayamchhotray/Pproject-1](https://github.com/swayamchhotray/Pproject-1) | 0 | I want to make a project like a game ex: Fortnite,PUBG,Free Fire,Minecraft,Roblox etc. |
 | [synpixel/crayon](https://github.com/synpixel/crayon) | 0 | Roblox library made to assist with RichText highlighting |
 | [tammawanmufti/roblox-teleport-portal](https://github.com/tammawanmufti/roblox-teleport-portal) | 0 | (geen omschrijving op GitHub) |
@@ -438,6 +456,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Vintovin/FireSpread](https://github.com/Vintovin/FireSpread) | 0 | A fire spreading system - Incomplete - This was used as a test project to measure my scripting abilities for the UK Roblox Group. |
 | [VioPaige/RobloxGuiFX](https://github.com/VioPaige/RobloxGuiFX) | 0 | Documentation repository for the best gui effects module |
 | [Vyon/Pentium](https://github.com/Vyon/Pentium) | 0 | Live text editor for Roblox games with working syntax highlighting, autocomplete, and path searching |
+| [we-exists/gametopup](https://github.com/we-exists/gametopup) | 0 | Trusted instant top-up center for Mobile Legends, PUBG, Free Fire, and Roblox — fast delivery and reliable service for Nepali gamers. |
 | [whrn7nf488-cyber/App-Roblox-](https://github.com/whrn7nf488-cyber/App-Roblox-) | 0 | Scripts para q tú puedas aprender |
 | [WillthewiseD/Roblox-Decal-Finder-By-ID](https://github.com/WillthewiseD/Roblox-Decal-Finder-By-ID) | 0 | helpful for regular players |
 | [Wingus-Wu/Server-Render](https://github.com/Wingus-Wu/Server-Render) | 0 | Server for roblox lua |
@@ -452,6 +471,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [ZaynDevMartin/Pro--Light](https://github.com/ZaynDevMartin/Pro--Light) | 0 | Pro Lighting Is a Lighting Group On ROBLOX |
 | [ZipperXYZ/ZipperXYZ-Reshade-Shader-Preset](https://github.com/ZipperXYZ/ZipperXYZ-Reshade-Shader-Preset) | 0 | Hey there here my roblox reshade preset for you guys >w< |
 | [zv8001/Z-Shade](https://github.com/zv8001/Z-Shade) | 0 | This is an automation that allows you to have shaders on Roblox. |
+| [zyndev7/RoFlags](https://github.com/zyndev7/RoFlags) | 0 | A txt files containing all the countries roblox id decal flags. |
 | [zZfriend123321/VfxFlipbookStudio](https://github.com/zZfriend123321/VfxFlipbookStudio) | 0 | VFX Flipbook Studio - GPU flipbook/texture-sheet generator for Roblox VFX |
 
 [← Terug naar overzicht](../README.md)

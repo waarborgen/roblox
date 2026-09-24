@@ -49,7 +49,7 @@ Voxels, dungeons, doolhoven, wave function collapse, noise en curves.
 | [Arav-ThewebMaker/Roblox-Maze-System](https://github.com/Arav-ThewebMaker/Roblox-Maze-System) | 0 | Doolhoven genereren én oplossen |
 | [IanLiggett/roblox-voxel-terrain](https://github.com/IanLiggett/roblox-voxel-terrain) | 0 | Chunked voxel-terrain met multithreading en binary greedy meshing |
 
-## Uitgebreide index (220)
+## Uitgebreide index (225)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -141,6 +141,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [AlexValenta/Dungeon-Crawl-Maturitni-projekt](https://github.com/AlexValenta/Dungeon-Crawl-Maturitni-projekt) | 0 | Soulslike RPG - hra v prostředí Roblox Studio |
 | [AntoniosIoannidis/Horror-Game](https://github.com/AntoniosIoannidis/Horror-Game) | 0 | Multiplayer horror lobby in Roblox (Luau): matchmaking, a procedurally-generated lantern, and immersion systems. |
 | [Arro-p/VoxelBlox](https://github.com/Arro-p/VoxelBlox) | 0 | VoxelBlox is a community-preserved, open-source voxel sandbox game originally created for the Roblox platform. Inspired by popular voxel games, it offers pla... |
+| [arthantyo/mentalmaths](https://github.com/arthantyo/mentalmaths) | 0 | A roblox game to sharpen your mental maths while not hitting lava! |
 | [asha23/arlo-backrooms-game](https://github.com/asha23/arlo-backrooms-game) | 0 | A Roblox horror-exploration game: procedurally generated Backrooms Level 0 |
 | [beatikay/vecta3](https://github.com/beatikay/vecta3) | 0 | my recreation of the roblox vector3 class. should work the same. purpose of this project was to learn metamethods and object-oriented programming in luau. i ... |
 | [benni-ben/noob-face-svg](https://github.com/benni-ben/noob-face-svg) | 0 | classic roblox noob face, remade in a vector-format. |
@@ -187,6 +188,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [KauaGould/UltiltyLibrary](https://github.com/KauaGould/UltiltyLibrary) | 0 | # Utility Library - Roblox Lua Biblioteca de utilidades desenvolvida em Lua para Roblox. ## Funcionalidades ### MathUtil - Sum - Multiply - Minus - Divide - ... |
 | [Kevinswan20/Username_Generator](https://github.com/Kevinswan20/Username_Generator) | 0 | This is a roblox username generator. |
 | [kfksbtry/extended_math_module](https://github.com/kfksbtry/extended_math_module) | 0 | Reminder: This project idea most likely seems very expensive, therefore it's going to congeal slowly. An alternative module to the original math library prov... |
+| [kingbob8888/asdasd](https://github.com/kingbob8888/asdasd) | 0 | Brute forcing the PCG32-XSH-RR algorithm commonly used for the math.random function in Roblox |
 | [kipuki/dungeon-crawler](https://github.com/kipuki/dungeon-crawler) | 0 | Procedurally generated dungeon crawling with an added demo. |
 | [kit-calloway/rbx-voxel-game](https://github.com/kit-calloway/rbx-voxel-game) | 0 | Voxel game created on the Roblox platform. |
 | [kit-calloway/rbx-voxel-prototype](https://github.com/kit-calloway/rbx-voxel-prototype) | 0 | Prototype voxel game created with Roblox Studio. |
@@ -235,6 +237,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [RBLXDungeonQuestTrackerMan/Roblox-Gregg-Dungeon-Quest-Tracker](https://github.com/RBLXDungeonQuestTrackerMan/Roblox-Gregg-Dungeon-Quest-Tracker) | 0 | (geen omschrijving op GitHub) |
 | [rbxts-libraries/rbxts-math](https://github.com/rbxts-libraries/rbxts-math) | 0 | Focused on developing a TypeScript-compatible solution to @robloxiandemo/roblox-modules/math! |
 | [rbxts-libraries/rbxts-vector](https://github.com/rbxts-libraries/rbxts-vector) | 0 | Focused on developing a TypeScript-compatible solution to @robloxiandemo/roblox-modules/vector! |
+| [RCushmaniii/mazebreak-trello](https://github.com/RCushmaniii/mazebreak-trello) | 0 | Trello Power-Up and project management automation for MazeBreak Roblox game development |
 | [realllityyy/CompressIt](https://github.com/realllityyy/CompressIt) | 0 | CompressIt is a high performance binary serializer written in pure Luau for Roblox. It utilizes a professional three-phase pipeline consisting of Probe, Enco... |
 | [Reid910/RiskyStrats](https://github.com/Reid910/RiskyStrats) | 0 | A real-time strategy game built for Roblox - capture territory, manage economy, and command troops across a procedurally generated map against up to 4 teams.... |
 | [Robloxexploiter691/Roblox-parser](https://github.com/Robloxexploiter691/Roblox-parser) | 0 | 🎚️An algorithm for parsing tables such as arrays and dictionaries designed Roblox with automatic variable creation and Instance path compression |
@@ -244,11 +247,13 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [savruun/rbxts-shatterbox](https://github.com/savruun/rbxts-shatterbox) | 0 | Voxel destruction, simple and optimized. A rbxts fork of shatterbox. |
 | [savruun/rbxts-vex](https://github.com/savruun/rbxts-vex) | 0 | An rbxts port of a voxelization package for roblox known as Vex. |
 | [SchonhardtPolyhedron/roblox-fractals](https://github.com/SchonhardtPolyhedron/roblox-fractals) | 0 | Toy to generate fractals in Roblox |
+| [sdoylelambda/roblox-image-matrix](https://github.com/sdoylelambda/roblox-image-matrix) | 0 | Turns an image you select into hex color code for easy Roblox image creation |
 | [Shambi-0/ConvexHull](https://github.com/Shambi-0/ConvexHull) | 0 | A simple implementation of Chan's algorithm for Convex Hulls, written for @rbxts. |
 | [sharmiladevi888/five-nights-at-the-forest](https://github.com/sharmiladevi888/five-nights-at-the-forest) | 0 | Web3 P2E survival game on Solana — Minecraft/Roblox voxel style meets FNAF tension. Wallet connect, scoring, leaderboard, referrals, admin-gated airdrops. |
 | [software-rbxdev/couchframework](https://github.com/software-rbxdev/couchframework) | 0 | The main framework used by any Roblox game created by Quaternion Entertainment |
 | [Squiegy/MathDCO](https://github.com/Squiegy/MathDCO) | 0 | All significant core, server-side scripts are attached here. Note: Math DCO can only really run in the Roblox client. The game link is attached below. |
 | [Stiexeno/roblox-csharp-library](https://github.com/Stiexeno/roblox-csharp-library) | 0 | General-purpose runtime library for roblox-csharp projects (Mathf, math global binding) |
+| [stilz/ahv_nanite](https://github.com/stilz/ahv_nanite) | 0 | implement ahv roblox algorithmus with nanite optimization |
 | [SudiMango/Randomized-Dungeon-Generation-Roblox](https://github.com/SudiMango/Randomized-Dungeon-Generation-Roblox) | 0 | Randomized dungeon generation in roblox with customization parameters |
 | [SuperInstance/luau-math](https://github.com/SuperInstance/luau-math) | 0 | Core math library for Roblox games — symmetry groups, sequences, and rhythm math |
 | [SuperInstance/luau-quest](https://github.com/SuperInstance/luau-quest) | 0 | Quest/mission system for Roblox — teach real math through gameplay |
