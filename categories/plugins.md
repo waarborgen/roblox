@@ -86,9 +86,13 @@ Handige plugins voor bouwen, terrain, UI en workflow.
 | [morgann1/stylua-for-roblox](https://github.com/morgann1/stylua-for-roblox) | 1 | StyLua als Studio-plugin |
 | [makwira/makwira](https://github.com/makwira/makwira) | 1 | Package manager zonder plugin |
 | [J4KEWasNotHere/Vigets-RBX](https://github.com/J4KEWasNotHere/Vigets-RBX) | 1 | Zet bestaande UI-objecten om naar Vide-code of UI-Labs stories |
+| [kine-rbx/kine](https://github.com/kine-rbx/kine) | 1 | Open, modulaire animatieplugin voor Roblox Studio |
+| [maciejphp/Roblox-BlockBench-model-importer](https://github.com/maciejphp/Roblox-BlockBench-model-importer) | 1 | Plugin om modellen en animaties uit BlockBench te importeren |
+| [twigkid/Calamari-Animator](https://github.com/twigkid/Calamari-Animator) | 1 | Open-source sinus-gebaseerde R6-animatieplugin |
 | [stravant/roblox-ropetool](https://github.com/stravant/roblox-ropetool) | 0 | RopeTool plugin |
 | [stravant/roblox-adhoc](https://github.com/stravant/roblox-adhoc) | 0 | Veel micro-tools in één plugin |
 | [Apisalam/BloxQA](https://github.com/Apisalam/BloxQA) | 0 | Plugin voor geautomatiseerde QA en gameplay-tests |
 | [raineyraine/plugin-components](https://github.com/raineyraine/plugin-components) | 0 | React-componenten voor het bouwen van Studio-plugins |
+| [arduoussteel/scatter-brush](https://github.com/arduoussteel/scatter-brush) | 0 | Plugin: bomen, rotsen en props als met een kwast op terrain schilderen |
 
 [← Terug naar overzicht](../README.md)

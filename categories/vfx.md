@@ -53,6 +53,7 @@ Particles, shaders, lighting, portalen, raytracing en canvas-rendering.
 | [Blupo/SimulationLoader](https://github.com/Blupo/SimulationLoader) | 2 | Holo-simulatie loader |
 | [Blupo/DayAtmos](https://github.com/Blupo/DayAtmos) | 2 | Lighting-script op basis van een DevForum-post |
 | [ch1kz/BloodFX](https://github.com/ch1kz/BloodFX) | 2 | Geoptimaliseerd part-based bloedsysteem (spatten, druppels, plassen) |
+| [Metatable-Games/LuauImageParser](https://github.com/Metatable-Games/LuauImageParser) | 2 | Strict Luau-module die pixeldata via WritePixelsBuffer naar EditableImage tekent |
 | [Y-Workplace/DissolveEffect](https://github.com/Y-Workplace/DissolveEffect) | 1 | Pixel-dissolve/materialize effect met gloeiende randen via EditableImage |
 | [PAKILA0/RBX-SpaceDust](https://github.com/PAKILA0/RBX-SpaceDust) | 1 | Screenspace VFX: ruimtestof rond de camera |
 | [Tsukeruu/rock-spawn-roblox](https://github.com/Tsukeruu/rock-spawn-roblox) | 1 | Krater/rotsen-ring effect (populaire anime-VFX trend) |
@@ -72,6 +73,7 @@ Particles, shaders, lighting, portalen, raytracing en canvas-rendering.
 | [usercontent0/DroneSystem](https://github.com/usercontent0/DroneSystem) | 1 | Drone-shows maken voor events (lichtshows in de lucht) |
 | [scrpt2r/axonEngine](https://github.com/scrpt2r/axonEngine) | 1 | CPU 3D-software-renderer in Luau |
 | [Danonienko/Seeing-Things](https://github.com/Danonienko/Seeing-Things) | 1 | Objecten geleidelijk laten verschijnen/verdwijnen op afstand |
+| [break-core/DrawTriangle](https://github.com/break-core/DrawTriangle) | 1 | Snelle DrawTriangle-implementatie voor EditableImage |
 | [afrxo/react-particle](https://github.com/afrxo/react-particle) | 0 | Particle-systeem met React en roblox-ts |
 | [WildCake/Voxel-Particles-Plugin](https://github.com/WildCake/Voxel-Particles-Plugin) | 0 | Voxel-particle effecten maken en previewen |
 | [Shuzaiku/Particle-Scaler](https://github.com/Shuzaiku/Particle-Scaler) | 0 | ParticleEmitters dynamisch schalen over hun levensduur |

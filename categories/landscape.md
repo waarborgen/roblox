@@ -42,6 +42,7 @@ Terrain-generators, echte kaarten, grotten, oceanen, foliage, dag/nacht en weer.
 | [stravant/roblox-roadhelper](https://github.com/stravant/roblox-roadhelper) | 1 | Helper voor procedurele wegsegmenten |
 | [CaidenSteele05/Procedural-3D-Terrain-Generator](https://github.com/CaidenSteele05/Procedural-3D-Terrain-Generator) | 1 | Noise-heightmaps, biome-kleuren en chunk-loading rond de speler |
 | [adrian-alberto/minimap_renderer](https://github.com/adrian-alberto/minimap_renderer) | 1 | Rendert minimaps uit heightmap-data (Pirates Life) |
+| [seem-dev/SeemTerrainGen-1](https://github.com/seem-dev/SeemTerrainGen-1) | 1 | World/nature-generator voor Roblox Studio |
 | [PCN29/sea-game](https://github.com/PCN29/sea-game) | 0 | Realtime FFT-oceaan met displacement voor naval/open-world games |
 | [stravant/roblox-pullup](https://github.com/stravant/roblox-pullup) | 0 | Terrain-editor plugin van stravant |
 | [GravyPouch/RobloxTerrainCreator](https://github.com/GravyPouch/RobloxTerrainCreator) | 0 | Web-tool: biomes schilderen in 2D, 3D preview, direct importeren in Studio |
@@ -55,5 +56,9 @@ Terrain-generators, echte kaarten, grotten, oceanen, foliage, dag/nacht en weer.
 | [Gzeu/roblox-procedural-worlds](https://github.com/Gzeu/roblox-procedural-worlds) | 0 | Collectie: biomes, terrain, grotten en chunk-generatie |
 | [ryan-c-scott/roblox-leveler](https://github.com/ryan-c-scott/roblox-leveler) | 0 | Tiled-kaarten omzetten naar heightmap-terrain, water en objecten |
 | [mateirenn/solum](https://github.com/mateirenn/solum) | 0 | Local-first terrain-authoring studio (Tauri) voor Roblox |
+| [hereelabs/roblox-classic-terrain-tools](https://github.com/hereelabs/roblox-classic-terrain-tools) | 0 | Tools om klassiek (oud) voxel-terrain te importeren in moderne places |
+| [limpe112/roblox-wildfire-system](https://github.com/limpe112/roblox-wildfire-system) | 0 | Automatisch bosbrandsysteem dat vuur over terrain-vakken laat verspreiden |
+| [chicken-ahm-12/WorldWeaver](https://github.com/chicken-ahm-12/WorldWeaver) | 0 | Krachtige terrain-generatietool voor Roblox |
+| [Smurfis/RBLX-EditableMesh-Water-FirstPerson](https://github.com/Smurfis/RBLX-EditableMesh-Water-FirstPerson) | 0 | EditableMesh-water voor first-person games |
 
 [← Terug naar overzicht](../README.md)

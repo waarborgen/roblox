@@ -45,5 +45,6 @@ Voxels, dungeons, doolhoven, wave function collapse, noise en curves.
 | [D3-4D/MGen](https://github.com/D3-4D/MGen) | 0 | Backtracking doolhof-algoritme |
 | [noahssjursen-code/proceduralObbyRobloxStudio](https://github.com/noahssjursen-code/proceduralObbyRobloxStudio) | 0 | Procedureel gegenereerde obby's |
 | [Arav-ThewebMaker/Roblox-Maze-System](https://github.com/Arav-ThewebMaker/Roblox-Maze-System) | 0 | Doolhoven genereren én oplossen |
+| [IanLiggett/roblox-voxel-terrain](https://github.com/IanLiggett/roblox-voxel-terrain) | 0 | Chunked voxel-terrain met multithreading en binary greedy meshing |
 
 [← Terug naar overzicht](../README.md)

@@ -390,5 +390,6 @@ Runtimes, sync-tools, package managers, asset-pipelines, CI en docs.
 | [rbx-forge/rbx-cli](https://github.com/rbx-forge/rbx-cli) | 0 | Declaratieve deploy + live-ops (servers, data, spelers) via Open Cloud |
 | [Qoxu/Beep](https://github.com/Qoxu/Beep) | 0 | Test-toolkit: performance-analyse, visuele debugging, physics-tests |
 | [nrbx-ts/rbxts-glob](https://github.com/nrbx-ts/rbxts-glob) | 0 | Vite-achtige glob-imports voor roblox-ts at runtime |
+| [theprofessionalatthings576/roblox-colour-by-number](https://github.com/theprofessionalatthings576/roblox-colour-by-number) | 0 | Kleur-op-nummer-systeem: afbeeldingen tonen zonder EditableImage-ID-verificatie |
 
 [← Terug naar overzicht](../README.md)

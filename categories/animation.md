@@ -53,12 +53,18 @@ Animatie-solvers, IK, Blender/Mixamo-pipelines, procedurele animatie en springs.
 | [infinitypacific/PaintRig-InfEdit](https://github.com/infinitypacific/PaintRig-InfEdit) | 2 | Blender-rigs voor Roblox |
 | [prepsure/Spranimate](https://github.com/prepsure/Spranimate) | 2 | 2D sprite-animator die Roblox' Animator nabootst |
 | [MrRoblick/Spring-luau](https://github.com/MrRoblick/Spring-luau) | 2 | Spring-physics module voor vloeiende animaties |
+| [Staticaliza/Staticaliza-Blender-Animation-Tools](https://github.com/Staticaliza/Staticaliza-Blender-Animation-Tools) | 2 | Roblox-animatietoolkit voor Blender |
+| [FogoEGelo/FGController](https://github.com/FogoEGelo/FGController) | 2 | Module die Moon Animator-animaties in-game echt laat afspelen |
 | [Moonpigguy/hl2strider](https://github.com/Moonpigguy/hl2strider) | 1 | Half-Life 2 Strider met IK-procedurele animatie |
 | [Ehonix/Dynamo](https://github.com/Ehonix/Dynamo) | 1 | Procedurele animator |
 | [skatingii/PerfectSequencer](https://github.com/skatingii/PerfectSequencer) | 1 | Frame-accurate events, ook gelockt aan de timeline van een AnimationTrack |
 | [thezoMx/keyframe_uploader](https://github.com/thezoMx/keyframe_uploader) | 1 | Plugin die keyframe-sequences automatisch uploadt |
 | [RAMPAGELLC/RBLXKeyframePlayer](https://github.com/RAMPAGELLC/RBLXKeyframePlayer) | 1 | Speelt KeyframeSequences af zonder massa-upload van animatie-ID's |
 | [worhasdev/Emote-Class-ROBLOX](https://github.com/worhasdev/Emote-Class-ROBLOX) | 1 | Emote-class met animatie + muziek |
+| [athar-adv/SimpleAnimate](https://github.com/athar-adv/SimpleAnimate) | 1 | OOP-animatiecontroller-module |
+| [RedcliffStudios/Motus](https://github.com/RedcliffStudios/Motus) | 1 | Lichtgewicht wrapper voor Animator-objecten |
+| [AMohammed03/R6-Sword-ML-Animator](https://github.com/AMohammed03/R6-Sword-ML-Animator) | 1 | Genereert R6-zwaardgevechtsanimaties met machine learning |
+| [iamklayton/klay-tween-animator](https://github.com/iamklayton/klay-tween-animator) | 1 | Animatiesysteem op basis van TweenService, geen ingeladen animaties nodig |
 | [Alphanumeriic/roblox-procedural-ik-spider](https://github.com/Alphanumeriic/roblox-procedural-ik-spider) | 0 | Procedurele IK-spin (poten die zich aan de grond aanpassen) |
 | [Zekiah-A/dream-roblox-blender-rig](https://github.com/Zekiah-A/dream-roblox-blender-rig) | 0 | Blender-rig met IK, custom bones en wisselbare gezichten |
 | [emdomanus/anatomy](https://github.com/emdomanus/anatomy) | 0 | Rig/addon-anatomie: named sockets, surfaces, mounts (accessoires aan rigs koppelen) |

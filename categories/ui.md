@@ -179,6 +179,8 @@ Reactieve UI, custom tekst, inventories, 2D-engines en mobiele controls.
 | [josha/Facet](https://github.com/josha/Facet) | 1 | Declaratieve, testbare UI-library |
 | [nrbx-ts/rbxts-react](https://github.com/nrbx-ts/rbxts-react) | 1 | Custom @rbxts/react-fork die React 19 spiegelt, met extra features |
 | [nrbx-ts/rbxts-topbar-components](https://github.com/nrbx-ts/rbxts-topbar-components) | 1 | Topbar-componenten met extra functionaliteit voor roblox-ts |
+| [realrr-off/roblox-ui-motion-studio](https://github.com/realrr-off/roblox-ui-motion-studio) | 1 | Web-based UI-animatiestudio met timelines en Bézier-easing die TweenService-code genereert |
+| [AlexeyLegasov63/Chance](https://github.com/AlexeyLegasov63/Chance) | 1 | Reactieve instance-programmering met Charm (state→instances) |
 | [Vvshenok/ContextUI](https://github.com/Vvshenok/ContextUI) | 0 | Context- en hover-panelen met docking en pinning |
 | [AnotherSubatomo/pii](https://github.com/AnotherSubatomo/pii) | 0 | Pico-size pseudo-immediate-mode UI |
 | [rvila94/SimpleToasts](https://github.com/rvila94/SimpleToasts) | 0 | Toast-notificaties zonder dependencies |

@@ -131,6 +131,8 @@ Luau-in-Luau, emulators, DOOM, N64, video, Python-in-Luau en game-ports.
 | [cubacadabra/web](https://github.com/cubacadabra/web) | 2 | Browser-client van Cubacadabra (Luau-gamepackages) |
 | [MrRoblick/lime-vm](https://github.com/MrRoblick/lime-vm) | 2 | Lime: een Luau virtual machine geschreven in Luau |
 | [chteau/rbx-native](https://github.com/chteau/rbx-native) | 2 | Onofficiële native Studio-achtige editor in Rust (GPUI + wgpu) die .rbxl opent, rendert en bewerkt |
+| [lfillaz/RobloxVideoConverter](https://github.com/lfillaz/RobloxVideoConverter) | 2 | Zet MP4 om naar part-based animaties met kleurpaletten en delta-frames |
+| [DeepXx86/video-to-roblox](https://github.com/DeepXx86/video-to-roblox) | 2 | Zet MP4 om naar bit-packed frames voor EditableImage-videoplayback |
 | [pon331/luau-vm](https://github.com/pon331/luau-vm) | 1 | Moderne Luau VM in Luau |
 | [PhantomShift/rbx-pen-showcase](https://github.com/PhantomShift/rbx-pen-showcase) | 1 | Tablet-pen druk in Roblox via een geëmuleerde controller |
 | [crownaintanoob/VideoToRobloxPlayer](https://github.com/crownaintanoob/VideoToRobloxPlayer) | 1 | Video naar frames/pixels omzetten en in Roblox tonen |
@@ -147,5 +149,7 @@ Luau-in-Luau, emulators, DOOM, N64, video, Python-in-Luau en game-ports.
 | [KartzRbx/CLPP](https://github.com/KartzRbx/CLPP) | 0 | CL++: C++-achtige taal die naar Luau compileert |
 | [highlou/luauvm](https://github.com/highlou/luauvm) | 0 | Virtual machine met assembler en compiler voor een B-achtige taal, in roblox-ts |
 | [nrbx-ts/rbxts-luau-vm](https://github.com/nrbx-ts/rbxts-luau-vm) | 0 | Loadstring-achtige Luau-VM om code uit strings in-game uit te voeren |
+| [MarsSquirrel/bad-apple](https://github.com/MarsSquirrel/bad-apple) | 0 | Bad Apple afgespeeld met de Terrain-engine van Roblox |
+| [TateoDev/Editable-Image-raycaster](https://github.com/TateoDev/Editable-Image-raycaster) | 0 | 3DSage-achtige raycaster-engine op EditableImage met wandtexturen |
 
 [← Terug naar overzicht](../README.md)

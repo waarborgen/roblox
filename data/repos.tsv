@@ -2221,3 +2221,33 @@ wild	nrbx-ts/rbxts-luau-vm	0	Loadstring-achtige Luau-VM om code uit strings in-g
 ui	ninjaninja140/basix-ui	0	roblox-ts-implementatie van mui/base-ui (headless componenten)
 plugins	raineyraine/plugin-components	0	React-componenten voor het bouwen van Studio-plugins
 systems	shysolocup/rbxts-rquery	0	jQuery-achtige helpers voor instances, properties en attributes in roblox-ts
+aitools	brockmartin/roblox-game-skill	169	Uitgebreide Claude Code-skill voor Roblox-gamedevelopment
+landscape	seem-dev/SeemTerrainGen-1	1	World/nature-generator voor Roblox Studio
+procgen	IanLiggett/roblox-voxel-terrain	0	Chunked voxel-terrain met multithreading en binary greedy meshing
+landscape	hereelabs/roblox-classic-terrain-tools	0	Tools om klassiek (oud) voxel-terrain te importeren in moderne places
+wild	MarsSquirrel/bad-apple	0	Bad Apple afgespeeld met de Terrain-engine van Roblox
+landscape	limpe112/roblox-wildfire-system	0	Automatisch bosbrandsysteem dat vuur over terrain-vakken laat verspreiden
+aitools	RazzleDazzleI/roblox-procgen	0	LLM-agent die 3D-terrain en nederzettingen genereert uit design-tabellen (Luau + MCP)
+plugins	arduoussteel/scatter-brush	0	Plugin: bomen, rotsen en props als met een kwast op terrain schilderen
+aitools	KingPinged/roblox-studio-mcp	0	MCP-server met 47 tools: screenshots, Luau uitvoeren, DataStores, input-simulatie, terrain
+landscape	chicken-ahm-12/WorldWeaver	0	Krachtige terrain-generatietool voor Roblox
+aitools	ThatGuyTHD/animation-mcp	2	MCP-server die AI-agents combat-animaties laat maken
+animation	Staticaliza/Staticaliza-Blender-Animation-Tools	2	Roblox-animatietoolkit voor Blender
+wild	lfillaz/RobloxVideoConverter	2	Zet MP4 om naar part-based animaties met kleurpaletten en delta-frames
+animation	FogoEGelo/FGController	2	Module die Moon Animator-animaties in-game echt laat afspelen
+animation	athar-adv/SimpleAnimate	1	OOP-animatiecontroller-module
+plugins	kine-rbx/kine	1	Open, modulaire animatieplugin voor Roblox Studio
+ui	realrr-off/roblox-ui-motion-studio	1	Web-based UI-animatiestudio met timelines en Bézier-easing die TweenService-code genereert
+animation	RedcliffStudios/Motus	1	Lichtgewicht wrapper voor Animator-objecten
+plugins	maciejphp/Roblox-BlockBench-model-importer	1	Plugin om modellen en animaties uit BlockBench te importeren
+animation	AMohammed03/R6-Sword-ML-Animator	1	Genereert R6-zwaardgevechtsanimaties met machine learning
+plugins	twigkid/Calamari-Animator	1	Open-source sinus-gebaseerde R6-animatieplugin
+ui	AlexeyLegasov63/Chance	1	Reactieve instance-programmering met Charm (state→instances)
+aitools	WutIsHummus/Roflow	1	AI-hub voor Roblox-animatie, modeling, SFX en VFX-workflows
+animation	iamklayton/klay-tween-animator	1	Animatiesysteem op basis van TweenService, geen ingeladen animaties nodig
+vfx	Metatable-Games/LuauImageParser	2	Strict Luau-module die pixeldata via WritePixelsBuffer naar EditableImage tekent
+wild	DeepXx86/video-to-roblox	2	Zet MP4 om naar bit-packed frames voor EditableImage-videoplayback
+vfx	break-core/DrawTriangle	1	Snelle DrawTriangle-implementatie voor EditableImage
+landscape	Smurfis/RBLX-EditableMesh-Water-FirstPerson	0	EditableMesh-water voor first-person games
+wild	TateoDev/Editable-Image-raycaster	0	3DSage-achtige raycaster-engine op EditableImage met wandtexturen
+tooling	theprofessionalatthings576/roblox-colour-by-number	0	Kleur-op-nummer-systeem: afbeeldingen tonen zonder EditableImage-ID-verificatie
