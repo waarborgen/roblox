@@ -34,7 +34,7 @@ Camera-shake, custom camera's, cutscene-tools en timelines.
 | [zKozie/CameraSystem](https://github.com/zKozie/CameraSystem) | 0 | Config-gedreven twee-laags camera: state-camera's plus one-shot action-overlays die terugblenden |
 | [JRmcnugget/Viewpoint](https://github.com/JRmcnugget/Viewpoint) | 0 | Vloeiende, sterk aanpasbare third-person camera |
 
-## Uitgebreide index (117)
+## Uitgebreide index (120)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -99,7 +99,9 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [github-user123456789/2007-roblox-camera](https://github.com/github-user123456789/2007-roblox-camera) | 0 | 2007 roblox camera using imports (for vsb) |
 | [Gradimirr/CameraLight](https://github.com/Gradimirr/CameraLight) | 0 | A plugin for Roblox, "Customizable camera light"! |
 | [Hayward-R/Visible-custom-model-arms-infront-of-camera](https://github.com/Hayward-R/Visible-custom-model-arms-infront-of-camera) | 0 | Roblox, server side script, to spawn custom model arms infront of the player's camera and keep th arms in place |
+| [Heavierr618/Roblox-shake](https://github.com/Heavierr618/Roblox-shake) | 0 | i was bored so i just made this much really. all it does is shake your roblox character |
 | [Huepow/Roblox-Intelligent-Camera-System](https://github.com/Huepow/Roblox-Intelligent-Camera-System) | 0 | Intelligent camera system with 3 diffrent modes. |
+| [huh90cg/mmv-enhanced-scripts-for-roblox](https://github.com/huh90cg/mmv-enhanced-scripts-for-roblox) | 0 | Unlock Powerful Roblox MMV Script Tools for Creative Cinematics 🎮✨ |
 | [instantstudio/cameracontroler](https://github.com/instantstudio/cameracontroler) | 0 | A Roblox Camera Controller System |
 | [IrishFix/rbxts-cmove-wrapper](https://github.com/IrishFix/rbxts-cmove-wrapper) | 0 | A sophisticated Roblox camera controller with smooth movement, rotation tracking, and intelligent occlusion detection. Features configurable smoothing, multi... |
 | [ItsAce07/LimeCutsceneManager](https://github.com/ItsAce07/LimeCutsceneManager) | 0 | Cutscene Module for Roblox Studio. |
@@ -132,6 +134,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [RICHI-ilya/roblox-camera-server](https://github.com/RICHI-ilya/roblox-camera-server) | 0 | (geen omschrijving op GitHub) |
 | [romasuper1900-cmd/roblox-speed-camera](https://github.com/romasuper1900-cmd/roblox-speed-camera) | 0 | (geen omschrijving op GitHub) |
 | [salahh1/betterCamera](https://github.com/salahh1/betterCamera) | 0 | better roblox camera system with custom shift locking, tilting with movement direction and changing FOV while running |
+| [SeveLent/FreeCam-rblx](https://github.com/SeveLent/FreeCam-rblx) | 0 | Free cam to roblox |
 | [Shahriarkarimhjshdjn/Game-1](https://github.com/Shahriarkarimhjshdjn/Game-1) | 0 | To make a movie tycoon in Roblox, use Luau to script floating buttons that build a Hollywood studio. Players spend cash to unlock green screens, camera rigs,... |
 | [SigmaLegendBacon/DOOM-in-Roblox](https://github.com/SigmaLegendBacon/DOOM-in-Roblox) | 0 | A lightweight, high-performance pseudo-3D retro shooter built entirely from scratch using pure Luau and standard Roblox GUI elements. Move: W A S D, Turn Cam... |
 | [sinfullykyle/Drone-Camera-Controller](https://github.com/sinfullykyle/Drone-Camera-Controller) | 0 | Custom Roblox camera recoil system with movement-based bounce and first-person feedback. Toggle with E key and use the recoil test to simulate camera kick fo... |

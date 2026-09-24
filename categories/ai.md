@@ -42,7 +42,7 @@ Neurale netwerken, behavior trees, pathfinding, boids en LLM-NPC's.
 | [sebastianboscan/roblox-ai-npc](https://github.com/sebastianboscan/roblox-ai-npc) | 0 | NPC's die natuurlijke taal via TextGenerator omzetten in acties |
 | [Murned/roblox-boid-flocking](https://github.com/Murned/roblox-boid-flocking) | 0 | Drone-zwerm met Reynolds' boids + spatial grid |
 
-## Uitgebreide index (130)
+## Uitgebreide index (134)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -131,11 +131,13 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [joshdev777/Omega](https://github.com/joshdev777/Omega) | 0 | A NPC system for Roblox, done in a simple way. |
 | [Jxl-s/nn-roblox](https://github.com/Jxl-s/nn-roblox) | 0 | Basic implementation of a neural network in Roblox |
 | [kamilwwwo90/NPC-pathfinding-system](https://github.com/kamilwwwo90/NPC-pathfinding-system) | 0 | A modular NPC pathfinding system for Roblox with four behaviour states. |
+| [kaxx1/Stated](https://github.com/kaxx1/Stated) | 0 | A finite state machine for Roblox |
 | [KishaMarisma/Roblox-New-Mestapota](https://github.com/KishaMarisma/Roblox-New-Mestapota) | 0 | A Project working on a new set of NPCS! Hope you enjoy work in progress |
 | [kozuidev/PathForge](https://github.com/kozuidev/PathForge) | 0 | A custom grid-based pathfinding module made for Roblox, powered by A* search. Supports walls, clearance checks, and dynamic obstacles. |
 | [LadyCelastia/Pathfinder](https://github.com/LadyCelastia/Pathfinder) | 0 | roblox luau pathfind library (all scripts are modules) |
 | [LeMeeXalFan/jeu-roblox-npc-poursuivants](https://github.com/LeMeeXalFan/jeu-roblox-npc-poursuivants) | 0 | Un jeu Roblox où des NPCs te poursuivent pour te tuer |
 | [LeoStormer/Boids-Project-Demo](https://github.com/LeoStormer/Boids-Project-Demo) | 0 | A client-sided boid simulation making use of Parallel Luau on Roblox. |
+| [lil-ds/Roblox_ML_Modeling](https://github.com/lil-ds/Roblox_ML_Modeling) | 0 | This is a repository dedicated to applying different ML models to Roblox game data. |
 | [liminalsq/HOSTERS-FR-ASTAR](https://github.com/liminalsq/HOSTERS-FR-ASTAR) | 0 | Roblox pathfindings big rival fr fr |
 | [luckydev7/DecorativeNPC-Roblox](https://github.com/luckydev7/DecorativeNPC-Roblox) | 0 | A simple lib for creating decorative client-sided npcs in roblox |
 | [Made4Mischief/Click-To-Move-NPC-RobloxStudio-](https://github.com/Made4Mischief/Click-To-Move-NPC-RobloxStudio-) | 0 | The NPC moves to the position where the player clicks |
@@ -146,6 +148,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [muhammed7mt/roblox-tycoon-map](https://github.com/muhammed7mt/roblox-tycoon-map) | 0 | A Roblox tycoon map with game mechanics, NPCs, and progression systems |
 | [mycooool/roblox-npc-backend](https://github.com/mycooool/roblox-npc-backend) | 0 | (geen omschrijving op GitHub) |
 | [nabilarbee/Kidocode-NPCTeacher](https://github.com/nabilarbee/Kidocode-NPCTeacher) | 0 | Teacher NPC in Roblox that utilises FSM |
+| [NathanL15/ObbyRL](https://github.com/NathanL15/ObbyRL) | 0 | some reinforcement learning tinkering in roblox |
 | [npocodes/Cortex](https://github.com/npocodes/Cortex) | 0 | NPC Framework for Roblox |
 | [OfficalIDontCode/roblox-healthbar-poc](https://github.com/OfficalIDontCode/roblox-healthbar-poc) | 0 | Roblox boss/NPC health bar + item drop feed (roblox-ts, Flamework, React) |
 | [OverlineJunior/rbxts-state-machine](https://github.com/OverlineJunior/rbxts-state-machine) | 0 | (geen omschrijving op GitHub) |
@@ -165,6 +168,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [SUMER9999dev/Neural-Link-LUAU](https://github.com/SUMER9999dev/Neural-Link-LUAU) | 0 | Nice Neural Link for Roblox |
 | [techs-sus/net](https://github.com/techs-sus/net) | 0 | neural network for roblox, and some scripts about it! |
 | [teckuxa/Roblox-Wandering-NPC-name-with-random-chat-messages](https://github.com/teckuxa/Roblox-Wandering-NPC-name-with-random-chat-messages) | 0 | Script that will turn you into wandering npc that will type random pre-made messages in chat! Only works in Roblox because of chat scripts |
+| [TheDynamicGit/Finite-State-Machine](https://github.com/TheDynamicGit/Finite-State-Machine) | 0 | A lightweight and extensible finite state machine for Roblox, with hooks, guards, and predictable transitions. |
 | [TJagain/Pathfinding-Testing](https://github.com/TJagain/Pathfinding-Testing) | 0 | Attempted implementation of the 3D Field D* pathfinding algorithm into Roblox Studio using Lua |
 | [TPSRX/RobloxVotingNPC](https://github.com/TPSRX/RobloxVotingNPC) | 0 | Roblox Voting NPC System with ProximityPrompt |
 | [turbinebroskilolz-dot/RobloxNPCPlayground](https://github.com/turbinebroskilolz-dot/RobloxNPCPlayground) | 0 | Its a playground of NPCs |

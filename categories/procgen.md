@@ -49,7 +49,7 @@ Voxels, dungeons, doolhoven, wave function collapse, noise en curves.
 | [Arav-ThewebMaker/Roblox-Maze-System](https://github.com/Arav-ThewebMaker/Roblox-Maze-System) | 0 | Doolhoven genereren én oplossen |
 | [IanLiggett/roblox-voxel-terrain](https://github.com/IanLiggett/roblox-voxel-terrain) | 0 | Chunked voxel-terrain met multithreading en binary greedy meshing |
 
-## Uitgebreide index (206)
+## Uitgebreide index (213)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -136,12 +136,14 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Yuzkkj/math-utils](https://github.com/Yuzkkj/math-utils) | 1 | A library for general useful math related functions. |
 | [3therial/ROBLOX-Username-Generator-JavaScript](https://github.com/3therial/ROBLOX-Username-Generator-JavaScript) | 0 | (geen omschrijving op GitHub) |
 | [abdedarghal111/Radial-color-picker](https://github.com/abdedarghal111/Radial-color-picker) | 0 | A radial color picker maded in roblox in 2d GUI like a math and programming challenge. |
+| [acaba1806/math_lib_roblox](https://github.com/acaba1806/math_lib_roblox) | 0 | (geen omschrijving op GitHub) |
 | [AircraftMadness/Catmull-Rom-Spline](https://github.com/AircraftMadness/Catmull-Rom-Spline) | 0 | The module that makes it easy to create Catmull-Rom Splines on Roblox. |
 | [AntoniosIoannidis/Horror-Game](https://github.com/AntoniosIoannidis/Horror-Game) | 0 | Multiplayer horror lobby in Roblox (Luau): matchmaking, a procedurally-generated lantern, and immersion systems. |
 | [Arro-p/VoxelBlox](https://github.com/Arro-p/VoxelBlox) | 0 | VoxelBlox is a community-preserved, open-source voxel sandbox game originally created for the Roblox platform. Inspired by popular voxel games, it offers pla... |
 | [asha23/arlo-backrooms-game](https://github.com/asha23/arlo-backrooms-game) | 0 | A Roblox horror-exploration game: procedurally generated Backrooms Level 0 |
 | [beatikay/vecta3](https://github.com/beatikay/vecta3) | 0 | my recreation of the roblox vector3 class. should work the same. purpose of this project was to learn metamethods and object-oriented programming in luau. i ... |
 | [benni-ben/noob-face-svg](https://github.com/benni-ben/noob-face-svg) | 0 | classic roblox noob face, remade in a vector-format. |
+| [BestOffline/matheo](https://github.com/BestOffline/matheo) | 0 | site pour les débutant de Evade sur Roblox |
 | [Bigriderr/RobloxUsernameGenerator](https://github.com/Bigriderr/RobloxUsernameGenerator) | 0 | (geen omschrijving op GitHub) |
 | [bloeo/rbxts-ccdik](https://github.com/bloeo/rbxts-ccdik) | 0 | CCDIK algorithm ported to Roblox for use with Motor6D Instances |
 | [boiwantlearncode/Maze-Race](https://github.com/boiwantlearncode/Maze-Race) | 0 | Repository hosting scripts for the Roblox game, Maze Race. |
@@ -157,6 +159,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [dej-zanl/RobloxAltNameGenerator](https://github.com/dej-zanl/RobloxAltNameGenerator) | 0 | It creates 30 alt names and check if they are taken or not (if names are banned like slurs they result in taken) and saves the one that are free on a file |
 | [Djolax/Dungeon-Quest](https://github.com/Djolax/Dungeon-Quest) | 0 | Dungeon Quest script for roblox |
 | [Echolewron/garbage-truck-sim](https://github.com/Echolewron/garbage-truck-sim) | 0 | Roblox game where you drive a garbage truck in a procedurally generated neighborhood. Made with Lua scripting, it features endless trash collection with rand... |
+| [eden56364/daily-shop](https://github.com/eden56364/daily-shop) | 0 | daily shop for the game dungeon heroes on roblox |
 | [EricApostal/block-mechanics](https://github.com/EricApostal/block-mechanics) | 0 | Voxel Engine for Roblox |
 | [fa899/Username-Generator](https://github.com/fa899/Username-Generator) | 0 | Generates usernames for games like ROBLOX, Minecraft and some social media. |
 | [faihanalqhtani4-byte/roblox-forest-generator](https://github.com/faihanalqhtani4-byte/roblox-forest-generator) | 0 | A Lua script for generating procedural forests in Roblox Studio games |
@@ -168,6 +171,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [HiddenKaiser/Roblox-Vector3-Metaobject](https://github.com/HiddenKaiser/Roblox-Vector3-Metaobject) | 0 | Import the Roblox Vector3 class into native lua with this metaobject (metatable) |
 | [himiko14122/dungeon-quest-reborn-roblox-wiki](https://github.com/himiko14122/dungeon-quest-reborn-roblox-wiki) | 0 | Dungeon Quest Reborn Wiki - Roblox Game Guides |
 | [homomorphist/bezier-exploration](https://github.com/homomorphist/bezier-exploration) | 0 | (geen omschrijving op GitHub) |
+| [HotManBobby96/roblox-sierpinski](https://github.com/HotManBobby96/roblox-sierpinski) | 0 | Rbx code for the fractals 2d and 3d |
 | [IamJamieX/roblox-cook-burgers-catscript](https://github.com/IamJamieX/roblox-cook-burgers-catscript) | 0 | local cat = workspace:FindFirstChild("Cats"):FindFirstChild("Cat") local destination = workspace:FindFirstChild("Restaurant"):FindFirstChild("Grill"):FindFir... |
 | [IcyJake/MathHelper-v1.0](https://github.com/IcyJake/MathHelper-v1.0) | 0 | MathHelper is a ROBLOX Lua script with custom-made functions related to math. |
 | [inetvercel/roblox-username-generator](https://github.com/inetvercel/roblox-username-generator) | 0 | (geen omschrijving op GitHub) roblox username generator |
@@ -214,8 +218,10 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [PixelpilotDiscord/Username-Gen](https://github.com/PixelpilotDiscord/Username-Gen) | 0 | 3-4-5 Letter Roblox Username Generator. |
 | [plasmix2/OpenGen](https://github.com/plasmix2/OpenGen) | 0 | OpenGen - Open Source Roblox Procedural Linear Generation - Primarily used for doors fangames - Includes: Room Generation, Client Side, etc. |
 | [programmeromaridris/Unnerving-Roblox-Procredural-Generation-](https://github.com/programmeromaridris/Unnerving-Roblox-Procredural-Generation-) | 0 | Made as a side project to test out making backrooms/liminal spaces out of procedural generation. |
+| [Promeum/Vector3D](https://github.com/Promeum/Vector3D) | 0 | A 64-bit replacement of Roblox's 32-bit Vector3 datatype. |
 | [properson/Simplex](https://github.com/properson/Simplex) | 0 | Customizable interaction system for Roblox games |
 | [qaptivator/roblox-matrix-library](https://github.com/qaptivator/roblox-matrix-library) | 0 | Roblox Library to perform basic matrix operations |
+| [quanstromberg-spec/math-universe](https://github.com/quanstromberg-spec/math-universe) | 0 | A fun, Roblox-style math learning application for children aged 6-9 |
 | [quantix-dev/qubit-noise](https://github.com/quantix-dev/qubit-noise) | 0 | A noise library designed specifically for usage with Roblox (luau), easily create a noise map in seconds. |
 | [QuantrumStudios/Quantrum](https://github.com/QuantrumStudios/Quantrum) | 0 | Quantrum V2 - Voxel Roblox Studio |
 | [QuantumPortal/Might-of-Mana](https://github.com/QuantumPortal/Might-of-Mana) | 0 | A Roblox dungeon-delving experience. |
@@ -249,6 +255,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [TheCSDev/rbxl-quaternion-module](https://github.com/TheCSDev/rbxl-quaternion-module) | 0 | A Quaternion module for the Roblox game engine. |
 | [TheDrakKing/VoxelBladeBuildMaker](https://github.com/TheDrakKing/VoxelBladeBuildMaker) | 0 | A Website for you to make Builds, for the Roblox Game VoxelBlade |
 | [ToastEngine/rbx_circle_math](https://github.com/ToastEngine/rbx_circle_math) | 0 | Roblox 2D circle math |
+| [TotoCodeFR/Vector](https://github.com/TotoCodeFR/Vector) | 0 | Vector is now available at https://github.com/Vector-Roblox |
 | [TRGphantom/demiosnamegen](https://github.com/TRGphantom/demiosnamegen) | 0 | name generator from 3-15 letter names for roblox |
 | [tripleselect/name-generator](https://github.com/tripleselect/name-generator) | 0 | Generate names for Roblox projects. |
 | [Uhsleep/BezierCurve-Plugin-Roblox](https://github.com/Uhsleep/BezierCurve-Plugin-Roblox) | 0 | Plugin for Roblox that enables easy creation of Bezier curves |

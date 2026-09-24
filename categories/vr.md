@@ -22,7 +22,7 @@ Full-body VR, SteamVR-trackers en webcam-tracking.
 | [mathken029/vr-roblox-kit](https://github.com/mathken029/vr-roblox-kit) | 0 | Open-source VR game-development kit |
 | [Metatable-Games/MetaVR](https://github.com/Metatable-Games/MetaVR) | 0 | VR-framework in Luau |
 
-## Uitgebreide index (36)
+## Uitgebreide index (37)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -62,6 +62,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [QuoniamVR/VR-Chassis](https://github.com/QuoniamVR/VR-Chassis) | 0 | An A-Chassis derivative for VR cars in Roblox! |
 | [ReBuildVR/ReBuild](https://github.com/ReBuildVR/ReBuild) | 0 | ReBuild is a roblox VR game where the player gets shown objects that he/she has to rebuild within a timelimit |
 | [SlapBattlesRepository/Roblox-Mobile-Virtual-Reality-Hook-Script](https://github.com/SlapBattlesRepository/Roblox-Mobile-Virtual-Reality-Hook-Script) | 0 | this is a script that makes it look like you have a virtual reality headset on, when you dont |
+| [Superior-Qam/P-SCP-Room---LCZ-Straight-Armoury](https://github.com/Superior-Qam/P-SCP-Room---LCZ-Straight-Armoury) | 0 | Raw Code Data for Custom Room in Project SCP. Play Project SCP in Roblox via: https://www.roblox.com/games/5534891288/Project-SCP-VR-SUPPORT |
 | [The3Luigis/SMO-RP-Roblox](https://github.com/The3Luigis/SMO-RP-Roblox) | 0 | Just a man doing gods work, giving you access to SMO RP via this link: https://www.roblox.com/games/15186922599/Sonics-RP-VR |
 | [wawawee/auepic](https://github.com/wawawee/auepic) | 0 | Welcome to AuEpic Gaming! |
 
