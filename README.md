@@ -8,37 +8,37 @@ exploits/cheats/executors/spoofers, obfuscators, account-tools en SEO-spamrepos.
 
 Tip: ⭐ zegt weinig bij nieuwe projecten, veel pareltjes hebben (nog) bijna geen sterren.
 
-Totaal: **10527 repos** in **23 categorieën**: **2269** handgecureerd (met Nederlandse uitleg, hieronder) + **8258** in de uitgebreide index (automatisch verzameld en gefilterd, op de categoriepagina's). ⭐ = GitHub-sterren op het moment van verzamelen (sept. 2026).
+Totaal: **11160 repos** in **23 categorieën**: **2269** handgecureerd (met Nederlandse uitleg, hieronder) + **8891** in de uitgebreide index (automatisch verzameld en gefilterd, op de categoriepagina's). ⭐ = GitHub-sterren op het moment van verzamelen (sept. 2026).
 
 ## Categorieën
 
-- [VFX, graphics & rendering](#vfx-graphics--rendering) — **81** gecureerd + **166** in index ([volledige pagina](categories/vfx.md))
-- [Landschap, terrain, water & weer](#landschap-terrain-water--weer) — **56** gecureerd + **122** in index ([volledige pagina](categories/landscape.md))
-- [Animatie, IK & rigging](#animatie-ik--rigging) — **71** gecureerd + **162** in index ([volledige pagina](categories/animation.md))
-- [Movement, physics & characters](#movement-physics--characters) — **65** gecureerd + **116** in index ([volledige pagina](categories/movement.md))
-- [Voertuigen, boten & treinen](#voertuigen-boten--treinen) — **23** gecureerd + **67** in index ([volledige pagina](categories/vehicles.md))
-- [Combat, hitboxes & wapens](#combat-hitboxes--wapens) — **57** gecureerd + **220** in index ([volledige pagina](categories/combat.md))
-- [AI, NPC's & machine learning](#ai-npcs--machine-learning) — **35** gecureerd + **58** in index ([volledige pagina](categories/ai.md))
-- [Procedurele generatie & wiskunde](#procedurele-generatie--wiskunde) — **42** gecureerd + **104** in index ([volledige pagina](categories/procgen.md))
-- [Networking & replicatie](#networking--replicatie) — **88** gecureerd + **185** in index ([volledige pagina](categories/networking.md))
+- [VFX, graphics & rendering](#vfx-graphics--rendering) — **81** gecureerd + **188** in index ([volledige pagina](categories/vfx.md))
+- [Landschap, terrain, water & weer](#landschap-terrain-water--weer) — **56** gecureerd + **154** in index ([volledige pagina](categories/landscape.md))
+- [Animatie, IK & rigging](#animatie-ik--rigging) — **71** gecureerd + **285** in index ([volledige pagina](categories/animation.md))
+- [Movement, physics & characters](#movement-physics--characters) — **65** gecureerd + **148** in index ([volledige pagina](categories/movement.md))
+- [Voertuigen, boten & treinen](#voertuigen-boten--treinen) — **23** gecureerd + **93** in index ([volledige pagina](categories/vehicles.md))
+- [Combat, hitboxes & wapens](#combat-hitboxes--wapens) — **57** gecureerd + **282** in index ([volledige pagina](categories/combat.md))
+- [AI, NPC's & machine learning](#ai-npcs--machine-learning) — **35** gecureerd + **95** in index ([volledige pagina](categories/ai.md))
+- [Procedurele generatie & wiskunde](#procedurele-generatie--wiskunde) — **42** gecureerd + **119** in index ([volledige pagina](categories/procgen.md))
+- [Networking & replicatie](#networking--replicatie) — **88** gecureerd + **220** in index ([volledige pagina](categories/networking.md))
 - [ECS & game-architectuur](#ecs--game-architectuur) — **79** gecureerd + **330** in index ([volledige pagina](categories/ecs.md))
-- [UI & interface](#ui--interface) — **188** gecureerd + **740** in index ([volledige pagina](categories/ui.md))
-- [Camera & cutscenes](#camera--cutscenes) — **27** gecureerd + **49** in index ([volledige pagina](categories/camera.md))
-- [Audio](#audio) — **17** gecureerd + **145** in index ([volledige pagina](categories/audio.md))
+- [UI & interface](#ui--interface) — **188** gecureerd + **741** in index ([volledige pagina](categories/ui.md))
+- [Camera & cutscenes](#camera--cutscenes) — **27** gecureerd + **106** in index ([volledige pagina](categories/camera.md))
+- [Audio](#audio) — **17** gecureerd + **162** in index ([volledige pagina](categories/audio.md))
 - [VR & motion tracking](#vr--motion-tracking) — **15** gecureerd + **13** in index ([volledige pagina](categories/vr.md))
-- [Data, opslag & serialisatie](#data-opslag--serialisatie) — **141** gecureerd + **243** in index ([volledige pagina](categories/data.md))
-- [Game-systemen & utilities](#game-systemen--utilities) — **243** gecureerd + **1948** in index ([volledige pagina](categories/systems.md))
-- [Security & anticheat](#security--anticheat) — **35** gecureerd + **209** in index ([volledige pagina](categories/security.md))
-- [Next-level / experimenteel](#next-level--experimenteel) — **147** gecureerd + **98** in index ([volledige pagina](categories/wild.md))
-- [API's & externe integraties](#apis--externe-integraties) — **131** gecureerd + **828** in index ([volledige pagina](categories/apis.md))
-- [AI-tools voor Roblox-development](#ai-tools-voor-roblox-development) — **69** gecureerd + **308** in index ([volledige pagina](categories/aitools.md))
-- [Tooling & workflow](#tooling--workflow) — **387** gecureerd + **848** in index ([volledige pagina](categories/tooling.md))
+- [Data, opslag & serialisatie](#data-opslag--serialisatie) — **141** gecureerd + **305** in index ([volledige pagina](categories/data.md))
+- [Game-systemen & utilities](#game-systemen--utilities) — **243** gecureerd + **1961** in index ([volledige pagina](categories/systems.md))
+- [Security & anticheat](#security--anticheat) — **35** gecureerd + **236** in index ([volledige pagina](categories/security.md))
+- [Next-level / experimenteel](#next-level--experimenteel) — **147** gecureerd + **99** in index ([volledige pagina](categories/wild.md))
+- [API's & externe integraties](#apis--externe-integraties) — **131** gecureerd + **830** in index ([volledige pagina](categories/apis.md))
+- [AI-tools voor Roblox-development](#ai-tools-voor-roblox-development) — **69** gecureerd + **364** in index ([volledige pagina](categories/aitools.md))
+- [Tooling & workflow](#tooling--workflow) — **387** gecureerd + **859** in index ([volledige pagina](categories/tooling.md))
 - [Studio-plugins](#studio-plugins) — **92** gecureerd + **368** in index ([volledige pagina](categories/plugins.md))
-- [Leren, open-source games & collecties](#leren-open-source-games--collecties) — **180** gecureerd + **931** in index ([volledige pagina](categories/learn.md))
+- [Leren, open-source games & collecties](#leren-open-source-games--collecties) — **180** gecureerd + **933** in index ([volledige pagina](categories/learn.md))
 
 ## VFX, graphics & rendering
 
-Particles, shaders, lighting, portalen, raytracing en canvas-rendering. (81 gecureerd — nog **166** meer in de [uitgebreide index](categories/vfx.md#uitgebreide-index-166))
+Particles, shaders, lighting, portalen, raytracing en canvas-rendering. (81 gecureerd — nog **188** meer in de [uitgebreide index](categories/vfx.md#uitgebreide-index-188))
 
 | Repo | ⭐ | Wat het doet |
 |---|---:|---|
@@ -126,7 +126,7 @@ Particles, shaders, lighting, portalen, raytracing en canvas-rendering. (81 gecu
 
 ## Landschap, terrain, water & weer
 
-Terrain-generators, echte kaarten, grotten, oceanen, foliage, dag/nacht en weer. (56 gecureerd — nog **122** meer in de [uitgebreide index](categories/landscape.md#uitgebreide-index-122))
+Terrain-generators, echte kaarten, grotten, oceanen, foliage, dag/nacht en weer. (56 gecureerd — nog **154** meer in de [uitgebreide index](categories/landscape.md#uitgebreide-index-154))
 
 | Repo | ⭐ | Wat het doet |
 |---|---:|---|
@@ -189,7 +189,7 @@ Terrain-generators, echte kaarten, grotten, oceanen, foliage, dag/nacht en weer.
 
 ## Animatie, IK & rigging
 
-Animatie-solvers, IK, Blender/Mixamo-pipelines, procedurele animatie en springs. (71 gecureerd — nog **162** meer in de [uitgebreide index](categories/animation.md#uitgebreide-index-162))
+Animatie-solvers, IK, Blender/Mixamo-pipelines, procedurele animatie en springs. (71 gecureerd — nog **285** meer in de [uitgebreide index](categories/animation.md#uitgebreide-index-285))
 
 | Repo | ⭐ | Wat het doet |
 |---|---:|---|
@@ -267,7 +267,7 @@ Animatie-solvers, IK, Blender/Mixamo-pipelines, procedurele animatie en springs.
 
 ## Movement, physics & characters
 
-Character controllers, ragdolls, destructie, parkour en eigen physics-engines. (65 gecureerd — nog **116** meer in de [uitgebreide index](categories/movement.md#uitgebreide-index-116))
+Character controllers, ragdolls, destructie, parkour en eigen physics-engines. (65 gecureerd — nog **148** meer in de [uitgebreide index](categories/movement.md#uitgebreide-index-148))
 
 | Repo | ⭐ | Wat het doet |
 |---|---:|---|
@@ -339,7 +339,7 @@ Character controllers, ragdolls, destructie, parkour en eigen physics-engines. (
 
 ## Voertuigen, boten & treinen
 
-Chassis, suspensie, hover, raketten, drijfvermogen en treinen. (23 gecureerd — nog **67** meer in de [uitgebreide index](categories/vehicles.md#uitgebreide-index-67))
+Chassis, suspensie, hover, raketten, drijfvermogen en treinen. (23 gecureerd — nog **93** meer in de [uitgebreide index](categories/vehicles.md#uitgebreide-index-93))
 
 | Repo | ⭐ | Wat het doet |
 |---|---:|---|
@@ -369,7 +369,7 @@ Chassis, suspensie, hover, raketten, drijfvermogen en treinen. (23 gecureerd —
 
 ## Combat, hitboxes & wapens
 
-Melee-hitboxes, projectielen, guns, lag-compensatie en zones. (57 gecureerd — nog **220** meer in de [uitgebreide index](categories/combat.md#uitgebreide-index-220))
+Melee-hitboxes, projectielen, guns, lag-compensatie en zones. (57 gecureerd — nog **282** meer in de [uitgebreide index](categories/combat.md#uitgebreide-index-282))
 
 | Repo | ⭐ | Wat het doet |
 |---|---:|---|
@@ -433,7 +433,7 @@ Melee-hitboxes, projectielen, guns, lag-compensatie en zones. (57 gecureerd — 
 
 ## AI, NPC's & machine learning
 
-Neurale netwerken, behavior trees, pathfinding, boids en LLM-NPC's. (35 gecureerd — nog **58** meer in de [uitgebreide index](categories/ai.md#uitgebreide-index-58))
+Neurale netwerken, behavior trees, pathfinding, boids en LLM-NPC's. (35 gecureerd — nog **95** meer in de [uitgebreide index](categories/ai.md#uitgebreide-index-95))
 
 | Repo | ⭐ | Wat het doet |
 |---|---:|---|
@@ -475,7 +475,7 @@ Neurale netwerken, behavior trees, pathfinding, boids en LLM-NPC's. (35 gecureer
 
 ## Procedurele generatie & wiskunde
 
-Voxels, dungeons, doolhoven, wave function collapse, noise en curves. (42 gecureerd — nog **104** meer in de [uitgebreide index](categories/procgen.md#uitgebreide-index-104))
+Voxels, dungeons, doolhoven, wave function collapse, noise en curves. (42 gecureerd — nog **119** meer in de [uitgebreide index](categories/procgen.md#uitgebreide-index-119))
 
 | Repo | ⭐ | Wat het doet |
 |---|---:|---|
@@ -524,7 +524,7 @@ Voxels, dungeons, doolhoven, wave function collapse, noise en curves. (42 gecure
 
 ## Networking & replicatie
 
-Buffer-netcode, IDL-compilers, encryptie en eigen replicatie. (88 gecureerd — nog **185** meer in de [uitgebreide index](categories/networking.md#uitgebreide-index-185))
+Buffer-netcode, IDL-compilers, encryptie en eigen replicatie. (88 gecureerd — nog **220** meer in de [uitgebreide index](categories/networking.md#uitgebreide-index-220))
 
 | Repo | ⭐ | Wat het doet |
 |---|---:|---|
@@ -705,7 +705,7 @@ Entity Component Systems en frameworks voorbij Knit. (79 gecureerd — nog **330
 
 ## UI & interface
 
-Reactieve UI, custom tekst, inventories, 2D-engines en mobiele controls. (188 gecureerd — nog **740** meer in de [uitgebreide index](categories/ui.md#uitgebreide-index-740))
+Reactieve UI, custom tekst, inventories, 2D-engines en mobiele controls. (188 gecureerd — nog **741** meer in de [uitgebreide index](categories/ui.md#uitgebreide-index-741))
 
 | Repo | ⭐ | Wat het doet |
 |---|---:|---|
@@ -900,7 +900,7 @@ Reactieve UI, custom tekst, inventories, 2D-engines en mobiele controls. (188 ge
 
 ## Camera & cutscenes
 
-Camera-shake, custom camera's, cutscene-tools en timelines. (27 gecureerd — nog **49** meer in de [uitgebreide index](categories/camera.md#uitgebreide-index-49))
+Camera-shake, custom camera's, cutscene-tools en timelines. (27 gecureerd — nog **106** meer in de [uitgebreide index](categories/camera.md#uitgebreide-index-106))
 
 | Repo | ⭐ | Wat het doet |
 |---|---:|---|
@@ -934,7 +934,7 @@ Camera-shake, custom camera's, cutscene-tools en timelines. (27 gecureerd — no
 
 ## Audio
 
-3D-audio, occlusie/reverb, adaptieve muziek en radio. (17 gecureerd — nog **145** meer in de [uitgebreide index](categories/audio.md#uitgebreide-index-145))
+3D-audio, occlusie/reverb, adaptieve muziek en radio. (17 gecureerd — nog **162** meer in de [uitgebreide index](categories/audio.md#uitgebreide-index-162))
 
 | Repo | ⭐ | Wat het doet |
 |---|---:|---|
@@ -980,7 +980,7 @@ Full-body VR, SteamVR-trackers en webcam-tracking. (15 gecureerd — nog **13** 
 
 ## Data, opslag & serialisatie
 
-DataStores, serialisatie, compressie, state en big numbers. (141 gecureerd — nog **243** meer in de [uitgebreide index](categories/data.md#uitgebreide-index-243))
+DataStores, serialisatie, compressie, state en big numbers. (141 gecureerd — nog **305** meer in de [uitgebreide index](categories/data.md#uitgebreide-index-305))
 
 | Repo | ⭐ | Wat het doet |
 |---|---:|---|
@@ -1128,7 +1128,7 @@ DataStores, serialisatie, compressie, state en big numbers. (141 gecureerd — n
 
 ## Game-systemen & utilities
 
-Quests, dialogen, input, trading, admin, signals en meer. (243 gecureerd — nog **1948** meer in de [uitgebreide index](categories/systems.md#uitgebreide-index-1948))
+Quests, dialogen, input, trading, admin, signals en meer. (243 gecureerd — nog **1961** meer in de [uitgebreide index](categories/systems.md#uitgebreide-index-1961))
 
 | Repo | ⭐ | Wat het doet |
 |---|---:|---|
@@ -1378,7 +1378,7 @@ Quests, dialogen, input, trading, admin, signals en meer. (243 gecureerd — nog
 
 ## Security & anticheat
 
-Hashing, encryptie, logins, permissies, rate limiting en anticheat. (35 gecureerd — nog **209** meer in de [uitgebreide index](categories/security.md#uitgebreide-index-209))
+Hashing, encryptie, logins, permissies, rate limiting en anticheat. (35 gecureerd — nog **236** meer in de [uitgebreide index](categories/security.md#uitgebreide-index-236))
 
 | Repo | ⭐ | Wat het doet |
 |---|---:|---|
@@ -1420,7 +1420,7 @@ Hashing, encryptie, logins, permissies, rate limiting en anticheat. (35 gecureer
 
 ## Next-level / experimenteel
 
-Luau-in-Luau, emulators, DOOM, N64, video, Python-in-Luau en game-ports. (147 gecureerd — nog **98** meer in de [uitgebreide index](categories/wild.md#uitgebreide-index-98))
+Luau-in-Luau, emulators, DOOM, N64, video, Python-in-Luau en game-ports. (147 gecureerd — nog **99** meer in de [uitgebreide index](categories/wild.md#uitgebreide-index-99))
 
 | Repo | ⭐ | Wat het doet |
 |---|---:|---|
@@ -1574,7 +1574,7 @@ Luau-in-Luau, emulators, DOOM, N64, video, Python-in-Luau en game-ports. (147 ge
 
 ## API's & externe integraties
 
-Open Cloud, web-API's, Discord, databases en analytics. (131 gecureerd — nog **828** meer in de [uitgebreide index](categories/apis.md#uitgebreide-index-828))
+Open Cloud, web-API's, Discord, databases en analytics. (131 gecureerd — nog **830** meer in de [uitgebreide index](categories/apis.md#uitgebreide-index-830))
 
 | Repo | ⭐ | Wat het doet |
 |---|---:|---|
@@ -1712,7 +1712,7 @@ Open Cloud, web-API's, Discord, databases en analytics. (131 gecureerd — nog *
 
 ## AI-tools voor Roblox-development
 
-MCP-servers, AI-agents en skills die in Studio kunnen bouwen. (69 gecureerd — nog **308** meer in de [uitgebreide index](categories/aitools.md#uitgebreide-index-308))
+MCP-servers, AI-agents en skills die in Studio kunnen bouwen. (69 gecureerd — nog **364** meer in de [uitgebreide index](categories/aitools.md#uitgebreide-index-364))
 
 | Repo | ⭐ | Wat het doet |
 |---|---:|---|
@@ -1788,7 +1788,7 @@ MCP-servers, AI-agents en skills die in Studio kunnen bouwen. (69 gecureerd — 
 
 ## Tooling & workflow
 
-Runtimes, sync-tools, package managers, asset-pipelines, CI en docs. (387 gecureerd — nog **848** meer in de [uitgebreide index](categories/tooling.md#uitgebreide-index-848))
+Runtimes, sync-tools, package managers, asset-pipelines, CI en docs. (387 gecureerd — nog **859** meer in de [uitgebreide index](categories/tooling.md#uitgebreide-index-859))
 
 | Repo | ⭐ | Wat het doet |
 |---|---:|---|
@@ -2281,7 +2281,7 @@ Handige plugins voor bouwen, terrain, UI en workflow. (92 gecureerd — nog **36
 
 ## Leren, open-source games & collecties
 
-Artikelen, complete open-source games, templates en curated lijsten. (180 gecureerd — nog **931** meer in de [uitgebreide index](categories/learn.md#uitgebreide-index-931))
+Artikelen, complete open-source games, templates en curated lijsten. (180 gecureerd — nog **933** meer in de [uitgebreide index](categories/learn.md#uitgebreide-index-933))
 
 | Repo | ⭐ | Wat het doet |
 |---|---:|---|

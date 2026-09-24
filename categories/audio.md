@@ -24,7 +24,7 @@
 | [DebianCatt/Dynamic-Footsteps-for-Roblox](https://github.com/DebianCatt/Dynamic-Footsteps-for-Roblox) | 0 | Dynamische voetstappen per materiaal |
 | [danijayvv/Erika](https://github.com/danijayvv/Erika) | 0 | Audio-visualizer library |
 
-## Uitgebreide index (145)
+## Uitgebreide index (162)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -143,22 +143,36 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [x15rte/Jukebox](https://github.com/x15rte/Jukebox) | 1 | A Roblox Piano Tool 🎹 |
 | [xLeviadeer/Pressure-Extra-Voicelines](https://github.com/xLeviadeer/Pressure-Extra-Voicelines) | 1 | Adds extra voiceslines to Roblox Pressure when certain events occur |
 | [akivab/MIDIPlayerRobloxPlugin](https://github.com/akivab/MIDIPlayerRobloxPlugin) | 0 | Music player in Roblox |
+| [Applehollyday7/Roblox-Audio-logger](https://github.com/Applehollyday7/Roblox-Audio-logger) | 0 | This is logging in game sound |
 | [ArchLand64/SoundManager](https://github.com/ArchLand64/SoundManager) | 0 | An example of how to prevent overlapping sound playback from overlapping and organizing sound instances in a Roblox Luau module. |
+| [Awire9966/RobloxSoundArchive](https://github.com/Awire9966/RobloxSoundArchive) | 0 | Just In case any other fuckheads wana come out about their audio being stolen |
 | [bibilabu783/LyricsModule](https://github.com/bibilabu783/LyricsModule) | 0 | LyricsModule - Apple Music–style animated song lyrics display 🎵 (for Roblox Studio) |
+| [bombtomblo-wq/Music1.](https://github.com/bombtomblo-wq/Music1.) | 0 | Music sound github for roblox |
 | [Bomsai1/Roblox-Chat-to-Voice-system](https://github.com/Bomsai1/Roblox-Chat-to-Voice-system) | 0 | Self-explanatory: you write something in chat, and it uploads to an audio almost instantly |
+| [caepris/roblox-graph-editor-prototype](https://github.com/caepris/roblox-graph-editor-prototype) | 0 | Concept prototype for a unified Roblox graph editor (Model, Decorator, Material, Animation, Audio) with a live 3D preview and guided tour. |
+| [Camille-Leon/rblx-audio](https://github.com/Camille-Leon/rblx-audio) | 0 | Very easy to use system for playing audio along with animations in roblox. |
 | [CoolPenguin27/random-sound-plugin](https://github.com/CoolPenguin27/random-sound-plugin) | 0 | The random roblox sound plugin I made. |
+| [CrispyDesires/Revert-Roblox-Death-Sound](https://github.com/CrispyDesires/Revert-Roblox-Death-Sound) | 0 | A simple Batch script that quickly changes the Roblox death sound |
 | [David-T08/RBX_Spot-Plugin](https://github.com/David-T08/RBX_Spot-Plugin) | 0 | My plugin to interact with Spotify made specifically for Roblox Studio |
 | [Deptr-softwares/Roblox-SFX-library](https://github.com/Deptr-softwares/Roblox-SFX-library) | 0 | This is a library/resources page for skill builders or Roblox development in general. You sort through this library using tags or search here, You're welcome |
+| [Dhinman278/Roblox_Game](https://github.com/Dhinman278/Roblox_Game) | 0 | Permadeath RPG inspired by the popular Japanese animation, My Hero Academia. I am focusing on various aspects of the project, including design—encompassing c... |
+| [dromzeh/RobloxSoundChanger](https://github.com/dromzeh/RobloxSoundChanger) | 0 | Program which allows you to change the "death" (oof) sound on ROBLOX. |
+| [Ekba17/Soundpad](https://github.com/Ekba17/Soundpad) | 0 | roblox lua music player |
 | [ghoste0001/EasySFX](https://github.com/ghoste0001/EasySFX) | 0 | EasySFX Is a roblox sound effect management module built with simplicity in mind. |
 | [glubified/Roblox-menu-theme-deck](https://github.com/glubified/Roblox-menu-theme-deck) | 0 | For audio loader decky plugin |
+| [goldenbiggie8/MMV--1r](https://github.com/goldenbiggie8/MMV--1r) | 0 | The Roblox MMV is an easy-to-use tool that integrates dynamic music and smooth motion effects into your games, enhancing player immersion. Perfect for adding... |
 | [HairBaconGamming/SigmaMIDI-Player](https://github.com/HairBaconGamming/SigmaMIDI-Player) | 0 | The ultimate Roblox Piano Pro: Play any MIDI perfectly with stunning visual effects, smart auto-transpose, and cloud library access. |
 | [Hollower233/UIToolkit](https://github.com/Hollower233/UIToolkit) | 0 | Cross-project reusable client UI utilities for Roblox: click sound, device auto-adapt, generic UI module manager scaffold. |
+| [Ishmum-Nawar-Breehi/Observed_LumosLabs](https://github.com/Ishmum-Nawar-Breehi/Observed_LumosLabs) | 0 | A time-sensitive interactive game developed in Roblox Studio featuring branching narratives and multiple endings based on player choices. Includes puzzle mec... |
+| [kelvinsia1201-dot/dee-music-player](https://github.com/kelvinsia1201-dot/dee-music-player) | 0 | roblox bass boost mp3 n roblox audio ids |
 | [kevhuang34/Roblox-melee-combat-system](https://github.com/kevhuang34/Roblox-melee-combat-system) | 0 | A Roblox combat system with server-sided hit detection, custom attack animations, and a special attack with visual and sound effects. |
 | [Malcomputer/Roblox-oof](https://github.com/Malcomputer/Roblox-oof) | 0 | This was a requested application by a friend in highschool. All it does is play a sound after pressing a button. Uses p5js libraries |
 | [MarioChao/music-player-plugin](https://github.com/MarioChao/music-player-plugin) | 0 | Add sounds to a playlist and play them in Studio! |
 | [Metrostarsr/roblox-music-api](https://github.com/Metrostarsr/roblox-music-api) | 0 | Music API for Roblox |
 | [milotek/CollisionSounds](https://github.com/milotek/CollisionSounds) | 0 | A roblox module/script collection in Lua which makes objects make material-specific sounds when they hit or collide with something. |
+| [monespoiryorbana-hub/roblox-melee-combat](https://github.com/monespoiryorbana-hub/roblox-melee-combat) | 0 | A complete beginner-friendly melee combat system for Roblox with animations, damage, cooldowns, health bars, and sound effects |
 | [MrRos3/Velora](https://github.com/MrRos3/Velora) | 0 | A modular Roblox piano player and GitHub-powered song library. |
+| [Nytrix-Dev/NYTRIXPRIME-FREE-NEEDOH-SCRIPTS](https://github.com/Nytrix-Dev/NYTRIXPRIME-FREE-NEEDOH-SCRIPTS) | 0 | A collection of interactive Roblox Studio props with built-in scripts, animations, and sound effects-ready to drag and drop into your game. |
 | [PanchoPantera2k/Roblox-Modular-Gun-System](https://github.com/PanchoPantera2k/Roblox-Modular-Gun-System) | 0 | A Modular Open Source Gun System, Easily Add Guns And Change Data. To Add Guns, Duplicate The Assault Rifle, Change Sounds, Change Model, And Welds. When Ref... |
 | [pitzachef/SpotifyApiLib](https://github.com/pitzachef/SpotifyApiLib) | 0 | a spotify api library for roblox |
 | [plainenglishh/luausdr](https://github.com/plainenglishh/luausdr) | 0 | An experimental pure-Luau Software Defined Radio DSP library. |
@@ -172,6 +186,9 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Surefire282428/roblox-music-ui-simple](https://github.com/Surefire282428/roblox-music-ui-simple) | 0 | Roblox music UI script using Rayfield — Sound ID player and local MP3 library |
 | [Synapse512/rbxl-audio-engine](https://github.com/Synapse512/rbxl-audio-engine) | 0 | Module for auto configuration of Roblox audio objects |
 | [tonybolivar/lastfm-luau](https://github.com/tonybolivar/lastfm-luau) | 0 | Typed, async API client for Luau (Roblox + Lune). |
+| [un1xr00t/GameVoiceGuard](https://github.com/un1xr00t/GameVoiceGuard) | 0 | 🔇 Network-level parental controls for game voice chat. Block voice in Fortnite, Roblox, and Vivox-based games while keeping gameplay working. Protect kids fr... |
+| [valentxiaou/hoverAnimationGUI](https://github.com/valentxiaou/hoverAnimationGUI) | 0 | A simple and clean Roblox UI hover animation system — adds a smooth scaling effect and a hover sound when your cursor approaches buttons. |
+| [vamsick000/Graviton](https://github.com/vamsick000/Graviton) | 0 | Graviton - Roblox gravity manipulation game. 20 Luau scripts with full shop system, audio, VFX, and competitive gameplay. |
 | [WhiteCZ1/API_Audio](https://github.com/WhiteCZ1/API_Audio) | 0 | Roblox API audio importing |
 | [xelnae-r/Sound-Manager-Docs](https://github.com/xelnae-r/Sound-Manager-Docs) | 0 | Documentation website for @rbxts/sound-manager |
 | [ZakiTheDev/SwordSystemRobloxStudio](https://github.com/ZakiTheDev/SwordSystemRobloxStudio) | 0 | Roblox Studio Sword System with very precise damage and sounds |

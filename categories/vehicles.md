@@ -30,7 +30,7 @@ Chassis, suspensie, hover, raketten, drijfvermogen en treinen.
 | [cassicoder/boat-game](https://github.com/cassicoder/boat-game) | 0 | Boot-game: Matter ECS + Gerstner-oceaan + drijfvermogen + vissen |
 | [HassanJN66/roblox-vehicle-framework](https://github.com/HassanJN66/roblox-vehicle-framework) | 0 | Raycast-wielen + soft physics body, FWD/RWD/AWD |
 
-## Uitgebreide index (67)
+## Uitgebreide index (93)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -78,30 +78,56 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [vatssavvya/ROBLOX-Obby-Showdown](https://github.com/vatssavvya/ROBLOX-Obby-Showdown) | 1 | A competitive, fast-paced multiplayer obstacle-course racing game built in Roblox. Features skill-based movement mechanics, real-time queues, voting, strateg... |
 | [woody-willis/british-railway-auto-drive](https://github.com/woody-willis/british-railway-auto-drive) | 1 | A Python script that automatically drives the class 170 in British Railway on Roblox. |
 | [WormDude/AeroCraftle](https://github.com/WormDude/AeroCraftle) | 1 | A game for aircraft in the ROBLOX game Aeronautica |
+| [404NotFoundIndonesia/roblox-kang-parkir](https://github.com/404NotFoundIndonesia/roblox-kang-parkir) | 0 | Overcooked meets street brawling. Players take on the role of hyper-competitive street parking attendants ("Tukang Parkir") in a bustling, localized urban en... |
 | [Alienduck/tracing_luau](https://github.com/Alienduck/tracing_luau) | 0 | Free library for roblox developers. Based on tracing for Rust, you can create logs easily and debug much faster you're system/game |
+| [Andrew900460/JoystickToTankSteering](https://github.com/Andrew900460/JoystickToTankSteering) | 0 | A function I came up with to translate joystick input into wheel motion for differential steering vehicles. Primarily made with videogames in mind. This was ... |
+| [Bird-Owly/register_vehicle-Slash-Command](https://github.com/Bird-Owly/register_vehicle-Slash-Command) | 0 | This is a basic slash command for my Discord bot that registers in-game vehicles as company vehicles for a small group on Roblox. |
+| [bradthemm/roblox-hover-vehicle](https://github.com/bradthemm/roblox-hover-vehicle) | 0 | StarWars Inspired Hover Vehicle - Hidden Devs |
 | [Chard2512/AntigravityVehicleSystem](https://github.com/Chard2512/AntigravityVehicleSystem) | 0 | Roblox antigravity vehicle system |
 | [dabl7/framework](https://github.com/dabl7/framework) | 0 | Tool for calculating and building framework in build a boat for treasure on roblox |
+| [DamnitKvvin/DamnitKvvin.github.io](https://github.com/DamnitKvvin/DamnitKvvin.github.io) | 0 | Kvvin: ROBLOX Developer and Designer. Dive into my portfolio displaying expertise in emergency vehicle outfitting and dynamic lighting within ROBLOX Studio. |
 | [dwbabe/dead-rails-framework](https://github.com/dwbabe/dead-rails-framework) | 0 | Clean train system for Roblox Rail-constrained movement, wheel rotation, fuel consumption, dashboard UI |
+| [gogugogiugogu/simple-car-movement](https://github.com/gogugogiugogu/simple-car-movement) | 0 | made a simple script using the MoveTo() function in Roblox Studio that takes the humanoid (in this example, a car) into a loop of driving from 1 point to the... |
+| [herrydika/Livetopia-RP-Script](https://github.com/herrydika/Livetopia-RP-Script) | 0 | Transform your Roblox Livetopia RP experience with this customizable script! Add dynamic roles, vehicles, NPCs, customizable homes, events, and more. Perfect... |
 | [iamrykerpierce-art/Luabu](https://github.com/iamrykerpierce-art/Luabu) | 0 | The fast, flexible Luau runtime built for Roblox developers who want to ship small and medium games without the scaffolding overhead of heavier frameworks. |
 | [JonathanJosephShokry/SelfDrivingCarInRoblox](https://github.com/JonathanJosephShokry/SelfDrivingCarInRoblox) | 0 | Module script for a self driving car |
 | [kab00038/Fix-It-Up-Fitment-Tracker](https://github.com/kab00038/Fix-It-Up-Fitment-Tracker) | 0 | web app built using pandas and streamlit libraries to easily lookup wheel sizes for cars in the Roblox game Fix It Up |
+| [kiya0908/ghostdriver](https://github.com/kiya0908/ghostdriver) | 0 | An unofficial, fan-made Ghost Driver Wiki for Roblox — featuring code tracking, vehicle data, tier lists, beginner guides, updates, and SSR-first SEO. |
 | [LucidPoly/Gamma](https://github.com/LucidPoly/Gamma) | 0 | Gamma is a super simple raytracing library for roblox made with lua. |
+| [maragnus/DeadCamp](https://github.com/maragnus/DeadCamp) | 0 | A co-op Roblox survival road-trip game where players escape a zombie outbreak in an RV, scavenging campsites, gas stations, ranger stations, farms, and aband... |
+| [Metatable-Games/metaels](https://github.com/Metatable-Games/metaels) | 0 | A modern 2025 Roblox Vehicle Emergency Lighting System (ELS) written in Luau. |
 | [mikenappi/Project-Racer](https://github.com/mikenappi/Project-Racer) | 0 | Roblox Racing Game :) |
+| [mowglii577/roblox-jetski](https://github.com/mowglii577/roblox-jetski) | 0 | A fully functional Jetski vehicle system for Roblox with physics, controls, and effects |
 | [mqz0211/RBLXRacer](https://github.com/mqz0211/RBLXRacer) | 0 | RBLXRacer is an open-source Roblox racing game framework designed for speed, customization, and multiplayer fun. Built entirely in Roblox Studio using Lua, t... |
+| [nascvicent/astronica](https://github.com/nascvicent/astronica) | 0 | Space exploration game for Roblox inspired by No Man's Sky. Pilot ships, explore procedurally-populated planets, collect resources, scan creatures, and upgra... |
+| [NoodleDeveloper/N-Chassis](https://github.com/NoodleDeveloper/N-Chassis) | 0 | The new generation of vehicle simulation on Roblox. |
+| [norfthalex-bit/norfthalex-bit.github.io](https://github.com/norfthalex-bit/norfthalex-bit.github.io) | 0 | This website is going to present you my ROBLOX portfolio. I specialise in Building, Modelling and importing vehicles. |
+| [NutMaster828/Trey-Portfolio](https://github.com/NutMaster828/Trey-Portfolio) | 0 | 👋 Hi there! I’m Trey, a Roblox developer and game designer. - 🧱 Experienced in **low & mid-poly building**, **terrain design**, and **car modeling** - 🎮 Focu... |
 | [olafier/Roblox-Emergency-Situations-on-Plane](https://github.com/olafier/Roblox-Emergency-Situations-on-Plane) | 0 | Educational Roblox simulation teaching in-flight emergency procedures through hands-on practice, with built-in pre-test/post-test scoring · SP344 Software En... |
 | [pacn3t/robloxracingsim](https://github.com/pacn3t/robloxracingsim) | 0 | Portfolio: Roblox Racing Sim (Mario Kart Inspired) |
+| [pedjoslav-skibidi/Roadscrap](https://github.com/pedjoslav-skibidi/Roadscrap) | 0 | Roblox open-world modular vehicle building and scavenging game |
 | [pinkfloydfan/openwings](https://github.com/pinkfloydfan/openwings) | 0 | roblox's best aircraft system |
 | [polkkolk/WHEELS](https://github.com/polkkolk/WHEELS) | 0 | Wheelchair Racing Game - Roblox |
 | [ProfessorSr/PS1-Vehicle-Systems](https://github.com/ProfessorSr/PS1-Vehicle-Systems) | 0 | All in one vehicle system for Roblox |
+| [PUROTHEPLAYER/sepv3](https://github.com/PUROTHEPLAYER/sepv3) | 0 | just for external image. collections on tank images, from MTC(game from roblox, link:https://www.roblox.com/games/95721658376580/Multicrew-Tank-Combat) |
 | [Qquaded/Consio](https://github.com/Qquaded/Consio) | 0 | Consio is a cutting-edge module designed for Roblox developers, providing a powerful toolkit for creating and managing interactive blocks within your games. ... |
+| [Random751/MTC-direct-fire-calc](https://github.com/Random751/MTC-direct-fire-calc) | 0 | direct fire arty calc for multi tank crew combat on Roblox (17.81 m/s used for gravity) |
+| [redy96705-png/E-O](https://github.com/redy96705-png/E-O) | 0 | Roblox Vehicle Menu UI - ขุดดิน ขึ้นลง สร้างฐาน |
 | [ricarditorich/roblox-racing](https://github.com/ricarditorich/roblox-racing) | 0 | Proyecto de generación automática de juegos Roblox con DeepSeek y n8n |
+| [rosneibaluja-spec/RealisticRoleplayCity](https://github.com/rosneibaluja-spec/RealisticRoleplayCity) | 0 | Full bilingual roleplay system for Roblox with vehicles, jobs, and DICRIM base. |
+| [SchurikUwU/arctix-achassis](https://github.com/SchurikUwU/arctix-achassis) | 0 | Advanced physics enhancement for Roblox A-Chassis - Surface detection, weight transfer, temperature systems, drift suite, and more |
+| [ShyCape/MTC-Trainer](https://github.com/ShyCape/MTC-Trainer) | 0 | Demonstration of how to play the online roblox game "MTC" multicrew tank combat |
 | [tatudobenkenee/roblox-flight-system](https://github.com/tatudobenkenee/roblox-flight-system) | 0 | Sistema de voo para Roblox - Script Lua do zero |
 | [Temrer/TrackGenModule](https://github.com/Temrer/TrackGenModule) | 0 | A randomly generating racing track module for Roblox |
 | [Th3Pr0fessor/P5toRoblox](https://github.com/Th3Pr0fessor/P5toRoblox) | 0 | Conversion of the P5 Library commonly used on the coding train into roblox |
 | [thaalish/ball-physics](https://github.com/thaalish/ball-physics) | 0 | Aerodynamic ball physics library for Roblox - Magnus effect, knuckleball drift, angular damping, and anti-gravity. |
+| [titaniumboy-veron/Livetopia-RP-](https://github.com/titaniumboy-veron/Livetopia-RP-) | 0 | Transform your Roblox Livetopia RP experience with this customizable ! Add dynamic roles, vehicles, NPCs, customizable homes, events, and more. Perfect for d... |
+| [toosh-legacy/f1-roblox-game](https://github.com/toosh-legacy/f1-roblox-game) | 0 | Roblox racing and prediction game built on real F1 and real kart physics |
 | [Uldyrr/Roblox-suspension-simulation](https://github.com/Uldyrr/Roblox-suspension-simulation) | 0 | A dynamic module designed and written for Corsa Roblox which solves sub-step physics in-between frames. |
 | [vehiclelegends/vehicle-legends](https://github.com/vehiclelegends/vehicle-legends) | 0 | An open-source Luau physics and automation framework for Roblox Vehicle Legends. Features custom chassis telemetry tuning, automated checkpoint racing, and l... |
 | [Winnie7050/roblox-car-pulling-game](https://github.com/Winnie7050/roblox-car-pulling-game) | 0 | A Roblox game where players pull cars with physics-based rope mechanics |
 | [Y90G7IYO0987/CarSystem](https://github.com/Y90G7IYO0987/CarSystem) | 0 | 🚗 Roblox Car System A complete modular vehicle system for Roblox with realistic physics and driving mechanics |
+| [yavuzSelim-Alptekin/BearpawTelsizServer](https://github.com/yavuzSelim-Alptekin/BearpawTelsizServer) | 0 | Bearpaw Federation's Sergeants radio app server. Bearpaw Federation is a Roblox Multicrew Tank Combat game faction. |
+| [ZackoBoy289/roblox-dino-survival](https://github.com/ZackoBoy289/roblox-dino-survival) | 0 | Multiplayer survival dinosaur game with 20+ dinosaurs, vehicles, and optimization for lower-end devices |
 
 [← Terug naar overzicht](../README.md)

@@ -138,7 +138,7 @@ Open Cloud, web-API's, Discord, databases en analytics.
 | [top-stats/analytics-roblox-integration](https://github.com/top-stats/analytics-roblox-integration) | 0 | TopStats analytics-integratie met track-API |
 | [nrbx-ts/rbxts-sentry](https://github.com/nrbx-ts/rbxts-sentry) | 0 | Sentry-errortracking voor roblox-ts (port van sentry-roblox) |
 
-## Uitgebreide index (828)
+## Uitgebreide index (830)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -818,6 +818,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Bytebit-Org/roblox-Must](https://github.com/Bytebit-Org/roblox-Must) | 0 | A simple function that just errors out if the value it is given is nil / undefined. |
 | [Bytebit-Org/roblox-Readonly](https://github.com/Bytebit-Org/roblox-Readonly) | 0 | Just a simple function that is really only useful in roblox-ts for forcing the value to be inferred as readonly. |
 | [C0ms/ScaleSlimeyFishAuto](https://github.com/C0ms/ScaleSlimeyFishAuto) | 0 | An automatic tool to fish and sell your fish in the Roblox game "Scale Slimey Fish" Script is 100% free and open sourced, for help or more info dm "darkfireb... |
+| [CasperrDeveloper/RobloxPlayerBot](https://github.com/CasperrDeveloper/RobloxPlayerBot) | 0 | Bots Players oN rOBLOX |
 | [Caylies/LuauBD](https://github.com/Caylies/LuauBD) | 0 | A Luau runtime for the Ballsdex Discord bot. |
 | [cetus-app/cetus-rbx](https://github.com/cetus-app/cetus-rbx) | 0 | The official Lua SDK for interacting with the Cetus API from Roblox games. |
 | [chickenputty/roblox-image-proxy](https://github.com/chickenputty/roblox-image-proxy) | 0 | Serves Roblox library images as PNG instead of a download |
@@ -860,6 +861,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Hinol/HTTPClient](https://github.com/Hinol/HTTPClient) | 0 | This module implements a simple HTTP client in Luau using Object-Oriented Programming (OOP) principles. It allows sending HTTP requests (GET, POST, etc.) usi... |
 | [hodalabs/roblox-studio-book](https://github.com/hodalabs/roblox-studio-book) | 0 | 30-challenge interactive Roblox Studio workbook for kids 6-12. Web + PDF book. |
 | [Hylician/RobloxApiDocumentation](https://github.com/Hylician/RobloxApiDocumentation) | 0 | Nowhere near done. Someone pissed me off. |
+| [IeuanGol/Bloxlink-1](https://github.com/IeuanGol/Bloxlink-1) | 0 | Roblox Verification bot written in Python |
 | [InfinitePossibilities/Roblox4j](https://github.com/InfinitePossibilities/Roblox4j) | 0 | Java library for retrieving Roblox website data |
 | [ItsRune/Vibez](https://github.com/ItsRune/Vibez) | 0 | A roblox module to handle api requests to https://vibez.dev/ |
 | [JCPADMIN/Roblox-Studio](https://github.com/JCPADMIN/Roblox-Studio) | 0 | Dive into a Roblox studio-like website, play/code 3D games! |

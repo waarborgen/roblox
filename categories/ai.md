@@ -42,7 +42,7 @@ Neurale netwerken, behavior trees, pathfinding, boids en LLM-NPC's.
 | [sebastianboscan/roblox-ai-npc](https://github.com/sebastianboscan/roblox-ai-npc) | 0 | NPC's die natuurlijke taal via TextGenerator omzetten in acties |
 | [Murned/roblox-boid-flocking](https://github.com/Murned/roblox-boid-flocking) | 0 | Drone-zwerm met Reynolds' boids + spatial grid |
 
-## Uitgebreide index (58)
+## Uitgebreide index (95)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -78,6 +78,11 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [SubParSuperCar/rbx-cuboid](https://github.com/SubParSuperCar/rbx-cuboid) | 1 | A Roblox Luau class for representing 3D cuboids. |
 | [TheOfficialFurkanNar/ProjectBob](https://github.com/TheOfficialFurkanNar/ProjectBob) | 1 | Finite State Machine on Roblox |
 | [trashpanda027/StateMachine](https://github.com/trashpanda027/StateMachine) | 1 | This is a simple state machine for Roblox. |
+| [abcmateusz/Npc-Chat-Script](https://github.com/abcmateusz/Npc-Chat-Script) | 0 | Roblox Npc Chat Script |
+| [Alex91100-cmd/Code-Npc-Corps](https://github.com/Alex91100-cmd/Code-Npc-Corps) | 0 | ce code permet de rendre la mort d'un npc sur roblox beaucoup plus reaslist |
+| [aloooxh/Roblox-Elote-Tycoon-Map](https://github.com/aloooxh/Roblox-Elote-Tycoon-Map) | 0 | Complete Roblox map for an original ELOTE TYCOON game. Features 8 player businesses arranged in a circular neighborhood, central plaza, NPC-friendly pathing,... |
+| [ashlynmadison/Carl-mcdonald](https://github.com/ashlynmadison/Carl-mcdonald) | 0 | Carl is from a roblox game/series "NPC are becoming smart" by GroovyDominoes52, today i got bored so i make him mcdonald employee so yeah- |
+| [BetiDev677/EOM_Game](https://github.com/BetiDev677/EOM_Game) | 0 | Luau script for a Roblox studio plot placement system (object placement and toggling, grid snapping, deletion, saving with DataStore API and rotations) as we... |
 | [blxckhunter908/roblox-npc-pathfinding](https://github.com/blxckhunter908/roblox-npc-pathfinding) | 0 | Roblox NPC pathfinding system. |
 | [CapedBojji/miniature-octo-invention](https://github.com/CapedBojji/miniature-octo-invention) | 0 | A custom Roblox pathfinding library |
 | [cbh1733908441/riffle-duel-library](https://github.com/cbh1733908441/riffle-duel-library) | 0 | Steam 与 Roblox 独立对抗选题库：玩法模板、NPC 对手适配度与来源追溯 |
@@ -87,24 +92,56 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [DanCodesRBX/agentpath](https://github.com/DanCodesRBX/agentpath) | 0 | A pathfinding module for Roblox |
 | [Darsh-Sosa/AIPathfindingRoblox](https://github.com/Darsh-Sosa/AIPathfindingRoblox) | 0 | pathfinding script using a patrol point system inside roblox |
 | [dev-alexdevilish/Stealth-Phantom-Roblox](https://github.com/dev-alexdevilish/Stealth-Phantom-Roblox) | 0 | a highly optimized Stealth System with NPC path finding and detection system |
+| [DISRUPTORY/FNABS](https://github.com/DISRUPTORY/FNABS) | 0 | Source code for Five NPCs Are Becoming Smart |
 | [Dsnon/Roblox-Dynamic-NPC-Emotion-System](https://github.com/Dsnon/Roblox-Dynamic-NPC-Emotion-System) | 0 | NPCs react emotionally based on players' actions. |
+| [Dyverblox/Sistema-de-di-logos-NPC-Roblox-Studio](https://github.com/Dyverblox/Sistema-de-di-logos-NPC-Roblox-Studio) | 0 | Scripts correspondientes al video tutorial |
+| [eralijan008-lgtm/roblox-bear-script](https://github.com/eralijan008-lgtm/roblox-bear-script) | 0 | Roblox aggressive bear NPC с анимациями атак (лапа, укус), системой здоровья и механикой отвлечения медом |
+| [eyvanlol/Roblox-NPC](https://github.com/eyvanlol/Roblox-NPC) | 0 | This is my project on Roblox interactive and non-interactive NPC |
 | [g0ofycat/rl_framework](https://github.com/g0ofycat/rl_framework) | 0 | Reinforcement Learning Framework for small models in Roblox |
+| [Gabzouul/npc-game](https://github.com/Gabzouul/npc-game) | 0 | Roblox multiplayer NPC deception game |
 | [gcaptn/NNL](https://github.com/gcaptn/NNL) | 0 | A practice Lua Neural Network Library |
+| [hardersdean-lang/Hamburg-botsss](https://github.com/hardersdean-lang/Hamburg-botsss) | 0 | Ein einfaches Skript, um NPCs in Roblox zu erstellen |
 | [Hinikaa/luau-statemachine](https://github.com/Hinikaa/luau-statemachine) | 0 | Small finite state machine with guards and transitions, Luau |
+| [HmmmThinking/-Lua-Npc-teleporter](https://github.com/HmmmThinking/-Lua-Npc-teleporter) | 0 | TPS to npcs in roblox |
 | [hotdog9955/Roblox_Learn](https://github.com/hotdog9955/Roblox_Learn) | 0 | roblox machine learning library |
+| [i3Crk/DialogService](https://github.com/i3Crk/DialogService) | 0 | A service to aid Roblox developers in standardizing dialog handlers for their games' NPC interactions. |
 | [iscode0/NanoRBX](https://github.com/iscode0/NanoRBX) | 0 | Nano (or NanoRBX) is a machine learning/deep learning/reinforcement learning library for Roblox studio |
 | [JayJay648/roblox-restaurant-system](https://github.com/JayJay648/roblox-restaurant-system) | 0 | A Roblox restaurant system with ID management for NPCs, items, and locations |
+| [joshdev777/Omega](https://github.com/joshdev777/Omega) | 0 | A NPC system for Roblox, done in a simple way. |
+| [Jxl-s/nn-roblox](https://github.com/Jxl-s/nn-roblox) | 0 | Basic implementation of a neural network in Roblox |
+| [kamilwwwo90/NPC-pathfinding-system](https://github.com/kamilwwwo90/NPC-pathfinding-system) | 0 | A modular NPC pathfinding system for Roblox with four behaviour states. |
+| [KishaMarisma/Roblox-New-Mestapota](https://github.com/KishaMarisma/Roblox-New-Mestapota) | 0 | A Project working on a new set of NPCS! Hope you enjoy work in progress |
 | [kozuidev/PathForge](https://github.com/kozuidev/PathForge) | 0 | A custom grid-based pathfinding module made for Roblox, powered by A* search. Supports walls, clearance checks, and dynamic obstacles. |
 | [LadyCelastia/Pathfinder](https://github.com/LadyCelastia/Pathfinder) | 0 | roblox luau pathfind library (all scripts are modules) |
+| [LeMeeXalFan/jeu-roblox-npc-poursuivants](https://github.com/LeMeeXalFan/jeu-roblox-npc-poursuivants) | 0 | Un jeu Roblox où des NPCs te poursuivent pour te tuer |
+| [luckydev7/DecorativeNPC-Roblox](https://github.com/luckydev7/DecorativeNPC-Roblox) | 0 | A simple lib for creating decorative client-sided npcs in roblox |
 | [Made4Mischief/Click-To-Move-NPC-RobloxStudio-](https://github.com/Made4Mischief/Click-To-Move-NPC-RobloxStudio-) | 0 | The NPC moves to the position where the player clicks |
+| [mezz-source/KNDataAPI](https://github.com/mezz-source/KNDataAPI) | 0 | Data API used to run KILL NPCS's data. Uses in-game instances to quickly update data without sending datastore calls, with multiple store types loadable. You... |
+| [mezz-source/shopui](https://github.com/mezz-source/shopui) | 0 | Shop/loadout UI created for KILL NPCS, with both server and client code. Is slightly outdated now as the game has been updated and iterated. Feel free to ref... |
+| [mihaiionitabio-alt/Genrmination_Fight](https://github.com/mihaiionitabio-alt/Genrmination_Fight) | 0 | Roblox experience: a procedurally generated nine-storey plant-research laboratory. Two competing roles, an escorted research carrier NPC, and the full engine... |
+| [muhammed7mt/roblox-tycoon-map](https://github.com/muhammed7mt/roblox-tycoon-map) | 0 | A Roblox tycoon map with game mechanics, NPCs, and progression systems |
+| [nabilarbee/Kidocode-NPCTeacher](https://github.com/nabilarbee/Kidocode-NPCTeacher) | 0 | Teacher NPC in Roblox that utilises FSM |
 | [npocodes/Cortex](https://github.com/npocodes/Cortex) | 0 | NPC Framework for Roblox |
 | [OfficalIDontCode/roblox-healthbar-poc](https://github.com/OfficalIDontCode/roblox-healthbar-poc) | 0 | Roblox boss/NPC health bar + item drop feed (roblox-ts, Flamework, React) |
 | [ProgrammerBrxken/PathModule](https://github.com/ProgrammerBrxken/PathModule) | 0 | This a Roblox Program. About A PathFindingModule |
 | [R-unic/hierarchal-state-machine](https://github.com/R-unic/hierarchal-state-machine) | 0 | Hierarchal state machine class for roblox-ts |
 | [ramdonguyxddd3/Roblox-Studio-Lua-](https://github.com/ramdonguyxddd3/Roblox-Studio-Lua-) | 0 | basic base of pathfinding npc |
+| [restauranttycoon3/restaurant-tycoon-3](https://github.com/restauranttycoon3/restaurant-tycoon-3) | 0 | An open-source automation utility for Roblox Restaurant Tycoon 3. Features optimized NPC pathfinding, instant layout building, auto cash collection, and cust... |
+| [retrozinh-cmyk/r6-npc-katana-script](https://github.com/retrozinh-cmyk/r6-npc-katana-script) | 0 | Script de NPC R6 com ataque de katana no Roblox |
 | [rexmagnusdavid/roblox-ts-pathfinding](https://github.com/rexmagnusdavid/roblox-ts-pathfinding) | 0 | An A* pathfinding module for Roblox geometry. Written in TypeScript and utilizes roblox-ts. |
+| [RyderDoesRandomStuff/Roblox-Npc-s](https://github.com/RyderDoesRandomStuff/Roblox-Npc-s) | 0 | a collection of random npc stuff |
+| [SALLYPEMDAS/NOOBTOPIA](https://github.com/SALLYPEMDAS/NOOBTOPIA) | 0 | simple autonomous NPC script for roblox |
+| [SilviaTormo/aura-farm](https://github.com/SilviaTormo/aura-farm) | 0 | Aura Farm: Roblox aura-farming game pilot (poses, duels, judged training, NPC crowd) |
 | [Stiexeno/roblox-csharp-state-management](https://github.com/Stiexeno/roblox-csharp-state-management) | 0 | C# state machine plugin for roblox-csharp. Pure C# states with optional lifecycle markers (IEnter/IExecutable/...) driven by RunService and resolved through DI. |
+| [techs-sus/net](https://github.com/techs-sus/net) | 0 | neural network for roblox, and some scripts about it! |
+| [teckuxa/Roblox-Wandering-NPC-name-with-random-chat-messages](https://github.com/teckuxa/Roblox-Wandering-NPC-name-with-random-chat-messages) | 0 | Script that will turn you into wandering npc that will type random pre-made messages in chat! Only works in Roblox because of chat scripts |
 | [TPSRX/RobloxVotingNPC](https://github.com/TPSRX/RobloxVotingNPC) | 0 | Roblox Voting NPC System with ProximityPrompt |
+| [turbinebroskilolz-dot/RobloxNPCPlayground](https://github.com/turbinebroskilolz-dot/RobloxNPCPlayground) | 0 | Its a playground of NPCs |
+| [UnanimousTechnologies/Friendly-NPC](https://github.com/UnanimousTechnologies/Friendly-NPC) | 0 | This guide explains how to create an NPC that follows the player in Roblox Studio. |
+| [vadjusha16-rgb/Digital-Circus-Roblox](https://github.com/vadjusha16-rgb/Digital-Circus-Roblox) | 0 | A Roblox game inspired by Digital Circus with Kaine, NPC circus system, and player interactions |
+| [vimeaus/Roblox-NPCs](https://github.com/vimeaus/Roblox-NPCs) | 0 | A project aimed at bringing improvements to Roblox's Non Player Characters. With a focus on improved pathing and greater performance. |
 | [williamswilsonhilson-debug/NPCService](https://github.com/williamswilsonhilson-debug/NPCService) | 0 | A roblox npc system |
+| [XdualityRBX/Quest-System](https://github.com/XdualityRBX/Quest-System) | 0 | Roblox NPC quest system with typewriter dialogue, quest progress GUI, and rewards. |
+| [yoku2342/roblox-drx-target-lock](https://github.com/yoku2342/roblox-drx-target-lock) | 0 | Roblox DRX UI with fly toggle and NPC target lock |
 
 [← Terug naar overzicht](../README.md)

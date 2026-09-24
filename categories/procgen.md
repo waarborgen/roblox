@@ -49,7 +49,7 @@ Voxels, dungeons, doolhoven, wave function collapse, noise en curves.
 | [Arav-ThewebMaker/Roblox-Maze-System](https://github.com/Arav-ThewebMaker/Roblox-Maze-System) | 0 | Doolhoven genereren én oplossen |
 | [IanLiggett/roblox-voxel-terrain](https://github.com/IanLiggett/roblox-voxel-terrain) | 0 | Chunked voxel-terrain met multithreading en binary greedy meshing |
 
-## Uitgebreide index (104)
+## Uitgebreide index (119)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -121,28 +121,42 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [xyxneweraxyx/tornado](https://github.com/xyxneweraxyx/tornado) | 1 | A roblox project to generate a customizable tornado which destroys its surroundings based on dynamic maths. |
 | [Yoriicore/Kawaii-Name-Generator-1.0](https://github.com/Yoriicore/Kawaii-Name-Generator-1.0) | 1 | Kawaii Name Gacha 1.0 / Mini Project |
 | [AircraftMadness/Catmull-Rom-Spline](https://github.com/AircraftMadness/Catmull-Rom-Spline) | 0 | The module that makes it easy to create Catmull-Rom Splines on Roblox. |
+| [AntoniosIoannidis/Horror-Game](https://github.com/AntoniosIoannidis/Horror-Game) | 0 | Multiplayer horror lobby in Roblox (Luau): matchmaking, a procedurally-generated lantern, and immersion systems. |
 | [Arro-p/VoxelBlox](https://github.com/Arro-p/VoxelBlox) | 0 | VoxelBlox is a community-preserved, open-source voxel sandbox game originally created for the Roblox platform. Inspired by popular voxel games, it offers pla... |
+| [asha23/arlo-backrooms-game](https://github.com/asha23/arlo-backrooms-game) | 0 | A Roblox horror-exploration game: procedurally generated Backrooms Level 0 |
 | [bloeo/rbxts-ccdik](https://github.com/bloeo/rbxts-ccdik) | 0 | CCDIK algorithm ported to Roblox for use with Motor6D Instances |
 | [bytejon/luau-math](https://github.com/bytejon/luau-math) | 0 | A collection of math utilities for Luau |
+| [Echolewron/garbage-truck-sim](https://github.com/Echolewron/garbage-truck-sim) | 0 | Roblox game where you drive a garbage truck in a procedurally generated neighborhood. Made with Lua scripting, it features endless trash collection with rand... |
+| [faihanalqhtani4-byte/roblox-forest-generator](https://github.com/faihanalqhtani4-byte/roblox-forest-generator) | 0 | A Lua script for generating procedural forests in Roblox Studio games |
 | [fasterfakaris/Roblox-Extra-Math](https://github.com/fasterfakaris/Roblox-Extra-Math) | 0 | A Roblox module that adds a huge number of new mathematical things |
+| [isacribeiro100-wq/roblox-desert-generator](https://github.com/isacribeiro100-wq/roblox-desert-generator) | 0 | Script Lua para Roblox Lite que gera um deserto procedural com dunes, rochas e vegetação |
 | [isoopod/Quaternion-RBLX](https://github.com/isoopod/Quaternion-RBLX) | 0 | Library for working with rotations using quaternions instead of CFrames |
 | [iyiinsan5555/Bezier-Curve-Module](https://github.com/iyiinsan5555/Bezier-Curve-Module) | 0 | I made a module to calculate bezier curvers easier in roblox studio. Mhmmmmmmm I did it! |
 | [JaddenHerron/geometry](https://github.com/JaddenHerron/geometry) | 0 | A Roblox Luau library for geometric math, easing functions, projections, arcs, and debug visualization helpers. |
+| [JohnMackYouTube05/AdvancedNetworkDevices-Roblox](https://github.com/JohnMackYouTube05/AdvancedNetworkDevices-Roblox) | 0 | A repository of the dot matrix LED clocks I replicated from Advanced Network Devices and put into Roblox, and their code and models. **I am not affiliated wi... |
 | [junkiejoe/MathExtended](https://github.com/junkiejoe/MathExtended) | 0 | A Roblox math library |
 | [KauaGould/UltiltyLibrary](https://github.com/KauaGould/UltiltyLibrary) | 0 | # Utility Library - Roblox Lua Biblioteca de utilidades desenvolvida em Lua para Roblox. ## Funcionalidades ### MathUtil - Sum - Multiply - Minus - Divide - ... |
 | [kfksbtry/extended_math_module](https://github.com/kfksbtry/extended_math_module) | 0 | Reminder: This project idea most likely seems very expensive, therefore it's going to congeal slowly. An alternative module to the original math library prov... |
+| [kipuki/dungeon-crawler](https://github.com/kipuki/dungeon-crawler) | 0 | Procedurally generated dungeon crawling with an added demo. |
 | [knkr1/EzTween](https://github.com/knkr1/EzTween) | 0 | Luau (Roblox) module that supports custom easing algorithms |
+| [L4K5HM1/shiftline](https://github.com/L4K5HM1/shiftline) | 0 | A Roblox game prototype featuring a persistent economy, job minigames, procedural environments, and race queuing. |
+| [Leon1324765s/Roblox-parser](https://github.com/Leon1324765s/Roblox-parser) | 0 | 🎚️An algorithm for parsing tables such as arrays and dictionaries designed Roblox with automatic variable creation and Instance path compression |
 | [LFS6502/curve](https://github.com/LFS6502/curve) | 0 | A Roblox Luau general curve library, it does all of the annoying math for you. |
 | [lows-poly/vec3-math-utils](https://github.com/lows-poly/vec3-math-utils) | 0 | A simple helper module for working with distance and position in Roblox |
 | [MarioChao/segmented-route](https://github.com/MarioChao/segmented-route) | 0 | Package of modules for managing segments and routes. |
+| [mauricioTechDev/runaway-babies](https://github.com/mauricioTechDev/runaway-babies) | 0 | Multiplayer Roblox game — chase erratic babies riding toy karts around a procedurally generated playground |
 | [MingauRM/mathpp](https://github.com/MingauRM/mathpp) | 0 | A math module that adds more functions that Lua's default doesn't have. |
 | [Mrzaytoon/Giorgio-Armani](https://github.com/Mrzaytoon/Giorgio-Armani) | 0 | Armani-styled Roblox interface on the Lumen framework, with Rep Root void geometry and a resumable first-install screen. |
 | [OrionBob/ComplexNumbersLua](https://github.com/OrionBob/ComplexNumbersLua) | 0 | A table for maths with complex numbers, intended for use in module scripts with Roblox luau |
+| [plasmix2/OpenGen](https://github.com/plasmix2/OpenGen) | 0 | OpenGen - Open Source Roblox Procedural Linear Generation - Primarily used for doors fangames - Includes: Room Generation, Client Side, etc. |
+| [programmeromaridris/Unnerving-Roblox-Procredural-Generation-](https://github.com/programmeromaridris/Unnerving-Roblox-Procredural-Generation-) | 0 | Made as a side project to test out making backrooms/liminal spaces out of procedural generation. |
 | [qaptivator/roblox-matrix-library](https://github.com/qaptivator/roblox-matrix-library) | 0 | Roblox Library to perform basic matrix operations |
 | [quantix-dev/qubit-noise](https://github.com/quantix-dev/qubit-noise) | 0 | A noise library designed specifically for usage with Roblox (luau), easily create a noise map in seconds. |
 | [QuantrumStudios/Quantrum](https://github.com/QuantrumStudios/Quantrum) | 0 | Quantrum V2 - Voxel Roblox Studio |
 | [rbxts-libraries/rbxts-math](https://github.com/rbxts-libraries/rbxts-math) | 0 | Focused on developing a TypeScript-compatible solution to @robloxiandemo/roblox-modules/math! |
 | [rbxts-libraries/rbxts-vector](https://github.com/rbxts-libraries/rbxts-vector) | 0 | Focused on developing a TypeScript-compatible solution to @robloxiandemo/roblox-modules/vector! |
+| [realllityyy/CompressIt](https://github.com/realllityyy/CompressIt) | 0 | CompressIt is a high performance binary serializer written in pure Luau for Roblox. It utilizes a professional three-phase pipeline consisting of Probe, Enco... |
+| [Reid910/RiskyStrats](https://github.com/Reid910/RiskyStrats) | 0 | A real-time strategy game built for Roblox - capture territory, manage economy, and command troops across a procedurally generated map against up to 4 teams.... |
 | [savruun/rbxts-shatterbox](https://github.com/savruun/rbxts-shatterbox) | 0 | Voxel destruction, simple and optimized. A rbxts fork of shatterbox. |
 | [savruun/rbxts-vex](https://github.com/savruun/rbxts-vex) | 0 | An rbxts port of a voxelization package for roblox known as Vex. |
 | [Shambi-0/ConvexHull](https://github.com/Shambi-0/ConvexHull) | 0 | A simple implementation of Chan's algorithm for Convex Hulls, written for @rbxts. |
@@ -155,6 +169,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [TextChanged/RobloxDungeonSystem](https://github.com/TextChanged/RobloxDungeonSystem) | 0 | Roblox Procedural dungeon generation systems. |
 | [TheCSDev/rbxl-quaternion-module](https://github.com/TheCSDev/rbxl-quaternion-module) | 0 | A Quaternion module for the Roblox game engine. |
 | [Uhsleep/BezierCurve-Plugin-Roblox](https://github.com/Uhsleep/BezierCurve-Plugin-Roblox) | 0 | Plugin for Roblox that enables easy creation of Bezier curves |
+| [UltraTechX/pgen-project](https://github.com/UltraTechX/pgen-project) | 0 | Exploring the possiblities of procedural generation in Roblox using perlin noise |
 | [Vector-Roblox/UI-Library](https://github.com/Vector-Roblox/UI-Library) | 0 | The official Roblox UI library for Vector. |
 | [weebweeb/TagService.rbxl](https://github.com/weebweeb/TagService.rbxl) | 0 | A simple module to place roblox Value holding objects (like StringValue and Vector3Value) |
 | [Wormhole-Systems/SBezier](https://github.com/Wormhole-Systems/SBezier) | 0 | A Bezier Curve Generator and Library for Roblox |

@@ -187,7 +187,7 @@ Artikelen, complete open-source games, templates en curated lijsten.
 | [SofiSubbotina/BridgeRun](https://github.com/SofiSubbotina/BridgeRun) | 0 | Multiplayer bruggenbouw-runner met object pooling |
 | [uxabix/TFC-Horror](https://github.com/uxabix/TFC-Horror) | 0 | Open-source coöp-horrorgame (drive-thru, bewakingscamera's, anomalieën) |
 
-## Uitgebreide index (931)
+## Uitgebreide index (933)
 
 Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op trefwoorden. Omschrijving = originele GitHub-omschrijving.
 
@@ -853,7 +853,6 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Web-with-Davy/wantedrblx-wiki](https://github.com/Web-with-Davy/wantedrblx-wiki) | 1 | An open-source wiki repository for the Roblox game Wanted. Contributions are welcome! Help us document items and more for the community! |
 | [Whale64/Roadblocks](https://github.com/Whale64/Roadblocks) | 1 | the games for the goofy ahh vibe coded roblox clone |
 | [while-kaique/roblox-game](https://github.com/while-kaique/roblox-game) | 1 | Um breve projeto em .Lua para fins de diversão e passar tempo :D |
-| [Wichaphon/Project_red](https://github.com/Wichaphon/Project_red) | 1 | Script for Roblox game(Project_Red) WPM Studio |
 | [Windows81/Roblox-Runnerer](https://github.com/Windows81/Roblox-Runnerer) | 1 | [MINIMAL WORKING CODE] Ambitious research project to run Rōblox clients and servers from RobloxStudioBeta.exe's executable code. |
 | [WinterTechnologies/devs](https://github.com/WinterTechnologies/devs) | 1 | A learning resource for roblox developers/creators. |
 | [WolfBoi008/Block-Tales](https://github.com/WolfBoi008/Block-Tales) | 1 | An Archipelago Manual for Block Tales, a Roblox game. |
@@ -866,7 +865,6 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [xSwezan/ModernPlayerList](https://github.com/xSwezan/ModernPlayerList) | 1 | Modern touch on the roblox Player List |
 | [Xtrimi/roblox-puzzle-fuzzer](https://github.com/Xtrimi/roblox-puzzle-fuzzer) | 1 | Bruteforces all words in /e command given a wordlist, in a Roblox game. |
 | [xyxneweraxyx/dodge-the-balls](https://github.com/xyxneweraxyx/dodge-the-balls) | 1 | A roblox game where the players must dodge balls, earning coins as they survive which allows them to upgrade their plots and traits. |
-| [xyxneweraxyx/donate-to-skip-obby](https://github.com/xyxneweraxyx/donate-to-skip-obby) | 1 | A roblox game where the player must earn "Time" through various means and minigames on the map. An impossible obby is presented to the player, where the solu... |
 | [xyxneweraxyx/luck-by-normal-law](https://github.com/xyxneweraxyx/luck-by-normal-law) | 1 | A roblox project which takes a modern twist on luck inside of games, featuring a normal law implementation for luck gradation and precise control. |
 | [xyxneweraxyx/marketplace-module](https://github.com/xyxneweraxyx/marketplace-module) | 1 | A roblox project which wraps around roblox's Marketplace Service, allowing for easy implementation of paid products and interception of related events. |
 | [xyxneweraxyx/tsunami-game](https://github.com/xyxneweraxyx/tsunami-game) | 1 | Roblox project. The first game I have ever made on ROBLOX, as well as my first piece of code in luau. |
@@ -956,6 +954,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [dhaynes-rbx/solar-system](https://github.com/dhaynes-rbx/solar-system) | 0 | Solar System simulator in Roblox |
 | [dierythros/binding](https://github.com/dierythros/binding) | 0 | Lightweight Roblox object oriented CollectionService binder module. |
 | [diniz444/Roblox-Systems-Showcase](https://github.com/diniz444/Roblox-Systems-Showcase) | 0 | A collection of Roblox gameplay systems built with Luau for my portfolio. |
+| [DohmBoyOG/SearchBlox](https://github.com/DohmBoyOG/SearchBlox) | 0 | Search for a user's game on Roblox! |
 | [dominicgarofalo/defusal-calculator](https://github.com/dominicgarofalo/defusal-calculator) | 0 | A calculator for all the modules in the Roblox game "Defusal" by Polygon Interactive. This calculator is not affiliated with Roblox or Polygon Interactive in... |
 | [dougbankspersonal/SampleRobloxBoardGameClient](https://github.com/dougbankspersonal/SampleRobloxBoardGameClient) | 0 | An example of how to use the RobloxBoardGame library |
 | [dougjr951/Roblox-Studio](https://github.com/dougjr951/Roblox-Studio) | 0 | Repository for my Roblox Studio projects |
@@ -1062,9 +1061,11 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [Ranbomized/Soare](https://github.com/Ranbomized/Soare) | 0 | Game in Roblox Studio |
 | [RavenOperations/EPFC-CustomMissions](https://github.com/RavenOperations/EPFC-CustomMissions) | 0 | The main library for my custom missions for the Roblox game 'Entry Point: Freelancer's Cut'. |
 | [reifelinus/AnimeDuelGame](https://github.com/reifelinus/AnimeDuelGame) | 0 | A game based on anime made in Roblox Studio, it's open-source |
+| [RetroWaters/bugs](https://github.com/RetroWaters/bugs) | 0 | Public issue tracking for a variety of projects, such as Tower Defense Simulator on Roblox. |
 | [Revan-Studios/Roblox-Party-System](https://github.com/Revan-Studios/Roblox-Party-System) | 0 | A Roblox party system for your game! |
 | [rif3213/portfolio](https://github.com/rif3213/portfolio) | 0 | my roblox studio portfolio |
 | [RoamRetreats/MXmodules](https://github.com/RoamRetreats/MXmodules) | 0 | ModuleScript loader with reusable and easy unified server-client modules for faster game development on Roblox |
+| [Roblox-Developers/Guides](https://github.com/Roblox-Developers/Guides) | 0 | A collection of Roblox and Roblox Developers related documents. |
 | [Roblox-Duck-Studios/Roblox-TS-Template-Common](https://github.com/Roblox-Duck-Studios/Roblox-TS-Template-Common) | 0 | The shared code for Roblxo-TS-Template-Base |
 | [RobloxPanel/Module](https://github.com/RobloxPanel/Module) | 0 | The roblox lua module for communicating between Roblox Panel and the Roblox game. |
 | [Rodzyneiro/RobloxSchoolSystem](https://github.com/Rodzyneiro/RobloxSchoolSystem) | 0 | Basic school system that I made as a module script |
@@ -1110,6 +1111,7 @@ Automatisch verzameld en gefilterd (geen exploits/cheats/spam), categorie op tre
 | [verdantkid/roblox-games](https://github.com/verdantkid/roblox-games) | 0 | Free open source Roblox games/maps |
 | [Vikmanou/SharedUtil](https://github.com/Vikmanou/SharedUtil) | 0 | Utility modules for Roblox game development |
 | [Winter-990/Midnight-Roblox-Game-Open-Source-](https://github.com/Winter-990/Midnight-Roblox-Game-Open-Source-) | 0 | This is the open source code for the game Midnight on Roblox. Please use appropriately and I would appreciate it if when you guys use my code for one of your... |
+| [wompwomp23456/roblox](https://github.com/wompwomp23456/roblox) | 0 | roblox for school chrome book |
 | [worstshadeofred/Roblox-Studio-Portfolio](https://github.com/worstshadeofred/Roblox-Studio-Portfolio) | 0 | Collection of my Roblox Studio projects over the course of 6 years. |
 | [wv5a/roblox-systems-portfolio](https://github.com/wv5a/roblox-systems-portfolio) | 0 | Portfolio for all my roblox systems. |
 | [xsc-1/TagBinder](https://github.com/xsc-1/TagBinder) | 0 | TagBinder is a simple singleton utility module that hides collection service boilerplates while making Roblox games |
